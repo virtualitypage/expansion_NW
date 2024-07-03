@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 2 July 2024
+# Last modified: 3 July 2024
 #
 
 # [広告全般]
@@ -66,6 +66,7 @@
 0.0.0.0 atom-clinic.com
 0.0.0.0 atorifu-teradatyo.jp
 0.0.0.0 audi-tokai.com
+0.0.0.0 awake-support.com
 0.0.0.0 axia-expo.nikkan.co.jp
 0.0.0.0 azaleanet.or.jp
 0.0.0.0 b-checker.com
@@ -249,6 +250,7 @@
 0.0.0.0 hana-home.com
 0.0.0.0 hands.net
 0.0.0.0 haneda-shopping.jp
+0.0.0.0 happygift2.com
 0.0.0.0 hashibukuro.com
 0.0.0.0 hayatahome.com
 0.0.0.0 hc.kowa.co.jp
@@ -356,6 +358,7 @@
 0.0.0.0 kimono-ice.com
 0.0.0.0 kirei-info.com
 0.0.0.0 kirinuki.jp
+0.0.0.0 kobe-u-clinic.jp
 0.0.0.0 kobe.dsautomobiles-dealer.jp
 0.0.0.0 kojinsoken.co.jp
 0.0.0.0 kojosoko-koniken.com
@@ -392,6 +395,7 @@
 0.0.0.0 lp.eneos-wing.org
 0.0.0.0 lp.it-trend.jp
 0.0.0.0 lp.kaitekikobo.jp
+0.0.0.0 lp.leadpad.io
 0.0.0.0 lp.mediacloudtech.com
 0.0.0.0 lp.sokuwork.com
 0.0.0.0 lucuaosaka-recruit.jp
@@ -468,6 +472,7 @@
 0.0.0.0 officee.jp
 0.0.0.0 ohbacorp.com
 0.0.0.0 ohnoseijyo.com
+0.0.0.0 oishii-izumo.jp
 0.0.0.0 oka-d-art.com
 0.0.0.0 oldisroad.com
 0.0.0.0 omurakyotei.jp
@@ -547,6 +552,7 @@
 0.0.0.0 salon-de-alfurd.jp
 0.0.0.0 sasatto.jp
 0.0.0.0 sauna-rezone.com
+0.0.0.0 saunavi.net
 0.0.0.0 sawaraguchi-cl.jp
 0.0.0.0 sb-beauty-popu.discover-news.tokyo
 0.0.0.0 sb-bremounq01.musthave-magazine.tokyo
@@ -1034,6 +1040,7 @@
 0.0.0.0 www.jftc.go.jp
 0.0.0.0 www.jhf.go.jp
 0.0.0.0 www.jinrayworld.com
+0.0.0.0 www.jitbox.co.jp
 0.0.0.0 www.jka-cycle.jp
 0.0.0.0 www.jmsc.co.jp
 0.0.0.0 www.job-medley.com
@@ -1334,6 +1341,7 @@
 0.0.0.0 www.wa-kukan-life.com
 0.0.0.0 www.waiper.co.jp
 0.0.0.0 www.wasedajuku.com
+0.0.0.0 www.watami-takushoku-direct.jp
 0.0.0.0 www.watsons.com.tw
 0.0.0.0 www.white-choco.top
 0.0.0.0 www.wickedthemusical.co.uk
@@ -1368,6 +1376,7 @@
 0.0.0.0 ys-plan.jp.net
 0.0.0.0 yutaka-tomonokai.jp
 0.0.0.0 zenbivy.com
+0.0.0.0 zexy.net
 0.0.0.0 zigen-inc.stores.jp
 
 # [Youtubeの広告]
