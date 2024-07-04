@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 3 July 2024
+# Last modified: 4 July 2024
 #
 
 # [広告全般]
@@ -358,6 +358,7 @@
 0.0.0.0 kimono-ice.com
 0.0.0.0 kirei-info.com
 0.0.0.0 kirinuki.jp
+0.0.0.0 koala.com
 0.0.0.0 kobe-u-clinic.jp
 0.0.0.0 kobe.dsautomobiles-dealer.jp
 0.0.0.0 kojinsoken.co.jp
@@ -377,6 +378,7 @@
 0.0.0.0 l-tike.com
 0.0.0.0 l-works.design
 0.0.0.0 landing.mangot5.com
+0.0.0.0 lastmemories.io
 0.0.0.0 learn.cellsignal.com
 0.0.0.0 learn.cellsignal.jp
 0.0.0.0 learn.mashingup.org
@@ -506,6 +508,7 @@
 0.0.0.0 premiumstonegallery.com
 0.0.0.0 present-wine-shop.derisomu.com
 0.0.0.0 pride-fish.jp
+0.0.0.0 proaceworks.com
 0.0.0.0 product.kadokawa.co.jp
 0.0.0.0 promo.acronis.com
 0.0.0.0 ps-hp.jpn.panasonic.com
@@ -557,6 +560,7 @@
 0.0.0.0 sb-beauty-popu.discover-news.tokyo
 0.0.0.0 sb-bremounq01.musthave-magazine.tokyo
 0.0.0.0 sb-create.ourpage.jp
+0.0.0.0 sb-danidaidanidanidanidanidanidanidanidanidanidani.discover-news.tokyo
 0.0.0.0 sb-drcula-white.service-info.jp
 0.0.0.0 sb-fukugyou.discover-news.tokyo
 0.0.0.0 sb-hip-happy.ourservice.jp
@@ -569,6 +573,7 @@
 0.0.0.0 sb-lucky-life.discover-news.tokyo
 0.0.0.0 sb-nanoporon.discover-news.tokyo
 0.0.0.0 sb-piece-of-cake.discover-news.tokyo
+0.0.0.0 sb-pr2rqnr.discover-news.tokyo
 0.0.0.0 sb-seven.service-info.jp
 0.0.0.0 sb-tenal5.ourservice.jp
 0.0.0.0 sb-testosuteron.discover-news.tokyo
@@ -803,6 +808,7 @@
 0.0.0.0 www.aronkasei.co.jp
 0.0.0.0 www.arrowgroup.co.jp
 0.0.0.0 www.arunco.co
+0.0.0.0 www.arystalifescience.jp
 0.0.0.0 www.asahi-netshop.com
 0.0.0.0 www.asahi.com
 0.0.0.0 www.asics.com
@@ -1026,6 +1032,7 @@
 0.0.0.0 www.ipros.jp
 0.0.0.0 www.iput.ac.jp
 0.0.0.0 www.irisplaza.co.jp
+0.0.0.0 www.itmaster.jp
 0.0.0.0 www.j-urban.jp
 0.0.0.0 www.jabank-ehime.or.jp
 0.0.0.0 www.jackery.jp
@@ -1037,6 +1044,7 @@
 0.0.0.0 www.japanenergyevent.com
 0.0.0.0 www.jcom.co.jp
 0.0.0.0 www.jex-inc.co.jp
+0.0.0.0 www.jf-pearl-ehime.com
 0.0.0.0 www.jftc.go.jp
 0.0.0.0 www.jhf.go.jp
 0.0.0.0 www.jinrayworld.com
@@ -1046,6 +1054,7 @@
 0.0.0.0 www.job-medley.com
 0.0.0.0 www.jobkita.jp
 0.0.0.0 www.johoku.ac.jp
+0.0.0.0 www.jpcast.japanpost.jp
 0.0.0.0 www.jps-pharm.com
 0.0.0.0 www.jri.co.jp
 0.0.0.0 www.jsy.jp
@@ -1244,6 +1253,7 @@
 0.0.0.0 www.shinwaclimb.jp
 0.0.0.0 www.shionogi.com
 0.0.0.0 www.shiseido.co.jp
+0.0.0.0 www.shitennoji.ac.jp
 0.0.0.0 www.shizutetsu-homes.co.jp
 0.0.0.0 www.shozan.co.jp
 0.0.0.0 www.shure.com
@@ -1346,6 +1356,7 @@
 0.0.0.0 www.white-choco.top
 0.0.0.0 www.wickedthemusical.co.uk
 0.0.0.0 www.wing-rev.co.jp
+0.0.0.0 www.wonnesscompany.com
 0.0.0.0 www.worksap.co.jp
 0.0.0.0 www.wowbao.com
 0.0.0.0 www.wrappixel.com
