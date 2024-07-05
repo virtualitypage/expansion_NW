@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 4 July 2024
+# Last modified: 5 July 2024
 #
 
 # [広告全般]
@@ -208,6 +208,7 @@
 0.0.0.0 fukutujishiki.com
 0.0.0.0 funeralsjp.club
 0.0.0.0 funplay.hinet.net
+0.0.0.0 furusato-karatsu.com
 0.0.0.0 g123.jp
 0.0.0.0 gachinko-school.com
 0.0.0.0 games.dmm.com
@@ -282,6 +283,7 @@
 0.0.0.0 housing.hicbc.com
 0.0.0.0 htm.sf-express.com
 0.0.0.0 i-voce.jp
+0.0.0.0 iatss.or.jp
 0.0.0.0 ibaraki-ranking.com
 0.0.0.0 ibarakishi-shaken.com
 0.0.0.0 ichoice-coop.com
@@ -437,6 +439,7 @@
 0.0.0.0 mitsui-shopping-park.com
 0.0.0.0 miyagi-daihatsu.co.jp
 0.0.0.0 mobile-fukugyo.work
+0.0.0.0 msb.loofen.jp
 0.0.0.0 mtg-campaign.com
 0.0.0.0 mtm-aoyama.com
 0.0.0.0 my.royalcanin.jp
@@ -606,6 +609,7 @@
 0.0.0.0 seisukeknifekappabashi.com
 0.0.0.0 service.ocn.ne.jp
 0.0.0.0 seta-clinic.com
+0.0.0.0 setupnext-project.com
 0.0.0.0 sharkclean.co.uk
 0.0.0.0 shelldome.jp
 0.0.0.0 shibo-zero.info
@@ -840,6 +844,7 @@
 0.0.0.0 www.bosai.yomiuri.co.jp
 0.0.0.0 www.bousai.pref.fukuoka.jp
 0.0.0.0 www.branchera.com
+0.0.0.0 www.braun.jp
 0.0.0.0 www.braze.com
 0.0.0.0 www.bsigroup.com
 0.0.0.0 www.budoo-wedding.com
@@ -849,6 +854,7 @@
 0.0.0.0 www.businessweekly.com.tw
 0.0.0.0 www.buysellonline.jp
 0.0.0.0 www.c-cube.cc
+0.0.0.0 www.cafe-ring.com
 0.0.0.0 www.callawaygolf.jp
 0.0.0.0 www.cameranonaniwa.co.jp
 0.0.0.0 www.canva.com
@@ -1106,6 +1112,7 @@
 0.0.0.0 www.markandlona.com
 0.0.0.0 www.maru.jp
 0.0.0.0 www.maruho.co.jp
+0.0.0.0 www.maserati.com
 0.0.0.0 www.matsuoka-motars.co.jp
 0.0.0.0 www.matsuoka-setsuritsu.com
 0.0.0.0 www.matsuyama-satei.com
@@ -1137,6 +1144,7 @@
 0.0.0.0 www.monocompany.com
 0.0.0.0 www.morimotocon.co.jp
 0.0.0.0 www.morinobrand-store.com
+0.0.0.0 www.mules.jp
 0.0.0.0 www.mystino.jp
 0.0.0.0 www.nagasakistadiumcity.com
 0.0.0.0 www.nagoya-bengoshi.info
@@ -1230,6 +1238,7 @@
 0.0.0.0 www.sansei-l.co.jp
 0.0.0.0 www.sansinzemi.co.jp
 0.0.0.0 www.sanspo-boat.online
+0.0.0.0 www.sanwatec.net
 0.0.0.0 www.sanzenin.jp
 0.0.0.0 www.sap.com
 0.0.0.0 www.sarasotalowcostbankruptcyctr.com
@@ -1308,6 +1317,7 @@
 0.0.0.0 www.tgn.co.jp
 0.0.0.0 www.tgsc.tokyo
 0.0.0.0 www.thepiel.com
+0.0.0.0 www.ticketlife.jp
 0.0.0.0 www.tirepit.jp
 0.0.0.0 www.titleist.co.jp
 0.0.0.0 www.to-kousya.or.jp
@@ -1371,6 +1381,7 @@
 0.0.0.0 www.ytj.gr.jp
 0.0.0.0 www.yuanta.com.tw
 0.0.0.0 www.zeczec.com
+0.0.0.0 www.zissen-mw.jp
 0.0.0.0 www2.aqlub.com
 0.0.0.0 www2.bglen.net
 0.0.0.0 www3.jeed.go.jp
