@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 5 July 2024
+# Last modified: 7 July 2024
 #
 
 # [広告全般]
@@ -62,6 +62,7 @@
 0.0.0.0 art-logis.com
 0.0.0.0 artgabbeh.com
 0.0.0.0 aruyo22.jp
+0.0.0.0 asbestos-osaka.jp
 0.0.0.0 asp.hotel-story.ne.jp
 0.0.0.0 atom-clinic.com
 0.0.0.0 atorifu-teradatyo.jp
@@ -72,6 +73,7 @@
 0.0.0.0 b-checker.com
 0.0.0.0 basefood.co.jp
 0.0.0.0 bashotoru.com
+0.0.0.0 baycrews.jp
 0.0.0.0 be-epilogue.jp
 0.0.0.0 be-win.co.jp
 0.0.0.0 beacon.sp.gmossp-sp.jp
@@ -137,6 +139,7 @@
 0.0.0.0 dg-at.fg-games.co.jp
 0.0.0.0 digilumi.jp
 0.0.0.0 digital-women.maia.co.jp
+0.0.0.0 dining-masayoshi.com
 0.0.0.0 direct-teleshop.jp
 0.0.0.0 direct.eizo.co.jp
 0.0.0.0 dive-oita.com
@@ -247,6 +250,7 @@
 0.0.0.0 hal-tanteisya.com
 0.0.0.0 haleo.jp
 0.0.0.0 hamamatudietriseone.site
+0.0.0.0 hamanocontact-multifocal.com
 0.0.0.0 hamieru.co.jp
 0.0.0.0 hana-home.com
 0.0.0.0 hands.net
@@ -289,6 +293,7 @@
 0.0.0.0 ichoice-coop.com
 0.0.0.0 iei.jp
 0.0.0.0 ifdesign.com
+0.0.0.0 igolfstudio.jp
 0.0.0.0 ikedahearinggear.com
 0.0.0.0 iki-online.com
 0.0.0.0 imabarishintoshi-aeonmall.com
@@ -422,6 +427,7 @@
 0.0.0.0 mb-hakata.com
 0.0.0.0 mecha-tok.com
 0.0.0.0 mechacomic.jp
+0.0.0.0 medicalarts-amt.com
 0.0.0.0 megaten5.jp
 0.0.0.0 mei-ten.com
 0.0.0.0 mens-cut.net
@@ -677,6 +683,7 @@
 0.0.0.0 suumo.jp
 0.0.0.0 syakuchiken.jp
 0.0.0.0 systema.lion.co.jp
+0.0.0.0 tabunne.click
 0.0.0.0 taicca.tw
 0.0.0.0 takamatsu-marugame-bankin.com
 0.0.0.0 takamatsu.bess.jp
@@ -811,6 +818,7 @@
 0.0.0.0 www.armonia.jp
 0.0.0.0 www.aronkasei.co.jp
 0.0.0.0 www.arrowgroup.co.jp
+0.0.0.0 www.arsoa.co.jp
 0.0.0.0 www.arunco.co
 0.0.0.0 www.arystalifescience.jp
 0.0.0.0 www.asahi-netshop.com
@@ -821,6 +829,7 @@
 0.0.0.0 www.at-contact.jp
 0.0.0.0 www.at-hyogo.jp
 0.0.0.0 www.atc-ihpc.com
+0.0.0.0 www.atpress.ne.jp
 0.0.0.0 www.au.com
 0.0.0.0 www.audiotech.jp
 0.0.0.0 www.austria.info
@@ -877,9 +886,11 @@
 0.0.0.0 www.chogin-nishi.com
 0.0.0.0 www.chugin.co.jp
 0.0.0.0 www.cinemasunshine.co.jp
+0.0.0.0 www.citroen.jp
 0.0.0.0 www.citruspark-glamping.com
 0.0.0.0 www.city-con.jp
 0.0.0.0 www.city.hachinohe.aomori.jp
+0.0.0.0 www.city.matsuyama.ehime.jp
 0.0.0.0 www.city.osaka.lg.jp
 0.0.0.0 www.ck-saikouchiku.go.jp
 0.0.0.0 www.clipstudio.net
@@ -897,6 +908,7 @@
 0.0.0.0 www.corehouse.jp
 0.0.0.0 www.cosme.com
 0.0.0.0 www.cospa-wellness.co.jp
+0.0.0.0 www.couleur-harima.com
 0.0.0.0 www.coverland.co.jp
 0.0.0.0 www.cross-m.co.jp
 0.0.0.0 www.ctbcinvestments.com
@@ -961,6 +973,7 @@
 0.0.0.0 www.gatsby.jp
 0.0.0.0 www.gdep.co.jp
 0.0.0.0 www.genkinokuni.jp
+0.0.0.0 www.gero-spa.com
 0.0.0.0 www.get-fit.jp
 0.0.0.0 www.gfc.co.jp
 0.0.0.0 www.ginza-cruise.co.jp
@@ -1337,6 +1350,7 @@
 0.0.0.0 www.toyotetsu.jp
 0.0.0.0 www.tpishida.co.jp
 0.0.0.0 www.trailer-house.biz
+0.0.0.0 www.transgrip.co.jp
 0.0.0.0 www.tripetonlineshop.com.tw
 0.0.0.0 www.triumphmotorcycles.jp
 0.0.0.0 www.trivago.jp
@@ -1361,6 +1375,7 @@
 0.0.0.0 www.wa-kukan-life.com
 0.0.0.0 www.waiper.co.jp
 0.0.0.0 www.wasedajuku.com
+0.0.0.0 www.washingtonhotel.co.jp
 0.0.0.0 www.watami-takushoku-direct.jp
 0.0.0.0 www.watsons.com.tw
 0.0.0.0 www.white-choco.top
