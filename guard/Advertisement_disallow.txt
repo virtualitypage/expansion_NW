@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 7 July 2024
+# Last modified: 8 July 2024
 #
 
 # [広告全般]
@@ -82,6 +82,7 @@
 0.0.0.0 bianshack.com
 0.0.0.0 bighornlaw.com
 0.0.0.0 bike-news.jp
+0.0.0.0 biryuhyakkaweb.jp
 0.0.0.0 biz.kddi.com
 0.0.0.0 bizreach.biz
 0.0.0.0 bobcard.co.in
@@ -173,6 +174,7 @@
 0.0.0.0 enjoy-sidework.com
 0.0.0.0 entrata-chayamachi.com
 0.0.0.0 entrenet.jp
+0.0.0.0 eplus.jp
 0.0.0.0 esnet-tax.com
 0.0.0.0 estateliquidation-jp.life
 0.0.0.0 etc.kmg-cloud.com
@@ -284,6 +286,7 @@
 0.0.0.0 hoshi.cocoloni.jp
 0.0.0.0 house-kiya.co.jp
 0.0.0.0 housefreedom-fujiidera.com
+0.0.0.0 housing-garden.jp
 0.0.0.0 housing.hicbc.com
 0.0.0.0 htm.sf-express.com
 0.0.0.0 i-voce.jp
@@ -351,9 +354,12 @@
 0.0.0.0 kabu.com
 0.0.0.0 kaitori.brandoff.co.jp
 0.0.0.0 kaitoribuyer.com
+0.0.0.0 kakuyomu.jp
+0.0.0.0 kamukura-recruit.jp
 0.0.0.0 karakubuy.com
 0.0.0.0 kashiyama1927.jp
 0.0.0.0 kawanotajimaya.com
+0.0.0.0 kaza-design.com
 0.0.0.0 kazoku-shintaku.org
 0.0.0.0 keihan-smile.com
 0.0.0.0 keirin.by-onko-chishin.com
@@ -541,6 +547,7 @@
 0.0.0.0 register.hfm.com
 0.0.0.0 rekisiru.com
 0.0.0.0 relax-job.com
+0.0.0.0 rescue-suido.com
 0.0.0.0 retail.ksp-sp.com
 0.0.0.0 revecan.com
 0.0.0.0 richeprivatesalon.com
@@ -558,6 +565,7 @@
 0.0.0.0 s.weddingpark.net
 0.0.0.0 safe.tr.mufg.jp
 0.0.0.0 sagan-sakana.com
+0.0.0.0 saiene-support.jp
 0.0.0.0 saimuseiri-green.com
 0.0.0.0 saimushindan-hibiki.com
 0.0.0.0 saiyo-shoten.com
@@ -685,6 +693,7 @@
 0.0.0.0 systema.lion.co.jp
 0.0.0.0 tabunne.click
 0.0.0.0 taicca.tw
+0.0.0.0 tainenji.net
 0.0.0.0 takamatsu-marugame-bankin.com
 0.0.0.0 takamatsu.bess.jp
 0.0.0.0 takarado.co.jp
@@ -976,6 +985,7 @@
 0.0.0.0 www.gero-spa.com
 0.0.0.0 www.get-fit.jp
 0.0.0.0 www.gfc.co.jp
+0.0.0.0 www.gfo-sc.jp
 0.0.0.0 www.ginza-cruise.co.jp
 0.0.0.0 www.gleif.org
 0.0.0.0 www.gmobile.biz
@@ -1117,6 +1127,7 @@
 0.0.0.0 www.livable.co.jp
 0.0.0.0 www.lixil.co.jp
 0.0.0.0 www.lpio.jp
+0.0.0.0 www.lululemon.co.jp
 0.0.0.0 www.luxalgo.com
 0.0.0.0 www.m-ams.co.jp
 0.0.0.0 www.magionet.co.jp
@@ -1151,6 +1162,7 @@
 0.0.0.0 www.mobit.ne.jp
 0.0.0.0 www.mof.go.jp
 0.0.0.0 www.moki-ss.co.jp
+0.0.0.0 www.mokumeganeya.com
 0.0.0.0 www.momak.go.jp
 0.0.0.0 www.momoshop.com.tw
 0.0.0.0 www.monextrust.co.jp
@@ -1292,6 +1304,7 @@
 0.0.0.0 www.skyxia.jp
 0.0.0.0 www.smauto.co.jp
 0.0.0.0 www.smbc-card.com
+0.0.0.0 www.snk-corp.co.jp
 0.0.0.0 www.snowflake.com
 0.0.0.0 www.soai.ed.jp
 0.0.0.0 www.sodastream.jp
