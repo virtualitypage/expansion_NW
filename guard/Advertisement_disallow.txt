@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 8 July 2024
+# Last modified: 9 July 2024
 #
 
 # [広告全般]
@@ -125,6 +125,7 @@
 0.0.0.0 cowcamo.jp
 0.0.0.0 cp.manara.jp
 0.0.0.0 craftdesign.tokyo
+0.0.0.0 creditcard-news.net
 0.0.0.0 crowdtech.jp
 0.0.0.0 curama.jp
 0.0.0.0 deep2031.com
@@ -220,6 +221,7 @@
 0.0.0.0 gar.mrajkgea.top
 0.0.0.0 garireo.co.jp
 0.0.0.0 gcloud.genbasupport.com
+0.0.0.0 gemer.jp
 0.0.0.0 gendai.media
 0.0.0.0 gentosha-go.com
 0.0.0.0 geo.8984.jp
@@ -231,6 +233,7 @@
 0.0.0.0 gng.thebase.in
 0.0.0.0 go.1edisource.com
 0.0.0.0 go.integralads.com
+0.0.0.0 go.unicomengineering.com
 0.0.0.0 gofuku-kaitori.com
 0.0.0.0 goldteethusa.com
 0.0.0.0 golf-resort.kintetsu-re.co.jp
@@ -351,7 +354,9 @@
 0.0.0.0 jra-fun.jp
 0.0.0.0 jsite.mhlw.go.jp
 0.0.0.0 julius.co.jp
+0.0.0.0 jyouhoudenshi.jp
 0.0.0.0 kabu.com
+0.0.0.0 kai-z.net
 0.0.0.0 kaitori.brandoff.co.jp
 0.0.0.0 kaitoribuyer.com
 0.0.0.0 kakuyomu.jp
@@ -392,6 +397,7 @@
 0.0.0.0 l-works.design
 0.0.0.0 landing.mangot5.com
 0.0.0.0 lastmemories.io
+0.0.0.0 leanintree.com
 0.0.0.0 learn.cellsignal.com
 0.0.0.0 learn.cellsignal.jp
 0.0.0.0 learn.mashingup.org
@@ -646,6 +652,7 @@
 0.0.0.0 simple-h.com
 0.0.0.0 sites.google.com
 0.0.0.0 sky-joker.tech
+0.0.0.0 skycreation.net
 0.0.0.0 skyle.jp
 0.0.0.0 slash-fishing.jp
 0.0.0.0 sleepytofu.co.jp
@@ -713,6 +720,7 @@
 0.0.0.0 tenshoku.mynavi.jp
 0.0.0.0 the-law-office.jp
 0.0.0.0 thefulfiller.com
+0.0.0.0 thegrace.jp
 0.0.0.0 theshopyohjiyamamoto.jp
 0.0.0.0 timee.co.jp
 0.0.0.0 timume.com
@@ -811,6 +819,7 @@
 0.0.0.0 www.alba.co.jp
 0.0.0.0 www.allsaints.jp
 0.0.0.0 www.alpen-route.com
+0.0.0.0 www.alphamap.com
 0.0.0.0 www.amanofd.jp
 0.0.0.0 www.amd.com
 0.0.0.0 www.americanmeat.jp
@@ -938,6 +947,7 @@
 0.0.0.0 www.dsautomobiles.jp
 0.0.0.0 www.ducati.com
 0.0.0.0 www.e-defi.com
+0.0.0.0 www.e-fitpro.jp
 0.0.0.0 www.e-hapi.com
 0.0.0.0 www.e-hc.com
 0.0.0.0 www.ecnex.jp
@@ -993,6 +1003,7 @@
 0.0.0.0 www.goldwin.co.jp
 0.0.0.0 www.goo-net.com
 0.0.0.0 www.goodstory.jp
+0.0.0.0 www.govconnection.com
 0.0.0.0 www.gpn.jp
 0.0.0.0 www.grace-h.jp
 0.0.0.0 www.graff.com
@@ -1222,6 +1233,7 @@
 0.0.0.0 www.pacificgolf.co.jp
 0.0.0.0 www.packstyle.jp
 0.0.0.0 www.paris-miki.co.jp
+0.0.0.0 www.parkhotelgroup.com
 0.0.0.0 www.peugeot.co.jp
 0.0.0.0 www.phiten.com
 0.0.0.0 www.photoruction.com
@@ -1231,6 +1243,7 @@
 0.0.0.0 www.popy.jp
 0.0.0.0 www.porsche.co.jp
 0.0.0.0 www.prada.com
+0.0.0.0 www.prageru.com
 0.0.0.0 www.premiumoutlets.co.jp
 0.0.0.0 www.princehotels.co.jp
 0.0.0.0 www.proyang.com.tw
@@ -1319,6 +1332,7 @@
 0.0.0.0 www.stepup-school.net
 0.0.0.0 www.stevenstone.co.uk
 0.0.0.0 www.stgjapan.jp
+0.0.0.0 www.strausfamilycreamery.com
 0.0.0.0 www.strawberrycones.com
 0.0.0.0 www.studyinkorea.go.kr
 0.0.0.0 www.sugar.org
