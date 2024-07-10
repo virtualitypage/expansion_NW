@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 9 July 2024
+# Last modified: 10 July 2024
 #
 
 # [広告全般]
@@ -95,6 +95,7 @@
 0.0.0.0 bunge.com
 0.0.0.0 burg-chintai.com
 0.0.0.0 business.google.com
+0.0.0.0 byd.co.jp
 0.0.0.0 campaign.whitehouse.co.jp
 0.0.0.0 campaign.wild1.co.jp
 0.0.0.0 camparijapan.com
@@ -107,6 +108,7 @@
 0.0.0.0 cbhpage.com
 0.0.0.0 cell-diagnostics.co.jp
 0.0.0.0 celvoke.com
+0.0.0.0 cguardian-japan.netlify.app
 0.0.0.0 chirashi.akachan.jp
 0.0.0.0 chuko-noki.com
 0.0.0.0 citizen.jp
@@ -245,6 +247,7 @@
 0.0.0.0 greenkankyo.com
 0.0.0.0 gron.co.jp
 0.0.0.0 growi.cloud
+0.0.0.0 guestlist-tokyo.com
 0.0.0.0 gurunavi.com
 0.0.0.0 gym.copin.co.jp
 0.0.0.0 h-felice.com
@@ -356,6 +359,7 @@
 0.0.0.0 julius.co.jp
 0.0.0.0 jyouhoudenshi.jp
 0.0.0.0 kabu.com
+0.0.0.0 kadota.biz
 0.0.0.0 kai-z.net
 0.0.0.0 kaitori.brandoff.co.jp
 0.0.0.0 kaitoribuyer.com
@@ -408,6 +412,7 @@
 0.0.0.0 life.oricon.co.jp
 0.0.0.0 lim-store.jp
 0.0.0.0 linear.jr-central.co.jp
+0.0.0.0 link.springer.com
 0.0.0.0 loans.life
 0.0.0.0 longterm.kikagaku.ai
 0.0.0.0 lp-mk-2.makuake.com
@@ -505,6 +510,7 @@
 0.0.0.0 onlystory.co.jp
 0.0.0.0 open-oita.jp
 0.0.0.0 opencampus.nagoya-wu.ac.jp
+0.0.0.0 openhub.ntt.com
 0.0.0.0 original-champagne.net
 0.0.0.0 ortho-mouthpiece-jp.life
 0.0.0.0 osaka-pleats-amido.com
@@ -555,6 +561,7 @@
 0.0.0.0 relax-job.com
 0.0.0.0 rescue-suido.com
 0.0.0.0 retail.ksp-sp.com
+0.0.0.0 retailers.landrover.co.jp
 0.0.0.0 revecan.com
 0.0.0.0 richeprivatesalon.com
 0.0.0.0 ringraph.weddingpark.net
@@ -567,6 +574,7 @@
 0.0.0.0 runway-webstore.com
 0.0.0.0 ryorinin.ihcsa.or.jp
 0.0.0.0 ryuki-design.jp
+0.0.0.0 s-imanani.com
 0.0.0.0 s.cardnavi-d.com
 0.0.0.0 s.weddingpark.net
 0.0.0.0 safe.tr.mufg.jp
@@ -645,6 +653,7 @@
 0.0.0.0 shop.g9trainer.com
 0.0.0.0 shop.importparts-zeroone.com
 0.0.0.0 shop.joshin.co.jp
+0.0.0.0 shop.lumieu.jp
 0.0.0.0 shop.soundfun.co.jp
 0.0.0.0 shopping.tbs.co.jp
 0.0.0.0 shumei.ac.jp
@@ -724,6 +733,7 @@
 0.0.0.0 theshopyohjiyamamoto.jp
 0.0.0.0 timee.co.jp
 0.0.0.0 timume.com
+0.0.0.0 tire.bridgestone.co.jp
 0.0.0.0 toho-imazu.jp
 0.0.0.0 tomei-riso.jp
 0.0.0.0 tomishiyaku.net
@@ -775,7 +785,9 @@
 0.0.0.0 web-cam.jp
 0.0.0.0 web.anabuki-college.ac.jp
 0.0.0.0 web.customize-festaria.com
+0.0.0.0 web.peugeot.co.jp
 0.0.0.0 web.pref.hyogo.lg.jp
+0.0.0.0 webcast.net-ir.ne.jp
 0.0.0.0 webdesk.jsa.or.jp
 0.0.0.0 wedding.mynavi.jp
 0.0.0.0 wellbeing.kirin.co.jp
@@ -884,6 +896,7 @@
 0.0.0.0 www.cafe-ring.com
 0.0.0.0 www.callawaygolf.jp
 0.0.0.0 www.cameranonaniwa.co.jp
+0.0.0.0 www.canadycanady.com
 0.0.0.0 www.canva.com
 0.0.0.0 www.car-byebuy.com
 0.0.0.0 www.careerlinkfactory.co.jp
@@ -1032,6 +1045,7 @@
 0.0.0.0 www.hfcfinance.com.tw
 0.0.0.0 www.hibou-chushou.com
 0.0.0.0 www.hiro-clinic.or.jp
+0.0.0.0 www.hirox.com
 0.0.0.0 www.his-j.com
 0.0.0.0 www.hisamitsu.co.jp
 0.0.0.0 www.hisamitsu.info
@@ -1128,6 +1142,7 @@
 0.0.0.0 www.ktv.jp
 0.0.0.0 www.kucho-houei.com
 0.0.0.0 www.kuchou-fuku.com
+0.0.0.0 www.landrover.co.jp
 0.0.0.0 www.lebledor.com
 0.0.0.0 www.lenovo.com
 0.0.0.0 www.lensstyle.jp
@@ -1201,6 +1216,7 @@
 0.0.0.0 www.nisikido.net
 0.0.0.0 www.nissan.co.jp
 0.0.0.0 www.nissui.co.jp
+0.0.0.0 www.noapilates.jp
 0.0.0.0 www.nordsonmedical.com
 0.0.0.0 www.notalone-cao.go.jp
 0.0.0.0 www.nseg.co.jp
@@ -1234,6 +1250,7 @@
 0.0.0.0 www.packstyle.jp
 0.0.0.0 www.paris-miki.co.jp
 0.0.0.0 www.parkhotelgroup.com
+0.0.0.0 www.pc-webzine.com
 0.0.0.0 www.peugeot.co.jp
 0.0.0.0 www.phiten.com
 0.0.0.0 www.photoruction.com
@@ -1264,6 +1281,7 @@
 0.0.0.0 www.riseisha.ac.jp
 0.0.0.0 www.rizaim.biz
 0.0.0.0 www.robotplanet.site
+0.0.0.0 www.ropepartner.com
 0.0.0.0 www.roudousaigai.jp
 0.0.0.0 www.rtyfghgroup.com
 0.0.0.0 www.ruxur.net
@@ -1358,6 +1376,7 @@
 0.0.0.0 www.tgsc.tokyo
 0.0.0.0 www.thepiel.com
 0.0.0.0 www.ticketlife.jp
+0.0.0.0 www.tiger-corporation.com
 0.0.0.0 www.tirepit.jp
 0.0.0.0 www.titleist.co.jp
 0.0.0.0 www.to-kousya.or.jp
@@ -1423,6 +1442,7 @@
 0.0.0.0 www.ytj.gr.jp
 0.0.0.0 www.yuanta.com.tw
 0.0.0.0 www.zeczec.com
+0.0.0.0 www.zenrosai.coop
 0.0.0.0 www.zissen-mw.jp
 0.0.0.0 www2.aqlub.com
 0.0.0.0 www2.bglen.net
