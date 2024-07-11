@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 10 July 2024
+# Last modified: 11 July 2024
 #
 
 # [広告全般]
@@ -85,6 +85,7 @@
 0.0.0.0 biryuhyakkaweb.jp
 0.0.0.0 biz.kddi.com
 0.0.0.0 bizreach.biz
+0.0.0.0 bmccancer.biomedcentral.com
 0.0.0.0 bobcard.co.in
 0.0.0.0 bodyshop-fukuhisa.com
 0.0.0.0 booking.pacificgolf.co.jp
@@ -264,6 +265,7 @@
 0.0.0.0 hands.net
 0.0.0.0 haneda-shopping.jp
 0.0.0.0 happygift2.com
+0.0.0.0 harekuraray.com
 0.0.0.0 hashibukuro.com
 0.0.0.0 hayatahome.com
 0.0.0.0 hc.kowa.co.jp
@@ -367,6 +369,7 @@
 0.0.0.0 kamukura-recruit.jp
 0.0.0.0 karakubuy.com
 0.0.0.0 kashiyama1927.jp
+0.0.0.0 katsubedc-nanmori.com
 0.0.0.0 kawanotajimaya.com
 0.0.0.0 kaza-design.com
 0.0.0.0 kazoku-shintaku.org
@@ -955,6 +958,7 @@
 0.0.0.0 www.diningmaison.jp
 0.0.0.0 www.dlsite.com
 0.0.0.0 www.dominos.jp
+0.0.0.0 www.dot-st.com
 0.0.0.0 www.dream-stage.net
 0.0.0.0 www.drscholl.jp
 0.0.0.0 www.dsautomobiles.jp
@@ -997,6 +1001,7 @@
 0.0.0.0 www.fukuoka-tenjin-naishikyo.com
 0.0.0.0 www.fulloutsourcing.jp
 0.0.0.0 www.fureai-hometown.jp
+0.0.0.0 www.g-search.or.jp
 0.0.0.0 www.gakuji.co.jp
 0.0.0.0 www.galu-shizuoka.jp
 0.0.0.0 www.gap.co.jp
@@ -1251,6 +1256,7 @@
 0.0.0.0 www.paris-miki.co.jp
 0.0.0.0 www.parkhotelgroup.com
 0.0.0.0 www.pc-webzine.com
+0.0.0.0 www.personalhealth.jp
 0.0.0.0 www.peugeot.co.jp
 0.0.0.0 www.phiten.com
 0.0.0.0 www.photoruction.com
@@ -1437,6 +1443,7 @@
 0.0.0.0 www.y-yokohama.com
 0.0.0.0 www.yawata.tv
 0.0.0.0 www.ykkap.co.jp
+0.0.0.0 www.yoka-mall.com
 0.0.0.0 www.yonoton.com
 0.0.0.0 www.yrl.com
 0.0.0.0 www.ytj.gr.jp
