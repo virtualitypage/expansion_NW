@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 12 July 2024
+# Last modified: 13 July 2024
 #
 
 # [広告全般]
@@ -99,6 +99,7 @@
 0.0.0.0 byd.co.jp
 0.0.0.0 campaign.whitehouse.co.jp
 0.0.0.0 campaign.wild1.co.jp
+0.0.0.0 campanel.jp
 0.0.0.0 camparijapan.com
 0.0.0.0 canbadge-arc76.com
 0.0.0.0 car-audio.ne.jp
@@ -292,6 +293,7 @@
 0.0.0.0 hokuyu-ryokuti.com
 0.0.0.0 home-design-schmidt.uk
 0.0.0.0 honkaku-coco.com
+0.0.0.0 horseracing-tipsters.biz
 0.0.0.0 hoshi.cocoloni.jp
 0.0.0.0 house-kiya.co.jp
 0.0.0.0 housefreedom-fujiidera.com
@@ -302,6 +304,7 @@
 0.0.0.0 iatss.or.jp
 0.0.0.0 ibaraki-ranking.com
 0.0.0.0 ibarakishi-shaken.com
+0.0.0.0 ichigen.shop
 0.0.0.0 ichoice-coop.com
 0.0.0.0 iei.jp
 0.0.0.0 ifdesign.com
@@ -488,6 +491,7 @@
 0.0.0.0 newsphere.jp
 0.0.0.0 next-one-dream.com
 0.0.0.0 ngdl.jp
+0.0.0.0 nihonjyuutaku.co.jp
 0.0.0.0 niit-oc.com
 0.0.0.0 ninjakitchen.co.uk
 0.0.0.0 nishispo.nishinippon.co.jp
@@ -538,6 +542,7 @@
 0.0.0.0 pr1.takami-labo.com
 0.0.0.0 premiumstonegallery.com
 0.0.0.0 present-wine-shop.derisomu.com
+0.0.0.0 present.baby-calendar.com
 0.0.0.0 pride-fish.jp
 0.0.0.0 proaceworks.com
 0.0.0.0 product.kadokawa.co.jp
@@ -586,6 +591,7 @@
 0.0.0.0 saiene-support.jp
 0.0.0.0 saimuseiri-green.com
 0.0.0.0 saimushindan-hibiki.com
+0.0.0.0 saitama.sagamitenrei.com
 0.0.0.0 saiyo-shoten.com
 0.0.0.0 salon-de-alfurd.jp
 0.0.0.0 sasatto.jp
@@ -644,6 +650,7 @@
 0.0.0.0 setupnext-project.com
 0.0.0.0 sharkclean.co.uk
 0.0.0.0 shelldome.jp
+0.0.0.0 shibainu-shop.net
 0.0.0.0 shibo-zero.info
 0.0.0.0 shift-engineer.jp
 0.0.0.0 shigoto.amazon.co.jp
@@ -711,6 +718,7 @@
 0.0.0.0 suumo.jp
 0.0.0.0 syakuchiken.jp
 0.0.0.0 systema.lion.co.jp
+0.0.0.0 tabiiro.jp
 0.0.0.0 tabunne.click
 0.0.0.0 taicca.tw
 0.0.0.0 tainenji.net
@@ -774,6 +782,7 @@
 0.0.0.0 uptofficial.jp
 0.0.0.0 urbancherry.jp
 0.0.0.0 usagi-online.com
+0.0.0.0 vda.afkjourney.com
 0.0.0.0 vegasvegas-recruit.com
 0.0.0.0 vermeermountainwest.com
 0.0.0.0 video.unext.jp
@@ -789,6 +798,7 @@
 0.0.0.0 web-cam.jp
 0.0.0.0 web.anabuki-college.ac.jp
 0.0.0.0 web.customize-festaria.com
+0.0.0.0 web.my-class.jp
 0.0.0.0 web.peugeot.co.jp
 0.0.0.0 web.pref.hyogo.lg.jp
 0.0.0.0 webcast.net-ir.ne.jp
@@ -799,6 +809,7 @@
 0.0.0.0 widgets.taxel.jp
 0.0.0.0 withonline.jp
 0.0.0.0 woman.chintai
+0.0.0.0 work-holiday.mhlw.go.jp
 0.0.0.0 world.hello-gesher.com
 0.0.0.0 wowclassic.blizzard.com
 0.0.0.0 wp.i-voce.jp
@@ -807,6 +818,7 @@
 0.0.0.0 www.1stwise.com
 0.0.0.0 www.240.takeda.com
 0.0.0.0 www.303select.com
+0.0.0.0 www.39asset.co.jp
 0.0.0.0 www.3ei.co.jp
 0.0.0.0 www.3qcut.com
 0.0.0.0 www.5academy.com
@@ -1035,6 +1047,7 @@
 0.0.0.0 www.gs-vanlife.com
 0.0.0.0 www.h-bd.co.jp
 0.0.0.0 www.hakodateyama.com
+0.0.0.0 www.hakuaisha.jp
 0.0.0.0 www.hamada-juku.com
 0.0.0.0 www.hamigaki.gr.jp
 0.0.0.0 www.hanazonohifuku.com
@@ -1079,6 +1092,7 @@
 0.0.0.0 www.icturn4.com
 0.0.0.0 www.idc.hinet.net
 0.0.0.0 www.ie-miru.jp
+0.0.0.0 www.ig.com
 0.0.0.0 www.iibc-global.org
 0.0.0.0 www.iijmio.jp
 0.0.0.0 www.imokin.jp
@@ -1171,6 +1185,7 @@
 0.0.0.0 www.manga1.jp
 0.0.0.0 www.markandlona.com
 0.0.0.0 www.maru.jp
+0.0.0.0 www.maruhan-lp.net
 0.0.0.0 www.maruho.co.jp
 0.0.0.0 www.maserati.com
 0.0.0.0 www.matsuoka-motars.co.jp
@@ -1268,6 +1283,7 @@
 0.0.0.0 www.peugeot.co.jp
 0.0.0.0 www.phiten.com
 0.0.0.0 www.photoruction.com
+0.0.0.0 www.plan-c.co.jp
 0.0.0.0 www.playstation.com
 0.0.0.0 www.pluscasa.com
 0.0.0.0 www.poll-tex.com.tw
@@ -1379,6 +1395,7 @@
 0.0.0.0 www.tanaka-denki.co.jp
 0.0.0.0 www.tanakagakushukai.com
 0.0.0.0 www.tanoshii-ie.jp
+0.0.0.0 www.tarou.co.jp
 0.0.0.0 www.tashiro-kankyo.com
 0.0.0.0 www.tdk.com
 0.0.0.0 www.teamlab.art
@@ -1460,6 +1477,7 @@
 0.0.0.0 www.zeczec.com
 0.0.0.0 www.zenrosai.coop
 0.0.0.0 www.zissen-mw.jp
+0.0.0.0 www.zokkonkareshi.top
 0.0.0.0 www2.aqlub.com
 0.0.0.0 www2.bglen.net
 0.0.0.0 www3.jeed.go.jp
