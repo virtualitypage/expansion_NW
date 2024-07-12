@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 11 July 2024
+# Last modified: 12 July 2024
 #
 
 # [広告全般]
@@ -266,6 +266,7 @@
 0.0.0.0 haneda-shopping.jp
 0.0.0.0 happygift2.com
 0.0.0.0 harekuraray.com
+0.0.0.0 haseko-bp.jp
 0.0.0.0 hashibukuro.com
 0.0.0.0 hayatahome.com
 0.0.0.0 hc.kowa.co.jp
@@ -924,6 +925,7 @@
 0.0.0.0 www.citruspark-glamping.com
 0.0.0.0 www.city-con.jp
 0.0.0.0 www.city.hachinohe.aomori.jp
+0.0.0.0 www.city.hiratsuka.kanagawa.jp
 0.0.0.0 www.city.matsuyama.ehime.jp
 0.0.0.0 www.city.osaka.lg.jp
 0.0.0.0 www.ck-saikouchiku.go.jp
@@ -932,6 +934,7 @@
 0.0.0.0 www.clubmed.co.jp
 0.0.0.0 www.cm.life8739.co.jp
 0.0.0.0 www.cmoa.jp
+0.0.0.0 www.coca-cola.com
 0.0.0.0 www.cockpit.co.jp
 0.0.0.0 www.colehaan.co.jp
 0.0.0.0 www.commufa.jp
@@ -1126,6 +1129,7 @@
 0.0.0.0 www.kahm-art.co.jp
 0.0.0.0 www.kaitaitochigi.com
 0.0.0.0 www.kaitoritop.jp
+0.0.0.0 www.kankyo.metro.tokyo.lg.jp
 0.0.0.0 www.kano-kensetsu.com
 0.0.0.0 www.kao.co.jp
 0.0.0.0 www.karatshop.com.tw
@@ -1140,6 +1144,7 @@
 0.0.0.0 www.kobe.coop.or.jp
 0.0.0.0 www.kobegakuin.ac.jp
 0.0.0.0 www.kobetsu.co.jp
+0.0.0.0 www.kodomoseisaku.metro.tokyo.lg.jp
 0.0.0.0 www.koi-para.net
 0.0.0.0 www.kominami.co.jp
 0.0.0.0 www.konoike.ac.jp
@@ -1190,6 +1195,7 @@
 0.0.0.0 www.mitsubishi-motors.co.jp
 0.0.0.0 www.mitsui.com
 0.0.0.0 www.miyakoda.co.jp
+0.0.0.0 www.miyanaka.co.jp
 0.0.0.0 www.mobit.ne.jp
 0.0.0.0 www.mof.go.jp
 0.0.0.0 www.moki-ss.co.jp
@@ -1226,6 +1232,7 @@
 0.0.0.0 www.notalone-cao.go.jp
 0.0.0.0 www.nseg.co.jp
 0.0.0.0 www.nta.co.jp
+0.0.0.0 www.nta.go.jp
 0.0.0.0 www.nttcoms.com
 0.0.0.0 www.nursejinzaibank.com
 0.0.0.0 www.oas.ac.jp
@@ -1238,6 +1245,7 @@
 0.0.0.0 www.okabemen.co.jp
 0.0.0.0 www.oliveoilsfromspain.jp
 0.0.0.0 www.omu.ac.jp
+0.0.0.0 www.onetop-japan.jp
 0.0.0.0 www.onlinesec-kenkyukai.com
 0.0.0.0 www.ophthalmologytimes.com
 0.0.0.0 www.orbussoftware.com
@@ -1387,6 +1395,7 @@
 0.0.0.0 www.titleist.co.jp
 0.0.0.0 www.to-kousya.or.jp
 0.0.0.0 www.toabio.co.jp
+0.0.0.0 www.tobu.co.jp
 0.0.0.0 www.toitsutest-koukou.com
 0.0.0.0 www.tokairadio.co.jp
 0.0.0.0 www.toki-iro.jp
