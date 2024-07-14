@@ -1,9 +1,10 @@
-![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v1.3.8-blue?style=flat)
-![Release Date](https://img.shields.io/badge/Release_Date-July_7_2024-green?style=flat)
+![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v1.4.0-blue?style=flat)
+![Release Date](https://img.shields.io/badge/Release_Date-July_14_2024-green?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualitypage/expansion_NW)
 
 > Table of Contents
 - [AdGuard Filter](#adguard-filter)
+- [Document - Expansion](#document---expansion)
 - [Document - Troubleshooting](#document---troubleshooting)
 - [Management Rules](#management-rules)
 - [SSH to Github](#ssh-to-github)
@@ -50,9 +51,13 @@
 
 * 参照元：https://github.com/AdguardTeam/AdGuardHome/wiki/Configuration#configuration-file
 
-1. クエリログを格納するフォルダを任意の場所に作成します。
+1. ターミナルを開いて SSH でルーターにログインします。
 
-2. 以下の箇所を編集します。
+　`$ ssh root@{ip_address|host_name}`
+
+2. クエリログを格納するフォルダを任意の場所に作成します。
+
+3. 以下の箇所を編集します。
 
 ```
 dir_path: ""
@@ -71,15 +76,15 @@ querylog:
   file_enabled: true
 ```
 
-3. 設定適用の為にルーターを再起動します。
+4. 設定適用の為にルーターを再起動します。
 
-4. 実行ファイルにログファイルのパスを渡します。ここで指定したファイル名(ここでは"querylog")のjsonファイルが作成され、書き込まれます。
+5. 実行ファイルにログファイルのパスを渡します。ここで指定したファイル名(ここでは"querylog")のjsonファイルが作成され、書き込まれます。
 
 　`$ AdGuardHome -l /etc/AdGuard_query/querylog`
 
-5. 以下のような内容になっていることを確認します。
+6. 以下のような内容になっていることを確認します。
 
-　`cat /etc/AdGuard_query/querylog`
+　`$ cat /etc/AdGuard_query/querylog`
 
 ```
 YYYY/MM/DD HH24:MI:SS.FF [info] AdGuard Home, version v0.107.46
@@ -112,9 +117,79 @@ YYYY/MM/DD HH24:MI:SS.FF [info] stopped http server
 YYYY/MM/DD HH24:MI:SS.FF [info] stopped
 ```
 
+## Document - Expansion
+
+> ルーターからメール送信を行う
+
+1. ターミナルを開いて SSH でルーターにログインします。
+
+　`$ ssh root@{ip_address|host_name}`
+
+2. 以下のコマンドを実行します。
+
+　`$ opkg update`
+
+　`$ opkg install msmtp`
+
+3. Google アカウント上でアプリ パスワードを取得します。(手順3の "password" で使用します)
+
+* [アプリ パスワードを作成、管理する](https://myaccount.google.com/apppasswords) をクリックします。(本人確認画面に遷移します)
+
+* アプリ名入力欄に "msmtp" と入力して「作成」をクリックします。表示された 16 桁のアプリ パスワードをメモ等に控えて下さい。
+
+4. "msmtprc" ファイルを以下のように設定します。 *`your-email@gmail.com`の部分は自身の Google アカウントのメールアドレスを入力して下さい。
+
+　`$ vi /etc/msmtprc`
+
+```
+# Default settings
+defaults
+auth           on
+tls            on
+tls_trust_file /etc/ssl/certs/ca-certificates.crt
+logfile        /var/log/msmtp.log
+
+# Gmail account settings
+account        gmail
+host           smtp.gmail.com
+port           587
+from           your-email@gmail.com
+user           your-email@gmail.com
+password       app-password
+
+# Set a default account
+account default : gmail
+```
+
+5. 設定が完了したら任意のメールアドレスにテストメールを送信します。
+
+　`$ echo "This is a test email." | msmtp -a gmail user@example.com`
+
+6. プロンプト上に何も表示されなければ完了です。
+
+> ルーターからメール送信を行う(メール用のファイルを読み込んでメール送信)
+
+1. メール用のファイル "test.mail" を作成します。
+
+　`$ vi /etc/test.mail`
+
+```
+to: your-email@gmail.com
+From: user@example.com
+Subject: Test mail
+
+This is a test email.
+```
+
+2. ターミナルで以下を実行します。
+
+　`$ msmtp user@example.com < /etc/test.mail`
+
+3. プロンプト上に何も表示されなければ完了です。
+
 ## Document - Troubleshooting
 
-> 毎分出力される以下のログを解決する
+> 毎分出力されるログを解決する
 
 * 参照元：https://forum.gl-inet.com/t/many-log-data-after-4-4-5-axt1800-mt2500/32854/11
 
@@ -124,15 +199,19 @@ DY MON DD HH24:MI:SS YYYY cron.err crond[12345]: USER root pid 1234 cmd sleep
 DY MON DD HH24:MI:SS YYYY cron.err crond[12345]: USER root pid 1234 cmd . /lib/functions/modem.sh;modem_net_monitor
 ```
 
-1. ターミナルを開いて以下のコマンドを実行します。
+1. ターミナルを開いて SSH でルーターにログインします。
+
+　`$ ssh root@{ip_address|host_name}`
+
+2. 以下のコマンドを実行します。
 
 　`$ uci set system.@system[0].cronloglevel="10"`
 
 　`$ /etc/init.d/gl_timer restart`
 
-2. 設定適用の為にルーターを再起動します。
+3. 設定適用の為にルーターを再起動します。
 
-3. 以下のような内容になっていることを確認します。
+4. 以下のような内容になっていることを確認します。
 
 　`$ cat /etc/config/system`
 
@@ -150,6 +229,54 @@ config system
 	option conloglevel '8'
 	option cronloglevel '10'
 ```
+
+5. ログが表示されなくなれば完了です。　
+
+> 毎分出力されるログを解決する(通常の cron ログを表示しつつ、該当のログを非表示にする)
+
+1. ターミナルを開いて SSH でルーターにログインします。
+
+　`$ ssh root@{ip_address|host_name}`
+
+2. 以下の箇所を編集します。(設定値に変更が無い場合は次の手順に移ります)
+
+```
+option conloglevel ''
+option cronloglevel ''
+```
+
+　`$ vi /etc/config/system`
+
+```
+config system
+	option urandom_seed '0'
+	option hostname 'GL-MT3000'
+	option compat_version '1.0'
+	option ttylogin '1'
+	option timezone 'JST-9'
+	option zonename 'Asia/Tokyo'
+	option log_proto 'udp'
+	option log_size '62500'
+	option log_file '/tmp/system.log'
+	option conloglevel '4'
+	option cronloglevel '5'
+```
+
+3. 続けて、以下のファイルの全行をコメントアウトします。
+
+　`$ vi /tmp/gl_crontabs/root`
+
+```
+#* * * * * . /lib/functions/modem.sh;check_ip
+#* * * * * sleep 30;. /lib/functions/modem.sh;check_ip
+#*/2 * * * * . /lib/functions/modem.sh;modem_net_monitor
+```
+
+4. 以下のコマンドを実行します。
+
+　`$ /etc/init.d/cron reload`
+
+5. ログが表示されなくなれば完了です。
 
 ## Management Rules
 
@@ -202,18 +329,21 @@ PRタイトル構文： `{month} Week {1-5} Release`
 　`$ ssh-keygen -t ed25519 -C "email@example.com"`
 
 2. "Enter file in which to save the key" というメッセージが表示されたら Enter キーを押して既定のファイルの場所を使用します。
+
 ```
 Generating public/private ed25519 key pair.
 Enter file in which to save the key (/Users/user/.ssh/id_ed25519): [Press Enter]
 ```
 
 3. 以下のプロンプトが表示されたらセキュアなパスフレーズを入力します。 *ここで入力したパスフレーズはメモ等に控えて下さい。
+
 ```
 Enter passphrase (empty for no passphrase): [Type a passphrase]
 Enter same passphrase again: [Type a passphrase]
 ```
 
 4. SSHキーが発行されます。 *下記の値やランダムアートは一例です
+
 ```
 Your identification has been saved in /Users/user/.ssh/id_ed25519
 Your public key has been saved in /Users/user/.ssh/id_ed25519.pub
@@ -233,7 +363,7 @@ The key's randomart image is:
 +----[SHA256]-----+
 ```
 
-5. 4で示されたファイルパスを含むコマンドを入力して、以下のような SSH キーを取得します。 *下記は一例です
+5. 手順4で示されたファイルパスを含むコマンドを入力して、以下のような SSH キーを取得します。 *下記は一例です
 
 　`$ cat /Users/user/.ssh/id_ed25519.pub`
 
