@@ -4,7 +4,7 @@
 # References: Query Log
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Query_Log_deny.txt
 #
-# Last modified: 3 July 2024
+# Last modified: 14 July 2024
 #
 
 # [クエリ・ログで検出された広告]
@@ -14,7 +14,6 @@
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com.lan
 0.0.0.0 aax.amazon-adsystem.com.tail06b0f8.ts.net
-0.0.0.0 accounts.google.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.vungle.com
@@ -146,7 +145,6 @@
 0.0.0.0 universe.send.microad.jp
 0.0.0.0 wave.outbrain.com
 0.0.0.0 www.baidu.com
-0.0.0.0 www.googleadservices.com
 0.0.0.0 www3.l.google.com
 0.0.0.0 z-p42-chat-e2ee-ig.facebook.com
 0.0.0.0 z.moatads.com
