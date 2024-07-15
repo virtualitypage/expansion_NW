@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 14 July 2024
+# Last modified: 15 July 2024
 #
 
 # [広告全般]
@@ -77,6 +77,7 @@
 0.0.0.0 be-epilogue.jp
 0.0.0.0 be-win.co.jp
 0.0.0.0 beacon.sp.gmossp-sp.jp
+0.0.0.0 bengoshihoken-zero.jp
 0.0.0.0 beperch.com
 0.0.0.0 betterstack.com
 0.0.0.0 bianshack.com
@@ -247,6 +248,7 @@
 0.0.0.0 googirl.jp
 0.0.0.0 goooodhome.gifu.jp
 0.0.0.0 gorogoromanga.jp
+0.0.0.0 grand-mercure-lakehamana-resortandspa.jp
 0.0.0.0 greenkankyo.com
 0.0.0.0 gron.co.jp
 0.0.0.0 growi.cloud
@@ -300,6 +302,7 @@
 0.0.0.0 housefreedom-fujiidera.com
 0.0.0.0 housing-garden.jp
 0.0.0.0 housing.hicbc.com
+0.0.0.0 hoyeon.plaync.com
 0.0.0.0 htm.sf-express.com
 0.0.0.0 i-voce.jp
 0.0.0.0 iatss.or.jp
@@ -514,6 +517,7 @@
 0.0.0.0 oishii-izumo.jp
 0.0.0.0 oka-d-art.com
 0.0.0.0 oldisroad.com
+0.0.0.0 omedeto.hp.peraichi.com
 0.0.0.0 omurakyotei.jp
 0.0.0.0 ondemand.meluon.com
 0.0.0.0 online.uc.edu
@@ -621,6 +625,7 @@
 0.0.0.0 sb-seven.service-info.jp
 0.0.0.0 sb-tenal5.ourservice.jp
 0.0.0.0 sb-testosuteron.discover-news.tokyo
+0.0.0.0 sb-used-buyers.service-info.jp
 0.0.0.0 sb-viargyqt.discover-news.tokyo
 0.0.0.0 sb-viazol.newsanything.tokyo
 0.0.0.0 sb-wanwanwanwananwawanwa.discover-news.tokyo
@@ -793,6 +798,7 @@
 0.0.0.0 video.unext.jp
 0.0.0.0 view.adjust.com
 0.0.0.0 villa-hamanako.jp
+0.0.0.0 violetllama42.sakura.ne.jp
 0.0.0.0 voyage.asukacruise.co.jp
 0.0.0.0 vti-glovebox.com
 0.0.0.0 wakurino.work
@@ -994,6 +1000,7 @@
 0.0.0.0 www.ehime-ben.or.jp
 0.0.0.0 www.eldenring.jp
 0.0.0.0 www.enemaru.com
+0.0.0.0 www.enhousing.jp
 0.0.0.0 www.enoteca.co.jp
 0.0.0.0 www.enshu-shinkin.jp
 0.0.0.0 www.eposcard.co.jp
@@ -1018,6 +1025,7 @@
 0.0.0.0 www.forever-kato.co.jp
 0.0.0.0 www.forum8.co.jp
 0.0.0.0 www.france.fr
+0.0.0.0 www.freedom.co.jp
 0.0.0.0 www.fujiiso.co.jp
 0.0.0.0 www.fujiki-orthod.com
 0.0.0.0 www.fukuoka-tenjin-naishikyo.com
@@ -1183,6 +1191,7 @@
 0.0.0.0 www.linemo.jp
 0.0.0.0 www.livable.co.jp
 0.0.0.0 www.lixil.co.jp
+0.0.0.0 www.logicool.co.jp
 0.0.0.0 www.lpio.jp
 0.0.0.0 www.lululemon.co.jp
 0.0.0.0 www.luxalgo.com
@@ -1410,6 +1419,7 @@
 0.0.0.0 www.teamlab.art
 0.0.0.0 www.teez.jp
 0.0.0.0 www.teksystems.com
+0.0.0.0 www.tele.soumu.go.jp
 0.0.0.0 www.temu.com
 0.0.0.0 www.tepco.co.jp
 0.0.0.0 www.tgn.co.jp
@@ -1433,6 +1443,7 @@
 0.0.0.0 www.tomas.co.jp
 0.0.0.0 www.tomiya.co.jp
 0.0.0.0 www.topvalu.net
+0.0.0.0 www.toritsuko.metro.tokyo.lg.jp
 0.0.0.0 www.toyama-clean.com
 0.0.0.0 www.toyotetsu.jp
 0.0.0.0 www.tpishida.co.jp
