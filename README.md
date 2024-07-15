@@ -1,4 +1,4 @@
-![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v1.4.0-blue?style=flat)
+![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v1.4.1-blue?style=flat)
 ![Release Date](https://img.shields.io/badge/Release_Date-July_14_2024-green?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualitypage/expansion_NW)
 
