@@ -4,7 +4,7 @@
 # References: Query Log
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Query_Log_allow.txt
 #
-# Last modified: 14 July 2024
+# Last modified: 15 July 2024
 #
 
 # [クエリ・ログで検出された許可リクエスト]
@@ -16,6 +16,7 @@
 @@||appsflyer.com
 @@||auctions.yahooapis.jp
 @@||beacons
+@@||captive.apple.com
 @@||cdninstagram.com
 @@||clarity.ms
 @@||clashofclans.com
@@ -24,9 +25,11 @@
 @@||connectivitycheck.cbg-app.huawei.com
 @@||crashlytics.com
 @@||dailyinnovation.biz
+@@||drive.google.com
 @@||fbcdn.net
 @@||fw.gl-inet.com
 @@||ggpht.com
+@@||github.com
 @@||googleapis.com
 @@||googleusercontent.com
 @@||googlevideo.com
@@ -41,6 +44,7 @@
 @@||jquery.com
 @@||kddi.com
 @@||kddi.ne.jp
+@@||kefirgames.ru
 @@||learnings.ai
 @@||line-apps.com
 @@||line-scdn.net
@@ -68,8 +72,11 @@
 @@||t.co
 @@||tailscale.com
 @@||tailscale.io
+@@||time.android.com
 @@||web.facebook.com
+@@||www.google-analytics.com
+@@||www.google.com
+@@||www.googleadservices.com
 @@||yahoo.co.jp
 @@||yahooapis.jp
 @@||yimg.jp
-@@||www.googleadservices.com
