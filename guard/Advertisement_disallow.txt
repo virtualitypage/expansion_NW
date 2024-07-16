@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 15 July 2024
+# Last modified: 16 July 2024
 #
 
 # [広告全般]
@@ -128,6 +128,7 @@
 0.0.0.0 company.rpahack.tech
 0.0.0.0 content.rview.com
 0.0.0.0 continentaltire.com
+0.0.0.0 corporate.ofsji.org
 0.0.0.0 cowcamo.jp
 0.0.0.0 cp.manara.jp
 0.0.0.0 craftdesign.tokyo
@@ -224,6 +225,7 @@
 0.0.0.0 g123.jp
 0.0.0.0 gachinko-school.com
 0.0.0.0 games.dmm.com
+0.0.0.0 gankenshinkochi.com
 0.0.0.0 gar.mrajkgea.top
 0.0.0.0 garireo.co.jp
 0.0.0.0 gcloud.genbasupport.com
@@ -404,6 +406,7 @@
 0.0.0.0 koukoukojitsu.com
 0.0.0.0 koutoku.ac.jp
 0.0.0.0 kudan-tokyo.jp
+0.0.0.0 kurubell.com
 0.0.0.0 kurumeshi-regionalcareer.com
 0.0.0.0 kyoto-kimonorental.com
 0.0.0.0 kyotofu-shoene.jp
@@ -741,6 +744,7 @@
 0.0.0.0 talia-campaign.square.site
 0.0.0.0 tamayakk.com
 0.0.0.0 tanaka501.com
+0.0.0.0 tanebo.click
 0.0.0.0 tanoshiiosake.jp
 0.0.0.0 tansei-legaloffice.jp
 0.0.0.0 targety.jp
@@ -1244,6 +1248,7 @@
 0.0.0.0 www.nakayamashouten.com
 0.0.0.0 www.nantobank.co.jp
 0.0.0.0 www.nanzan-u.ac.jp
+0.0.0.0 www.napolipizza.jp
 0.0.0.0 www.nec-lavie.jp
 0.0.0.0 www.nekonote-saijo.com
 0.0.0.0 www.netbk.co.jp
