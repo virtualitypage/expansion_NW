@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 16 July 2024
+# Last modified: 17 July 2024
 #
 
 # [広告全般]
@@ -660,6 +660,7 @@
 0.0.0.0 service.ocn.ne.jp
 0.0.0.0 seta-clinic.com
 0.0.0.0 setupnext-project.com
+0.0.0.0 shaktimat.co.jp
 0.0.0.0 sharkclean.co.uk
 0.0.0.0 shelldome.jp
 0.0.0.0 shibainu-shop.net
@@ -761,6 +762,7 @@
 0.0.0.0 timume.com
 0.0.0.0 tire.bridgestone.co.jp
 0.0.0.0 toho-imazu.jp
+0.0.0.0 tohoku-kizunamatsuri.jp
 0.0.0.0 tomei-riso.jp
 0.0.0.0 tomishiyaku.net
 0.0.0.0 toptoon.jp
@@ -930,6 +932,7 @@
 0.0.0.0 www.canadycanady.com
 0.0.0.0 www.canva.com
 0.0.0.0 www.car-byebuy.com
+0.0.0.0 www.carappo-official.com
 0.0.0.0 www.careerlinkfactory.co.jp
 0.0.0.0 www.carsensor.net
 0.0.0.0 www.casetify.com
@@ -1084,6 +1087,7 @@
 0.0.0.0 www.herz-bag.jp
 0.0.0.0 www.hfcfinance.com.tw
 0.0.0.0 www.hibou-chushou.com
+0.0.0.0 www.hikoki-powertools.jp
 0.0.0.0 www.hiro-clinic.or.jp
 0.0.0.0 www.hirox.com
 0.0.0.0 www.his-j.com
@@ -1162,6 +1166,7 @@
 0.0.0.0 www.kahm-art.co.jp
 0.0.0.0 www.kaitaitochigi.com
 0.0.0.0 www.kaitoritop.jp
+0.0.0.0 www.kanagawa-subaru.com
 0.0.0.0 www.kankyo.metro.tokyo.lg.jp
 0.0.0.0 www.kano-kensetsu.com
 0.0.0.0 www.kao.co.jp
@@ -1263,6 +1268,7 @@
 0.0.0.0 www.nisikido.net
 0.0.0.0 www.nissan.co.jp
 0.0.0.0 www.nissui.co.jp
+0.0.0.0 www.noa-yoga.com
 0.0.0.0 www.noapilates.jp
 0.0.0.0 www.nordsonmedical.com
 0.0.0.0 www.notalone-cao.go.jp
@@ -1429,6 +1435,7 @@
 0.0.0.0 www.tepco.co.jp
 0.0.0.0 www.tgn.co.jp
 0.0.0.0 www.tgsc.tokyo
+0.0.0.0 www.the-cushion.com
 0.0.0.0 www.thepiel.com
 0.0.0.0 www.ticketlife.jp
 0.0.0.0 www.tiger-corporation.com
