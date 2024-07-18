@@ -1,4 +1,4 @@
-![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v1.4.3-blue?style=flat)
+![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v1.5.0-blue?style=flat)
 ![Release Date](https://img.shields.io/badge/Release_Date-July_14_2024-green?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualitypage/expansion_NW)
 
@@ -137,7 +137,7 @@ YYYY/MM/DD HH24:MI:SS.FF [info] stopped
 
 * アプリ名入力欄に "msmtp" と入力して「作成」をクリックします。表示された 16 桁のアプリ パスワードをメモ等に控えて下さい。
 
-4. "msmtprc" ファイルを以下のように設定します。 *`your-email@gmail.com`の部分は自身の Google アカウントのメールアドレスを入力して下さい。
+4. "msmtprc" ファイルを以下のように設定します。 *`your-email@gmail.com` の部分は自身の Google アカウントのメールアドレスを入力して下さい。
 
 　`$ vi /etc/msmtprc`
 
@@ -161,7 +161,7 @@ password       app-password
 account default : gmail
 ```
 
-5. 設定が完了したら任意のメールアドレスにテストメールを送信します。
+5. 設定が完了したら任意のメールアドレスにテストメールを送信します。 *`user@example.com` の部分は宛先メールアドレスを入力して下さい。
 
 　`$ echo "This is a test email." | msmtp -a gmail user@example.com`
 
@@ -169,7 +169,11 @@ account default : gmail
 
 > ルーターからメール送信を行う(メール用のファイルを読み込んでメール送信)
 
-1. メール用のファイル "test.mail" を作成します。
+1. ターミナルを開いて SSH でルーターにログインします。
+
+　`$ ssh root@{ip_address|host_name}`
+
+2. メール用のファイル "test.mail" を作成します。
 
 　`$ vi /etc/test.mail`
 
@@ -181,11 +185,50 @@ Subject: Test mail
 This is a test email.
 ```
 
-2. ターミナルで以下を実行します。
+3. ターミナルで以下を実行します。 *`user@example.com` の部分は宛先メールアドレスを入力して下さい。
 
 　`$ msmtp user@example.com < /etc/test.mail`
 
-3. プロンプト上に何も表示されなければ完了です。
+4. プロンプト上に何も表示されなければ完了です。
+
+> ルーターからメール送信を行う(添付ファイルを挿入)
+
+1. ターミナルを開いて SSH でルーターにログインします。
+
+　`$ ssh root@{ip_address|host_name}`
+
+2. 以下のコマンドを実行します。
+
+　`$ opkg update`
+
+　`$ opkg install mutt`
+
+　`$ opkg install msmtp-mta`
+
+3. "mutt" ファイルを以下のように設定します。 *`your-email@gmail.com` の部分は自身の Google アカウントのメールアドレスを入力して下さい。
+
+```
+set sendmail="/etc/msmtp"
+set use_from=yes
+set realname="root"
+set from=your-email@gmail.com
+```
+
+4. ターミナルで以下を実行します。(-a で添付ファイルのパスを渡します) *`user@example.com` の部分は宛先メールアドレスを入力して下さい。
+
+　`$ echo "This is a test email." | mutt -s "Test mail" -a /tmp/test.txt -- user@example.com`
+
+* または、以下のようにファイルの内容をメールの本文とした上で実行します。
+
+　`$ vi /etc/test.mail`
+
+```
+This is a test email.
+```
+
+　`$ mutt -s "Test mail" -a /tmp/test.txt -- user@example.com < /etc/test.mail`
+
+5. プロンプト上に何も表示されなければ完了です。
 
 ## Document - Troubleshooting
 
@@ -232,7 +275,7 @@ config system
 
 5. ログが表示されなくなれば完了です。　
 
-> 毎分出力されるログを解決する(通常の cron ログを表示しつつ、該当のログを非表示にする)
+> 毎分出力されるログを解決する(通常の cron ログを表示しつつ、該当のログを非表示にする) *再起動時、本設定がリセットされるため再設定が必要
 
 1. ターミナルを開いて SSH でルーターにログインします。
 
