@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 17 July 2024
+# Last modified: 18 July 2024
 #
 
 # [広告全般]
@@ -200,6 +200,7 @@
 0.0.0.0 fctl.co.jp
 0.0.0.0 fegroup-fukui.jp
 0.0.0.0 felice-create.com
+0.0.0.0 firstairlines.jp
 0.0.0.0 flasharkracing.com
 0.0.0.0 flex.amazon.co.jp
 0.0.0.0 fod.fujitv.co.jp
@@ -235,6 +236,7 @@
 0.0.0.0 geo.8984.jp
 0.0.0.0 ghibli-park.jp
 0.0.0.0 glampicks.jp
+0.0.0.0 global.jr-central.co.jp
 0.0.0.0 globalxetfs.co.jp
 0.0.0.0 globe.asahi.com
 0.0.0.0 gmobb.jp
@@ -451,6 +453,7 @@
 0.0.0.0 m019.forseasons-dealer.jp
 0.0.0.0 madream.jp
 0.0.0.0 makinushi-tk.com
+0.0.0.0 makita-craft.co.jp
 0.0.0.0 mangamatsuri.kodansha.co.jp
 0.0.0.0 mangasouko-shop.jp
 0.0.0.0 manulife-gaika.jp
@@ -473,6 +476,7 @@
 0.0.0.0 minoh-spa.ooedoonsen.jp
 0.0.0.0 minoh.ooedoonsen.jp
 0.0.0.0 miokuriteitaku.jp
+0.0.0.0 miraiyu-career.com
 0.0.0.0 mishima-minase.com
 0.0.0.0 mitsui-art.com
 0.0.0.0 mitsui-shopping-park.com
@@ -523,6 +527,7 @@
 0.0.0.0 omedeto.hp.peraichi.com
 0.0.0.0 omurakyotei.jp
 0.0.0.0 ondemand.meluon.com
+0.0.0.0 one-up-life.com
 0.0.0.0 online.uc.edu
 0.0.0.0 onlyoneafrica.com
 0.0.0.0 onlystory.co.jp
@@ -532,6 +537,7 @@
 0.0.0.0 original-champagne.net
 0.0.0.0 ortho-mouthpiece-jp.life
 0.0.0.0 osaka-pleats-amido.com
+0.0.0.0 osho-research.co.jp
 0.0.0.0 ost-honeypot-1.oreillyauto.com
 0.0.0.0 p-project.jp
 0.0.0.0 p-town.dmm.com
@@ -695,6 +701,7 @@
 0.0.0.0 smilepack.jp
 0.0.0.0 sneakerbunko.jp
 0.0.0.0 sodaigomi-kaishu.com
+0.0.0.0 sodaigomi-kaishutai.com
 0.0.0.0 solasto-career.com
 0.0.0.0 solize-software.com
 0.0.0.0 sora-cam.com
@@ -708,6 +715,7 @@
 0.0.0.0 sp.otsuka-shokai.co.jp
 0.0.0.0 spicaglow.jp
 0.0.0.0 spopita.jp
+0.0.0.0 squareup.com
 0.0.0.0 ssl-system7.com
 0.0.0.0 ssr.abemashopping.jp
 0.0.0.0 static.hfm.com
@@ -796,6 +804,7 @@
 0.0.0.0 uno-hotel.com
 0.0.0.0 uodon-fukushima.com
 0.0.0.0 uptofficial.jp
+0.0.0.0 urayasu.brightonhotels.co.jp
 0.0.0.0 urbancherry.jp
 0.0.0.0 usagi-online.com
 0.0.0.0 vda.afkjourney.com
@@ -967,6 +976,7 @@
 0.0.0.0 www.coca-cola.com
 0.0.0.0 www.cockpit.co.jp
 0.0.0.0 www.colehaan.co.jp
+0.0.0.0 www.columbiasports.co.jp
 0.0.0.0 www.commufa.jp
 0.0.0.0 www.coneru.co.jp
 0.0.0.0 www.connection.com
@@ -984,11 +994,13 @@
 0.0.0.0 www.daimaru.co.jp
 0.0.0.0 www.dainiti.co.jp
 0.0.0.0 www.daisenham.com
+0.0.0.0 www.daiwahouse.co.jp
 0.0.0.0 www.daiyuu.com
 0.0.0.0 www.deaf-tryout24.para-athlete.tokyo
 0.0.0.0 www.decorte.com
 0.0.0.0 www.denray.com
 0.0.0.0 www.diningmaison.jp
+0.0.0.0 www.discoverhongkong.com
 0.0.0.0 www.dlsite.com
 0.0.0.0 www.dominos.jp
 0.0.0.0 www.dot-st.com
@@ -1072,6 +1084,7 @@
 0.0.0.0 www.hakuaisha.jp
 0.0.0.0 www.hamada-juku.com
 0.0.0.0 www.hamigaki.gr.jp
+0.0.0.0 www.hanashinkumi.com
 0.0.0.0 www.hanazonohifuku.com
 0.0.0.0 www.hankyu.co.jp
 0.0.0.0 www.hannan-u.ac.jp
@@ -1182,9 +1195,11 @@
 0.0.0.0 www.kobe.coop.or.jp
 0.0.0.0 www.kobegakuin.ac.jp
 0.0.0.0 www.kobetsu.co.jp
+0.0.0.0 www.kodomo-poster2024.metro.tokyo.lg.jp
 0.0.0.0 www.kodomoseisaku.metro.tokyo.lg.jp
 0.0.0.0 www.koi-para.net
 0.0.0.0 www.kominami.co.jp
+0.0.0.0 www.konami.com
 0.0.0.0 www.konoike.ac.jp
 0.0.0.0 www.ksdh.or.jp
 0.0.0.0 www.ktv.jp
@@ -1270,6 +1285,7 @@
 0.0.0.0 www.nissui.co.jp
 0.0.0.0 www.noa-yoga.com
 0.0.0.0 www.noapilates.jp
+0.0.0.0 www.nondact89.com
 0.0.0.0 www.nordsonmedical.com
 0.0.0.0 www.notalone-cao.go.jp
 0.0.0.0 www.nrj.ac.jp
@@ -1314,6 +1330,7 @@
 0.0.0.0 www.plan-c.co.jp
 0.0.0.0 www.playstation.com
 0.0.0.0 www.pluscasa.com
+0.0.0.0 www.pocketfolder.co.jp
 0.0.0.0 www.poll-tex.com.tw
 0.0.0.0 www.popy.jp
 0.0.0.0 www.porsche.co.jp
@@ -1373,6 +1390,7 @@
 0.0.0.0 www.shikishima-town.com
 0.0.0.0 www.shimonjuku.com
 0.0.0.0 www.shinkyogaoka.jp
+0.0.0.0 www.shinkyokushinkai.co.jp
 0.0.0.0 www.shinmeishin-info.com
 0.0.0.0 www.shinwaclimb.jp
 0.0.0.0 www.shionogi.com
