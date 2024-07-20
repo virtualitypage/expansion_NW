@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 19 July 2024
+# Last modified: 20 July 2024
 #
 
 # [広告全般]
@@ -88,6 +88,7 @@
 0.0.0.0 biz.kddi.com
 0.0.0.0 bizreach.biz
 0.0.0.0 bmccancer.biomedcentral.com
+0.0.0.0 boatzon.com
 0.0.0.0 bobcard.co.in
 0.0.0.0 bodyshop-fukuhisa.com
 0.0.0.0 booking.pacificgolf.co.jp
@@ -176,6 +177,7 @@
 0.0.0.0 egolf.jp
 0.0.0.0 ehime-sancyoku-premium.com
 0.0.0.0 ehime.dd.daihatsu.co.jp
+0.0.0.0 eightdesign.jp
 0.0.0.0 eiko-juken.net
 0.0.0.0 emifull.jp
 0.0.0.0 enemacoffeereview.com
@@ -210,6 +212,7 @@
 0.0.0.0 forms.office.com
 0.0.0.0 fortune-moon.net
 0.0.0.0 four-foods.com
+0.0.0.0 fptsoftware.jp
 0.0.0.0 franomista.tohogas.co.jp
 0.0.0.0 friday.gold
 0.0.0.0 fs3.just.edu.tw
@@ -301,6 +304,7 @@
 0.0.0.0 hoken-sweet.com
 0.0.0.0 hokuyu-ryokuti.com
 0.0.0.0 home-design-schmidt.uk
+0.0.0.0 hondacars.link
 0.0.0.0 honkaku-coco.com
 0.0.0.0 horseracing-tipsters.biz
 0.0.0.0 hoshi.cocoloni.jp
@@ -337,6 +341,7 @@
 0.0.0.0 ito-ec.jp
 0.0.0.0 itunes.apple.com
 0.0.0.0 iyec.itoyokado.co.jp
+0.0.0.0 izumozine.jp
 0.0.0.0 j-prime.jp
 0.0.0.0 ja.couponpac.com
 0.0.0.0 ja.popsilla.com
@@ -507,6 +512,7 @@
 0.0.0.0 news.chu.edu.tw
 0.0.0.0 newsphere.jp
 0.0.0.0 next-one-dream.com
+0.0.0.0 nextengineer-benext.jp
 0.0.0.0 ngdl.jp
 0.0.0.0 nihonjyuutaku.co.jp
 0.0.0.0 niit-oc.com
@@ -589,6 +595,7 @@
 0.0.0.0 register.hfm.com
 0.0.0.0 rekisiru.com
 0.0.0.0 relax-job.com
+0.0.0.0 renoman-shinjuku.com
 0.0.0.0 rescue-suido.com
 0.0.0.0 retail.ksp-sp.com
 0.0.0.0 retailers.landrover.co.jp
@@ -658,6 +665,7 @@
 0.0.0.0 sb.kyysmahavidyalaya.com
 0.0.0.0 sb.matsuge2023.net
 0.0.0.0 sb.mycute.tokyo
+0.0.0.0 sb.neu-s.com
 0.0.0.0 sb.nice-news.net
 0.0.0.0 sb2.juku.st
 0.0.0.0 scenery-bi.com
@@ -784,6 +792,7 @@
 0.0.0.0 torcroftlodges.com
 0.0.0.0 tosei-hotel.co.jp
 0.0.0.0 toushi-up.com
+0.0.0.0 towa-corp.net
 0.0.0.0 toyama-ryoushin.info
 0.0.0.0 toyokeizai.net
 0.0.0.0 toyonishi-store.com
@@ -801,6 +810,7 @@
 0.0.0.0 twoshotmoon.click
 0.0.0.0 twpass.tw
 0.0.0.0 tyuju.mabuchi.co.jp
+0.0.0.0 u-adviser.jp
 0.0.0.0 uchimura.e-kagu.in
 0.0.0.0 uenui.com
 0.0.0.0 uetani-clinic.com
@@ -1289,6 +1299,7 @@
 0.0.0.0 www.nekonote-saijo.com
 0.0.0.0 www.netbk.co.jp
 0.0.0.0 www.newart.co.jp
+0.0.0.0 www.nextfactory.jp
 0.0.0.0 www.nfu.ne.jp
 0.0.0.0 www.ngk.co.jp
 0.0.0.0 www.nhow-hotels.com
@@ -1370,6 +1381,7 @@
 0.0.0.0 www.rengo-aichi.or.jp
 0.0.0.0 www.reply.com
 0.0.0.0 www.repohappy.com
+0.0.0.0 www.ricoland.co.jp
 0.0.0.0 www.riken-hochoki.com
 0.0.0.0 www.riseisha.ac.jp
 0.0.0.0 www.rizaim.biz
