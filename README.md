@@ -1,4 +1,4 @@
-![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v1.5.1-blue?style=flat)
+![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v1.6.0-blue?style=flat)
 ![Release Date](https://img.shields.io/badge/Release_Date-July_14_2024-green?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualitypage/expansion_NW)
 
@@ -167,6 +167,8 @@ account default : gmail
 
 6. プロンプト上に何も表示されなければ完了です。
 
+---
+
 > ルーターからメール送信を行う(メール用のファイルを読み込んでメール送信)
 
 1. ターミナルを開いて SSH でルーターにログインします。
@@ -190,6 +192,8 @@ This is a test email.
 　`$ msmtp user@example.com < /etc/test.mail`
 
 4. プロンプト上に何も表示されなければ完了です。
+
+---
 
 > ルーターからメール送信を行う(添付ファイルを挿入)
 
@@ -275,6 +279,8 @@ config system
 
 5. ログが表示されなくなれば完了です。　
 
+---
+
 > 毎分出力されるログを解決する(通常の cron ログを表示しつつ、該当のログを非表示にする) *再起動時、本設定がリセットされるため再設定が必要
 
 1. ターミナルを開いて SSH でルーターにログインします。
@@ -320,6 +326,58 @@ config system
 　`$ /etc/init.d/cron reload`
 
 5. ログが表示されなくなれば完了です。
+
+---
+
+> GL-MT3000 でインターネットに接続できない
+
+1. http://192.168.8.1/#/clients にて、対象のホストのプライベート IP アドレスが表示されているか確認します。 *表示されていない場合、 DHCP サーバに原因があると思われます。
+
+2. ターミナルを開いて SSH でルーターにログインします。
+
+　`$ ssh root@{ip_address|host_name}`
+
+3. 以下のコマンドを実行して DHCP サーバーの静的リースを設定します。ここでは接続できないホストを登録して下さい。
+
+　`$ vi /etc/config/dhcp`
+
+```
+config host
+	option name 'host_name'
+	option mac '00:11:22:33:44:55'
+	option ip 'ip_address'
+```
+
+4. dnsmasq のログにて DHCP リースのリクエストとレスポンスが正しく行われているか確認します。 *表示されない場合、数分経過後に再度実行して下さい。
+
+　`$ logread | grep dnsmasq-dhcp`
+
+```
+YYYY/MM/DD HH24:MI:SS.FF daemon.info dnsmasq-dhcp[12345]: DHCPDISCOVER(br-lan) ip_address 00:11:22:33:44:55
+YYYY/MM/DD HH24:MI:SS.FF daemon.info dnsmasq-dhcp[12345]: DHCPOFFER(br-lan) ip_address 00:11:22:33:44:55
+YYYY/MM/DD HH24:MI:SS.FF daemon.info dnsmasq-dhcp[12345]: DHCPREQUEST(br-lan) ip_address 00:11:22:33:44:55
+YYYY/MM/DD HH24:MI:SS.FF daemon.info dnsmasq-dhcp[12345]: DHCPACK(br-lan) ip_address 00:11:22:33:44:55 host_name
+```
+
+5. DHCP サーバーを再起動します。
+
+　`$ /etc/init.d/dnsmasq restart`
+
+6. http://192.168.8.1/cgi-bin/luci/admin/network/dhcp に移動します。
+
+7. "Network" > "Static Leases" の "Active DHCP Leases" に DHCP リースが登録されているか確認します。
+
+* 以下のファイルでも DHCP リースの登録が確認できます。
+
+　`$ cat /tmp/dhcp.leases`
+
+```
+1234567890 00:11:22:33:44:55 ip_address host_name 00:11:22:33:44:55
+```
+
+* 登録されたホスト名に既存のホストや半角スペース等が含まれている場合 "Expecting: valid hostname" となり、これが原因で正しく動作しない可能性があります。
+
+* DHCP サーバーを再起動するだけでもこの問題が解決するという仮説があります。
 
 ## Management Rules
 
