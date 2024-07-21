@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 20 July 2024
+# Last modified: 21 July 2024
 #
 
 # [広告全般]
@@ -21,6 +21,7 @@
 0.0.0.0 a-cashing.com
 0.0.0.0 a-stock-trade-2024.jp
 0.0.0.0 abovejapan.top
+0.0.0.0 ac-kobo.jp
 0.0.0.0 accel-japan.com
 0.0.0.0 acehandymanfranchising.com
 0.0.0.0 achieve.atimes.co.jp
@@ -291,6 +292,7 @@
 0.0.0.0 hi-door.jp
 0.0.0.0 hijutaku.j-anshin.co.jp
 0.0.0.0 hikaku-rank.net
+0.0.0.0 hinata.me
 0.0.0.0 hirakata-ryutsu.com
 0.0.0.0 hiranomusic.tokyo
 0.0.0.0 hirose-fx.co.jp
@@ -332,6 +334,7 @@
 0.0.0.0 info.fishernantucket.com
 0.0.0.0 info.nikkeibp.co.jp
 0.0.0.0 info.uopochi.jp
+0.0.0.0 infocp.syngenta.co.jp
 0.0.0.0 insta-beauty.net
 0.0.0.0 investor-a.com
 0.0.0.0 investsspot.com
@@ -787,6 +790,7 @@
 0.0.0.0 toho-imazu.jp
 0.0.0.0 tohoku-kizunamatsuri.jp
 0.0.0.0 tomei-riso.jp
+0.0.0.0 tomei.c-nexco.co.jp
 0.0.0.0 tomishiyaku.net
 0.0.0.0 toptoon.jp
 0.0.0.0 torcroftlodges.com
@@ -847,6 +851,7 @@
 0.0.0.0 web.pref.hyogo.lg.jp
 0.0.0.0 webcast.net-ir.ne.jp
 0.0.0.0 webdesk.jsa.or.jp
+0.0.0.0 webstore.ansi.org
 0.0.0.0 wedding.mynavi.jp
 0.0.0.0 wellbeing.kirin.co.jp
 0.0.0.0 whisper-lagoon.info
@@ -1013,6 +1018,7 @@
 0.0.0.0 www.ctbcinvestments.com
 0.0.0.0 www.cw-x.jp
 0.0.0.0 www.cw.com.tw
+0.0.0.0 www.daigakujuken.com
 0.0.0.0 www.daimaru.co.jp
 0.0.0.0 www.dainiti.co.jp
 0.0.0.0 www.daisenham.com
@@ -1034,6 +1040,7 @@
 0.0.0.0 www.e-fitpro.jp
 0.0.0.0 www.e-hapi.com
 0.0.0.0 www.e-hc.com
+0.0.0.0 www.e-kochoran.com
 0.0.0.0 www.ecnex.jp
 0.0.0.0 www.edion.com
 0.0.0.0 www.edix-expo.jp
@@ -1485,6 +1492,7 @@
 0.0.0.0 www.tgsc.tokyo
 0.0.0.0 www.the-cushion.com
 0.0.0.0 www.thepiel.com
+0.0.0.0 www.thermondo.de
 0.0.0.0 www.ticketlife.jp
 0.0.0.0 www.tiger-corporation.com
 0.0.0.0 www.tirepit.jp
@@ -1526,11 +1534,13 @@
 0.0.0.0 www.unzen-mikado.net
 0.0.0.0 www.uqwimax.jp
 0.0.0.0 www.ur-net.go.jp
+0.0.0.0 www.urban-izumiku.co.jp
 0.0.0.0 www.urban-research.jp
 0.0.0.0 www.us-owners.com
 0.0.0.0 www.usaycompare.co.uk
 0.0.0.0 www.uscloud.com
 0.0.0.0 www.utsuwayayuuyuu.com
+0.0.0.0 www.visartscenter.org
 0.0.0.0 www.visitjackson.com
 0.0.0.0 www.voat.co.jp
 0.0.0.0 www.voyager.co.jp
