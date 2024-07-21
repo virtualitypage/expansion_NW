@@ -1,4 +1,4 @@
-![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v1.6.0-blue?style=flat)
+![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v1.6.1-blue?style=flat)
 ![Release Date](https://img.shields.io/badge/Release_Date-July_14_2024-green?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualitypage/expansion_NW)
 
@@ -375,9 +375,16 @@ YYYY/MM/DD HH24:MI:SS.FF daemon.info dnsmasq-dhcp[12345]: DHCPACK(br-lan) ip_add
 1234567890 00:11:22:33:44:55 ip_address host_name 00:11:22:33:44:55
 ```
 
-* 登録されたホスト名に既存のホストや半角スペース等が含まれている場合 "Expecting: valid hostname" となり、これが原因で正しく動作しない可能性があります。
+* DHCP サーバーを再起動するだけでもこの問題が解決した事例有り
 
-* DHCP サーバーを再起動するだけでもこの問題が解決するという仮説があります。
+　`$ /etc/init.d/dnsmasq restart`
+
+　`$ logread | grep dnsmasq-dhcp`
+
+```
+YYYY/MM/DD HH24:MI:SS.FF daemon.info dnsmasq-dhcp[12345]: DHCPREQUEST(br-lan) ip_address 00:11:22:33:44:55
+YYYY/MM/DD HH24:MI:SS.FF daemon.info dnsmasq-dhcp[12345]: DHCPACK(br-lan) ip_address 00:11:22:33:44:55 host_name
+```
 
 ## Management Rules
 
