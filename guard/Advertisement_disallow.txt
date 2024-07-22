@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 21 July 2024
+# Last modified: 22 July 2024
 #
 
 # [広告全般]
@@ -62,6 +62,7 @@
 0.0.0.0 apz-spa.com
 0.0.0.0 aqua-has.com
 0.0.0.0 art-logis.com
+0.0.0.0 art-mocha.net
 0.0.0.0 artgabbeh.com
 0.0.0.0 aruyo22.jp
 0.0.0.0 asbestos-osaka.jp
@@ -79,6 +80,7 @@
 0.0.0.0 be-epilogue.jp
 0.0.0.0 be-win.co.jp
 0.0.0.0 beacon.sp.gmossp-sp.jp
+0.0.0.0 belindaclinic-shinjuku.net
 0.0.0.0 bengoshihoken-zero.jp
 0.0.0.0 beperch.com
 0.0.0.0 betterstack.com
@@ -182,6 +184,7 @@
 0.0.0.0 eiko-juken.net
 0.0.0.0 emifull.jp
 0.0.0.0 enemacoffeereview.com
+0.0.0.0 energy-kyoiku.meti.go.jp
 0.0.0.0 enfant.living.jp
 0.0.0.0 enjoy-sidework.com
 0.0.0.0 entrata-chayamachi.com
@@ -387,6 +390,7 @@
 0.0.0.0 kachi-doki.jp
 0.0.0.0 kadota.biz
 0.0.0.0 kai-z.net
+0.0.0.0 kaigo-ma.com
 0.0.0.0 kaitori.brandoff.co.jp
 0.0.0.0 kaitoribuyer.com
 0.0.0.0 kakuyomu.jp
@@ -592,6 +596,8 @@
 0.0.0.0 ranzu.jp
 0.0.0.0 rasik.style
 0.0.0.0 re-katsu.jp
+0.0.0.0 realplace-net.com
+0.0.0.0 recruit.tsukui.net
 0.0.0.0 refine-midori.net
 0.0.0.0 regimentvalkyrie.com
 0.0.0.0 register-form.movabletype.io
@@ -714,6 +720,7 @@
 0.0.0.0 skyle.jp
 0.0.0.0 slash-fishing.jp
 0.0.0.0 sleepytofu.co.jp
+0.0.0.0 smart-supply.org
 0.0.0.0 smile-bin.com
 0.0.0.0 smile-zemi.jp
 0.0.0.0 smilepack.jp
@@ -726,6 +733,7 @@
 0.0.0.0 soracom.jp
 0.0.0.0 soramamekids.com
 0.0.0.0 sos-pc.kingsgroupgames.com
+0.0.0.0 sosokan-shop.net
 0.0.0.0 sotokoto-online.jp
 0.0.0.0 souda-kyoto.jp
 0.0.0.0 southernlift.com
@@ -857,6 +865,7 @@
 0.0.0.0 whisper-lagoon.info
 0.0.0.0 widgets.taxel.jp
 0.0.0.0 withonline.jp
+0.0.0.0 woman-lifecp.metro.tokyo.lg.jp
 0.0.0.0 woman.chintai
 0.0.0.0 wooparoo.hangame.com
 0.0.0.0 work-holiday.mhlw.go.jp
@@ -1145,6 +1154,7 @@
 0.0.0.0 www.home.saxo
 0.0.0.0 www.honda.co.jp
 0.0.0.0 www.hondaism.com
+0.0.0.0 www.horidashi.jp
 0.0.0.0 www.hotpepper.jp
 0.0.0.0 www.hotstaff.co.jp
 0.0.0.0 www.howabank.co.jp
@@ -1163,6 +1173,7 @@
 0.0.0.0 www.imokin.jp
 0.0.0.0 www.incantojp.com
 0.0.0.0 www.ines-web.com
+0.0.0.0 www.inic-market.com
 0.0.0.0 www.innocalsolutions.com
 0.0.0.0 www.innodisk.com
 0.0.0.0 www.ins-saison.co.jp
@@ -1229,6 +1240,7 @@
 0.0.0.0 www.kodomo-poster2024.metro.tokyo.lg.jp
 0.0.0.0 www.kodomoseisaku.metro.tokyo.lg.jp
 0.0.0.0 www.koi-para.net
+0.0.0.0 www.kokushikan.ac.jp
 0.0.0.0 www.kominami.co.jp
 0.0.0.0 www.konami.com
 0.0.0.0 www.konoike.ac.jp
@@ -1247,6 +1259,7 @@
 0.0.0.0 www.livable.co.jp
 0.0.0.0 www.lixil.co.jp
 0.0.0.0 www.logicool.co.jp
+0.0.0.0 www.loperaio.co.jp
 0.0.0.0 www.lpio.jp
 0.0.0.0 www.lululemon.co.jp
 0.0.0.0 www.luxalgo.com
@@ -1278,6 +1291,7 @@
 0.0.0.0 www.mikimoto.com
 0.0.0.0 www.milktokyo.org
 0.0.0.0 www.miolaw.jp
+0.0.0.0 www.miraikoji.com
 0.0.0.0 www.misawa.co.jp
 0.0.0.0 www.mitsubishi-motors.co.jp
 0.0.0.0 www.mitsui.com
@@ -1293,6 +1307,7 @@
 0.0.0.0 www.monocompany.com
 0.0.0.0 www.morimotocon.co.jp
 0.0.0.0 www.morinobrand-store.com
+0.0.0.0 www.ms-ins.com
 0.0.0.0 www.mules.jp
 0.0.0.0 www.mystino.jp
 0.0.0.0 www.nagasakistadiumcity.com
@@ -1371,6 +1386,7 @@
 0.0.0.0 www.porsche.co.jp
 0.0.0.0 www.prada.com
 0.0.0.0 www.prageru.com
+0.0.0.0 www.pref.kochi.lg.jp
 0.0.0.0 www.premiumoutlets.co.jp
 0.0.0.0 www.princehotels.co.jp
 0.0.0.0 www.proyang.com.tw
@@ -1585,6 +1601,7 @@
 0.0.0.0 yamawake-estate.jp
 0.0.0.0 yanase-audi.com
 0.0.0.0 youin.jp
+0.0.0.0 youngjump.jp
 0.0.0.0 ypa.localab.net
 0.0.0.0 ys-plan.jp.net
 0.0.0.0 yutaka-tomonokai.jp
