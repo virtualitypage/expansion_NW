@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 23 July 2024
+# Last modified: 24 July 2024
 #
 
 # [広告全般]
@@ -80,9 +80,11 @@
 0.0.0.0 be-epilogue.jp
 0.0.0.0 be-win.co.jp
 0.0.0.0 beacon.sp.gmossp-sp.jp
+0.0.0.0 beautiful-life-style.com
 0.0.0.0 belindaclinic-shinjuku.net
 0.0.0.0 bengoshihoken-zero.jp
 0.0.0.0 beperch.com
+0.0.0.0 best-ai-forecasta.online
 0.0.0.0 betterstack.com
 0.0.0.0 bianshack.com
 0.0.0.0 bighornlaw.com
@@ -120,6 +122,7 @@
 0.0.0.0 cguardian-japan.netlify.app
 0.0.0.0 chirashi.akachan.jp
 0.0.0.0 chuko-noki.com
+0.0.0.0 chuwincle.co.jp
 0.0.0.0 citizen.jp
 0.0.0.0 citymonthly.jp
 0.0.0.0 clean-labo.net
@@ -220,6 +223,7 @@
 0.0.0.0 four-foods.com
 0.0.0.0 fptsoftware.jp
 0.0.0.0 franomista.tohogas.co.jp
+0.0.0.0 freedom.co.jp
 0.0.0.0 friday.gold
 0.0.0.0 fs3.just.edu.tw
 0.0.0.0 fsi-plusf.jp
@@ -614,6 +618,7 @@
 0.0.0.0 register.hfm.com
 0.0.0.0 rekisiru.com
 0.0.0.0 relax-job.com
+0.0.0.0 renata-clinic.com
 0.0.0.0 renoman-shinjuku.com
 0.0.0.0 rescue-suido.com
 0.0.0.0 retail.ksp-sp.com
@@ -989,6 +994,7 @@
 0.0.0.0 www.cameranonaniwa.co.jp
 0.0.0.0 www.canadycanady.com
 0.0.0.0 www.canva.com
+0.0.0.0 www.capital-gp.jp
 0.0.0.0 www.car-byebuy.com
 0.0.0.0 www.carappo-official.com
 0.0.0.0 www.careerlinkfactory.co.jp
@@ -1050,6 +1056,7 @@
 0.0.0.0 www.deaf-tryout24.para-athlete.tokyo
 0.0.0.0 www.decorte.com
 0.0.0.0 www.denray.com
+0.0.0.0 www.digital.go.jp
 0.0.0.0 www.diningmaison.jp
 0.0.0.0 www.discoverhongkong.com
 0.0.0.0 www.dlsite.com
@@ -1226,6 +1233,7 @@
 0.0.0.0 www.johoku.ac.jp
 0.0.0.0 www.jpcast.japanpost.jp
 0.0.0.0 www.jps-pharm.com
+0.0.0.0 www.jreast.co.jp
 0.0.0.0 www.jri.co.jp
 0.0.0.0 www.jsy.jp
 0.0.0.0 www.julliaolger.jp
@@ -1328,6 +1336,7 @@
 0.0.0.0 www.morinobrand-store.com
 0.0.0.0 www.ms-ins.com
 0.0.0.0 www.mules.jp
+0.0.0.0 www.myremi.com
 0.0.0.0 www.mystino.jp
 0.0.0.0 www.nagasakistadiumcity.com
 0.0.0.0 www.nagoya-bengoshi.info
@@ -1394,6 +1403,7 @@
 0.0.0.0 www.parkhotelgroup.com
 0.0.0.0 www.pc-webzine.com
 0.0.0.0 www.personalhealth.jp
+0.0.0.0 www.pet-coo.com
 0.0.0.0 www.peugeot.co.jp
 0.0.0.0 www.phiten.com
 0.0.0.0 www.photoruction.com
@@ -1417,6 +1427,7 @@
 0.0.0.0 www.qtmobile.jp
 0.0.0.0 www.r-ac.co.jp
 0.0.0.0 www.r-staffing.co.jp
+0.0.0.0 www.racingmaster.game
 0.0.0.0 www.radishbo-ya.co.jp
 0.0.0.0 www.recx.jp
 0.0.0.0 www.redstoneonline.jp
@@ -1458,6 +1469,7 @@
 0.0.0.0 www.sercanto.co.uk
 0.0.0.0 www.shabu-yuzuan.jp
 0.0.0.0 www.shadow-garden-mog.jp
+0.0.0.0 www.shigotoarimasu.com
 0.0.0.0 www.shikaku.co.jp
 0.0.0.0 www.shikishima-town.com
 0.0.0.0 www.shimonjuku.com
@@ -1582,6 +1594,7 @@
 0.0.0.0 www.voat.co.jp
 0.0.0.0 www.voyager.co.jp
 0.0.0.0 www.wa-kukan-life.com
+0.0.0.0 www.waf-seminar.de
 0.0.0.0 www.waiper.co.jp
 0.0.0.0 www.wasedajuku.com
 0.0.0.0 www.washingtonhotel.co.jp
