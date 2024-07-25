@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 24 July 2024
+# Last modified: 25 July 2024
 #
 
 # [広告全般]
@@ -250,6 +250,7 @@
 0.0.0.0 geo.8984.jp
 0.0.0.0 getnews.jp
 0.0.0.0 ghibli-park.jp
+0.0.0.0 gion-museum.com
 0.0.0.0 glampicks.jp
 0.0.0.0 global.jr-central.co.jp
 0.0.0.0 globalxetfs.co.jp
@@ -416,6 +417,7 @@
 0.0.0.0 kenminforum-aomori.com
 0.0.0.0 kens-smile.com
 0.0.0.0 kensetsutenshokunavi.jp
+0.0.0.0 kentei.tokyo-cci.or.jp
 0.0.0.0 key-security.jp
 0.0.0.0 kichi.bar
 0.0.0.0 kimono-ice.com
@@ -763,6 +765,7 @@
 0.0.0.0 ssr.abemashopping.jp
 0.0.0.0 static.hfm.com
 0.0.0.0 stockedges.com
+0.0.0.0 store-jp.nintendo.com
 0.0.0.0 store.alpen-group.jp
 0.0.0.0 store.sanyo-shokai.co.jp
 0.0.0.0 store.shopping.yahoo.co.jp
@@ -832,6 +835,7 @@
 0.0.0.0 transformation-showcase.com
 0.0.0.0 travel.willer.co.jp
 0.0.0.0 trophylv.com
+0.0.0.0 tropical-hawaiianfestival.jp
 0.0.0.0 trubridge.com
 0.0.0.0 truckland.jp
 0.0.0.0 tsugunavi.funaisoken.co.jp
@@ -908,6 +912,7 @@
 0.0.0.0 www.a-living.jp
 0.0.0.0 www.a-one.co.jp
 0.0.0.0 www.able.co.jp
+0.0.0.0 www.accenture.com
 0.0.0.0 www.aceeatserve.com
 0.0.0.0 www.actus-tenjin.com
 0.0.0.0 www.aderans.co.jp
@@ -951,6 +956,7 @@
 0.0.0.0 www.asahi-netshop.com
 0.0.0.0 www.asics.com
 0.0.0.0 www.askul.co.jp
+0.0.0.0 www.asphaltgame.com
 0.0.0.0 www.asteria.com
 0.0.0.0 www.at-contact.jp
 0.0.0.0 www.at-hyogo.jp
@@ -1223,6 +1229,7 @@
 0.0.0.0 www.jf-pearl-ehime.com
 0.0.0.0 www.jftc.go.jp
 0.0.0.0 www.jhf.go.jp
+0.0.0.0 www.jhl.co.jp
 0.0.0.0 www.jinrayworld.com
 0.0.0.0 www.jitbox.co.jp
 0.0.0.0 www.jka-cycle.jp
@@ -1265,6 +1272,7 @@
 0.0.0.0 www.kodomo-poster2024.metro.tokyo.lg.jp
 0.0.0.0 www.kodomoseisaku.metro.tokyo.lg.jp
 0.0.0.0 www.koi-para.net
+0.0.0.0 www.kokokara-care.com
 0.0.0.0 www.kokushikan.ac.jp
 0.0.0.0 www.kominami.co.jp
 0.0.0.0 www.konami.com
@@ -1331,9 +1339,11 @@
 0.0.0.0 www.momak.go.jp
 0.0.0.0 www.momoshop.com.tw
 0.0.0.0 www.monextrust.co.jp
+0.0.0.0 www.monkiara.com
 0.0.0.0 www.monocompany.com
 0.0.0.0 www.morimotocon.co.jp
 0.0.0.0 www.morinobrand-store.com
+0.0.0.0 www.motherfarm.co.jp
 0.0.0.0 www.ms-ins.com
 0.0.0.0 www.mules.jp
 0.0.0.0 www.myremi.com
