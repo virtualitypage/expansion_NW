@@ -1,4 +1,4 @@
-![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v1.7.3-blue?style=flat)
+![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v1.8.0-blue?style=flat)
 ![Release Date](https://img.shields.io/badge/Release_Date-July_21_2024-green?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualitypage/expansion_NW)
 
@@ -430,7 +430,7 @@ remote: Please see https://docs.github.com/get-started/getting-started-with-git/
 fatal: Authentication failed for 'https://github.com/[Account_Name]/[Repository_Name].git/'
 ```
 
-1. GitHub への接続テストを行います。
+1. ターミナルを開いて GitHub への接続テストを行います。
 
 　`$ ssh -T git@github.com`
 
@@ -502,6 +502,54 @@ Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
 To github.com:[Account_Name]/[Repository_Name].git
  + 9h0i1j2...5e6f7g8 release_{month}_week_{1-5} -> release_{month}_week_{1-5} (forced update)
 ```
+
+---
+
+> "GitHub Desktop.app" で "Push" 時に認証エラーが出る
+
+```
+Authentication failed. Some common reasons include:
+
+- You are not logged in to your account: see GitHub Desktop > Settings.
+- You may need to log out and log back in to refresh your token.
+- You do not have permission to access this repository.
+- The repository is archived on GitHub. Check the repository settings to confirm you are still permitted to push commits.
+- If you use SSH authentication, check that your key is added to the ssh-agent and associated with your account.
+- If you use SSH authentication, ensure the host key verification passes for your repository hosting service.
+- If you used username / password authentication, you might need to use a Personal Access Token instead of your account password. Check the documentation of your repository hosting service
+```
+
+* "id_ed25519" と "id_ed25519.pub" を変更した場合に発生します。
+
+```
+$ ssh -T git@github.com
+git@github.com: Permission denied (publickey).
+```
+
+1. ターミナルを開いて "known_hosts" ファイル内の "Github" を含む行を削除します。
+
+　`$ vi /Users/user/.ssh/known_hosts`
+
+2. "id_ed25519" と "id_ed25519.pub" を最新のものに置き換えます。
+
+　`$ vi /Users/user/.ssh/id_ed25519`
+
+　`$ vi /Users/user/.ssh/id_ed25519.pub`
+
+3. GitHub への接続テストを行います。
+
+　`$ ssh -T git@github.com`
+
+```
+The authenticity of host 'github.com (20.27.177.113)' can't be established.
+ED25519 key fingerprint is SHA256:+AbC1defG2HiJklmnOpqR/sTUV3wXYZaBcde4GhIKlL.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+Hi [Account_Name]! You've successfully authenticated, but GitHub does not provide shell access.
+```
+
+4. 上記のように表示されたら "GitHub Desktop.app" で "Push" が可能になります。
 
 ## Management Rules
 
@@ -640,7 +688,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
 
 ```
 Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
-Enter passphrase for key '/Users/rum/.ssh/id_ed25519':
+Enter passphrase for key '/Users/user/.ssh/id_ed25519':
 ```
 
 8. 以下のようなプロセスが開始・終了したらリポジトリのクローンは成功です。 *下記は一例です
