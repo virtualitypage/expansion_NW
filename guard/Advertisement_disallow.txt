@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 25 July 2024
+# Last modified: 26 July 2024
 #
 
 # [広告全般]
@@ -126,6 +126,7 @@
 0.0.0.0 citizen.jp
 0.0.0.0 citymonthly.jp
 0.0.0.0 clean-labo.net
+0.0.0.0 cloud.info.asics.com
 0.0.0.0 coachtech.site
 0.0.0.0 cocochicosme.com
 0.0.0.0 cocofull.net
@@ -285,12 +286,14 @@
 0.0.0.0 haleo.jp
 0.0.0.0 hamamatudietriseone.site
 0.0.0.0 hamanocontact-multifocal.com
+0.0.0.0 hamanocontact-nanbacity.com
 0.0.0.0 hamieru.co.jp
 0.0.0.0 hana-home.com
 0.0.0.0 hands.net
 0.0.0.0 haneda-shopping.jp
 0.0.0.0 happygift2.com
 0.0.0.0 harekuraray.com
+0.0.0.0 harmonies.kumon.ne.jp
 0.0.0.0 haseko-bp.jp
 0.0.0.0 hashibukuro.com
 0.0.0.0 hayatahome.com
@@ -492,6 +495,8 @@
 0.0.0.0 mb-hakata.com
 0.0.0.0 mecha-tok.com
 0.0.0.0 mechacomic.jp
+0.0.0.0 medical-kokokara.com
+0.0.0.0 medical-shinjuku.com
 0.0.0.0 medicalarts-amt.com
 0.0.0.0 megaten5.jp
 0.0.0.0 mei-ten.com
@@ -524,6 +529,7 @@
 0.0.0.0 mypetandi.elanco.com
 0.0.0.0 myscue.com
 0.0.0.0 nagoya.ace-clinic.com
+0.0.0.0 nakanodental-cl.com
 0.0.0.0 nestle.jp
 0.0.0.0 network.mobile.rakuten.co.jp
 0.0.0.0 netzfukuoka.jp
@@ -690,6 +696,7 @@
 0.0.0.0 sb.kindle-esxzg.com
 0.0.0.0 sb.kitagawa-investment.com
 0.0.0.0 sb.kyysmahavidyalaya.com
+0.0.0.0 sb.life-magazine.jp
 0.0.0.0 sb.matsuge2023.net
 0.0.0.0 sb.mycute.tokyo
 0.0.0.0 sb.neu-s.com
@@ -1021,6 +1028,7 @@
 0.0.0.0 www.chitetsu.co.jp
 0.0.0.0 www.chogin-nishi.com
 0.0.0.0 www.chugin.co.jp
+0.0.0.0 www.chuo-u.ac.jp
 0.0.0.0 www.cinemasunshine.co.jp
 0.0.0.0 www.citroen.jp
 0.0.0.0 www.citruspark-glamping.com
@@ -1062,6 +1070,7 @@
 0.0.0.0 www.deaf-tryout24.para-athlete.tokyo
 0.0.0.0 www.decorte.com
 0.0.0.0 www.denray.com
+0.0.0.0 www.digiraku.com
 0.0.0.0 www.digital.go.jp
 0.0.0.0 www.diningmaison.jp
 0.0.0.0 www.discoverhongkong.com
@@ -1188,6 +1197,7 @@
 0.0.0.0 www.hotstaff.co.jp
 0.0.0.0 www.howabank.co.jp
 0.0.0.0 www.htv.ne.jp
+0.0.0.0 www.hyo-med.ac.jp
 0.0.0.0 www.hyundai.com
 0.0.0.0 www.i-koike.jp
 0.0.0.0 www.ibexair.co.jp
@@ -1409,6 +1419,7 @@
 0.0.0.0 www.pachislot-summit.com
 0.0.0.0 www.pacificgolf.co.jp
 0.0.0.0 www.packstyle.jp
+0.0.0.0 www.panamedia.co.jp
 0.0.0.0 www.paris-miki.co.jp
 0.0.0.0 www.parkhotelgroup.com
 0.0.0.0 www.pc-webzine.com
@@ -1599,6 +1610,7 @@
 0.0.0.0 www.usaycompare.co.uk
 0.0.0.0 www.uscloud.com
 0.0.0.0 www.utsuwayayuuyuu.com
+0.0.0.0 www.valt-japan.com
 0.0.0.0 www.visartscenter.org
 0.0.0.0 www.visitjackson.com
 0.0.0.0 www.voat.co.jp
@@ -1610,6 +1622,7 @@
 0.0.0.0 www.washingtonhotel.co.jp
 0.0.0.0 www.watami-takushoku-direct.jp
 0.0.0.0 www.watsons.com.tw
+0.0.0.0 www.wb-ookura.com
 0.0.0.0 www.white-choco.top
 0.0.0.0 www.wickedthemusical.co.uk
 0.0.0.0 www.wing-rev.co.jp
@@ -1625,6 +1638,7 @@
 0.0.0.0 www.yawata.tv
 0.0.0.0 www.ykkap.co.jp
 0.0.0.0 www.yoka-mall.com
+0.0.0.0 www.yomiuriland.com
 0.0.0.0 www.yonoton.com
 0.0.0.0 www.yrl.com
 0.0.0.0 www.ytj.gr.jp
