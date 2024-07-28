@@ -1,5 +1,5 @@
-![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v1.6.1-blue?style=flat)
-![Release Date](https://img.shields.io/badge/Release_Date-July_14_2024-green?style=flat)
+![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v1.8.2-blue?style=flat)
+![Release Date](https://img.shields.io/badge/Release_Date-July_28_2024-green?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualitypage/expansion_NW)
 
 > Table of Contents
@@ -386,6 +386,171 @@ YYYY/MM/DD HH24:MI:SS.FF daemon.info dnsmasq-dhcp[12345]: DHCPREQUEST(br-lan) ip
 YYYY/MM/DD HH24:MI:SS.FF daemon.info dnsmasq-dhcp[12345]: DHCPACK(br-lan) ip_address 00:11:22:33:44:55 host_name
 ```
 
+---
+
+> 直前のコミットを取り消す
+
+1. ターミナルを開いて、カレントディレクトリを作業ディレクトリに変更します。
+
+　`$ cd [Repository_Name]`
+
+2. 以下のコマンドを実行して直前のコミットを取り消します。
+
+　`$ git reset --hard HEAD^`
+
+`HEAD is now at 1a2b3c4 [YYYY-mm-dd] {メッセージ} {ファイル名}`
+
+3. 直前のコミットが取り消されていることを確認します。
+
+　`$ git log`
+
+4. リモートリポジトリにローカルリポジトリの変更(直前のコミット取り消し)を適用します。
+
+　`$ git push origin release_{month}_week_{1-5} --force`
+
+```
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:[Account_Name]/[Repository_Name].git
+ + 9h0i1j2...5e6f7g8 release_{month}_week_{1-5} -> release_{month}_week_{1-5} (forced update)
+```
+
+---
+
+> 直前のコミット取り消しをリモートリポジトリに適用できない
+
+* リモートリポジトリにローカルリポジトリの変更(直前のコミット取り消し)適用時、以下のメッセージが出力される。
+
+　`$ git push origin release_{month}_week_{1-5} --force`
+
+```
+Username for 'https://github.com': [Account_Name]
+Password for 'https://[Account_Name]@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/[Account_Name]/[Repository_Name].git/'
+```
+
+1. ターミナルを開いて GitHub への接続テストを行います。
+
+　`$ ssh -T git@github.com`
+
+```
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+Someone could be eavesdropping on you right now (man-in-the-middle attack)!
+It is also possible that a host key has just been changed.
+The fingerprint for the RSA key sent by the remote host is
+SHA256:aBCdE1f2ghIjklm3no4PQ5sT6uVwxYZa78bCD90EfGh.
+Please contact your system administrator.
+Add correct host key in /Users/user/.ssh/known_hosts to get rid of this message.
+Offending RSA key in /Users/user/.ssh/known_hosts:1
+Host key for github.com has changed and you have requested strict checking.
+Host key verification failed.
+```
+
+2. "Offending RSA key in /Users/user/.ssh/known_hosts:1" で示された行を削除します。
+
+　`$ vi /Users/user/.ssh/known_hosts`
+
+3. [SSH to Github](#ssh-to-github) の手順1〜8までを実施します。
+
+4. SSH 設定ファイルを以下のように設定します。
+
+　`$ vi /Users/user/.ssh/config`
+
+```
+Host github.com
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_ed25519
+```
+
+5. リモート URL を SSH の URL に設定します。
+
+　`$ git remote set-url origin [Account_Name]@github.com:[Account_Name]/[Repository_Name].git`
+
+6. リモート URL の設定が正しいか確認します。
+
+　`$ git remote -v`
+
+```
+origin	git@github.com:[Account_Name]/[Repository_Name].git (fetch)
+origin	git@github.com:[Account_Name]/[Repository_Name].git (push)
+```
+
+7. 再度 GitHub への接続テストを行います。
+
+　`$ ssh -T git@github.com`
+
+```
+The authenticity of host 'github.com (20.27.177.113)' can't be established.
+ED25519 key fingerprint is SHA256:+AbC1defG2HiJklmnOpqR/sTUV3wXYZaBcde4GhIKlL.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+Hi [Account_Name]! You've successfully authenticated, but GitHub does not provide shell access.
+```
+
+8. リモートリポジトリにローカルリポジトリの変更(直前のコミット取り消し)を適用します。
+
+　`$ git push origin release_{month}_week_{1-5} --force`
+
+```
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:[Account_Name]/[Repository_Name].git
+ + 9h0i1j2...5e6f7g8 release_{month}_week_{1-5} -> release_{month}_week_{1-5} (forced update)
+```
+
+---
+
+> "GitHub Desktop.app" で "Push" 時に認証エラーが出る
+
+```
+Authentication failed. Some common reasons include:
+
+- You are not logged in to your account: see GitHub Desktop > Settings.
+- You may need to log out and log back in to refresh your token.
+- You do not have permission to access this repository.
+- The repository is archived on GitHub. Check the repository settings to confirm you are still permitted to push commits.
+- If you use SSH authentication, check that your key is added to the ssh-agent and associated with your account.
+- If you use SSH authentication, ensure the host key verification passes for your repository hosting service.
+- If you used username / password authentication, you might need to use a Personal Access Token instead of your account password. Check the documentation of your repository hosting service
+```
+
+* "id_ed25519" と "id_ed25519.pub" を変更した場合に発生します。
+
+```
+$ ssh -T git@github.com
+git@github.com: Permission denied (publickey).
+```
+
+1. ターミナルを開いて "known_hosts" ファイル内の "Github" を含む行を削除します。
+
+　`$ vi /Users/user/.ssh/known_hosts`
+
+2. "id_ed25519" と "id_ed25519.pub" を最新のものに置き換えます。
+
+　`$ vi /Users/user/.ssh/id_ed25519`
+
+　`$ vi /Users/user/.ssh/id_ed25519.pub`
+
+3. GitHub への接続テストを行います。
+
+　`$ ssh -T git@github.com`
+
+```
+The authenticity of host 'github.com (20.27.177.113)' can't be established.
+ED25519 key fingerprint is SHA256:+AbC1defG2HiJklmnOpqR/sTUV3wXYZaBcde4GhIKlL.
+This key is not known by any other names
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
+Hi [Account_Name]! You've successfully authenticated, but GitHub does not provide shell access.
+```
+
+4. 上記のように表示されたら "GitHub Desktop.app" で "Push" が可能になります。
+
 ## Management Rules
 
 > 本リポジトリでの作業を開始する前に
@@ -512,7 +677,7 @@ Key：　手順5で取得した SSH キーを貼り付け
 6. 初回接続、又は known_hosts に必要な情報が存在しない場合は以下のプロンプトが出力されます。接続するために "yes" を入力します。 *known_hosts ファイルに接続先サーバのIPアドレスやホスト名、公開鍵を保存します
 
 ```
-Cloning into 'expansion_NW'...
+Cloning into '[Repository_Name]'...
 The authenticity of host 'github.com (20.27.177.113)' can't be established.
 ED25519 key fingerprint is SHA256:+AbC1defG2HiJklmnOpqR/sTUV3wXYZaBcde4GhIKlL.
 This key is not known by any other names.
@@ -523,7 +688,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
 
 ```
 Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
-Enter passphrase for key '/Users/rum/.ssh/id_ed25519':
+Enter passphrase for key '/Users/user/.ssh/id_ed25519':
 ```
 
 8. 以下のようなプロセスが開始・終了したらリポジトリのクローンは成功です。 *下記は一例です
