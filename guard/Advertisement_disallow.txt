@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 27 July 2024
+# Last modified: 28 July 2024
 #
 
 # [広告全般]
@@ -41,6 +41,7 @@
 0.0.0.0 ai-koumuten.info
 0.0.0.0 alcon-contact.jp
 0.0.0.0 alcott-ordersuit.com
+0.0.0.0 alegria-ebisu.owst.jp
 0.0.0.0 alinamin-kenko.jp
 0.0.0.0 alinamin.jp
 0.0.0.0 allie-ai.kao-kirei.com
@@ -70,6 +71,7 @@
 0.0.0.0 atom-clinic.com
 0.0.0.0 atorifu-teradatyo.jp
 0.0.0.0 audi-tokai.com
+0.0.0.0 audika.jp
 0.0.0.0 awake-support.com
 0.0.0.0 axia-expo.nikkan.co.jp
 0.0.0.0 azaleanet.or.jp
@@ -123,6 +125,7 @@
 0.0.0.0 celvoke.com
 0.0.0.0 cguardian-japan.netlify.app
 0.0.0.0 chirashi.akachan.jp
+0.0.0.0 chouwasha.jp
 0.0.0.0 chuko-noki.com
 0.0.0.0 churashima.org
 0.0.0.0 chuwincle.co.jp
@@ -198,6 +201,7 @@
 0.0.0.0 enjoy-sidework.com
 0.0.0.0 entrata-chayamachi.com
 0.0.0.0 entrenet.jp
+0.0.0.0 eplan.jp
 0.0.0.0 eplus.jp
 0.0.0.0 esnet-tax.com
 0.0.0.0 estateliquidation-jp.life
@@ -256,6 +260,7 @@
 0.0.0.0 geo.8984.jp
 0.0.0.0 getnews.jp
 0.0.0.0 ghibli-park.jp
+0.0.0.0 gindaco-tsudanuma.owst.jp
 0.0.0.0 gion-museum.com
 0.0.0.0 glampicks.jp
 0.0.0.0 global.jr-central.co.jp
@@ -433,6 +438,7 @@
 0.0.0.0 kirei-info.com
 0.0.0.0 kirinuki.jp
 0.0.0.0 koala.com
+0.0.0.0 kobac-tenpaku01.nagoya
 0.0.0.0 kobe-u-clinic.jp
 0.0.0.0 kobe.dsautomobiles-dealer.jp
 0.0.0.0 koharubiyoricafe.jimdo.com
@@ -600,6 +606,7 @@
 0.0.0.0 petsougi.kensouji.com
 0.0.0.0 pingcap.co.jp
 0.0.0.0 pinklush.jp
+0.0.0.0 pitariko.jp
 0.0.0.0 pitat-house.info
 0.0.0.0 pitathouse-nishinagahori.jp
 0.0.0.0 platte.jp
@@ -621,6 +628,7 @@
 0.0.0.0 pspo.jp
 0.0.0.0 public-connect.jp
 0.0.0.0 q-one.jp
+0.0.0.0 q1st.jp
 0.0.0.0 qb-recruit.com
 0.0.0.0 qjin7.com
 0.0.0.0 quick-sidejob.com
@@ -707,6 +715,7 @@
 0.0.0.0 sb.best-fudosan-satei.com
 0.0.0.0 sb.claudia.co.jp
 0.0.0.0 sb.dioclinic-diet.com
+0.0.0.0 sb.ecnokamisama.com
 0.0.0.0 sb.kindle-esxzg.com
 0.0.0.0 sb.kitagawa-investment.com
 0.0.0.0 sb.kyysmahavidyalaya.com
@@ -737,6 +746,7 @@
 0.0.0.0 shigoto.amazon.co.jp
 0.0.0.0 shika-fujimoto-mouthpiece.hp.peraichi.com
 0.0.0.0 shikakucenter.com
+0.0.0.0 shima-corp.com
 0.0.0.0 shimane.dd.daihatsu.co.jp
 0.0.0.0 shingakunet.com
 0.0.0.0 shinjuku-4510.jp
@@ -781,6 +791,7 @@
 0.0.0.0 souzoku.t-bengo.com
 0.0.0.0 sp.otsuka-shokai.co.jp
 0.0.0.0 spicaglow.jp
+0.0.0.0 spikomi.net
 0.0.0.0 spopita.jp
 0.0.0.0 squareup.com
 0.0.0.0 ssl-system7.com
@@ -802,6 +813,7 @@
 0.0.0.0 sumaho-sousa.com
 0.0.0.0 sumai.es-conjapan.co.jp
 0.0.0.0 sumai.panasonic.jp
+0.0.0.0 sumisho-tatemono-chuukai.net
 0.0.0.0 super-copy-brand.com
 0.0.0.0 survey.qlifeweb.jp
 0.0.0.0 sus-recruit.com
@@ -903,6 +915,7 @@
 0.0.0.0 web.my-class.jp
 0.0.0.0 web.peugeot.co.jp
 0.0.0.0 web.pref.hyogo.lg.jp
+0.0.0.0 webagre.com
 0.0.0.0 webcast.net-ir.ne.jp
 0.0.0.0 webdesk.jsa.or.jp
 0.0.0.0 webstore.ansi.org
@@ -919,6 +932,7 @@
 0.0.0.0 wowclassic.blizzard.com
 0.0.0.0 wp.i-voce.jp
 0.0.0.0 www.0101.co.jp
+0.0.0.0 www.114154.com
 0.0.0.0 www.1memoria.com
 0.0.0.0 www.1stwise.com
 0.0.0.0 www.240.takeda.com
@@ -1044,6 +1058,7 @@
 0.0.0.0 www.check-roudou.mhlw.go.jp
 0.0.0.0 www.cheer-sec.co.jp
 0.0.0.0 www.chen-mama.com.tw
+0.0.0.0 www.chintai-raymond.jp
 0.0.0.0 www.chitetsu.co.jp
 0.0.0.0 www.chogin-nishi.com
 0.0.0.0 www.chugin.co.jp
@@ -1513,6 +1528,7 @@
 0.0.0.0 www.sekisuiheim.com
 0.0.0.0 www.sendai-bridalring.com
 0.0.0.0 www.sercanto.co.uk
+0.0.0.0 www.sgnavi.com
 0.0.0.0 www.shabu-yuzuan.jp
 0.0.0.0 www.shadow-garden-mog.jp
 0.0.0.0 www.shigotoarimasu.com
@@ -1574,6 +1590,7 @@
 0.0.0.0 www.tanaka-denki.co.jp
 0.0.0.0 www.tanakagakushukai.com
 0.0.0.0 www.tanoshii-ie.jp
+0.0.0.0 www.tanzo.jp
 0.0.0.0 www.tarou.co.jp
 0.0.0.0 www.tashiro-kankyo.com
 0.0.0.0 www.tdk.com
@@ -1582,6 +1599,7 @@
 0.0.0.0 www.teksystems.com
 0.0.0.0 www.tele.soumu.go.jp
 0.0.0.0 www.temu.com
+0.0.0.0 www.tenjikan.com
 0.0.0.0 www.tepco.co.jp
 0.0.0.0 www.tgn.co.jp
 0.0.0.0 www.tgsc.tokyo
@@ -1663,6 +1681,7 @@
 0.0.0.0 www.yamaha.co.jp
 0.0.0.0 www.yawata.tv
 0.0.0.0 www.ykkap.co.jp
+0.0.0.0 www.ymd-ssi.jp
 0.0.0.0 www.yoka-mall.com
 0.0.0.0 www.yomiuriland.com
 0.0.0.0 www.yonoton.com
@@ -1680,6 +1699,7 @@
 0.0.0.0 yacnee.co.jp
 0.0.0.0 yamadahomes.jp
 0.0.0.0 yamadahomes.resv.jp
+0.0.0.0 yamanashi.media
 0.0.0.0 yamashiro-onlinestore.com
 0.0.0.0 yamato-signage.com
 0.0.0.0 yamawake-estate.jp
