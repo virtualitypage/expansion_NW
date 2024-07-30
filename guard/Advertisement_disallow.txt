@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 29 July 2024
+# Last modified: 30 July 2024
 #
 
 # [広告全般]
@@ -126,6 +126,7 @@
 0.0.0.0 cguardian-japan.netlify.app
 0.0.0.0 chirashi.akachan.jp
 0.0.0.0 chouwasha.jp
+0.0.0.0 chugakujuken-kokugo.jp
 0.0.0.0 chuko-noki.com
 0.0.0.0 churashima.org
 0.0.0.0 chuwincle.co.jp
@@ -373,6 +374,7 @@
 0.0.0.0 izumozine.jp
 0.0.0.0 j-prime.jp
 0.0.0.0 ja-aichi-hearthome.net
+0.0.0.0 ja-aichichita.jp
 0.0.0.0 ja.couponpac.com
 0.0.0.0 ja.popsilla.com
 0.0.0.0 jewelry-girls.net
@@ -409,6 +411,7 @@
 0.0.0.0 jra-fun.jp
 0.0.0.0 jsite.mhlw.go.jp
 0.0.0.0 julius.co.jp
+0.0.0.0 jw-clear.com
 0.0.0.0 jyouhoudenshi.jp
 0.0.0.0 kabu.com
 0.0.0.0 kachi-doki.jp
@@ -416,6 +419,7 @@
 0.0.0.0 kai-z.net
 0.0.0.0 kaifuu.co.jp
 0.0.0.0 kaigo-ma.com
+0.0.0.0 kainuma.org
 0.0.0.0 kaitori.brandoff.co.jp
 0.0.0.0 kaitoribuyer.com
 0.0.0.0 kakuyomu.jp
@@ -451,6 +455,7 @@
 0.0.0.0 kottoukaitori-ohgiya.jp
 0.0.0.0 kouju.mabuchi.co.jp
 0.0.0.0 koukoukojitsu.com
+0.0.0.0 koundou.com
 0.0.0.0 koutoku.ac.jp
 0.0.0.0 kudan-tokyo.jp
 0.0.0.0 kuradashi.jp
@@ -511,6 +516,7 @@
 0.0.0.0 matsuyama.citroen-dealer.jp
 0.0.0.0 mayutan.com
 0.0.0.0 mb-hakata.com
+0.0.0.0 mcs-ainoie.com
 0.0.0.0 mecha-tok.com
 0.0.0.0 mechacomic.jp
 0.0.0.0 medical-kokokara.com
@@ -1216,6 +1222,7 @@
 0.0.0.0 www.hellermanntyton.co.jp
 0.0.0.0 www.helpfeel.com
 0.0.0.0 www.hemsleyfraser.com
+0.0.0.0 www.hepfive.jp
 0.0.0.0 www.hero-wars.com
 0.0.0.0 www.herz-bag.jp
 0.0.0.0 www.hfcfinance.com.tw
@@ -1240,6 +1247,7 @@
 0.0.0.0 www.hotpepper.jp
 0.0.0.0 www.hotstaff.co.jp
 0.0.0.0 www.howabank.co.jp
+0.0.0.0 www.hs.bgu.ac.jp
 0.0.0.0 www.htv.ne.jp
 0.0.0.0 www.hyo-med.ac.jp
 0.0.0.0 www.hyundai.com
@@ -1271,6 +1279,7 @@
 0.0.0.0 www.itmaster.jp
 0.0.0.0 www.j-urban.jp
 0.0.0.0 www.jabank-ehime.or.jp
+0.0.0.0 www.jabank.org
 0.0.0.0 www.jackery.jp
 0.0.0.0 www.jacksonhole.com
 0.0.0.0 www.jaguar.co.jp
@@ -1330,6 +1339,7 @@
 0.0.0.0 www.kokokara-care.com
 0.0.0.0 www.kokushikan.ac.jp
 0.0.0.0 www.kominami.co.jp
+0.0.0.0 www.konaka-jp.com
 0.0.0.0 www.konami.com
 0.0.0.0 www.konoike.ac.jp
 0.0.0.0 www.ksdh.or.jp
@@ -1354,6 +1364,7 @@
 0.0.0.0 www.luxalgo.com
 0.0.0.0 www.m-ams.co.jp
 0.0.0.0 www.magionet.co.jp
+0.0.0.0 www.malverncollegetokyo.jp
 0.0.0.0 www.mandarinoriental.com
 0.0.0.0 www.manga1.jp
 0.0.0.0 www.markandlona.com
@@ -1412,6 +1423,7 @@
 0.0.0.0 www.napolipizza.jp
 0.0.0.0 www.nec-lavie.jp
 0.0.0.0 www.nekonote-saijo.com
+0.0.0.0 www.nerima.co.jp
 0.0.0.0 www.netbk.co.jp
 0.0.0.0 www.newart.co.jp
 0.0.0.0 www.nextfactory.jp
@@ -1479,6 +1491,7 @@
 0.0.0.0 www.playstation.com
 0.0.0.0 www.pluscasa.com
 0.0.0.0 www.pocketfolder.co.jp
+0.0.0.0 www.poconnor.com
 0.0.0.0 www.poll-tex.com.tw
 0.0.0.0 www.popy.jp
 0.0.0.0 www.porsche.co.jp
@@ -1630,6 +1643,7 @@
 0.0.0.0 www.tokiomarineam.co.jp
 0.0.0.0 www.toko-corp.co.jp
 0.0.0.0 www.tokuyama-sc.jp
+0.0.0.0 www.tokyo-aff.or.jp
 0.0.0.0 www.tokyo-dome.co.jp
 0.0.0.0 www.tokyointerior.co.jp
 0.0.0.0 www.tokyoshigoto.jp
@@ -1716,6 +1730,7 @@
 0.0.0.0 yamawake-estate.jp
 0.0.0.0 yametaraeenen.com
 0.0.0.0 yanase-audi.com
+0.0.0.0 yhtop.co
 0.0.0.0 youin.jp
 0.0.0.0 youngjump.jp
 0.0.0.0 ypa.localab.net
@@ -1739,6 +1754,7 @@
 0.0.0.0 bank-loan-ranking.com
 0.0.0.0 beauty-related.site
 0.0.0.0 beet-agent.com
+0.0.0.0 belegend.jp
 0.0.0.0 bihadado.tokyo
 0.0.0.0 bike.katix.co.jp
 0.0.0.0 biz.moneyforward.com
@@ -1747,6 +1763,7 @@
 0.0.0.0 booklive.jp
 0.0.0.0 bookwalker.jp
 0.0.0.0 bridge.ka-shimo.com
+0.0.0.0 brilliantcrypto.net
 0.0.0.0 camp.orico.co.jp
 0.0.0.0 car-aqua-kochi.com
 0.0.0.0 career-town.net
@@ -1768,6 +1785,7 @@
 0.0.0.0 daredemo.tech
 0.0.0.0 direct.ajinomoto.co.jp
 0.0.0.0 directscout.recruit.co.jp
+0.0.0.0 dl-scp.bn-ent.net
 0.0.0.0 doda-x.jp
 0.0.0.0 doda.jp
 0.0.0.0 driveboss.automotive.panasonic.com
@@ -1786,6 +1804,7 @@
 0.0.0.0 go.sbisec.co.jp
 0.0.0.0 gohan.soudan-anshin.com
 0.0.0.0 gopro.com
+0.0.0.0 h5.g123.jp
 0.0.0.0 happyhackingkb.com
 0.0.0.0 heellot.com
 0.0.0.0 hinnhinnyaaa.com
@@ -1796,11 +1815,15 @@
 0.0.0.0 inet-sec.co.jp
 0.0.0.0 info.monex.co.jp
 0.0.0.0 instyle.jp
+0.0.0.0 item-comparison.com
 0.0.0.0 ivry.jp
 0.0.0.0 jalcard.jal.co.jp
 0.0.0.0 jobhouse.jp
 0.0.0.0 join.worldoftanks.asia
+0.0.0.0 jp.antelopeaudio.com
 0.0.0.0 jp.misumi-ec.com
+0.0.0.0 jp.muse-kiss.com
+0.0.0.0 jp.xgimi.com
 0.0.0.0 jpmall.rigol.com
 0.0.0.0 jpn.mizuno.com
 0.0.0.0 jra-fun.jp
@@ -1818,7 +1841,9 @@
 0.0.0.0 loan.kddi-fs.com
 0.0.0.0 loan.saisoncard.co.jp
 0.0.0.0 locca.premium-water.net
+0.0.0.0 lp.acom.co.jp
 0.0.0.0 lp.etvos.com
+0.0.0.0 lp.mikata-ins.co.jp
 0.0.0.0 lp.nuri-kae.jp
 0.0.0.0 lp.pso2.jp
 0.0.0.0 lp.resortbaito-dive.com
@@ -1828,12 +1853,14 @@
 0.0.0.0 macpaw.com
 0.0.0.0 malibusandals.jp
 0.0.0.0 masouken.com
+0.0.0.0 mifurusato.jp
 0.0.0.0 miidas.jp
 0.0.0.0 mimimamo.com
 0.0.0.0 minoxidil.hix-selfcheck.com
 0.0.0.0 miraiz-persol.jp
 0.0.0.0 moneykit.net
 0.0.0.0 mtg-jp.com
+0.0.0.0 mupla-ab3.com
 0.0.0.0 mynavi-agent.jp
 0.0.0.0 neem.ink
 0.0.0.0 nelture.com
@@ -1846,6 +1873,7 @@
 0.0.0.0 panasonic.jp
 0.0.0.0 pc-page.crowdlog.jp
 0.0.0.0 pl.finess.jp
+0.0.0.0 plant.ten-navi.com
 0.0.0.0 pmjp.playtoys.tv
 0.0.0.0 point.recruit.co.jp
 0.0.0.0 poki.com
@@ -1856,6 +1884,7 @@
 0.0.0.0 re-katsu.jp
 0.0.0.0 recruit-daiso.com
 0.0.0.0 recruit.kyodo-engine.com
+0.0.0.0 regain-suppli.jp
 0.0.0.0 rehab.cloud
 0.0.0.0 renta.papy.co.jp
 0.0.0.0 ritzwell.com
@@ -1867,6 +1896,7 @@
 0.0.0.0 sb.onet.co.jp
 0.0.0.0 sb.pluest.com
 0.0.0.0 sb.qlabo.blog
+0.0.0.0 sb.shop-yukimeg.jp
 0.0.0.0 sb.sukkiri-life.com
 0.0.0.0 sb.vitabrid.co.jp
 0.0.0.0 sb.yazuya.com
@@ -1898,16 +1928,20 @@
 0.0.0.0 utage-system.com
 0.0.0.0 utg.toushi-gp.jp
 0.0.0.0 vasco-translator.jp
+0.0.0.0 voice-actors-startup.com
 0.0.0.0 warthunder.com
 0.0.0.0 whohw.jp
 0.0.0.0 wm.openhouse-group.com
+0.0.0.0 www.241241.jp
 0.0.0.0 www.4510arte.jp
 0.0.0.0 www.7card.co.jp
+0.0.0.0 www.8190.jp
 0.0.0.0 www.894651.com
 0.0.0.0 www.adobe.com
 0.0.0.0 www.aeonretail.jp
 0.0.0.0 www.aflac.co.jp
 0.0.0.0 www.ageoforiginsgame.com
+0.0.0.0 www.aigan.co.jp
 0.0.0.0 www.analog.com
 0.0.0.0 www.axa-direct.co.jp
 0.0.0.0 www.beams.co.jp
@@ -1926,10 +1960,12 @@
 0.0.0.0 www.cyber-u.ac.jp
 0.0.0.0 www.designlearn.co.jp
 0.0.0.0 www.directone.co.jp
+0.0.0.0 www.dnp.co.jp
 0.0.0.0 www.evoto.ai
 0.0.0.0 www.fashion-t.com
 0.0.0.0 www.freebcc.com
 0.0.0.0 www.fruitfulenglish.com
+0.0.0.0 www.fudousann.info
 0.0.0.0 www.game4u.jp
 0.0.0.0 www.gaprsc.or.jp
 0.0.0.0 www.gnjp.org
@@ -1938,12 +1974,14 @@
 0.0.0.0 www.graniph.com
 0.0.0.0 www.hcloset.com
 0.0.0.0 www.herschedule.com
+0.0.0.0 www.hokusen.co.jp
 0.0.0.0 www.hongou.jp
 0.0.0.0 www.irobot-jp.com
 0.0.0.0 www.itohari.jp
 0.0.0.0 www.izotope.com
 0.0.0.0 www.jcb.co.jp
 0.0.0.0 www.jewelry-queen-shop.com
+0.0.0.0 www.jigsaw.jp
 0.0.0.0 www.jp.playblackdesert.com
 0.0.0.0 www.jvta.net
 0.0.0.0 www.kaneka-yhc.co.jp
@@ -1965,6 +2003,7 @@
 0.0.0.0 www.ni.com
 0.0.0.0 www.ntt.com
 0.0.0.0 www.onitsukatiger.com
+0.0.0.0 www.orixlife.co.jp
 0.0.0.0 www.oshigoto-info.com
 0.0.0.0 www.osoujihonpo-fc.com
 0.0.0.0 www.otonastyle.com
@@ -1972,9 +2011,11 @@
 0.0.0.0 www.outfitter.jp
 0.0.0.0 www.palmie.jp
 0.0.0.0 www.park-direct.jp
+0.0.0.0 www.pentasecurity.co.jp
 0.0.0.0 www.philips.co.jp
 0.0.0.0 www.pikara.jp
 0.0.0.0 www.postas.co.jp
+0.0.0.0 www.proflex.co.jp
 0.0.0.0 www.pwc.com
 0.0.0.0 www.redbaron-recruit.com
 0.0.0.0 www.regus-office.jp
@@ -1991,11 +2032,14 @@
 0.0.0.0 www.sompo-japan.jp
 0.0.0.0 www.subaru.co.jp
 0.0.0.0 www.subaru.jp
+0.0.0.0 www.systems.nakashima.co.jp
 0.0.0.0 www.tainavi-battery.com
+0.0.0.0 www.theatreacademy.online
 0.0.0.0 www.toomics.asia
 0.0.0.0 www.tsushin.co.jp
 0.0.0.0 www.velives.com
 0.0.0.0 www.videor.co.jp
+0.0.0.0 www.villagehouse.jp
 0.0.0.0 www.volkswagen.co.jp
 0.0.0.0 www.wellbeing.kirin.co.jp
 0.0.0.0 www.x-legend.com
@@ -2004,8 +2048,10 @@
 0.0.0.0 www.yukilabo.co.jp
 0.0.0.0 www.zwei.com
 0.0.0.0 xixviv.com
+0.0.0.0 xn--lck0c6eya6bc0782dfsni4is2p5k1g0dn.com
 0.0.0.0 yoga-lava.com
 0.0.0.0 zba.jp
+0.0.0.0 zenless.hoyoverse.com
 0.0.0.0 ziploc-life.jp
 
 # [Google Adsenseを用いた詐欺広告]
