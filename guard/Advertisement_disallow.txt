@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 30 July 2024
+# Last modified: 31 July 2024
 #
 
 # [広告全般]
@@ -100,6 +100,7 @@
 0.0.0.0 bodyshop-fukuhisa.com
 0.0.0.0 booking.pacificgolf.co.jp
 0.0.0.0 booklive.jp
+0.0.0.0 brand.taisho.co.jp
 0.0.0.0 briil.com
 0.0.0.0 brokerspot.com
 0.0.0.0 bulk.co.jp
@@ -179,6 +180,7 @@
 0.0.0.0 dotgames.info
 0.0.0.0 dpoint.docomo.ne.jp
 0.0.0.0 dr-fish.net
+0.0.0.0 dreamorder.com
 0.0.0.0 dressandstyles.com
 0.0.0.0 drinco.jp
 0.0.0.0 ds.uncn.jp
@@ -343,6 +345,7 @@
 0.0.0.0 housing.hicbc.com
 0.0.0.0 hoyeon.plaync.com
 0.0.0.0 htm.sf-express.com
+0.0.0.0 hyogo-lifepartner.co.jp
 0.0.0.0 i-voce.jp
 0.0.0.0 iatss.or.jp
 0.0.0.0 ibaraki-ranking.com
@@ -358,6 +361,7 @@
 0.0.0.0 imamurasiroari.co.jp
 0.0.0.0 in-market.net
 0.0.0.0 in.fujii-worldforecast.jp
+0.0.0.0 info-boatrace.jp
 0.0.0.0 info.fishernantucket.com
 0.0.0.0 info.nikkeibp.co.jp
 0.0.0.0 info.uopochi.jp
@@ -413,6 +417,7 @@
 0.0.0.0 julius.co.jp
 0.0.0.0 jw-clear.com
 0.0.0.0 jyouhoudenshi.jp
+0.0.0.0 k-rm.jp
 0.0.0.0 kabu.com
 0.0.0.0 kachi-doki.jp
 0.0.0.0 kadota.biz
@@ -477,6 +482,7 @@
 0.0.0.0 learn.cellsignal.jp
 0.0.0.0 learn.mashingup.org
 0.0.0.0 leconte.photo
+0.0.0.0 lemino.docomo.ne.jp
 0.0.0.0 lemonhome.co.jp
 0.0.0.0 leopalace-fine2005.com
 0.0.0.0 life.miele.co.jp
@@ -537,6 +543,7 @@
 0.0.0.0 minoh.ooedoonsen.jp
 0.0.0.0 miokuriteitaku.jp
 0.0.0.0 miraiyu-career.com
+0.0.0.0 misawa-chugoku.jp
 0.0.0.0 mishima-minase.com
 0.0.0.0 mitsui-art.com
 0.0.0.0 mitsui-shopping-park.com
@@ -718,6 +725,7 @@
 0.0.0.0 sb-viazol.newsanything.tokyo
 0.0.0.0 sb-wanwanwanwananwawanwa.discover-news.tokyo
 0.0.0.0 sb-yoshinagasiki.discover-news.tokyo
+0.0.0.0 sb-youhouhouyou.discover-news.tokyo
 0.0.0.0 sb.app-joy.info
 0.0.0.0 sb.arckid-realdy.com
 0.0.0.0 sb.beautymafia.tokyo
@@ -777,6 +785,7 @@
 0.0.0.0 simple-h.com
 0.0.0.0 sites.google.com
 0.0.0.0 skijan.com
+0.0.0.0 skr-marathon.jp
 0.0.0.0 sky-joker.tech
 0.0.0.0 skycreation.net
 0.0.0.0 skyle.jp
@@ -824,6 +833,7 @@
 0.0.0.0 sumaho-sousa.com
 0.0.0.0 sumai.es-conjapan.co.jp
 0.0.0.0 sumai.panasonic.jp
+0.0.0.0 sumai.tokyu-land.co.jp
 0.0.0.0 sumisho-tatemono-chuukai.net
 0.0.0.0 super-copy-brand.com
 0.0.0.0 survey.qlifeweb.jp
@@ -864,6 +874,7 @@
 0.0.0.0 tire.bridgestone.co.jp
 0.0.0.0 toho-imazu.jp
 0.0.0.0 tohoku-kizunamatsuri.jp
+0.0.0.0 tokyoshigoto-young.jp
 0.0.0.0 tomei-riso.jp
 0.0.0.0 tomei.c-nexco.co.jp
 0.0.0.0 tomishiyaku.net
@@ -985,6 +996,7 @@
 0.0.0.0 www.amanofd.jp
 0.0.0.0 www.amd.com
 0.0.0.0 www.americanmeat.jp
+0.0.0.0 www.americantourister.jp
 0.0.0.0 www.amh.clinic
 0.0.0.0 www.ana.co.jp
 0.0.0.0 www.anabuki-style.com
@@ -1023,6 +1035,7 @@
 0.0.0.0 www.bayfm.co.jp
 0.0.0.0 www.benesse.co.jp
 0.0.0.0 www.benzkansai.com
+0.0.0.0 www.berlitz.com
 0.0.0.0 www.best1cruise.com
 0.0.0.0 www.betteisenkyu.jp
 0.0.0.0 www.bfw.com.tw
@@ -1170,6 +1183,7 @@
 0.0.0.0 www.freedom.co.jp
 0.0.0.0 www.fujiiso.co.jp
 0.0.0.0 www.fujiki-orthod.com
+0.0.0.0 www.fujisan-climb.jp
 0.0.0.0 www.fujitsu.com
 0.0.0.0 www.fukuoka-tenjin-naishikyo.com
 0.0.0.0 www.fulloutsourcing.jp
@@ -1459,6 +1473,7 @@
 0.0.0.0 www.oit.ac.jp
 0.0.0.0 www.oitabank.co.jp
 0.0.0.0 www.okabemen.co.jp
+0.0.0.0 www.okatsu.co.jp
 0.0.0.0 www.oliveoilsfromspain.jp
 0.0.0.0 www.omu.ac.jp
 0.0.0.0 www.onetop-japan.jp
@@ -1475,6 +1490,7 @@
 0.0.0.0 www.otsuka-shokai.co.jp
 0.0.0.0 www.otv.co.jp
 0.0.0.0 www.ozekihibachi2u.com
+0.0.0.0 www.p-minerva.com
 0.0.0.0 www.pachislot-summit.com
 0.0.0.0 www.pacificgolf.co.jp
 0.0.0.0 www.packstyle.jp
@@ -1521,6 +1537,7 @@
 0.0.0.0 www.riseisha.ac.jp
 0.0.0.0 www.rizaim.biz
 0.0.0.0 www.robotplanet.site
+0.0.0.0 www.roombra.jp
 0.0.0.0 www.ropepartner.com
 0.0.0.0 www.roudousaigai.jp
 0.0.0.0 www.rtyfghgroup.com
@@ -1541,6 +1558,7 @@
 0.0.0.0 www.sarasotalowcostbankruptcyctr.com
 0.0.0.0 www.sat.co.jp
 0.0.0.0 www.sateraito.jp
+0.0.0.0 www.sbc-marketing.co.jp
 0.0.0.0 www.sbivc.co.jp
 0.0.0.0 www.scan.co.uk
 0.0.0.0 www.seed.co.jp
@@ -1613,6 +1631,7 @@
 0.0.0.0 www.takashimaya.co.jp
 0.0.0.0 www.tanaka-denki.co.jp
 0.0.0.0 www.tanakagakushukai.com
+0.0.0.0 www.tannowahouse.jp
 0.0.0.0 www.tanoshii-ie.jp
 0.0.0.0 www.tanzo.jp
 0.0.0.0 www.tarou.co.jp
@@ -1669,6 +1688,7 @@
 0.0.0.0 www.u-master.net
 0.0.0.0 www.ube.co.jp
 0.0.0.0 www.uehara-shinkyuin.com
+0.0.0.0 www.uhe.ac.jp
 0.0.0.0 www.universal-robots.com
 0.0.0.0 www.unzen-mikado.net
 0.0.0.0 www.uqwimax.jp
@@ -1682,6 +1702,7 @@
 0.0.0.0 www.valt-japan.com
 0.0.0.0 www.visartscenter.org
 0.0.0.0 www.visitjackson.com
+0.0.0.0 www.voat-voice.com
 0.0.0.0 www.voat.co.jp
 0.0.0.0 www.voyager.co.jp
 0.0.0.0 www.wa-kukan-life.com
@@ -1704,6 +1725,7 @@
 0.0.0.0 www.xtb.com
 0.0.0.0 www.y-yokohama.com
 0.0.0.0 www.yamaha.co.jp
+0.0.0.0 www.yane-takumi.net
 0.0.0.0 www.yawata.tv
 0.0.0.0 www.ykkap.co.jp
 0.0.0.0 www.ymd-ssi.jp
@@ -1747,6 +1769,7 @@
 0.0.0.0 a-cashing.com
 0.0.0.0 ads-promote.timee.co.jp
 0.0.0.0 albiononline.com
+0.0.0.0 animaru.jp
 0.0.0.0 aotech96.com
 0.0.0.0 artlist.io
 0.0.0.0 artvivant-event.net
@@ -1835,6 +1858,7 @@
 0.0.0.0 kintone.cybozu.co.jp
 0.0.0.0 kitera-cloud.jp
 0.0.0.0 kizukumo.com
+0.0.0.0 komodok.com
 0.0.0.0 konojyuku-ism.com
 0.0.0.0 l-works.design
 0.0.0.0 laxus.co
@@ -1962,11 +1986,13 @@
 0.0.0.0 www.directone.co.jp
 0.0.0.0 www.dnp.co.jp
 0.0.0.0 www.evoto.ai
+0.0.0.0 www.fancl.co.jp
 0.0.0.0 www.fashion-t.com
 0.0.0.0 www.freebcc.com
 0.0.0.0 www.fruitfulenglish.com
 0.0.0.0 www.fudousann.info
 0.0.0.0 www.game4u.jp
+0.0.0.0 www.gamecity.ne.jp
 0.0.0.0 www.gaprsc.or.jp
 0.0.0.0 www.gnjp.org
 0.0.0.0 www.gousa.jp
