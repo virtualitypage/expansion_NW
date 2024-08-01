@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 31 July 2024
+# Last modified: 1 August 2024
 #
 
 # [広告全般]
@@ -175,6 +175,7 @@
 0.0.0.0 donation.yahoo.co.jp
 0.0.0.0 donation.yahoo.co.jp.lan
 0.0.0.0 doremi-international.com
+0.0.0.0 dorutyenascita.owst.jp
 0.0.0.0 dosparaplus.com
 0.0.0.0 dotapps.jp
 0.0.0.0 dotgames.info
@@ -361,6 +362,7 @@
 0.0.0.0 imamurasiroari.co.jp
 0.0.0.0 in-market.net
 0.0.0.0 in.fujii-worldforecast.jp
+0.0.0.0 indonoaji2024.campar.jp
 0.0.0.0 info-boatrace.jp
 0.0.0.0 info.fishernantucket.com
 0.0.0.0 info.nikkeibp.co.jp
@@ -428,6 +430,7 @@
 0.0.0.0 kaitori.brandoff.co.jp
 0.0.0.0 kaitoribuyer.com
 0.0.0.0 kakuyomu.jp
+0.0.0.0 kamata-nikuzushi.owst.jp
 0.0.0.0 kamposhop.kracie.co.jp
 0.0.0.0 kamukura-recruit.jp
 0.0.0.0 karakubuy.com
@@ -440,9 +443,11 @@
 0.0.0.0 keirin.by-onko-chishin.com
 0.0.0.0 kenminforum-aomori.com
 0.0.0.0 kens-smile.com
+0.0.0.0 kenseidayori-mie.com
 0.0.0.0 kensetsutenshokunavi.jp
 0.0.0.0 kentei.tokyo-cci.or.jp
 0.0.0.0 key-security.jp
+0.0.0.0 khiang-osaka.owst.jp
 0.0.0.0 kichi.bar
 0.0.0.0 kigkt.cersi.jp
 0.0.0.0 kimono-ice.com
@@ -525,6 +530,7 @@
 0.0.0.0 mcs-ainoie.com
 0.0.0.0 mecha-tok.com
 0.0.0.0 mechacomic.jp
+0.0.0.0 mediaworld.co.jp
 0.0.0.0 medical-kokokara.com
 0.0.0.0 medical-shinjuku.com
 0.0.0.0 medicalarts-amt.com
@@ -560,6 +566,7 @@
 0.0.0.0 mypage.s-axol.jp
 0.0.0.0 mypetandi.elanco.com
 0.0.0.0 myscue.com
+0.0.0.0 myvketofficial.cloud.vket.com
 0.0.0.0 nagoya.ace-clinic.com
 0.0.0.0 nakanodental-cl.com
 0.0.0.0 nannyme.love
@@ -681,6 +688,7 @@
 0.0.0.0 roundi.us
 0.0.0.0 runway-webstore.com
 0.0.0.0 ryorinin.ihcsa.or.jp
+0.0.0.0 rys-cafe.bar
 0.0.0.0 ryuki-design.jp
 0.0.0.0 s-imanani.com
 0.0.0.0 s.cardnavi-d.com
@@ -816,6 +824,7 @@
 0.0.0.0 squareup.com
 0.0.0.0 ssl-system7.com
 0.0.0.0 ssr.abemashopping.jp
+0.0.0.0 stacia.jp
 0.0.0.0 static.hfm.com
 0.0.0.0 stockedges.com
 0.0.0.0 store-jp.nintendo.com
@@ -918,6 +927,7 @@
 0.0.0.0 usagi-online.com
 0.0.0.0 vda.afkjourney.com
 0.0.0.0 vegasvegas-recruit.com
+0.0.0.0 verde8-18-28-24.com
 0.0.0.0 vermeermountainwest.com
 0.0.0.0 video.unext.jp
 0.0.0.0 view.adjust.com
@@ -1006,6 +1016,7 @@
 0.0.0.0 www.anpic.jp
 0.0.0.0 www.anshindo-grp.co.jp
 0.0.0.0 www.anytimefitness.co.jp
+0.0.0.0 www.aprica.jp
 0.0.0.0 www.aqa.org.uk
 0.0.0.0 www.aquaclara.co.jp
 0.0.0.0 www.arc-web.com
@@ -1019,6 +1030,7 @@
 0.0.0.0 www.asahi-shoes.co.jp
 0.0.0.0 www.asics.com
 0.0.0.0 www.askul.co.jp
+0.0.0.0 www.asoview.com
 0.0.0.0 www.asphaltgame.com
 0.0.0.0 www.asteria.com
 0.0.0.0 www.at-contact.jp
@@ -1113,6 +1125,7 @@
 0.0.0.0 www.conoha.jp
 0.0.0.0 www.contactlens.co.jp
 0.0.0.0 www.corehouse.jp
+0.0.0.0 www.corona.co.jp
 0.0.0.0 www.cosme.com
 0.0.0.0 www.cospa-wellness.co.jp
 0.0.0.0 www.couleur-harima.com
@@ -1127,6 +1140,7 @@
 0.0.0.0 www.dainiti.co.jp
 0.0.0.0 www.daioshop.jp
 0.0.0.0 www.daisenham.com
+0.0.0.0 www.daito.ac.jp
 0.0.0.0 www.daiwahouse.co.jp
 0.0.0.0 www.daiyuu.com
 0.0.0.0 www.deaf-tryout24.para-athlete.tokyo
@@ -1154,6 +1168,7 @@
 0.0.0.0 www.eheya.net
 0.0.0.0 www.ehime-ben.or.jp
 0.0.0.0 www.eldenring.jp
+0.0.0.0 www.elegance-cosmetics.com
 0.0.0.0 www.enemaru.com
 0.0.0.0 www.enhousing.jp
 0.0.0.0 www.enoteca.co.jp
@@ -1238,6 +1253,7 @@
 0.0.0.0 www.hemsleyfraser.com
 0.0.0.0 www.hepfive.jp
 0.0.0.0 www.hero-wars.com
+0.0.0.0 www.herutu.co.jp
 0.0.0.0 www.herz-bag.jp
 0.0.0.0 www.hfcfinance.com.tw
 0.0.0.0 www.hibou-chushou.com
@@ -1402,6 +1418,7 @@
 0.0.0.0 www.mewa.gov.sa
 0.0.0.0 www.mhlw.go.jp
 0.0.0.0 www.michiluno.jp
+0.0.0.0 www.miki-re.com
 0.0.0.0 www.mikimoto.com
 0.0.0.0 www.milktokyo.org
 0.0.0.0 www.miolaw.jp
@@ -1821,11 +1838,13 @@
 0.0.0.0 freelance.findy-code.io
 0.0.0.0 froggy.smbcnikko.co.jp
 0.0.0.0 fundinno.com
+0.0.0.0 furyu-hm.com
 0.0.0.0 games-week.net
 0.0.0.0 geo.8984.jp
 0.0.0.0 get.green-japan.com
 0.0.0.0 go.sbisec.co.jp
 0.0.0.0 gohan.soudan-anshin.com
+0.0.0.0 gooddo.jp
 0.0.0.0 gopro.com
 0.0.0.0 h5.g123.jp
 0.0.0.0 happyhackingkb.com
@@ -1844,15 +1863,21 @@
 0.0.0.0 jobhouse.jp
 0.0.0.0 join.worldoftanks.asia
 0.0.0.0 jp.antelopeaudio.com
+0.0.0.0 jp.infragistics.com
+0.0.0.0 jp.kingkong178.com
 0.0.0.0 jp.misumi-ec.com
 0.0.0.0 jp.muse-kiss.com
+0.0.0.0 jp.rigol.com
+0.0.0.0 jp.sharp
 0.0.0.0 jp.xgimi.com
 0.0.0.0 jpmall.rigol.com
 0.0.0.0 jpn.mizuno.com
 0.0.0.0 jra-fun.jp
 0.0.0.0 kaigo.clickjob.jp
+0.0.0.0 kaikuru.com
 0.0.0.0 kanro.jp
 0.0.0.0 karakubuy.com
+0.0.0.0 kekkon.kuraveil.jp
 0.0.0.0 keywordmap.jp
 0.0.0.0 kikankou.jp
 0.0.0.0 kintone.cybozu.co.jp
@@ -1862,11 +1887,14 @@
 0.0.0.0 konojyuku-ism.com
 0.0.0.0 l-works.design
 0.0.0.0 laxus.co
+0.0.0.0 line6.jp
 0.0.0.0 loan.kddi-fs.com
 0.0.0.0 loan.saisoncard.co.jp
 0.0.0.0 locca.premium-water.net
 0.0.0.0 lp.acom.co.jp
+0.0.0.0 lp.brightage.jp
 0.0.0.0 lp.etvos.com
+0.0.0.0 lp.furusato-miyakonojo.jp
 0.0.0.0 lp.mikata-ins.co.jp
 0.0.0.0 lp.nuri-kae.jp
 0.0.0.0 lp.pso2.jp
@@ -1875,6 +1903,7 @@
 0.0.0.0 lp2.hacomono.jp
 0.0.0.0 luxurydiscounts.vip
 0.0.0.0 macpaw.com
+0.0.0.0 make-career.work
 0.0.0.0 malibusandals.jp
 0.0.0.0 masouken.com
 0.0.0.0 mifurusato.jp
@@ -1890,9 +1919,11 @@
 0.0.0.0 nelture.com
 0.0.0.0 next.rikunabi.com
 0.0.0.0 nosh.jp
+0.0.0.0 noz-collaboration.com
 0.0.0.0 octlink.jp
 0.0.0.0 octopusenergy.co.jp
 0.0.0.0 okuji-onlineshop.co.jp
+0.0.0.0 oripa.clove.jp
 0.0.0.0 paid.jp
 0.0.0.0 panasonic.jp
 0.0.0.0 pc-page.crowdlog.jp
@@ -1904,8 +1935,10 @@
 0.0.0.0 ppg.paiza.jp
 0.0.0.0 pr.dmm.com
 0.0.0.0 product.et-x.jp
+0.0.0.0 qrio.me
 0.0.0.0 ragnarokonline.gungho.jp
 0.0.0.0 re-katsu.jp
+0.0.0.0 realdgame.jp
 0.0.0.0 recruit-daiso.com
 0.0.0.0 recruit.kyodo-engine.com
 0.0.0.0 regain-suppli.jp
@@ -1926,6 +1959,7 @@
 0.0.0.0 sb.yazuya.com
 0.0.0.0 school.addness.co.jp
 0.0.0.0 sdop.bandainamco-ol.jp
+0.0.0.0 sekokan-navi.jp
 0.0.0.0 sekoukanrijob.com
 0.0.0.0 service.toinx.co.jp
 0.0.0.0 sfc.jp
@@ -1937,6 +1971,7 @@
 0.0.0.0 sougo-career.jp
 0.0.0.0 sp.universal-music.co.jp
 0.0.0.0 sq.kenko.morinagamilk.co.jp
+0.0.0.0 sq.morinaga.co.jp
 0.0.0.0 ssr.abemashopping.jp
 0.0.0.0 store.soeju.com
 0.0.0.0 sub.shi-harai.com
@@ -1944,6 +1979,7 @@
 0.0.0.0 tgm.phantixgames.com
 0.0.0.0 tomiz.com
 0.0.0.0 tour.l-tike.com
+0.0.0.0 trnttj.arksgame.com
 0.0.0.0 trustlogin.com
 0.0.0.0 try.huel.com
 0.0.0.0 type.jp
@@ -1954,6 +1990,7 @@
 0.0.0.0 vasco-translator.jp
 0.0.0.0 voice-actors-startup.com
 0.0.0.0 warthunder.com
+0.0.0.0 wesemall.com
 0.0.0.0 whohw.jp
 0.0.0.0 wm.openhouse-group.com
 0.0.0.0 www.241241.jp
@@ -1968,9 +2005,11 @@
 0.0.0.0 www.aigan.co.jp
 0.0.0.0 www.analog.com
 0.0.0.0 www.axa-direct.co.jp
+0.0.0.0 www.bastapoint.basf.co.jp
 0.0.0.0 www.beams.co.jp
 0.0.0.0 www.bradelis.shop
 0.0.0.0 www.campaign.creal.jp
+0.0.0.0 www.capcom-games.com
 0.0.0.0 www.cardloan-farm.com
 0.0.0.0 www.cardloan-plaza.info
 0.0.0.0 www.career-cloud.asia
@@ -1980,6 +2019,7 @@
 0.0.0.0 www.contactlens.co.jp
 0.0.0.0 www.coop-takuhai.jp
 0.0.0.0 www.crowdlog.jp
+0.0.0.0 www.cs.furyu.jp
 0.0.0.0 www.cuenote.jp
 0.0.0.0 www.cyber-u.ac.jp
 0.0.0.0 www.designlearn.co.jp
@@ -2002,7 +2042,10 @@
 0.0.0.0 www.herschedule.com
 0.0.0.0 www.hokusen.co.jp
 0.0.0.0 www.hongou.jp
+0.0.0.0 www.ichiranstore.com
+0.0.0.0 www.insweb.co.jp
 0.0.0.0 www.irobot-jp.com
+0.0.0.0 www.islandbrain.co.jp
 0.0.0.0 www.itohari.jp
 0.0.0.0 www.izotope.com
 0.0.0.0 www.jcb.co.jp
@@ -2053,11 +2096,13 @@
 0.0.0.0 www.sevenbank.co.jp
 0.0.0.0 www.shamaison.com
 0.0.0.0 www.sharkninja.jp
+0.0.0.0 www.shikokubank.co.jp
 0.0.0.0 www.shionogi-hc.co.jp
 0.0.0.0 www.silver-gear.com
 0.0.0.0 www.sompo-japan.jp
 0.0.0.0 www.subaru.co.jp
 0.0.0.0 www.subaru.jp
+0.0.0.0 www.suzuki.co.jp
 0.0.0.0 www.systems.nakashima.co.jp
 0.0.0.0 www.tainavi-battery.com
 0.0.0.0 www.theatreacademy.online
@@ -2069,10 +2114,12 @@
 0.0.0.0 www.volkswagen.co.jp
 0.0.0.0 www.wellbeing.kirin.co.jp
 0.0.0.0 www.x-legend.com
+0.0.0.0 www.yakitori-miyabi.jp
 0.0.0.0 www.yodobashi.com
 0.0.0.0 www.yonden.co.jp
 0.0.0.0 www.yukilabo.co.jp
 0.0.0.0 www.zwei.com
+0.0.0.0 www2.nissan.co.jp
 0.0.0.0 xixviv.com
 0.0.0.0 xn--lck0c6eya6bc0782dfsni4is2p5k1g0dn.com
 0.0.0.0 yoga-lava.com
