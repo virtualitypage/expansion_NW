@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 1 August 2024
+# Last modified: 2 August 2024
 #
 
 # [広告全般]
@@ -14,6 +14,7 @@
 0.0.0.0 35s.co.jp
 0.0.0.0 3d-mitsumori.com
 0.0.0.0 3ei.co.jp
+0.0.0.0 3m.commerceconnector.net
 0.0.0.0 4years.asahi.com
 0.0.0.0 6699.jp
 0.0.0.0 78kanteikyoku.jp
@@ -26,6 +27,7 @@
 0.0.0.0 acehandymanfranchising.com
 0.0.0.0 achieve.atimes.co.jp
 0.0.0.0 activate.games.dmm.com
+0.0.0.0 activesleep.jp
 0.0.0.0 acuvuevision.jp
 0.0.0.0 ad-kowa.com
 0.0.0.0 ad.doubleclick.net
@@ -93,6 +95,7 @@
 0.0.0.0 bike-news.jp
 0.0.0.0 biryuhyakkaweb.jp
 0.0.0.0 biz.kddi.com
+0.0.0.0 bizhint.jp
 0.0.0.0 bizreach.biz
 0.0.0.0 bmccancer.biomedcentral.com
 0.0.0.0 boatzon.com
@@ -171,6 +174,7 @@
 0.0.0.0 direct-teleshop.jp
 0.0.0.0 direct.eizo.co.jp
 0.0.0.0 dive-oita.com
+0.0.0.0 do-recruit.info
 0.0.0.0 doda.jp
 0.0.0.0 donation.yahoo.co.jp
 0.0.0.0 donation.yahoo.co.jp.lan
@@ -219,6 +223,7 @@
 0.0.0.0 everygoodnews.com
 0.0.0.0 expa-official.jp
 0.0.0.0 fairfield-michinoeki-japan.com
+0.0.0.0 famousbbq.com
 0.0.0.0 fan-blogs.com
 0.0.0.0 fasteasy.io
 0.0.0.0 fctl.co.jp
@@ -323,11 +328,13 @@
 0.0.0.0 hijutaku.j-anshin.co.jp
 0.0.0.0 hikaku-rank.net
 0.0.0.0 hinata.me
+0.0.0.0 hiraiart-gallery.jp
 0.0.0.0 hirakata-ryutsu.com
 0.0.0.0 hiranomusic.tokyo
 0.0.0.0 hirose-fx.co.jp
 0.0.0.0 hirose-fx.jp
 0.0.0.0 hiroshima-souzoku.com
+0.0.0.0 hiroshimaforpeace.com
 0.0.0.0 hirotuku-shop.net
 0.0.0.0 hisense-cp2024s.com
 0.0.0.0 hit-t-mark.jp
@@ -336,6 +343,7 @@
 0.0.0.0 hoken-sweet.com
 0.0.0.0 hokuyu-ryokuti.com
 0.0.0.0 home-design-schmidt.uk
+0.0.0.0 hondacars.jp
 0.0.0.0 hondacars.link
 0.0.0.0 honkaku-coco.com
 0.0.0.0 horseracing-tipsters.biz
@@ -373,6 +381,7 @@
 0.0.0.0 investsspot.com
 0.0.0.0 irumo.docomo.ne.jp
 0.0.0.0 ishi-career.jp
+0.0.0.0 istanbul.goturkiye.com
 0.0.0.0 it-shien.smrj.go.jp
 0.0.0.0 ito-ec.jp
 0.0.0.0 itunes.apple.com
@@ -461,6 +470,7 @@
 0.0.0.0 kojinsoken.co.jp
 0.0.0.0 kojosoko-koniken.com
 0.0.0.0 kojyo-kuruma.com
+0.0.0.0 kokokara.tais.ac.jp
 0.0.0.0 kosavu.com
 0.0.0.0 kottoukaitori-ohgiya.jp
 0.0.0.0 kouju.mabuchi.co.jp
@@ -534,6 +544,7 @@
 0.0.0.0 medical-kokokara.com
 0.0.0.0 medical-shinjuku.com
 0.0.0.0 medicalarts-amt.com
+0.0.0.0 medicaldoc.jp
 0.0.0.0 meganestore.co.jp
 0.0.0.0 megaten5.jp
 0.0.0.0 mei-ten.com
@@ -583,6 +594,7 @@
 0.0.0.0 ngdl.jp
 0.0.0.0 nihonjyuutaku.co.jp
 0.0.0.0 niit-oc.com
+0.0.0.0 nikudokorodebeso.owst.jp
 0.0.0.0 ninjakitchen.co.uk
 0.0.0.0 nishispo.nishinippon.co.jp
 0.0.0.0 no1-creditcard.com
@@ -664,6 +676,7 @@
 0.0.0.0 rasik.style
 0.0.0.0 re-katsu.jp
 0.0.0.0 realplace-net.com
+0.0.0.0 recruit.takuichi.okinawa
 0.0.0.0 recruit.tsukui.net
 0.0.0.0 refine-midori.net
 0.0.0.0 regimentvalkyrie.com
@@ -1016,6 +1029,7 @@
 0.0.0.0 www.anpic.jp
 0.0.0.0 www.anshindo-grp.co.jp
 0.0.0.0 www.anytimefitness.co.jp
+0.0.0.0 www.apolloseiko.co.jp
 0.0.0.0 www.aprica.jp
 0.0.0.0 www.aqa.org.uk
 0.0.0.0 www.aquaclara.co.jp
@@ -1043,6 +1057,7 @@
 0.0.0.0 www.aws-pairring.jp
 0.0.0.0 www.ayano-craft.co.jp
 0.0.0.0 www.az-art.net
+0.0.0.0 www.b-conplaza.jp
 0.0.0.0 www.bank-daiwa.co.jp
 0.0.0.0 www.bayfm.co.jp
 0.0.0.0 www.benesse.co.jp
@@ -1153,6 +1168,7 @@
 0.0.0.0 www.dlsite.com
 0.0.0.0 www.dominos.jp
 0.0.0.0 www.dot-st.com
+0.0.0.0 www.dr-navip.jp
 0.0.0.0 www.dream-stage.net
 0.0.0.0 www.drscholl.jp
 0.0.0.0 www.dsautomobiles.jp
@@ -1173,6 +1189,7 @@
 0.0.0.0 www.enhousing.jp
 0.0.0.0 www.enoteca.co.jp
 0.0.0.0 www.enshu-shinkin.jp
+0.0.0.0 www.epam.com
 0.0.0.0 www.eposcard.co.jp
 0.0.0.0 www.etungo.com.tw
 0.0.0.0 www.eyecity.jp
@@ -1200,6 +1217,7 @@
 0.0.0.0 www.fujiki-orthod.com
 0.0.0.0 www.fujisan-climb.jp
 0.0.0.0 www.fujitsu.com
+0.0.0.0 www.fukagawaganka.net
 0.0.0.0 www.fukuoka-tenjin-naishikyo.com
 0.0.0.0 www.fulloutsourcing.jp
 0.0.0.0 www.funcurrent.com
@@ -1264,6 +1282,7 @@
 0.0.0.0 www.hisamitsu.co.jp
 0.0.0.0 www.hisamitsu.info
 0.0.0.0 www.hitachi-solutions-create.co.jp
+0.0.0.0 www.hitachi.co.jp
 0.0.0.0 www.hkexpress.com
 0.0.0.0 www.hokende.com
 0.0.0.0 www.hokkaido-np.co.jp
@@ -1363,6 +1382,7 @@
 0.0.0.0 www.kobe.coop.or.jp
 0.0.0.0 www.kobegakuin.ac.jp
 0.0.0.0 www.kobetsu.co.jp
+0.0.0.0 www.kochi-daimaru.co.jp
 0.0.0.0 www.kodomo-poster2024.metro.tokyo.lg.jp
 0.0.0.0 www.kodomoseisaku.metro.tokyo.lg.jp
 0.0.0.0 www.koi-para.net
@@ -1504,6 +1524,7 @@
 0.0.0.0 www.osaka-solid.jp
 0.0.0.0 www.osaka-toyopet.jp
 0.0.0.0 www.osakahome.jp
+0.0.0.0 www.oscd.jp
 0.0.0.0 www.otsuka-shokai.co.jp
 0.0.0.0 www.otv.co.jp
 0.0.0.0 www.ozekihibachi2u.com
@@ -1733,6 +1754,7 @@
 0.0.0.0 www.white-choco.top
 0.0.0.0 www.wickedthemusical.co.uk
 0.0.0.0 www.wing-rev.co.jp
+0.0.0.0 www.wmberg.com
 0.0.0.0 www.wonnesscompany.com
 0.0.0.0 www.worksap.co.jp
 0.0.0.0 www.wowbao.com
@@ -1743,6 +1765,7 @@
 0.0.0.0 www.y-yokohama.com
 0.0.0.0 www.yamaha.co.jp
 0.0.0.0 www.yane-takumi.net
+0.0.0.0 www.yasuda-u.ac.jp
 0.0.0.0 www.yawata.tv
 0.0.0.0 www.ykkap.co.jp
 0.0.0.0 www.ymd-ssi.jp
