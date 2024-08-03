@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 2 August 2024
+# Last modified: 3 August 2024
 #
 
 # [広告全般]
@@ -41,6 +41,7 @@
 0.0.0.0 aflart8739.com
 0.0.0.0 agri.mynavi.jp
 0.0.0.0 ai-koumuten.info
+0.0.0.0 alc.talkingmarathon.com
 0.0.0.0 alcon-contact.jp
 0.0.0.0 alcott-ordersuit.com
 0.0.0.0 alegria-ebisu.owst.jp
@@ -106,6 +107,7 @@
 0.0.0.0 brand.taisho.co.jp
 0.0.0.0 briil.com
 0.0.0.0 brokerspot.com
+0.0.0.0 bs.i-fieldnet.com
 0.0.0.0 bulk.co.jp
 0.0.0.0 bulova.jp
 0.0.0.0 bunge.com
@@ -197,6 +199,7 @@
 0.0.0.0 easy-simulator.net
 0.0.0.0 ec-myprecious.jp
 0.0.0.0 ec.petfoods.shop
+0.0.0.0 efex.co.jp
 0.0.0.0 egolf.jp
 0.0.0.0 ehime-sancyoku-premium.com
 0.0.0.0 ehime.dd.daihatsu.co.jp
@@ -373,6 +376,7 @@
 0.0.0.0 indonoaji2024.campar.jp
 0.0.0.0 info-boatrace.jp
 0.0.0.0 info.fishernantucket.com
+0.0.0.0 info.km-group.co.jp
 0.0.0.0 info.nikkeibp.co.jp
 0.0.0.0 info.uopochi.jp
 0.0.0.0 infocp.syngenta.co.jp
@@ -435,6 +439,7 @@
 0.0.0.0 kai-z.net
 0.0.0.0 kaifuu.co.jp
 0.0.0.0 kaigo-ma.com
+0.0.0.0 kaigo.nichiigakkan-careerplus.jp
 0.0.0.0 kainuma.org
 0.0.0.0 kaitori.brandoff.co.jp
 0.0.0.0 kaitoribuyer.com
@@ -444,6 +449,7 @@
 0.0.0.0 kamukura-recruit.jp
 0.0.0.0 karakubuy.com
 0.0.0.0 kashiyama1927.jp
+0.0.0.0 kasuyashika.com
 0.0.0.0 katsubedc-nanmori.com
 0.0.0.0 kawanotajimaya.com
 0.0.0.0 kaza-design.com
@@ -492,6 +498,7 @@
 0.0.0.0 landing.mangot5.com
 0.0.0.0 lastmemories.io
 0.0.0.0 lawschool.r.chuo-u.ac.jp
+0.0.0.0 le-chic-unjour.official-wedding.jp
 0.0.0.0 leanintree.com
 0.0.0.0 learn.cellsignal.com
 0.0.0.0 learn.cellsignal.jp
@@ -552,6 +559,7 @@
 0.0.0.0 meshop-jp.com
 0.0.0.0 mfrt.rehouse.co.jp
 0.0.0.0 micromagazine.co.jp
+0.0.0.0 mindwind.tokyo
 0.0.0.0 mineo-ambassador.com
 0.0.0.0 mineo.jp
 0.0.0.0 mining.1resource.net
@@ -592,6 +600,7 @@
 0.0.0.0 next-one-dream.com
 0.0.0.0 nextengineer-benext.jp
 0.0.0.0 ngdl.jp
+0.0.0.0 ni-deau.jp
 0.0.0.0 nihonjyuutaku.co.jp
 0.0.0.0 niit-oc.com
 0.0.0.0 nikudokorodebeso.owst.jp
@@ -883,6 +892,7 @@
 0.0.0.0 tansei-legaloffice.jp
 0.0.0.0 targety.jp
 0.0.0.0 taxisaiyo.entetsu.co.jp
+0.0.0.0 teknitape.com
 0.0.0.0 teleboat-cp.jp
 0.0.0.0 tenjinbc-shops.jp
 0.0.0.0 tenkuryo.jp
@@ -1242,6 +1252,7 @@
 0.0.0.0 www.gofuku-kaitori.com
 0.0.0.0 www.goldwin.co.jp
 0.0.0.0 www.goo-net.com
+0.0.0.0 www.goodseeco.com
 0.0.0.0 www.goodstory.jp
 0.0.0.0 www.govconnection.com
 0.0.0.0 www.gpn.jp
@@ -1293,6 +1304,7 @@
 0.0.0.0 www.honda.co.jp
 0.0.0.0 www.hondaism.com
 0.0.0.0 www.horidashi.jp
+0.0.0.0 www.hotel-ichii.co.jp
 0.0.0.0 www.hotpepper.jp
 0.0.0.0 www.hotstaff.co.jp
 0.0.0.0 www.howabank.co.jp
@@ -1468,6 +1480,7 @@
 0.0.0.0 www.nagasakistadiumcity.com
 0.0.0.0 www.nagoya-bengoshi.info
 0.0.0.0 www.nakae-bussan.shop
+0.0.0.0 www.nakamura-u.ac.jp
 0.0.0.0 www.nakayamashouten.com
 0.0.0.0 www.nantobank.co.jp
 0.0.0.0 www.nanzan-u.ac.jp
@@ -1481,6 +1494,7 @@
 0.0.0.0 www.nfu.ne.jp
 0.0.0.0 www.ngk.co.jp
 0.0.0.0 www.nhow-hotels.com
+0.0.0.0 www.nichibenren.or.jp
 0.0.0.0 www.nihonhoeipro.co.jp
 0.0.0.0 www.niit.ac.jp
 0.0.0.0 www.nikon-image.com
@@ -1551,6 +1565,7 @@
 0.0.0.0 www.porsche.co.jp
 0.0.0.0 www.prada.com
 0.0.0.0 www.prageru.com
+0.0.0.0 www.pref.fukushima.lg.jp
 0.0.0.0 www.pref.kochi.lg.jp
 0.0.0.0 www.premiumoutlets.co.jp
 0.0.0.0 www.princehotels.co.jp
@@ -1564,6 +1579,7 @@
 0.0.0.0 www.r-staffing.co.jp
 0.0.0.0 www.racingmaster.game
 0.0.0.0 www.radishbo-ya.co.jp
+0.0.0.0 www.rbma.org
 0.0.0.0 www.recx.jp
 0.0.0.0 www.redstoneonline.jp
 0.0.0.0 www.regina-web.jp
