@@ -1,11 +1,20 @@
-![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v1.8.8-blue?style=flat)
-![Release Date](https://img.shields.io/badge/Release_Date-July_28_2024-green?style=flat)
+![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v2.0.0-blue?style=flat)
+![Release Date](https://img.shields.io/badge/Release_Date-August_4_2024-green?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualitypage/expansion_NW)
 
 > Table of Contents
 - [AdGuard Filter](#adguard-filter)
 - [Document - Expansion](#document---expansion)
+  - [Send e-mail from the router](#ルーターからメール送信を行う)
+  - [Send e-mail from the router - Load a file for e-mail and send it by e-mail](#ルーターからメール送信を行う---メール用のファイルを読み込んでメール送信)
+  - [Send e-mail from the router - Insert attached file](#ルーターからメール送信を行う---添付ファイルを挿入)
 - [Document - Troubleshooting](#document---troubleshooting)
+  - [Hide irregular log output](#不規則なログ出力を非表示にする)
+  - [Hide irregular log output - Displays normal cron logs and hides target logs](#不規則なログ出力を非表示にする---通常の-cron-ログを表示しつつ対象のログを非表示にする)
+  - [Unable to connect to the Internet with GL-MT3000](#gl-mt3000-でインターネットに接続できない)
+  - [Undo the previous commit](#直前のコミットを取り消す)
+  - [Unable to apply previous commit undo to remote repository](#直前のコミット取り消しをリモートリポジトリに適用できない)
+  - [Authentication error occurs in "Push origin" in "GitHub Desktop.app"](#github-desktop-アプリの-push-origin-にて認証エラーが発生する)
 - [Management Rules](#management-rules)
 - [SSH to Github](#ssh-to-github)
 
@@ -40,6 +49,7 @@
 * `!` または `#` で始まる行はコメントであり、フィルタリングエンジンによって無視されます。コメントは通常、ルールの上に配置され、ルールの動作を説明するために使用します。
 
 例：
+
 ```
 ! This is a comment.
 # This is also a comment.
@@ -47,7 +57,7 @@
 
 ---
 
-> AdGuard Homeの「クエリ・ログ」取得設定手順 (再起動しなければクエリ・ログを取得できないため非推奨)
+> AdGuard Home の「クエリ・ログ」取得設定手順 (再起動しなければクエリ・ログを取得できないため非推奨)
 
 * 参照元：https://github.com/AdguardTeam/AdGuardHome/wiki/Configuration#configuration-file
 
@@ -78,7 +88,7 @@ querylog:
 
 4. 設定適用の為にルーターを再起動します。
 
-5. 実行ファイルにログファイルのパスを渡します。ここで指定したファイル名(ここでは"querylog")のjsonファイルが作成され、書き込まれます。
+5. 実行ファイルにログファイルのパスを渡します。ここで指定したファイル名(ここでは"querylog")の json ファイルが作成され、書き込まれます。
 
 　`$ AdGuardHome -l /etc/AdGuard_query/querylog`
 
@@ -119,7 +129,7 @@ YYYY/MM/DD HH24:MI:SS.FF [info] stopped
 
 ## Document - Expansion
 
-> ルーターからメール送信を行う
+### ルーターからメール送信を行う
 
 1. ターミナルを開いて SSH でルーターにログインします。
 
@@ -169,7 +179,7 @@ account default : gmail
 
 ---
 
-> ルーターからメール送信を行う(メール用のファイルを読み込んでメール送信)
+### ルーターからメール送信を行う - メール用のファイルを読み込んでメール送信
 
 1. ターミナルを開いて SSH でルーターにログインします。
 
@@ -195,7 +205,7 @@ This is a test email.
 
 ---
 
-> ルーターからメール送信を行う(添付ファイルを挿入)
+### ルーターからメール送信を行う - 添付ファイルを挿入
 
 1. ターミナルを開いて SSH でルーターにログインします。
 
@@ -236,7 +246,7 @@ This is a test email.
 
 ## Document - Troubleshooting
 
-> 毎分出力されるログを解決する
+### 不規則なログ出力を非表示にする
 
 * 参照元：https://forum.gl-inet.com/t/many-log-data-after-4-4-5-axt1800-mt2500/32854/11
 
@@ -277,11 +287,13 @@ config system
 	option cronloglevel '10'
 ```
 
-5. ログが表示されなくなれば完了です。　
+5. ログが表示されなくなれば完了です。
 
 ---
 
-> 毎分出力されるログを解決する(通常の cron ログを表示しつつ、該当のログを非表示にする) *再起動時、本設定がリセットされるため再設定が必要
+### 不規則なログ出力を非表示にする - 通常の cron ログを表示しつつ対象のログを非表示にする
+
+* 再起動時、本設定がリセットされるため再設定が必要
 
 1. ターミナルを開いて SSH でルーターにログインします。
 
@@ -329,7 +341,7 @@ config system
 
 ---
 
-> GL-MT3000 でインターネットに接続できない
+### GL-MT3000 でインターネットに接続できない
 
 1. http://192.168.8.1/#/clients にて、対象のホストのプライベート IP アドレスが表示されているか確認します。 *表示されていない場合、 DHCP サーバに原因があると思われます。
 
@@ -388,7 +400,7 @@ YYYY/MM/DD HH24:MI:SS.FF daemon.info dnsmasq-dhcp[12345]: DHCPACK(br-lan) ip_add
 
 ---
 
-> 直前のコミットを取り消す
+### 直前のコミットを取り消す
 
 1. ターミナルを開いて、カレントディレクトリを作業ディレクトリに変更します。
 
@@ -416,7 +428,7 @@ To github.com:[Account_Name]/[Repository_Name].git
 
 ---
 
-> 直前のコミット取り消しをリモートリポジトリに適用できない
+### 直前のコミット取り消しをリモートリポジトリに適用できない
 
 * リモートリポジトリにローカルリポジトリの変更(直前のコミット取り消し)適用時、以下のメッセージが出力される。
 
@@ -424,7 +436,7 @@ To github.com:[Account_Name]/[Repository_Name].git
 
 ```
 Username for 'https://github.com': [Account_Name]
-Password for 'https://[Account_Name]@github.com': 
+Password for 'https://[Account_Name]@github.com':
 remote: Support for password authentication was removed on August 13, 2021.
 remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
 fatal: Authentication failed for 'https://github.com/[Account_Name]/[Repository_Name].git/'
@@ -505,7 +517,7 @@ To github.com:[Account_Name]/[Repository_Name].git
 
 ---
 
-> "GitHub Desktop.app" で "Push" 時に認証エラーが出る
+### "GitHub Desktop" アプリの "Push origin" にて認証エラーが発生する
 
 ```
 Authentication failed. Some common reasons include:
@@ -555,9 +567,9 @@ Hi [Account_Name]! You've successfully authenticated, but GitHub does not provid
 
 > 本リポジトリでの作業を開始する前に
 
-1. ブランチを切る  
+1. ブランチを切る
 2. コミットはファイル毎に行う *コミットメッセージ命名規則を参照
-3. 毎週日曜日にプルリクエストを作成する  
+3. 毎週日曜日にプルリクエストを作成する
 4. Squash and merge で main ブランチに適用する
 5. Delete branch でブランチを削除する
 
@@ -572,7 +584,7 @@ Hi [Account_Name]! You've successfully authenticated, but GitHub does not provid
 
 コミットメッセージ構文： `[YYYY-mm-dd] {メッセージ} {ファイル名}`
 
-> PR用ブランチ／PRタイトル命名規則
+> PR 用ブランチ／PR タイトル命名規則
 
 | 月数 | month |
 | :---- | :---- |
@@ -589,13 +601,13 @@ Hi [Account_Name]! You've successfully authenticated, but GitHub does not provid
 | 11月 | November |
 | 12月 | December |
 
-PR用ブランチ構文： `release_{month}_week_{1-5}`
+PR 用ブランチ構文： `release_{month}_week_{1-5}`
 
-PRタイトル構文： `{month} Week {1-5} Release`
+PR タイトル構文： `{month} Week {1-5} Release`
 
 ## SSH to Github
 
-> SSHキーの新規取得
+> SSH キーの新規取得
 
 1. ターミナルを開いて以下のコマンドを実行します。 *`email@example.com` の部分は自身のメールアドレスに変換して下さい。
 
@@ -615,7 +627,7 @@ Enter passphrase (empty for no passphrase): [Type a passphrase]
 Enter same passphrase again: [Type a passphrase]
 ```
 
-4. SSHキーが発行されます。 *下記の値やランダムアートは一例です
+4. SSH キーが発行されます。 *下記の値やランダムアートは一例です
 
 ```
 Your identification has been saved in /Users/user/.ssh/id_ed25519
@@ -658,7 +670,7 @@ Key：　手順5で取得した SSH キーを貼り付け
 
 ---
 
-> CLIを使ったリポジトリのクローン
+> CLI を使ったリポジトリのクローン
 
 1. GitHub.com でリポジトリのメインページへ移動します。
 
@@ -674,7 +686,7 @@ Key：　手順5で取得した SSH キーを貼り付け
 
 　`$ git clone git@github.com:[Account_Name]/[Repository_Name].git`
 
-6. 初回接続、又は known_hosts に必要な情報が存在しない場合は以下のプロンプトが出力されます。接続するために "yes" を入力します。 *known_hosts ファイルに接続先サーバのIPアドレスやホスト名、公開鍵を保存します
+6. 初回接続、又は known_hosts に必要な情報が存在しない場合は以下のプロンプトが出力されます。接続するために "yes" を入力します。 *known_hosts ファイルに接続先サーバの IP アドレスやホスト名、公開鍵を保存します
 
 ```
 Cloning into '[Repository_Name]'...
@@ -711,9 +723,9 @@ Updating files: 100% (10/10), done.
 
 　`$ git checkout -b release_[month]_week_[1-5]`
 
-　*ブランチを削除する場合　`$ git branch -d release_[month]_week_[1-5]`
+* ブランチを削除する場合　`$ git branch -d release_[month]_week_[1-5]`
 
-　*ブランチ名を変更する場合　`$ git branch -m release_[month]_week_[1-5]`
+* ブランチ名を変更する場合　`$ git branch -m release_[month]_week_[1-5]`
 
 2. git pull 実行前に設定します。(デフォルトの pull の挙動にする)
 
@@ -735,7 +747,7 @@ Updating files: 100% (10/10), done.
 
 　`$ git commit -m "[Commit_Message]"`
 
-　*no changes added to commit (use "git add" and/or "git commit -a")と出た場合は "-am" でコミット
+* no changes added to commit (use "git add" and/or "git commit -a")と出た場合は "-am" でコミット
 
 7. ローカルの変更を確認します。
 
