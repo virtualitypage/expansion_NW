@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 3 August 2024
+# Last modified: 4 August 2024
 #
 
 # [広告全般]
@@ -186,6 +186,7 @@
 0.0.0.0 dotapps.jp
 0.0.0.0 dotgames.info
 0.0.0.0 dpoint.docomo.ne.jp
+0.0.0.0 dpt-e-school.w.waseda.jp
 0.0.0.0 dr-fish.net
 0.0.0.0 dreamorder.com
 0.0.0.0 dressandstyles.com
@@ -247,6 +248,7 @@
 0.0.0.0 franomista.tohogas.co.jp
 0.0.0.0 freedom.co.jp
 0.0.0.0 friday.gold
+0.0.0.0 fringeos.com
 0.0.0.0 fs3.just.edu.tw
 0.0.0.0 fsi-plusf.jp
 0.0.0.0 fsp.norasci.com
@@ -260,6 +262,7 @@
 0.0.0.0 funeralsjp.club
 0.0.0.0 funplay.hinet.net
 0.0.0.0 furusato-karatsu.com
+0.0.0.0 g.floorheating-best.net
 0.0.0.0 g123.jp
 0.0.0.0 gachinko-school.com
 0.0.0.0 games.dmm.com
@@ -277,6 +280,7 @@
 0.0.0.0 gion-museum.com
 0.0.0.0 glampicks.jp
 0.0.0.0 global.jr-central.co.jp
+0.0.0.0 global.tamanlestari.com
 0.0.0.0 globalxetfs.co.jp
 0.0.0.0 globe.asahi.com
 0.0.0.0 gmobb.jp
@@ -288,6 +292,7 @@
 0.0.0.0 gofuku-kaitori.com
 0.0.0.0 goldteethusa.com
 0.0.0.0 golf-resort.kintetsu-re.co.jp
+0.0.0.0 golfrangeluana.jp
 0.0.0.0 gooda.brangista.com
 0.0.0.0 gooday.nikkei.co.jp
 0.0.0.0 googirl.jp
@@ -518,6 +523,7 @@
 0.0.0.0 lp.chocozap.jp
 0.0.0.0 lp.cloudydrive.net
 0.0.0.0 lp.eneos-wing.org
+0.0.0.0 lp.grapeseed.com
 0.0.0.0 lp.it-trend.jp
 0.0.0.0 lp.kaitekikobo.jp
 0.0.0.0 lp.leadpad.io
@@ -552,6 +558,7 @@
 0.0.0.0 medical-shinjuku.com
 0.0.0.0 medicalarts-amt.com
 0.0.0.0 medicaldoc.jp
+0.0.0.0 medicalnote.jp
 0.0.0.0 meganestore.co.jp
 0.0.0.0 megaten5.jp
 0.0.0.0 mei-ten.com
@@ -839,6 +846,7 @@
 0.0.0.0 souda-kyoto.jp
 0.0.0.0 southernlift.com
 0.0.0.0 souzoku.t-bengo.com
+0.0.0.0 soxai.co.jp
 0.0.0.0 sp.otsuka-shokai.co.jp
 0.0.0.0 spicaglow.jp
 0.0.0.0 spikomi.net
@@ -940,6 +948,7 @@
 0.0.0.0 uetani-clinic.com
 0.0.0.0 uma-quick.com
 0.0.0.0 uma-rank.net
+0.0.0.0 uncf.org
 0.0.0.0 unicorn-overlord.com
 0.0.0.0 universe-co.com
 0.0.0.0 uno-hotel.com
@@ -1023,6 +1032,7 @@
 0.0.0.0 www.aiimi.com
 0.0.0.0 www.airnewzealand.jp
 0.0.0.0 www.alba.co.jp
+0.0.0.0 www.allaroundmobilehomeservice.com
 0.0.0.0 www.allsaints.jp
 0.0.0.0 www.alpen-route.com
 0.0.0.0 www.alphamap.com
@@ -1156,6 +1166,7 @@
 0.0.0.0 www.couleur-harima.com
 0.0.0.0 www.coverland.co.jp
 0.0.0.0 www.cross-m.co.jp
+0.0.0.0 www.crosslinktax.com
 0.0.0.0 www.ctbcinvestments.com
 0.0.0.0 www.cw-x.jp
 0.0.0.0 www.cw.com.tw
@@ -1208,6 +1219,7 @@
 0.0.0.0 www.f-kenmin.jp
 0.0.0.0 www.f-marinos.com
 0.0.0.0 www.fabric-homes.co.jp
+0.0.0.0 www.fairmont-empress.com
 0.0.0.0 www.fanstyle.co.jp
 0.0.0.0 www.feels-trend.site
 0.0.0.0 www.felicitycontrol.com
@@ -1386,6 +1398,7 @@
 0.0.0.0 www.kawate-shika.site
 0.0.0.0 www.keiai.net
 0.0.0.0 www.keiji-pestcontrol.com
+0.0.0.0 www.keyence-foundation.or.jp
 0.0.0.0 www.kindai.ac.jp
 0.0.0.0 www.kinsoku.ac.jp
 0.0.0.0 www.kirizai.jp
@@ -1424,6 +1437,7 @@
 0.0.0.0 www.lpio.jp
 0.0.0.0 www.lululemon.co.jp
 0.0.0.0 www.luxalgo.com
+0.0.0.0 www.lyft-gym.com
 0.0.0.0 www.m-ams.co.jp
 0.0.0.0 www.magionet.co.jp
 0.0.0.0 www.malverncollegetokyo.jp
@@ -1446,6 +1460,7 @@
 0.0.0.0 www.meimonkai.co.jp
 0.0.0.0 www.mekarijinja.com
 0.0.0.0 www.menicon.co.jp
+0.0.0.0 www.mens-doors.com
 0.0.0.0 www.metroopinion.com
 0.0.0.0 www.mewa.gov.sa
 0.0.0.0 www.mhlw.go.jp
@@ -1472,9 +1487,11 @@
 0.0.0.0 www.monocompany.com
 0.0.0.0 www.morimotocon.co.jp
 0.0.0.0 www.morinobrand-store.com
+0.0.0.0 www.morrobay.org
 0.0.0.0 www.motherfarm.co.jp
 0.0.0.0 www.ms-ins.com
 0.0.0.0 www.mules.jp
+0.0.0.0 www.myagentla.com
 0.0.0.0 www.myremi.com
 0.0.0.0 www.mystino.jp
 0.0.0.0 www.nagasakistadiumcity.com
@@ -1541,6 +1558,7 @@
 0.0.0.0 www.oscd.jp
 0.0.0.0 www.otsuka-shokai.co.jp
 0.0.0.0 www.otv.co.jp
+0.0.0.0 www.ouj.ac.jp
 0.0.0.0 www.ozekihibachi2u.com
 0.0.0.0 www.p-minerva.com
 0.0.0.0 www.pachislot-summit.com
@@ -1567,6 +1585,7 @@
 0.0.0.0 www.prageru.com
 0.0.0.0 www.pref.fukushima.lg.jp
 0.0.0.0 www.pref.kochi.lg.jp
+0.0.0.0 www.pref.mie.lg.jp
 0.0.0.0 www.premiumoutlets.co.jp
 0.0.0.0 www.princehotels.co.jp
 0.0.0.0 www.proyang.com.tw
@@ -1799,6 +1818,7 @@
 0.0.0.0 www2.bglen.net
 0.0.0.0 www3.jeed.go.jp
 0.0.0.0 www3.kawasaki-motors.com
+0.0.0.0 www3.nissan.co.jp
 0.0.0.0 yacnee.co.jp
 0.0.0.0 yamadahomes.jp
 0.0.0.0 yamadahomes.resv.jp
