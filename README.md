@@ -1,4 +1,4 @@
-![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v2.0.0-blue?style=flat)
+![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v2.1.0-blue?style=flat)
 ![Release Date](https://img.shields.io/badge/Release_Date-August_4_2024-green?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualitypage/expansion_NW)
 
@@ -8,6 +8,7 @@
   - [Send e-mail from the router](#ルーターからメール送信を行う)
   - [Send e-mail from the router - Load a file for e-mail and send it by e-mail](#ルーターからメール送信を行う---メール用のファイルを読み込んでメール送信)
   - [Send e-mail from the router - Insert attached file](#ルーターからメール送信を行う---添付ファイルを挿入)
+  - [Download files from a private Github repository](#github-のプライベートリポジトリからファイルをダウンロードする)
 - [Document - Troubleshooting](#document---troubleshooting)
   - [Hide irregular log output](#不規則なログ出力を非表示にする)
   - [Hide irregular log output - Displays normal cron logs and hides target logs](#不規則なログ出力を非表示にする---通常の-cron-ログを表示しつつ対象のログを非表示にする)
@@ -244,6 +245,97 @@ This is a test email.
 
 5. プロンプト上に何も表示されなければ完了です。
 
+---
+
+### Github のプライベートリポジトリからファイルをダウンロードする
+
+参照元：https://stackoverflow.com/questions/53083479/wget-a-raw-file-from-github-from-a-private-repo
+
+1. [github.com](https://github.com/login) にログインして[New personal access token (classic)](https://github.com/settings/tokens/new) に移動します。
+
+2. "Note" に、パーソナルアクセストークンに使用する任意の名前を入れて下さい。
+
+3. "Select scopes" の "repo" にチェックを入れて画面下部の "Generate token" をクリックします。
+
+4. 発行されたパーソナルアクセストークンをコピーしてメモ等に控えて下さい。
+
+5. 対象のファイルがあるプライベートリポジトリに移動します。
+
+6. 対象のファイルをクリックした後、画面右側にある "Raw" をクリックして URL をコピーします。
+
+7. ターミナルを開いて SSH でルーターにログインします。
+
+　`$ ssh root@{ip_address|host_name}`
+
+8. 以下のコマンドを実行します。 
+
+* `PERSONAL_ACCESS_TOKEN`は手順3で保存したものを使用、`dest_file_path` は保存先のファイル名。
+
+* `https://` に続く URL は手順6で取得したものに変換して下さい。
+
+```
+$ curl -H 'Authorization: token PERSONAL_ACCESS_TOKEN' -L -o [dest_file_path] https://raw.githubusercontent.com/[repoOwner]/[repoName]/main/[folder]/[filename]
+```
+
+9. 以下のように出力されたら完了です。 *下記は一例です
+
+```
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 28976  100 28976    0     0  63498      0 --:--:-- --:--:-- --:--:-- 63964
+```
+
+#### ・対象のフォルダから複数のファイルをダウンロードする場合
+
+1. ターミナルを開いて SSH でルーターにログインします。
+
+　`$ ssh root@{ip_address|host_name}`
+
+2. ダウンロードするファイルのURLリストを以下のように設定します。 *`https://` に続く URL は手順6で取得したものに変換して下さい。
+
+　`$ vi url_list.txt`
+
+```
+https://raw.githubusercontent.com/[repoOwner]/[repoName]/main/[folder]/[filename_1]
+https://raw.githubusercontent.com/[repoOwner]/[repoName]/main/[folder]/[filename_2]
+https://raw.githubusercontent.com/[repoOwner]/[repoName]/main/[folder]/[filename_3]
+```
+
+3. 以下のシェルスクリプトを作成します。 * `PERSONAL_ACCESS_TOKEN`は手順3で保存したものを使用
+
+* 変数 `dest_dir` `auth_token` の値を変更すること
+
+　`$ vi github_private_download.sh`
+
+```
+#!/bin/bash
+
+dest_dir="path/to/dest_dir" # 保存先ディレクトリ
+url_list="url_list.txt"# URLリストのファイル
+auth_token="PERSONAL_ACCESS_TOKEN" # パーソナルアクセストークン
+
+while IFS= read -r url; do
+  filename=$(basename "$url")
+  curl -H "Authorization: token $auth_token" -L -o "$dest_dir/$filename" "$url"
+done < "$url_list"
+```
+
+4. 作成したシェルスクリプトに実行権限を付与します。
+
+　`$ chmod +x github_private_download.sh`
+
+5. 作成したシェルスクリプトを実行します。
+
+　`$ ash github_private_download.sh`
+
+6. 以下のように出力されたら完了です。 *下記は一例です
+
+```
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 28976  100 28976    0     0  63498      0 --:--:-- --:--:-- --:--:-- 63964
+```
+
 ## Document - Troubleshooting
 
 ### 不規則なログ出力を非表示にする
@@ -293,7 +385,7 @@ config system
 
 ### 不規則なログ出力を非表示にする - 通常の cron ログを表示しつつ対象のログを非表示にする
 
-* 再起動時、本設定がリセットされるため再設定が必要
+> 再起動時、本設定がリセットされるため再設定が必要
 
 1. ターミナルを開いて SSH でルーターにログインします。
 
@@ -404,11 +496,11 @@ YYYY/MM/DD HH24:MI:SS.FF daemon.info dnsmasq-dhcp[12345]: DHCPACK(br-lan) ip_add
 
 1. ターミナルを開いて、カレントディレクトリを作業ディレクトリに変更します。
 
-　`$ cd [Repository_Name]`
+　`$ cd [repoName]`
 
 2. 以下のコマンドを実行して直前のコミットを取り消します。
 
-　`$ git reset --hard HEAD^`
+　`$ git reset HEAD^`
 
 `HEAD is now at 1a2b3c4 [YYYY-mm-dd] {メッセージ} {ファイル名}`
 
@@ -422,7 +514,7 @@ YYYY/MM/DD HH24:MI:SS.FF daemon.info dnsmasq-dhcp[12345]: DHCPACK(br-lan) ip_add
 
 ```
 Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
-To github.com:[Account_Name]/[Repository_Name].git
+To github.com:[repoOwner]/[repoName].git
  + 9h0i1j2...5e6f7g8 release_{month}_week_{1-5} -> release_{month}_week_{1-5} (forced update)
 ```
 
@@ -430,16 +522,16 @@ To github.com:[Account_Name]/[Repository_Name].git
 
 ### 直前のコミット取り消しをリモートリポジトリに適用できない
 
-* リモートリポジトリにローカルリポジトリの変更(直前のコミット取り消し)適用時、以下のメッセージが出力される。
+> リモートリポジトリにローカルリポジトリの変更(直前のコミット取り消し)適用時、以下のメッセージが出力される。
 
 　`$ git push origin release_{month}_week_{1-5} --force`
 
 ```
-Username for 'https://github.com': [Account_Name]
-Password for 'https://[Account_Name]@github.com':
+Username for 'https://github.com': [repoOwner]
+Password for 'https://[repoOwner]@github.com':
 remote: Support for password authentication was removed on August 13, 2021.
 remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
-fatal: Authentication failed for 'https://github.com/[Account_Name]/[Repository_Name].git/'
+fatal: Authentication failed for 'https://github.com/[repoOwner]/[repoName].git/'
 ```
 
 1. ターミナルを開いて GitHub への接続テストを行います。
@@ -481,15 +573,15 @@ Host github.com
 
 5. リモート URL を SSH の URL に設定します。
 
-　`$ git remote set-url origin [Account_Name]@github.com:[Account_Name]/[Repository_Name].git`
+　`$ git remote set-url origin [repoOwner]@github.com:[repoOwner]/[repoName].git`
 
 6. リモート URL の設定が正しいか確認します。
 
 　`$ git remote -v`
 
 ```
-origin	git@github.com:[Account_Name]/[Repository_Name].git (fetch)
-origin	git@github.com:[Account_Name]/[Repository_Name].git (push)
+origin	git@github.com:[repoOwner]/[repoName].git (fetch)
+origin	git@github.com:[repoOwner]/[repoName].git (push)
 ```
 
 7. 再度 GitHub への接続テストを行います。
@@ -502,7 +594,7 @@ ED25519 key fingerprint is SHA256:+AbC1defG2HiJklmnOpqR/sTUV3wXYZaBcde4GhIKlL.
 This key is not known by any other names
 Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
 Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
-Hi [Account_Name]! You've successfully authenticated, but GitHub does not provide shell access.
+Hi [repoOwner]! You've successfully authenticated, but GitHub does not provide shell access.
 ```
 
 8. リモートリポジトリにローカルリポジトリの変更(直前のコミット取り消し)を適用します。
@@ -511,7 +603,7 @@ Hi [Account_Name]! You've successfully authenticated, but GitHub does not provid
 
 ```
 Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
-To github.com:[Account_Name]/[Repository_Name].git
+To github.com:[repoOwner]/[repoName].git
  + 9h0i1j2...5e6f7g8 release_{month}_week_{1-5} -> release_{month}_week_{1-5} (forced update)
 ```
 
@@ -531,7 +623,7 @@ Authentication failed. Some common reasons include:
 - If you used username / password authentication, you might need to use a Personal Access Token instead of your account password. Check the documentation of your repository hosting service
 ```
 
-* "id_ed25519" と "id_ed25519.pub" を変更した場合に発生します。
+> "id_ed25519" と "id_ed25519.pub" を変更した場合に発生します。
 
 ```
 $ ssh -T git@github.com
@@ -558,7 +650,7 @@ ED25519 key fingerprint is SHA256:+AbC1defG2HiJklmnOpqR/sTUV3wXYZaBcde4GhIKlL.
 This key is not known by any other names
 Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
 Warning: Permanently added 'github.com' (ED25519) to the list of known hosts.
-Hi [Account_Name]! You've successfully authenticated, but GitHub does not provide shell access.
+Hi [repoOwner]! You've successfully authenticated, but GitHub does not provide shell access.
 ```
 
 4. 上記のように表示されたら "GitHub Desktop.app" で "Push" が可能になります。
@@ -684,7 +776,7 @@ Key：　手順5で取得した SSH キーを貼り付け
 
 5. "git clone" と入力し、手順3でコピーした URL を貼り付けます。
 
-　`$ git clone git@github.com:[Account_Name]/[Repository_Name].git`
+　`$ git clone git@github.com:[repoOwner]/[repoName].git`
 
 6. 初回接続、又は known_hosts に必要な情報が存在しない場合は以下のプロンプトが出力されます。接続するために "yes" を入力します。 *known_hosts ファイルに接続先サーバの IP アドレスやホスト名、公開鍵を保存します
 
@@ -757,7 +849,7 @@ Updating files: 100% (10/10), done.
 
 　`$ git push origin release_[month]_week_[1-5]`
 
-9. https://github.com/[Account_Name]/[Repository_Name]/pulls に移動します。
+9. https://github.com/[repoOwner]/[repoName]/pulls に移動します。
 
 10. "Compare & pull request" をクリックします。
 
