@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 4 August 2024
+# Last modified: 5 August 2024
 #
 
 # [広告全般]
@@ -251,6 +251,7 @@
 0.0.0.0 fringeos.com
 0.0.0.0 fs3.just.edu.tw
 0.0.0.0 fsi-plusf.jp
+0.0.0.0 fso.ieitown.jp
 0.0.0.0 fsp.norasci.com
 0.0.0.0 fujikoumuten.co.jp
 0.0.0.0 fukui-presentcpn.jp
@@ -360,6 +361,7 @@
 0.0.0.0 housefreedom-fujiidera.com
 0.0.0.0 housing-garden.jp
 0.0.0.0 housing.hicbc.com
+0.0.0.0 howdyplus.com
 0.0.0.0 hoyeon.plaync.com
 0.0.0.0 htm.sf-express.com
 0.0.0.0 hyogo-lifepartner.co.jp
@@ -401,6 +403,7 @@
 0.0.0.0 ja-aichichita.jp
 0.0.0.0 ja.couponpac.com
 0.0.0.0 ja.popsilla.com
+0.0.0.0 jetb.co.jp
 0.0.0.0 jewelry-girls.net
 0.0.0.0 jicamagazine.jica.go.jp
 0.0.0.0 jnet-store.com
@@ -483,6 +486,8 @@
 0.0.0.0 kojyo-kuruma.com
 0.0.0.0 kokokara.tais.ac.jp
 0.0.0.0 kosavu.com
+0.0.0.0 koshien.hanshin.co.jp
+0.0.0.0 kotilabo.com
 0.0.0.0 kottoukaitori-ohgiya.jp
 0.0.0.0 kouju.mabuchi.co.jp
 0.0.0.0 koukoukojitsu.com
@@ -526,6 +531,7 @@
 0.0.0.0 lp.grapeseed.com
 0.0.0.0 lp.it-trend.jp
 0.0.0.0 lp.kaitekikobo.jp
+0.0.0.0 lp.kaitori-daikichi.jp
 0.0.0.0 lp.leadpad.io
 0.0.0.0 lp.mediacloudtech.com
 0.0.0.0 lp.sokuwork.com
@@ -547,6 +553,7 @@
 0.0.0.0 mangamatsuri.kodansha.co.jp
 0.0.0.0 mangasouko-shop.jp
 0.0.0.0 manulife-gaika.jp
+0.0.0.0 maruhan-lp.net
 0.0.0.0 matsuyama.citroen-dealer.jp
 0.0.0.0 mayutan.com
 0.0.0.0 mb-hakata.com
@@ -596,6 +603,7 @@
 0.0.0.0 nagoya.ace-clinic.com
 0.0.0.0 nakanodental-cl.com
 0.0.0.0 nannyme.love
+0.0.0.0 nekkoya.shop-pro.jp
 0.0.0.0 nestle.jp
 0.0.0.0 network.mobile.rakuten.co.jp
 0.0.0.0 netzfukuoka.jp
@@ -643,6 +651,7 @@
 0.0.0.0 openhub.ntt.com
 0.0.0.0 original-champagne.net
 0.0.0.0 ortho-mouthpiece-jp.life
+0.0.0.0 osaka-hanalangue.com
 0.0.0.0 osaka-pleats-amido.com
 0.0.0.0 osho-research.co.jp
 0.0.0.0 ost-honeypot-1.oreillyauto.com
@@ -722,6 +731,7 @@
 0.0.0.0 s-imanani.com
 0.0.0.0 s.cardnavi-d.com
 0.0.0.0 s.weddingpark.net
+0.0.0.0 sablelabs.co
 0.0.0.0 safe.tr.mufg.jp
 0.0.0.0 sagan-sakana.com
 0.0.0.0 saiene-support.jp
@@ -812,6 +822,7 @@
 0.0.0.0 shop-list.com
 0.0.0.0 shop.basefood.co.jp
 0.0.0.0 shop.g9trainer.com
+0.0.0.0 shop.ginzatanaka.co.jp
 0.0.0.0 shop.importparts-zeroone.com
 0.0.0.0 shop.joshin.co.jp
 0.0.0.0 shop.lumieu.jp
@@ -952,6 +963,7 @@
 0.0.0.0 unicorn-overlord.com
 0.0.0.0 universe-co.com
 0.0.0.0 uno-hotel.com
+0.0.0.0 unove.jp
 0.0.0.0 uodon-fukushima.com
 0.0.0.0 uptofficial.jp
 0.0.0.0 urayasu.brightonhotels.co.jp
@@ -1035,6 +1047,7 @@
 0.0.0.0 www.allaroundmobilehomeservice.com
 0.0.0.0 www.allsaints.jp
 0.0.0.0 www.alpen-route.com
+0.0.0.0 www.alpha-note.co.jp
 0.0.0.0 www.alphamap.com
 0.0.0.0 www.amanofd.jp
 0.0.0.0 www.amd.com
@@ -1049,6 +1062,7 @@
 0.0.0.0 www.anpic.jp
 0.0.0.0 www.anshindo-grp.co.jp
 0.0.0.0 www.anytimefitness.co.jp
+0.0.0.0 www.apg-aiplan.com
 0.0.0.0 www.apolloseiko.co.jp
 0.0.0.0 www.aprica.jp
 0.0.0.0 www.aqa.org.uk
@@ -1272,9 +1286,11 @@
 0.0.0.0 www.graff.com
 0.0.0.0 www.grajapa.shueisha.co.jp
 0.0.0.0 www.grand-recruit.jp
+0.0.0.0 www.grand-seiko.com
 0.0.0.0 www.grandelakes.com
 0.0.0.0 www.gressive.jp
 0.0.0.0 www.gs-vanlife.com
+0.0.0.0 www.guska.jp
 0.0.0.0 www.h-bd.co.jp
 0.0.0.0 www.hakodateyama.com
 0.0.0.0 www.hakuaisha.jp
@@ -1423,6 +1439,7 @@
 0.0.0.0 www.kuchou-fuku.com
 0.0.0.0 www.kumamoto-hsu.ac.jp
 0.0.0.0 www.landrover.co.jp
+0.0.0.0 www.le-trois.jp
 0.0.0.0 www.lebledor.com
 0.0.0.0 www.lenovo.com
 0.0.0.0 www.lensstyle.jp
@@ -1494,6 +1511,7 @@
 0.0.0.0 www.myagentla.com
 0.0.0.0 www.myremi.com
 0.0.0.0 www.mystino.jp
+0.0.0.0 www.nagasaki-ichiba.com
 0.0.0.0 www.nagasakistadiumcity.com
 0.0.0.0 www.nagoya-bengoshi.info
 0.0.0.0 www.nakae-bussan.shop
@@ -1758,6 +1776,7 @@
 0.0.0.0 www.tudass.co.jp
 0.0.0.0 www.tv-osaka.co.jp
 0.0.0.0 www.twellv.co.jp
+0.0.0.0 www.twintreesphotography.com
 0.0.0.0 www.u-master.net
 0.0.0.0 www.ube.co.jp
 0.0.0.0 www.uehara-shinkyuin.com
@@ -1810,6 +1829,7 @@
 0.0.0.0 www.yrl.com
 0.0.0.0 www.ytj.gr.jp
 0.0.0.0 www.yuanta.com.tw
+0.0.0.0 www.zaitakucare.co.jp
 0.0.0.0 www.zeczec.com
 0.0.0.0 www.zenrosai.coop
 0.0.0.0 www.zissen-mw.jp
@@ -1837,6 +1857,7 @@
 0.0.0.0 zenbivy.com
 0.0.0.0 zexy.net
 0.0.0.0 zigen-inc.stores.jp
+0.0.0.0 zomeki-creators-club.jp
 
 # [Youtubeの広告]
 0.0.0.0 04510.jp
