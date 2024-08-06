@@ -1,4 +1,4 @@
-![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v2.1.0-blue?style=flat)
+![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v2.2.0-blue?style=flat)
 ![Release Date](https://img.shields.io/badge/Release_Date-August_4_2024-green?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualitypage/expansion_NW)
 
@@ -16,6 +16,7 @@
   - [Undo the previous commit](#直前のコミットを取り消す)
   - [Unable to apply previous commit undo to remote repository](#直前のコミット取り消しをリモートリポジトリに適用できない)
   - [Authentication error occurs in "Push origin" in "GitHub Desktop.app"](#github-desktop-アプリの-push-origin-にて認証エラーが発生する)
+  - [Authentication errors occur with "git clone", "git push origin main", etc.](#git-clone-や-git-push-origin-main-等で認証エラーが発生する)
 - [Management Rules](#management-rules)
 - [SSH to Github](#ssh-to-github)
 
@@ -269,12 +270,12 @@ This is a test email.
 
 8. 以下のコマンドを実行します。 
 
-* `PERSONAL_ACCESS_TOKEN`は手順3で保存したものを使用、`dest_file_path` は保存先のファイル名。
+* `PERSONAL_ACCESS_TOKEN`は手順3で保存したものを使用、`absolute_path` は保存先の絶対パス。
 
 * `https://` に続く URL は手順6で取得したものに変換して下さい。
 
 ```
-$ curl -H 'Authorization: token PERSONAL_ACCESS_TOKEN' -L -o [dest_file_path] https://raw.githubusercontent.com/[repoOwner]/[repoName]/main/[folder]/[filename]
+$ curl -H 'Authorization: token PERSONAL_ACCESS_TOKEN' -L -o [absolute_path] https://raw.githubusercontent.com/[repoOwner]/[repoName]/main/[folder]/[filename]
 ```
 
 9. 以下のように出力されたら完了です。 *下記は一例です
@@ -285,13 +286,41 @@ $ curl -H 'Authorization: token PERSONAL_ACCESS_TOKEN' -L -o [dest_file_path] ht
 100 28976  100 28976    0     0  63498      0 --:--:-- --:--:-- --:--:-- 63964
 ```
 
+#### ・画像や PDF ファイルをダウンロードする場合
+
+1. 以下のコマンドを実行します。 
+
+* `PERSONAL_ACCESS_TOKEN`は前項の手順3で保存したものを使用、`absolute_path` は保存先の絶対パス。
+
+* `https://` に続く URL は対象の画像や PDF ファイルをクリックして取得したものに変換して下さい。
+
+```
+$ curl -H "Authorization: token PERSONAL_ACCESS_TOKEN" -H "Accept: application/vnd.github.v3.raw" -L "https://api.github.com/repos/[repoOwner]/[repoName]/contents/[folder]/[filename]" -o [absolute_path]
+```
+
+2. 以下のように出力されたら完了です。 *下記は一例です
+
+```
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 8279k  100 8279k    0     0  4170k      0  0:00:01  0:00:01 --:--:-- 4168k
+```
+
+* 以下のコマンドを実行することで、ダウンロードしたファイルの形式を確認することが出来ます。 *ファイルの種類毎に出力結果は異なります
+
+　`$ file [filename].png` 
+
+```
+[filename].png: PNG image data, 3360 x 1894, 8-bit/color RGBA, non-interlaced
+```
+
 #### ・対象のフォルダから複数のファイルをダウンロードする場合
 
 1. ターミナルを開いて SSH でルーターにログインします。
 
 　`$ ssh root@{ip_address|host_name}`
 
-2. ダウンロードするファイルのURLリストを以下のように設定します。 *`https://` に続く URL は手順6で取得したものに変換して下さい。
+2. ダウンロードするファイルのURLリストを以下のように設定します。 *`https://` に続く URL は前項の手順6で取得したものに変換して下さい。
 
 　`$ vi url_list.txt`
 
@@ -301,7 +330,7 @@ https://raw.githubusercontent.com/[repoOwner]/[repoName]/main/[folder]/[filename
 https://raw.githubusercontent.com/[repoOwner]/[repoName]/main/[folder]/[filename_3]
 ```
 
-3. 以下のシェルスクリプトを作成します。 * `PERSONAL_ACCESS_TOKEN`は手順3で保存したものを使用
+3. 以下のシェルスクリプトを作成します。 * `PERSONAL_ACCESS_TOKEN`は前項の手順3で保存したものを使用
 
 * 変数 `dest_dir` `auth_token` の値を変更すること
 
@@ -655,6 +684,57 @@ Hi [repoOwner]! You've successfully authenticated, but GitHub does not provide s
 
 4. 上記のように表示されたら "GitHub Desktop.app" で "Push" が可能になります。
 
+---
+
+### "git clone" や "git push origin main" 等で認証エラーが発生する
+
+　`$ git clone https://github.com/[repoOwner]/[repoName].git`
+
+```
+Cloning into '[repoName]'...
+Username for 'https://github.com': [repoOwner]
+Password for 'https://[repoName]@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/[repoOwner]/[repoName].git/'
+```
+
+* `Password for 'https://[repoName]@github.com': ` 行にパーソナルアクセストークンが入力されていない、かつリモートURLが以下のようになっている場合に発生します。
+
+```
+origin	https://github.com/[repoOwner]/[repoName].git (fetch)
+origin	https://github.com/[repoOwner]/[repoName].git (push)
+```
+
+* パーソナルアクセストークンを使用しない場合、リモート URL を SSH の URL に設定することで解決します。
+
+　`$ git remote set-url origin [repoOwner]@github.com:[repoOwner]/[repoName].git`
+
+> パーソナルアクセストークンを使用する場合
+
+1. [GitHub のプライベートリポジトリからファイルをダウンロードする](#github-のプライベートリポジトリからファイルをダウンロードする) の手順1〜4を実施します。
+
+2. 以下のコマンドを実行して `Password for 'https://[repoName]@github.com': ` 行にパーソナルアクセストークンをペーストします。
+
+　`$ git clone https://github.com/[repoOwner]/[repoName].git`
+
+```
+Cloning into '[repoName]'...
+Username for 'https://github.com': [repoOwner]
+Password for 'https://[repoName]@github.com': 
+```
+
+3. 以下のようなプロセスが開始・終了したら成功です。 *下記は一例です
+
+```
+remote: Enumerating objects: 10, done.
+remote: Counting objects: 100% (10/10), done.
+remote: Compressing objects: 100% (7/7), done.
+remote: Total 10 (delta 2), reused 10 (delta 2), pack-reused 0
+Receiving objects: 100% (10/10), 36.33 KiB | 6.05 MiB/s, done.
+Resolving deltas: 100% (2/2), done.
+```
+
 ## Management Rules
 
 > 本リポジトリでの作業を開始する前に
@@ -798,13 +878,12 @@ Enter passphrase for key '/Users/user/.ssh/id_ed25519':
 8. 以下のようなプロセスが開始・終了したらリポジトリのクローンは成功です。 *下記は一例です
 
 ```
-remote: Enumerating objects: 28, done.
-remote: Counting objects: 100% (28/28), done.
-remote: Compressing objects: 100% (23/23), done.
-remote: Total 28 (delta 8), reused 18 (delta 3), pack-reused 0
-Receiving objects: 100% (28/28), 6.12 MiB | 662.00 KiB/s, done.
-Resolving deltas: 100% (8/8), done.
-Updating files: 100% (10/10), done.
+remote: Enumerating objects: 10, done.
+remote: Counting objects: 100% (10/10), done.
+remote: Compressing objects: 100% (7/7), done.
+remote: Total 10 (delta 2), reused 10 (delta 2), pack-reused 0
+Receiving objects: 100% (10/10), 36.33 KiB | 6.05 MiB/s, done.
+Resolving deltas: 100% (2/2), done.
 ```
 
 ---
