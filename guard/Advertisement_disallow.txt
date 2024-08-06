@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 5 August 2024
+# Last modified: 6 August 2024
 #
 
 # [広告全般]
@@ -48,6 +48,8 @@
 0.0.0.0 alinamin-kenko.jp
 0.0.0.0 alinamin.jp
 0.0.0.0 allie-ai.kao-kirei.com
+0.0.0.0 alohadou.com
+0.0.0.0 alphamiki.co.jp
 0.0.0.0 ananweb.jp
 0.0.0.0 angelinasweet.com
 0.0.0.0 animefesta.iowl.jp
@@ -129,6 +131,7 @@
 0.0.0.0 cbhpage.com
 0.0.0.0 cell-diagnostics.co.jp
 0.0.0.0 celvoke.com
+0.0.0.0 ceremony-kokoro.jp
 0.0.0.0 cguardian-japan.netlify.app
 0.0.0.0 chirashi.akachan.jp
 0.0.0.0 chouwasha.jp
@@ -455,6 +458,7 @@
 0.0.0.0 kamata-nikuzushi.owst.jp
 0.0.0.0 kamposhop.kracie.co.jp
 0.0.0.0 kamukura-recruit.jp
+0.0.0.0 kanbare.com
 0.0.0.0 karakubuy.com
 0.0.0.0 kashiyama1927.jp
 0.0.0.0 kasuyashika.com
@@ -782,6 +786,7 @@
 0.0.0.0 sb.claudia.co.jp
 0.0.0.0 sb.dioclinic-diet.com
 0.0.0.0 sb.ecnokamisama.com
+0.0.0.0 sb.jewel-dysneh.com
 0.0.0.0 sb.kindle-esxzg.com
 0.0.0.0 sb.kitagawa-investment.com
 0.0.0.0 sb.kyysmahavidyalaya.com
@@ -968,6 +973,7 @@
 0.0.0.0 uptofficial.jp
 0.0.0.0 urayasu.brightonhotels.co.jp
 0.0.0.0 urbancherry.jp
+0.0.0.0 urikko.com
 0.0.0.0 usagi-online.com
 0.0.0.0 vda.afkjourney.com
 0.0.0.0 vegasvegas-recruit.com
@@ -1134,6 +1140,7 @@
 0.0.0.0 www.cat.com
 0.0.0.0 www.catalog-shopping.co.jp
 0.0.0.0 www.cathaylife.com.tw
+0.0.0.0 www.cavy.co.jp
 0.0.0.0 www.cbw-expo.jp
 0.0.0.0 www.ccm.com.hk
 0.0.0.0 www.cerezo.jp
@@ -1167,6 +1174,7 @@
 0.0.0.0 www.coca-cola.com
 0.0.0.0 www.cockpit.co.jp
 0.0.0.0 www.colehaan.co.jp
+0.0.0.0 www.collisioncareers.com
 0.0.0.0 www.columbiasports.co.jp
 0.0.0.0 www.commufa.jp
 0.0.0.0 www.coneru.co.jp
@@ -1415,6 +1423,7 @@
 0.0.0.0 www.keiai.net
 0.0.0.0 www.keiji-pestcontrol.com
 0.0.0.0 www.keyence-foundation.or.jp
+0.0.0.0 www.kikyonooka.or.jp
 0.0.0.0 www.kindai.ac.jp
 0.0.0.0 www.kinsoku.ac.jp
 0.0.0.0 www.kirizai.jp
@@ -1550,6 +1559,7 @@
 0.0.0.0 www.nta.go.jp
 0.0.0.0 www.nttcoms.com
 0.0.0.0 www.nursejinzaibank.com
+0.0.0.0 www.oakplaza.jp
 0.0.0.0 www.oas.ac.jp
 0.0.0.0 www.obc.co.jp
 0.0.0.0 www.occam-global.com
@@ -1606,6 +1616,7 @@
 0.0.0.0 www.pref.mie.lg.jp
 0.0.0.0 www.premiumoutlets.co.jp
 0.0.0.0 www.princehotels.co.jp
+0.0.0.0 www.propertyagent.co.jp
 0.0.0.0 www.proyang.com.tw
 0.0.0.0 www.pure-house.co.jp
 0.0.0.0 www.pwc.com
