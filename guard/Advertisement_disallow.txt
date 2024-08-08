@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 6 August 2024
+# Last modified: 8 August 2024
 #
 
 # [広告全般]
@@ -116,6 +116,7 @@
 0.0.0.0 burg-chintai.com
 0.0.0.0 business.google.com
 0.0.0.0 byd.co.jp
+0.0.0.0 cafe-inn-hitoiki.com
 0.0.0.0 campaign.whitehouse.co.jp
 0.0.0.0 campaign.wild1.co.jp
 0.0.0.0 campanel.jp
@@ -158,7 +159,9 @@
 0.0.0.0 cowcamo.jp
 0.0.0.0 cp.manara.jp
 0.0.0.0 craftdesign.tokyo
+0.0.0.0 crcr.asia
 0.0.0.0 creditcard-news.net
+0.0.0.0 crosset.onward.co.jp
 0.0.0.0 crowdtech.jp
 0.0.0.0 curama.jp
 0.0.0.0 deep2031.com
@@ -203,6 +206,7 @@
 0.0.0.0 easy-simulator.net
 0.0.0.0 ec-myprecious.jp
 0.0.0.0 ec.petfoods.shop
+0.0.0.0 eco-life-smile.com
 0.0.0.0 efex.co.jp
 0.0.0.0 egolf.jp
 0.0.0.0 ehime-sancyoku-premium.com
@@ -374,6 +378,7 @@
 0.0.0.0 ibarakishi-shaken.com
 0.0.0.0 ichigen.shop
 0.0.0.0 ichoice-coop.com
+0.0.0.0 idea.kawahara.ac.jp
 0.0.0.0 iei.jp
 0.0.0.0 ifdesign.com
 0.0.0.0 igolfstudio.jp
@@ -426,6 +431,7 @@
 0.0.0.0 jp.ext.hp.com
 0.0.0.0 jp.gorgonzola.com
 0.0.0.0 jp.indeed.com
+0.0.0.0 jp.kpop-artschool.com
 0.0.0.0 jp.loccitane.com
 0.0.0.0 jp.misumi-ec.com
 0.0.0.0 jp.mixsearches.com
@@ -468,6 +474,7 @@
 0.0.0.0 kazoku-shintaku.org
 0.0.0.0 keihan-smile.com
 0.0.0.0 keirin.by-onko-chishin.com
+0.0.0.0 keishuku-reha.com
 0.0.0.0 kenminforum-aomori.com
 0.0.0.0 kens-smile.com
 0.0.0.0 kenseidayori-mie.com
@@ -549,6 +556,7 @@
 0.0.0.0 m.momoshop.com.tw
 0.0.0.0 m.qoo10.jp
 0.0.0.0 m.unove.jp
+0.0.0.0 m004.yamanashi-bmw.com
 0.0.0.0 m009.duonankai.jp
 0.0.0.0 m019.forseasons-dealer.jp
 0.0.0.0 madream.jp
@@ -618,6 +626,7 @@
 0.0.0.0 newsphere.jp
 0.0.0.0 next-one-dream.com
 0.0.0.0 nextengineer-benext.jp
+0.0.0.0 nextfocus.online
 0.0.0.0 ngdl.jp
 0.0.0.0 ni-deau.jp
 0.0.0.0 nihonjyuutaku.co.jp
@@ -628,6 +637,7 @@
 0.0.0.0 no1-creditcard.com
 0.0.0.0 noj-kawanishi.com
 0.0.0.0 norudake-kyoto.com
+0.0.0.0 notice.go.jp
 0.0.0.0 nova-ag.com
 0.0.0.0 novaassessoriatelefonica.jp
 0.0.0.0 nposalvage.com
@@ -666,7 +676,9 @@
 0.0.0.0 part2.money-yomiuri.com
 0.0.0.0 pc-farm.co.jp
 0.0.0.0 pcareer.m3.com
+0.0.0.0 pcrepair-chiba.com
 0.0.0.0 pengy-magic.penguin-colony.net
+0.0.0.0 personal.canon.jp
 0.0.0.0 petsougi.kensouji.com
 0.0.0.0 pingcap.co.jp
 0.0.0.0 pinklush.jp
@@ -674,6 +686,7 @@
 0.0.0.0 pitat-house.info
 0.0.0.0 pitathouse-nishinagahori.jp
 0.0.0.0 platte.jp
+0.0.0.0 plus.tobemori.com
 0.0.0.0 polywink.com
 0.0.0.0 portal.bizrisk.iij.jp
 0.0.0.0 porte.sport-school.com
@@ -863,6 +876,7 @@
 0.0.0.0 southernlift.com
 0.0.0.0 souzoku.t-bengo.com
 0.0.0.0 soxai.co.jp
+0.0.0.0 sp-newhama.com
 0.0.0.0 sp.otsuka-shokai.co.jp
 0.0.0.0 spicaglow.jp
 0.0.0.0 spikomi.net
@@ -915,6 +929,7 @@
 0.0.0.0 tanoshiiosake.jp
 0.0.0.0 tansei-legaloffice.jp
 0.0.0.0 targety.jp
+0.0.0.0 tateyoko-kazuma.com
 0.0.0.0 taxisaiyo.entetsu.co.jp
 0.0.0.0 teknitape.com
 0.0.0.0 teleboat-cp.jp
@@ -1296,6 +1311,7 @@
 0.0.0.0 www.grand-recruit.jp
 0.0.0.0 www.grand-seiko.com
 0.0.0.0 www.grandelakes.com
+0.0.0.0 www.grandsoleil.co.jp
 0.0.0.0 www.gressive.jp
 0.0.0.0 www.gs-vanlife.com
 0.0.0.0 www.guska.jp
@@ -1343,6 +1359,7 @@
 0.0.0.0 www.hotel-ichii.co.jp
 0.0.0.0 www.hotpepper.jp
 0.0.0.0 www.hotstaff.co.jp
+0.0.0.0 www.housing-messe.com
 0.0.0.0 www.howabank.co.jp
 0.0.0.0 www.hs.bgu.ac.jp
 0.0.0.0 www.htv.ne.jp
@@ -1478,6 +1495,7 @@
 0.0.0.0 www.matsuoka-setsuritsu.com
 0.0.0.0 www.matsuyama-satei.com
 0.0.0.0 www.matsuzakaya.co.jp
+0.0.0.0 www.mblqs.com
 0.0.0.0 www.mdsol.co.jp
 0.0.0.0 www.megabank.com.tw
 0.0.0.0 www.meids.co.jp
@@ -1526,6 +1544,7 @@
 0.0.0.0 www.nakae-bussan.shop
 0.0.0.0 www.nakamura-u.ac.jp
 0.0.0.0 www.nakayamashouten.com
+0.0.0.0 www.naniwakanri.co.jp
 0.0.0.0 www.nantobank.co.jp
 0.0.0.0 www.nanzan-u.ac.jp
 0.0.0.0 www.napolipizza.jp
@@ -1554,6 +1573,7 @@
 0.0.0.0 www.nordsonmedical.com
 0.0.0.0 www.notalone-cao.go.jp
 0.0.0.0 www.nrj.ac.jp
+0.0.0.0 www.nsc.org
 0.0.0.0 www.nseg.co.jp
 0.0.0.0 www.nta.co.jp
 0.0.0.0 www.nta.go.jp
@@ -1695,6 +1715,7 @@
 0.0.0.0 www.sinto.co.jp
 0.0.0.0 www.sizenshokken.co.jp
 0.0.0.0 www.sky-career.jp
+0.0.0.0 www.skybldg.co.jp
 0.0.0.0 www.skyperfectv.co.jp
 0.0.0.0 www.skyxia.jp
 0.0.0.0 www.smauto.co.jp
@@ -1821,6 +1842,7 @@
 0.0.0.0 www.wing-rev.co.jp
 0.0.0.0 www.wmberg.com
 0.0.0.0 www.wonnesscompany.com
+0.0.0.0 www.woodtec.co.jp
 0.0.0.0 www.worksap.co.jp
 0.0.0.0 www.wowbao.com
 0.0.0.0 www.wrappixel.com
