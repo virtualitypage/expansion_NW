@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 9 August 2024
+# Last modified: 10 August 2024
 #
 
 # [広告全般]
@@ -72,7 +72,9 @@
 0.0.0.0 artgabbeh.com
 0.0.0.0 aruyo22.jp
 0.0.0.0 asbestos-osaka.jp
+0.0.0.0 ashiba-leasekyokai.com
 0.0.0.0 asp.hotel-story.ne.jp
+0.0.0.0 atelier-eijitsu.com
 0.0.0.0 atom-clinic.com
 0.0.0.0 atorifu-teradatyo.jp
 0.0.0.0 audi-tokai.com
@@ -182,6 +184,7 @@
 0.0.0.0 direct-teleshop.jp
 0.0.0.0 direct.eizo.co.jp
 0.0.0.0 dive-oita.com
+0.0.0.0 dmdepart.jp
 0.0.0.0 do-recruit.info
 0.0.0.0 doda.jp
 0.0.0.0 donation.yahoo.co.jp
@@ -298,6 +301,7 @@
 0.0.0.0 go.unicomengineering.com
 0.0.0.0 gochisouya.jp
 0.0.0.0 gofuku-kaitori.com
+0.0.0.0 goldplaza.jp
 0.0.0.0 goldteethusa.com
 0.0.0.0 golf-resort.kintetsu-re.co.jp
 0.0.0.0 golfrangeluana.jp
@@ -412,6 +416,7 @@
 0.0.0.0 ja-aichichita.jp
 0.0.0.0 ja.couponpac.com
 0.0.0.0 ja.popsilla.com
+0.0.0.0 japan-staff.jp
 0.0.0.0 jetb.co.jp
 0.0.0.0 jewelry-girls.net
 0.0.0.0 jicamagazine.jica.go.jp
@@ -469,6 +474,7 @@
 0.0.0.0 karakubuy.com
 0.0.0.0 kashiyama1927.jp
 0.0.0.0 kasuyashika.com
+0.0.0.0 katene.chuden.jp
 0.0.0.0 katsubedc-nanmori.com
 0.0.0.0 kawanotajimaya.com
 0.0.0.0 kaza-design.com
@@ -568,6 +574,7 @@
 0.0.0.0 mangasouko-shop.jp
 0.0.0.0 manulife-gaika.jp
 0.0.0.0 maruhan-lp.net
+0.0.0.0 matsue.clare.jp
 0.0.0.0 matsuyama.citroen-dealer.jp
 0.0.0.0 mayutan.com
 0.0.0.0 mb-hakata.com
@@ -586,6 +593,7 @@
 0.0.0.0 mens-cut.net
 0.0.0.0 meshop-jp.com
 0.0.0.0 mfrt.rehouse.co.jp
+0.0.0.0 mi-mollet.com
 0.0.0.0 micromagazine.co.jp
 0.0.0.0 mindwind.tokyo
 0.0.0.0 mineo-ambassador.com
@@ -649,6 +657,7 @@
 0.0.0.0 nyusinavi.nagoya-wu.ac.jp
 0.0.0.0 nzzz.airnewzealand.jp
 0.0.0.0 oasishoteles.com
+0.0.0.0 ocjs.catholic-okinawa.ed.jp
 0.0.0.0 officeair.co.jp
 0.0.0.0 officee.jp
 0.0.0.0 ohbacorp.com
@@ -715,6 +724,7 @@
 0.0.0.0 qb-recruit.com
 0.0.0.0 qjin7.com
 0.0.0.0 quick-sidejob.com
+0.0.0.0 r-style.eco.coocan.jp
 0.0.0.0 r.casalemedia.com
 0.0.0.0 race.nishinippon.co.jp
 0.0.0.0 rakugo-zanmai.pia.co.jp
@@ -751,6 +761,7 @@
 0.0.0.0 ryorinin.ihcsa.or.jp
 0.0.0.0 rys-cafe.bar
 0.0.0.0 ryuki-design.jp
+0.0.0.0 s-chikusakoen.jp
 0.0.0.0 s-imanani.com
 0.0.0.0 s.cardnavi-d.com
 0.0.0.0 s.weddingpark.net
@@ -776,6 +787,7 @@
 0.0.0.0 sb-drcula-white.service-info.jp
 0.0.0.0 sb-fukugyou.discover-news.tokyo
 0.0.0.0 sb-hip-happy.ourservice.jp
+0.0.0.0 sb-hizakosi-kenko.myown-page.com
 0.0.0.0 sb-hizanosuuke.newsanything.tokyo
 0.0.0.0 sb-hujiiryuu.discover-news.tokyo
 0.0.0.0 sb-katimori.discover-news.tokyo
@@ -839,6 +851,7 @@
 0.0.0.0 shima-corp.com
 0.0.0.0 shimane.dd.daihatsu.co.jp
 0.0.0.0 shingakunet.com
+0.0.0.0 shingon.jp
 0.0.0.0 shinjuku-4510.jp
 0.0.0.0 shisaku-kiban.com
 0.0.0.0 shisas-cafe-bbq.com
@@ -946,6 +959,7 @@
 0.0.0.0 the-law-office.jp
 0.0.0.0 thefulfiller.com
 0.0.0.0 thegrace.jp
+0.0.0.0 themusiccourt.jp
 0.0.0.0 theshopyohjiyamamoto.jp
 0.0.0.0 timee.co.jp
 0.0.0.0 timume.com
@@ -968,6 +982,7 @@
 0.0.0.0 tramsystem.co.jp
 0.0.0.0 transformation-showcase.com
 0.0.0.0 travel.willer.co.jp
+0.0.0.0 treefinancial.co.jp
 0.0.0.0 trivia-library.com
 0.0.0.0 trophylv.com
 0.0.0.0 tropical-hawaiianfestival.jp
@@ -1322,6 +1337,7 @@
 0.0.0.0 www.grand-seiko.com
 0.0.0.0 www.grandelakes.com
 0.0.0.0 www.grandsoleil.co.jp
+0.0.0.0 www.gregory.jp
 0.0.0.0 www.gressive.jp
 0.0.0.0 www.gs-vanlife.com
 0.0.0.0 www.guska.jp
@@ -1359,6 +1375,7 @@
 0.0.0.0 www.hitachi.co.jp
 0.0.0.0 www.hkexpress.com
 0.0.0.0 www.hokende.com
+0.0.0.0 www.hokeniryo.metro.tokyo.lg.jp
 0.0.0.0 www.hokkaido-np.co.jp
 0.0.0.0 www.hokkokubank.co.jp
 0.0.0.0 www.hokuriku-u.ac.jp
@@ -1503,6 +1520,7 @@
 0.0.0.0 www.maru.jp
 0.0.0.0 www.maruhan-lp.net
 0.0.0.0 www.maruho.co.jp
+0.0.0.0 www.marusan-union.com
 0.0.0.0 www.maserati.com
 0.0.0.0 www.matsuoka-motars.co.jp
 0.0.0.0 www.matsuoka-setsuritsu.com
@@ -1708,6 +1726,7 @@
 0.0.0.0 www.shigotoarimasu.com
 0.0.0.0 www.shikaku.co.jp
 0.0.0.0 www.shikishima-town.com
+0.0.0.0 www.shimane-mirai.jp
 0.0.0.0 www.shimonjuku.com
 0.0.0.0 www.shinkyogaoka.jp
 0.0.0.0 www.shinkyokushinkai.co.jp
@@ -1818,6 +1837,7 @@
 0.0.0.0 www.trivago.jp
 0.0.0.0 www.trygroup.co.jp
 0.0.0.0 www.tsit.com.tw
+0.0.0.0 www.tsugaike.gr.jp
 0.0.0.0 www.tsumibukakikuri.jp
 0.0.0.0 www.tudass.co.jp
 0.0.0.0 www.tv-osaka.co.jp
