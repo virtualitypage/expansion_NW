@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 8 August 2024
+# Last modified: 9 August 2024
 #
 
 # [広告全般]
@@ -355,6 +355,7 @@
 0.0.0.0 hisense-cp2024s.com
 0.0.0.0 hit-t-mark.jp
 0.0.0.0 hitechno.jp
+0.0.0.0 hitowafood-recruit.jp
 0.0.0.0 hkcy.tw
 0.0.0.0 hoken-sweet.com
 0.0.0.0 hokuyu-ryokuti.com
@@ -559,6 +560,7 @@
 0.0.0.0 m004.yamanashi-bmw.com
 0.0.0.0 m009.duonankai.jp
 0.0.0.0 m019.forseasons-dealer.jp
+0.0.0.0 madakana-edohaku.jp
 0.0.0.0 madream.jp
 0.0.0.0 makinushi-tk.com
 0.0.0.0 makita-craft.co.jp
@@ -634,6 +636,7 @@
 0.0.0.0 nikudokorodebeso.owst.jp
 0.0.0.0 ninjakitchen.co.uk
 0.0.0.0 nishispo.nishinippon.co.jp
+0.0.0.0 nix-water.jp
 0.0.0.0 no1-creditcard.com
 0.0.0.0 noj-kawanishi.com
 0.0.0.0 norudake-kyoto.com
@@ -687,6 +690,7 @@
 0.0.0.0 pitathouse-nishinagahori.jp
 0.0.0.0 platte.jp
 0.0.0.0 plus.tobemori.com
+0.0.0.0 point.zensho.co.jp
 0.0.0.0 polywink.com
 0.0.0.0 portal.bizrisk.iij.jp
 0.0.0.0 porte.sport-school.com
@@ -697,6 +701,7 @@
 0.0.0.0 present-wine-shop.derisomu.com
 0.0.0.0 present.baby-calendar.com
 0.0.0.0 pride-fish.jp
+0.0.0.0 pro.gnavi.co.jp
 0.0.0.0 proaceworks.com
 0.0.0.0 product.kadokawa.co.jp
 0.0.0.0 promo.acronis.com
@@ -742,6 +747,7 @@
 0.0.0.0 rokon.click
 0.0.0.0 roundi.us
 0.0.0.0 runway-webstore.com
+0.0.0.0 rxr.happyelements.co.jp
 0.0.0.0 ryorinin.ihcsa.or.jp
 0.0.0.0 rys-cafe.bar
 0.0.0.0 ryuki-design.jp
@@ -880,6 +886,7 @@
 0.0.0.0 sp.otsuka-shokai.co.jp
 0.0.0.0 spicaglow.jp
 0.0.0.0 spikomi.net
+0.0.0.0 splus.website
 0.0.0.0 spopita.jp
 0.0.0.0 squareup.com
 0.0.0.0 ssl-system7.com
@@ -1018,6 +1025,7 @@
 0.0.0.0 webstore.ansi.org
 0.0.0.0 wedding.mynavi.jp
 0.0.0.0 wellbeing.kirin.co.jp
+0.0.0.0 wespo.westjr.co.jp
 0.0.0.0 whisper-lagoon.info
 0.0.0.0 widgets.taxel.jp
 0.0.0.0 withonline.jp
@@ -1084,6 +1092,7 @@
 0.0.0.0 www.anshindo-grp.co.jp
 0.0.0.0 www.anytimefitness.co.jp
 0.0.0.0 www.apg-aiplan.com
+0.0.0.0 www.apo-mjob.com
 0.0.0.0 www.apolloseiko.co.jp
 0.0.0.0 www.aprica.jp
 0.0.0.0 www.aqa.org.uk
@@ -1143,6 +1152,7 @@
 0.0.0.0 www.c-cube.cc
 0.0.0.0 www.cafe-ring.com
 0.0.0.0 www.callawaygolf.jp
+0.0.0.0 www.camcast7.co.jp
 0.0.0.0 www.cameranonaniwa.co.jp
 0.0.0.0 www.canadycanady.com
 0.0.0.0 www.canva.com
@@ -1329,6 +1339,7 @@
 0.0.0.0 www.hatasapo.jp
 0.0.0.0 www.hawaiianairlines.co.jp
 0.0.0.0 www.hda.or.jp
+0.0.0.0 www.heisei-u.ac.jp
 0.0.0.0 www.hellermanntyton.co.jp
 0.0.0.0 www.helpfeel.com
 0.0.0.0 www.hemsleyfraser.com
@@ -1353,6 +1364,7 @@
 0.0.0.0 www.hokuriku-u.ac.jp
 0.0.0.0 www.holmanusa.com
 0.0.0.0 www.home.saxo
+0.0.0.0 www.homes.com
 0.0.0.0 www.honda.co.jp
 0.0.0.0 www.hondaism.com
 0.0.0.0 www.horidashi.jp
@@ -1459,6 +1471,7 @@
 0.0.0.0 www.konaka-jp.com
 0.0.0.0 www.konami.com
 0.0.0.0 www.konoike.ac.jp
+0.0.0.0 www.kosugi-tire.com
 0.0.0.0 www.ksdh.or.jp
 0.0.0.0 www.ktv.jp
 0.0.0.0 www.kucho-houei.com
@@ -1795,6 +1808,7 @@
 0.0.0.0 www.topvalu.net
 0.0.0.0 www.toritsuko.metro.tokyo.lg.jp
 0.0.0.0 www.toyama-clean.com
+0.0.0.0 www.toyota-cn-gifu.co.jp
 0.0.0.0 www.toyotetsu.jp
 0.0.0.0 www.tpishida.co.jp
 0.0.0.0 www.trailer-house.biz
