@@ -1,5 +1,5 @@
-![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v2.2.3-blue?style=flat)
-![Release Date](https://img.shields.io/badge/Release_Date-August_4_2024-green?style=flat)
+![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v2.2.4-blue?style=flat)
+![Release Date](https://img.shields.io/badge/Release_Date-August_11_2024-green?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualitypage/expansion_NW)
 
 > Table of Contents
@@ -252,7 +252,7 @@ This is a test email.
 
 参照元：https://stackoverflow.com/questions/53083479/wget-a-raw-file-from-github-from-a-private-repo
 
-1. [github.com](https://github.com/login) にログインして[New personal access token (classic)](https://github.com/settings/tokens/new) に移動します。
+1. [github.com](https://github.com/login) にログインして [New personal access token (classic)](https://github.com/settings/tokens/new) に移動します。
 
 2. "Note" に、パーソナルアクセストークンに使用する任意の名前を入れて下さい。
 
@@ -268,7 +268,7 @@ This is a test email.
 
 　`$ ssh root@{ip_address|host_name}`
 
-8. 以下のコマンドを実行します。 
+8. 以下のコマンドを実行します。
 
 * `PERSONAL_ACCESS_TOKEN`は手順3で保存したものを使用、`absolute_path` は保存先の絶対パス。
 
@@ -288,7 +288,7 @@ $ curl -H 'Authorization: token PERSONAL_ACCESS_TOKEN' -L -o [absolute_path] htt
 
 #### ・画像や PDF ファイルをダウンロードする場合
 
-1. 以下のコマンドを実行します。 
+1. 以下のコマンドを実行します。
 
 * `PERSONAL_ACCESS_TOKEN`は前項の手順3で保存したものを使用、`absolute_path` は保存先の絶対パス。
 
@@ -308,7 +308,7 @@ $ curl -H "Authorization: token PERSONAL_ACCESS_TOKEN" -H "Accept: application/v
 
 * 以下のコマンドを実行することで、ダウンロードしたファイルの形式を確認することが出来ます。 *ファイルの種類毎に出力結果は異なります
 
-　`$ file [filename].png` 
+　`$ file [filename].png`
 
 ```
 [filename].png: PNG image data, 3360 x 1894, 8-bit/color RGBA, non-interlaced
