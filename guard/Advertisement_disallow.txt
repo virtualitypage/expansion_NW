@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 11 August 2024
+# Last modified: 12 August 2024
 #
 
 # [広告全般]
@@ -42,6 +42,7 @@
 0.0.0.0 aflart8739.com
 0.0.0.0 agri.mynavi.jp
 0.0.0.0 ai-koumuten.info
+0.0.0.0 aigarden.com
 0.0.0.0 alc.talkingmarathon.com
 0.0.0.0 alcon-contact.jp
 0.0.0.0 alcott-ordersuit.com
@@ -225,6 +226,7 @@
 0.0.0.0 energy-kyoiku.meti.go.jp
 0.0.0.0 enfant.living.jp
 0.0.0.0 enjoy-sidework.com
+0.0.0.0 enk.or.jp
 0.0.0.0 entrata-chayamachi.com
 0.0.0.0 entrenet.jp
 0.0.0.0 eplan.jp
@@ -239,6 +241,7 @@
 0.0.0.0 event.travel.rakuten.co.jp
 0.0.0.0 evercolor.jp
 0.0.0.0 everygoodnews.com
+0.0.0.0 exerurgentcare.com
 0.0.0.0 expa-official.jp
 0.0.0.0 fairfield-michinoeki-japan.com
 0.0.0.0 famousbbq.com
@@ -618,6 +621,7 @@
 0.0.0.0 mitsui-shopping-park.com
 0.0.0.0 miyagi-daihatsu.co.jp
 0.0.0.0 mobile-fukugyo.work
+0.0.0.0 mokutown.jp
 0.0.0.0 msb.loofen.jp
 0.0.0.0 mtg-campaign.com
 0.0.0.0 mtm-aoyama.com
@@ -1186,6 +1190,7 @@
 0.0.0.0 www.campbayidaho.com
 0.0.0.0 www.canadycanady.com
 0.0.0.0 www.canva.com
+0.0.0.0 www.canvasdiscount.com
 0.0.0.0 www.capital-gp.jp
 0.0.0.0 www.car-byebuy.com
 0.0.0.0 www.carappo-official.com
@@ -1498,6 +1503,7 @@
 0.0.0.0 www.kobetsu.co.jp
 0.0.0.0 www.kochi-daimaru.co.jp
 0.0.0.0 www.kodomo-poster2024.metro.tokyo.lg.jp
+0.0.0.0 www.kodomokoho.metro.tokyo.lg.jp
 0.0.0.0 www.kodomoseisaku.metro.tokyo.lg.jp
 0.0.0.0 www.koi-para.net
 0.0.0.0 www.kokokara-care.com
@@ -1545,6 +1551,7 @@
 0.0.0.0 www.matsuoka-setsuritsu.com
 0.0.0.0 www.matsuyama-satei.com
 0.0.0.0 www.matsuzakaya.co.jp
+0.0.0.0 www.maybournebeverlyhills.com
 0.0.0.0 www.mblqs.com
 0.0.0.0 www.mdsol.co.jp
 0.0.0.0 www.megabank.com.tw
@@ -1699,6 +1706,7 @@
 0.0.0.0 www.radishbo-ya.co.jp
 0.0.0.0 www.rbma.org
 0.0.0.0 www.recx.jp
+0.0.0.0 www.recycle-izumi.net
 0.0.0.0 www.redstoneonline.jp
 0.0.0.0 www.regina-web.jp
 0.0.0.0 www.rengo-aichi.or.jp
