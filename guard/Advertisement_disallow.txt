@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 12 August 2024
+# Last modified: 13 August 2024
 #
 
 # [広告全般]
@@ -431,6 +431,7 @@
 0.0.0.0 job-gear.net
 0.0.0.0 job.mynavi.jp
 0.0.0.0 job.rikunabi.com
+0.0.0.0 job.yamaha-motorbiz.co.jp
 0.0.0.0 jobs1.jp
 0.0.0.0 jod.jsports.co.jp
 0.0.0.0 join.biglobe.ne.jp
@@ -1175,6 +1176,7 @@
 0.0.0.0 www.branchera.com
 0.0.0.0 www.braun.jp
 0.0.0.0 www.braze.com
+0.0.0.0 www.brilliantearth.com
 0.0.0.0 www.bsigroup.com
 0.0.0.0 www.budoo-wedding.com
 0.0.0.0 www.buil-repo.com
@@ -1276,6 +1278,7 @@
 0.0.0.0 www.drscholl.jp
 0.0.0.0 www.dsautomobiles.jp
 0.0.0.0 www.ducati.com
+0.0.0.0 www.dumbarnielinks.com
 0.0.0.0 www.e-defi.com
 0.0.0.0 www.e-fitpro.jp
 0.0.0.0 www.e-hapi.com
@@ -1664,6 +1667,7 @@
 0.0.0.0 www.otsuka-shokai.co.jp
 0.0.0.0 www.otv.co.jp
 0.0.0.0 www.ouj.ac.jp
+0.0.0.0 www.outlethome.jp
 0.0.0.0 www.ozekihibachi2u.com
 0.0.0.0 www.p-minerva.com
 0.0.0.0 www.pachislot-summit.com
@@ -1750,6 +1754,7 @@
 0.0.0.0 www.sgnavi.com
 0.0.0.0 www.shabu-yuzuan.jp
 0.0.0.0 www.shadow-garden-mog.jp
+0.0.0.0 www.shc.co.jp
 0.0.0.0 www.shigotoarimasu.com
 0.0.0.0 www.shikaku.co.jp
 0.0.0.0 www.shikishima-town.com
