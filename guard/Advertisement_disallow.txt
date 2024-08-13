@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 13 August 2024
+# Last modified: 14 August 2024
 #
 
 # [広告全般]
@@ -171,6 +171,7 @@
 0.0.0.0 crosset.onward.co.jp
 0.0.0.0 crowdtech.jp
 0.0.0.0 curama.jp
+0.0.0.0 deagostini.jp
 0.0.0.0 deep2031.com
 0.0.0.0 delivery-shizuoka-sakuraan.com
 0.0.0.0 dengekibunko.jp
@@ -274,6 +275,7 @@
 0.0.0.0 fukui-presentcpn.jp
 0.0.0.0 fukuoka-heya.jp
 0.0.0.0 fukuokapaint.com
+0.0.0.0 fukushi-iryo.denpa.jp
 0.0.0.0 fukutoku.ed.jp
 0.0.0.0 fukutujishiki.com
 0.0.0.0 fun.asahi-gf.co.jp
@@ -367,6 +369,7 @@
 0.0.0.0 hit-t-mark.jp
 0.0.0.0 hitechno.jp
 0.0.0.0 hitowafood-recruit.jp
+0.0.0.0 hjabvtsx.life
 0.0.0.0 hkcy.tw
 0.0.0.0 hoken-sweet.com
 0.0.0.0 hokuyu-ryokuti.com
@@ -405,6 +408,7 @@
 0.0.0.0 info.fishernantucket.com
 0.0.0.0 info.km-group.co.jp
 0.0.0.0 info.nikkeibp.co.jp
+0.0.0.0 info.slimstock.com
 0.0.0.0 info.uopochi.jp
 0.0.0.0 infocp.syngenta.co.jp
 0.0.0.0 insta-beauty.net
@@ -621,6 +625,7 @@
 0.0.0.0 mitsui-art.com
 0.0.0.0 mitsui-shopping-park.com
 0.0.0.0 miyagi-daihatsu.co.jp
+0.0.0.0 miyakojima-mobipa.jp
 0.0.0.0 mobile-fukugyo.work
 0.0.0.0 mokutown.jp
 0.0.0.0 msb.loofen.jp
@@ -854,6 +859,7 @@
 0.0.0.0 seirei-junior-high-school-openschool.com
 0.0.0.0 seisukeknifekappabashi.com
 0.0.0.0 sekisuinct.com
+0.0.0.0 sen8senjya.jp
 0.0.0.0 service.ocn.ne.jp
 0.0.0.0 seta-clinic.com
 0.0.0.0 setupnext-project.com
@@ -968,6 +974,7 @@
 0.0.0.0 targety.jp
 0.0.0.0 tateyoko-kazuma.com
 0.0.0.0 taxisaiyo.entetsu.co.jp
+0.0.0.0 td-holdings.tokyocameraclub.com
 0.0.0.0 teknitape.com
 0.0.0.0 teleboat-cp.jp
 0.0.0.0 tenjinbc-shops.jp
@@ -1018,6 +1025,7 @@
 0.0.0.0 uetani-clinic.com
 0.0.0.0 uma-quick.com
 0.0.0.0 uma-rank.net
+0.0.0.0 unaginobori-hamamatsu.jp
 0.0.0.0 uncf.org
 0.0.0.0 unicorn-overlord.com
 0.0.0.0 universe-co.com
@@ -1568,6 +1576,7 @@
 0.0.0.0 www.metroopinion.com
 0.0.0.0 www.mewa.gov.sa
 0.0.0.0 www.mhlw.go.jp
+0.0.0.0 www.micconsulting.jp
 0.0.0.0 www.michiluno.jp
 0.0.0.0 www.miki-re.com
 0.0.0.0 www.mikimoto.com
@@ -1727,6 +1736,7 @@
 0.0.0.0 www.rtyfghgroup.com
 0.0.0.0 www.ruxur.net
 0.0.0.0 www.s-re.jp
+0.0.0.0 www.saatva.com
 0.0.0.0 www.saison-am.co.jp
 0.0.0.0 www.salonpas.jp
 0.0.0.0 www.samsonite.co.jp
@@ -1897,6 +1907,7 @@
 0.0.0.0 www.voat-voice.com
 0.0.0.0 www.voat.co.jp
 0.0.0.0 www.voyager.co.jp
+0.0.0.0 www.w-nexco.co.jp
 0.0.0.0 www.wa-kukan-life.com
 0.0.0.0 www.waf-seminar.de
 0.0.0.0 www.waiper.co.jp
@@ -1940,6 +1951,7 @@
 0.0.0.0 www3.jeed.go.jp
 0.0.0.0 www3.kawasaki-motors.com
 0.0.0.0 www3.nissan.co.jp
+0.0.0.0 wwwsp.himawari-life.co.jp
 0.0.0.0 yacnee.co.jp
 0.0.0.0 yamadahomes.jp
 0.0.0.0 yamadahomes.resv.jp
