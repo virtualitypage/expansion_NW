@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 14 August 2024
+# Last modified: 15 August 2024
 #
 
 # [広告全般]
@@ -345,6 +345,7 @@
 0.0.0.0 harmonies.kumon.ne.jp
 0.0.0.0 haseko-bp.jp
 0.0.0.0 hashibukuro.com
+0.0.0.0 hatarakujob.com
 0.0.0.0 hayatahome.com
 0.0.0.0 hc.kowa.co.jp
 0.0.0.0 hc.kyodoprinting.co.jp
@@ -393,6 +394,7 @@
 0.0.0.0 ibarakishi-shaken.com
 0.0.0.0 ichigen.shop
 0.0.0.0 ichoice-coop.com
+0.0.0.0 id.asics.com
 0.0.0.0 idea.kawahara.ac.jp
 0.0.0.0 iei.jp
 0.0.0.0 ifdesign.com
@@ -538,6 +540,7 @@
 0.0.0.0 l-tike.com
 0.0.0.0 l-works.design
 0.0.0.0 landing.mangot5.com
+0.0.0.0 landing.worksap.co.jp
 0.0.0.0 lastmemories.io
 0.0.0.0 lawschool.r.chuo-u.ac.jp
 0.0.0.0 le-chic-unjour.official-wedding.jp
@@ -659,6 +662,7 @@
 0.0.0.0 ngdl.jp
 0.0.0.0 ni-deau.jp
 0.0.0.0 nihonjyuutaku.co.jp
+0.0.0.0 niihama-coating.com
 0.0.0.0 niit-oc.com
 0.0.0.0 nikudokorodebeso.owst.jp
 0.0.0.0 ninjakitchen.co.uk
@@ -990,6 +994,7 @@
 0.0.0.0 tire.bridgestone.co.jp
 0.0.0.0 toho-imazu.jp
 0.0.0.0 tohoku-kizunamatsuri.jp
+0.0.0.0 tohshin.net
 0.0.0.0 tokyoshigoto-young.jp
 0.0.0.0 tomei-riso.jp
 0.0.0.0 tomei.c-nexco.co.jp
@@ -1333,6 +1338,7 @@
 0.0.0.0 www.fujisan-climb.jp
 0.0.0.0 www.fujitsu.com
 0.0.0.0 www.fukagawaganka.net
+0.0.0.0 www.fukko.com
 0.0.0.0 www.fukuoka-tenjin-naishikyo.com
 0.0.0.0 www.fulloutsourcing.jp
 0.0.0.0 www.funcurrent.com
@@ -1525,6 +1531,7 @@
 0.0.0.0 www.konoike.ac.jp
 0.0.0.0 www.kosugi-tire.com
 0.0.0.0 www.ksdh.or.jp
+0.0.0.0 www.ksu.ac.jp
 0.0.0.0 www.ktv.jp
 0.0.0.0 www.kucho-houei.com
 0.0.0.0 www.kuchou-fuku.com
@@ -1701,6 +1708,7 @@
 0.0.0.0 www.porsche.co.jp
 0.0.0.0 www.prada.com
 0.0.0.0 www.prageru.com
+0.0.0.0 www.preciousplatinum.jp
 0.0.0.0 www.pref.fukushima.lg.jp
 0.0.0.0 www.pref.kochi.lg.jp
 0.0.0.0 www.pref.mie.lg.jp
