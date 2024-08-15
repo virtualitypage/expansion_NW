@@ -4,7 +4,7 @@
 # References: Query Log
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Query_Log_deny.txt
 #
-# Last modified: 15 July 2024
+# Last modified: 15 August 2024
 #
 
 # [クエリ・ログで検出された広告]
@@ -109,7 +109,6 @@
 0.0.0.0 pdn.adingo.jp
 0.0.0.0 pixel.tapad.com
 0.0.0.0 pki-goog.l.google.com
-0.0.0.0 play.google.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net.lan
 0.0.0.0 pubads.g.doubleclick.net.tail06b0f8.ts.net
