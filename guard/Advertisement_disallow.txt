@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 15 August 2024
+# Last modified: 16 August 2024
 #
 
 # [広告全般]
@@ -569,6 +569,7 @@
 0.0.0.0 lp.kaitori-daikichi.jp
 0.0.0.0 lp.leadpad.io
 0.0.0.0 lp.mediacloudtech.com
+0.0.0.0 lp.nuviasmiles.com
 0.0.0.0 lp.sokuwork.com
 0.0.0.0 lp.zipair.net
 0.0.0.0 lp2.m-kun.com
@@ -864,6 +865,7 @@
 0.0.0.0 seisukeknifekappabashi.com
 0.0.0.0 sekisuinct.com
 0.0.0.0 sen8senjya.jp
+0.0.0.0 service.homeserve.co.jp
 0.0.0.0 service.ocn.ne.jp
 0.0.0.0 seta-clinic.com
 0.0.0.0 setupnext-project.com
@@ -894,6 +896,7 @@
 0.0.0.0 shop.soundfun.co.jp
 0.0.0.0 shopping.tbs.co.jp
 0.0.0.0 shumei.ac.jp
+0.0.0.0 side-kom.com
 0.0.0.0 sienca.jp
 0.0.0.0 simple-h.com
 0.0.0.0 sites.google.com
@@ -1377,6 +1380,7 @@
 0.0.0.0 www.gregory.jp
 0.0.0.0 www.gressive.jp
 0.0.0.0 www.gs-vanlife.com
+0.0.0.0 www.gunmabank.co.jp
 0.0.0.0 www.guska.jp
 0.0.0.0 www.gyakubiki.net
 0.0.0.0 www.h-bd.co.jp
@@ -1517,6 +1521,7 @@
 0.0.0.0 www.kobe-souzokuzei.com
 0.0.0.0 www.kobe.coop.or.jp
 0.0.0.0 www.kobegakuin.ac.jp
+0.0.0.0 www.kobeseika.ac.jp
 0.0.0.0 www.kobetsu.co.jp
 0.0.0.0 www.kochi-daimaru.co.jp
 0.0.0.0 www.kodomo-poster2024.metro.tokyo.lg.jp
@@ -1786,6 +1791,7 @@
 0.0.0.0 www.shiseido.co.jp
 0.0.0.0 www.shitennoji.ac.jp
 0.0.0.0 www.shizutetsu-homes.co.jp
+0.0.0.0 www.shokochukin.co.jp
 0.0.0.0 www.shozan.co.jp
 0.0.0.0 www.shure.com
 0.0.0.0 www.shutoko.jp
@@ -1919,6 +1925,7 @@
 0.0.0.0 www.wa-kukan-life.com
 0.0.0.0 www.waf-seminar.de
 0.0.0.0 www.waiper.co.jp
+0.0.0.0 www.wakayamaumeshu.jp
 0.0.0.0 www.wasedajuku.com
 0.0.0.0 www.washingtonhotel.co.jp
 0.0.0.0 www.watami-takushoku-direct.jp
