@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 17 August 2024
+# Last modified: 18 August 2024
 #
 
 # [広告全般]
@@ -73,6 +73,7 @@
 0.0.0.0 artgabbeh.com
 0.0.0.0 aruyo22.jp
 0.0.0.0 asahikawa-korpokkur.com
+0.0.0.0 asahikawa-nissan.com
 0.0.0.0 asbestos-osaka.jp
 0.0.0.0 ashiba-leasekyokai.com
 0.0.0.0 asp.hotel-story.ne.jp
@@ -99,6 +100,7 @@
 0.0.0.0 best-ai-forecasta.online
 0.0.0.0 betterstack.com
 0.0.0.0 bianshack.com
+0.0.0.0 biblesforjapan.org
 0.0.0.0 bighornlaw.com
 0.0.0.0 bike-news.jp
 0.0.0.0 biryuhyakkaweb.jp
@@ -162,6 +164,7 @@
 0.0.0.0 continentaltire.com
 0.0.0.0 corolla-iwate.jp
 0.0.0.0 corporate.ofsji.org
+0.0.0.0 couples.jp
 0.0.0.0 cowcamo.jp
 0.0.0.0 cp.manara.jp
 0.0.0.0 craftdesign.tokyo
@@ -170,12 +173,14 @@
 0.0.0.0 crosset.onward.co.jp
 0.0.0.0 crowdtech.jp
 0.0.0.0 curama.jp
+0.0.0.0 d-shinkou.com
 0.0.0.0 deagostini.jp
 0.0.0.0 deep2031.com
 0.0.0.0 delivery-shizuoka-sakuraan.com
 0.0.0.0 dengekibunko.jp
 0.0.0.0 denkiworks.com
 0.0.0.0 dent-kaneko-invisalign.com
+0.0.0.0 dental-technology.my.canva.site
 0.0.0.0 dentistjobsjp.club
 0.0.0.0 dentsu-ho.com
 0.0.0.0 denzaibuhin.com
@@ -322,7 +327,9 @@
 0.0.0.0 greenkankyo.com
 0.0.0.0 gron.co.jp
 0.0.0.0 growi.cloud
+0.0.0.0 gtoyota.com
 0.0.0.0 guestlist-tokyo.com
+0.0.0.0 guidance-recruit.visioncon.co.jp
 0.0.0.0 gurunavi.com
 0.0.0.0 gym.copin.co.jp
 0.0.0.0 h-felice.com
@@ -432,6 +439,7 @@
 0.0.0.0 jetb.co.jp
 0.0.0.0 jewelry-girls.net
 0.0.0.0 jicamagazine.jica.go.jp
+0.0.0.0 jinentai.com
 0.0.0.0 jnet-store.com
 0.0.0.0 job-gear.net
 0.0.0.0 job.mynavi.jp
@@ -652,6 +660,7 @@
 0.0.0.0 nagoya.ace-clinic.com
 0.0.0.0 nakanodental-cl.com
 0.0.0.0 nannyme.love
+0.0.0.0 natgeo.nikkeibp.co.jp
 0.0.0.0 nekkoya.shop-pro.jp
 0.0.0.0 nestle.jp
 0.0.0.0 network.mobile.rakuten.co.jp
@@ -870,6 +879,7 @@
 0.0.0.0 seisukeknifekappabashi.com
 0.0.0.0 sekisuinct.com
 0.0.0.0 sen8senjya.jp
+0.0.0.0 sennangyosei.jp
 0.0.0.0 service.homeserve.co.jp
 0.0.0.0 service.ocn.ne.jp
 0.0.0.0 seta-clinic.com
@@ -976,6 +986,7 @@
 0.0.0.0 takamatsu-marugame-bankin.com
 0.0.0.0 takamatsu.bess.jp
 0.0.0.0 takarado.co.jp
+0.0.0.0 takasaki.mitsuoka-dealer.com
 0.0.0.0 takayamado.shop
 0.0.0.0 takutoproperty-members.com
 0.0.0.0 takuya-kimura.jp
@@ -985,6 +996,7 @@
 0.0.0.0 tanebo.click
 0.0.0.0 tanoshiiosake.jp
 0.0.0.0 tansei-legaloffice.jp
+0.0.0.0 tarezou.com
 0.0.0.0 targety.jp
 0.0.0.0 tateyoko-kazuma.com
 0.0.0.0 taxisaiyo.entetsu.co.jp
@@ -1028,6 +1040,7 @@
 0.0.0.0 trubridge.com
 0.0.0.0 truckland.jp
 0.0.0.0 tsugunavi.funaisoken.co.jp
+0.0.0.0 tsujimoto-2007.com
 0.0.0.0 turboterminaltractors.com
 0.0.0.0 tver.jp
 0.0.0.0 tw-img.vpon.com
@@ -1232,6 +1245,7 @@
 0.0.0.0 www.cettire.com
 0.0.0.0 www.cezanne.co.jp
 0.0.0.0 www.chalier.jp
+0.0.0.0 www.challeath.com
 0.0.0.0 www.check-roudou.mhlw.go.jp
 0.0.0.0 www.cheer-sec.co.jp
 0.0.0.0 www.chen-mama.com.tw
@@ -1297,6 +1311,7 @@
 0.0.0.0 www.dot-st.com
 0.0.0.0 www.dr-navip.jp
 0.0.0.0 www.dream-stage.net
+0.0.0.0 www.driver-haken.com
 0.0.0.0 www.drscholl.jp
 0.0.0.0 www.dsautomobiles.jp
 0.0.0.0 www.ducati.com
@@ -1313,6 +1328,7 @@
 0.0.0.0 www.ehime-ben.or.jp
 0.0.0.0 www.eldenring.jp
 0.0.0.0 www.elegance-cosmetics.com
+0.0.0.0 www.enecho.meti.go.jp
 0.0.0.0 www.enemaru.com
 0.0.0.0 www.enhousing.jp
 0.0.0.0 www.enoteca.co.jp
@@ -1429,6 +1445,7 @@
 0.0.0.0 www.hokkaido-np.co.jp
 0.0.0.0 www.hokkokubank.co.jp
 0.0.0.0 www.hokuriku-u.ac.jp
+0.0.0.0 www.hokuyobank.co.jp
 0.0.0.0 www.holmanusa.com
 0.0.0.0 www.home.saxo
 0.0.0.0 www.homes.com
@@ -1708,11 +1725,13 @@
 0.0.0.0 www.parkhotelgroup.com
 0.0.0.0 www.pattolixil-madohonpo.jp
 0.0.0.0 www.pc-webzine.com
+0.0.0.0 www.pccs.co.jp
 0.0.0.0 www.personalhealth.jp
 0.0.0.0 www.pet-coo.com
 0.0.0.0 www.peugeot.co.jp
 0.0.0.0 www.phiten.com
 0.0.0.0 www.photoruction.com
+0.0.0.0 www.phys.kanagawa-u.ac.jp
 0.0.0.0 www.plan-c.co.jp
 0.0.0.0 www.playstation.com
 0.0.0.0 www.pluscasa.com
