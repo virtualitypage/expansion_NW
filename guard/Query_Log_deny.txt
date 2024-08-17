@@ -4,7 +4,7 @@
 # References: Query Log
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Query_Log_deny.txt
 #
-# Last modified: 15 July 2024
+# Last modified: 18 August 2024
 #
 
 # [クエリ・ログで検出された広告]
@@ -20,14 +20,6 @@
 0.0.0.0 ads.vungle.com
 0.0.0.0 adservice.google.com
 0.0.0.0 aid.send.microad.jp
-0.0.0.0 alt1-mtalk.google.com
-0.0.0.0 alt2-mtalk.google.com
-0.0.0.0 alt3-mtalk.google.com
-0.0.0.0 alt4-mtalk.google.com
-0.0.0.0 alt5-mtalk.google.com
-0.0.0.0 alt6-mtalk.google.com
-0.0.0.0 alt7-mtalk.google.com
-0.0.0.0 alt8-mtalk.google.com
 0.0.0.0 aml.valuecommerce.com
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 analytics.google.com
@@ -98,9 +90,6 @@
 0.0.0.0 ms.applvn.com
 0.0.0.0 ms.applvn.com.tail06b0f8.ts.net
 0.0.0.0 ms4.applvn.com
-0.0.0.0 mtalk.google.com
-0.0.0.0 mtalk.google.com.lan
-0.0.0.0 mtalk.google.com.tail06b0f8.ts.net
 0.0.0.0 mtgglobals.com
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 o271337.ingest.sentry.io
@@ -109,7 +98,6 @@
 0.0.0.0 pdn.adingo.jp
 0.0.0.0 pixel.tapad.com
 0.0.0.0 pki-goog.l.google.com
-0.0.0.0 play.google.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net.lan
 0.0.0.0 pubads.g.doubleclick.net.tail06b0f8.ts.net
