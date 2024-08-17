@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 16 August 2024
+# Last modified: 17 August 2024
 #
 
 # [広告全般]
@@ -65,7 +65,6 @@
 0.0.0.0 app.adjust.com.lan
 0.0.0.0 app.adjust.com.tail06b0f8.ts.net
 0.0.0.0 apply.suu.edu
-0.0.0.0 apps.apple.com
 0.0.0.0 apps.shopify.com
 0.0.0.0 apz-spa.com
 0.0.0.0 aqua-has.com
@@ -460,6 +459,7 @@
 0.0.0.0 jp.omsystem.com
 0.0.0.0 jp.puma.com
 0.0.0.0 jp.shein.com
+0.0.0.0 jp.steelcase.com
 0.0.0.0 jp.toto.com
 0.0.0.0 jp.vicoimaging.com
 0.0.0.0 jp.yiose.com
@@ -559,6 +559,7 @@
 0.0.0.0 link.springer.com
 0.0.0.0 loans.life
 0.0.0.0 longterm.kikagaku.ai
+0.0.0.0 lp-ai.ccreb.jp
 0.0.0.0 lp-mk-2.makuake.com
 0.0.0.0 lp.chocozap.jp
 0.0.0.0 lp.cloudydrive.net
@@ -576,6 +577,7 @@
 0.0.0.0 lucuaosaka-recruit.jp
 0.0.0.0 lululun.com
 0.0.0.0 luvlit.jp
+0.0.0.0 luxsfront.com
 0.0.0.0 m-ihinseiri.jp
 0.0.0.0 m.chitetsu.co.jp
 0.0.0.0 m.momoshop.com.tw
@@ -587,6 +589,7 @@
 0.0.0.0 machibiz.jp
 0.0.0.0 madakana-edohaku.jp
 0.0.0.0 madream.jp
+0.0.0.0 mag.bess.jp
 0.0.0.0 makinushi-tk.com
 0.0.0.0 makita-craft.co.jp
 0.0.0.0 mangamatsuri.kodansha.co.jp
@@ -626,6 +629,7 @@
 0.0.0.0 miraiyu-career.com
 0.0.0.0 misawa-chugoku.jp
 0.0.0.0 mishima-minase.com
+0.0.0.0 mishimakagu.com
 0.0.0.0 mitsui-art.com
 0.0.0.0 mitsui-shopping-park.com
 0.0.0.0 miyagi-daihatsu.co.jp
@@ -717,6 +721,7 @@
 0.0.0.0 pengy-magic.penguin-colony.net
 0.0.0.0 personal.canon.jp
 0.0.0.0 petsougi.kensouji.com
+0.0.0.0 pia-group.jp
 0.0.0.0 pingcap.co.jp
 0.0.0.0 pinklush.jp
 0.0.0.0 pitariko.jp
@@ -909,6 +914,7 @@
 0.0.0.0 sleepytofu.co.jp
 0.0.0.0 smart-supply.org
 0.0.0.0 smile-bin.com
+0.0.0.0 smile-glamping.com
 0.0.0.0 smile-zemi.jp
 0.0.0.0 smilepack.jp
 0.0.0.0 sneakerbunko.jp
@@ -916,6 +922,7 @@
 0.0.0.0 sodaigomi-kaishutai.com
 0.0.0.0 solasto-career.com
 0.0.0.0 solize-software.com
+0.0.0.0 sophiadental.or.jp
 0.0.0.0 sora-cam.com
 0.0.0.0 soracom.jp
 0.0.0.0 soramamekids.com
@@ -1165,7 +1172,6 @@
 0.0.0.0 www.at-hyogo.jp
 0.0.0.0 www.atc-ihpc.com
 0.0.0.0 www.atpress.ne.jp
-0.0.0.0 www.au.com
 0.0.0.0 www.audiotech.jp
 0.0.0.0 www.austria.info
 0.0.0.0 www.aws-pairring.jp
@@ -1325,6 +1331,7 @@
 0.0.0.0 www.feels-trend.site
 0.0.0.0 www.felicitycontrol.com
 0.0.0.0 www.fetnet.net
+0.0.0.0 www.fevertree.jp
 0.0.0.0 www.finetrack.com
 0.0.0.0 www.fiverr.com
 0.0.0.0 www.fk-build.com
@@ -1343,6 +1350,7 @@
 0.0.0.0 www.fukagawaganka.net
 0.0.0.0 www.fukko.com
 0.0.0.0 www.fukuoka-tenjin-naishikyo.com
+0.0.0.0 www.fukushi.metro.tokyo.lg.jp
 0.0.0.0 www.fulloutsourcing.jp
 0.0.0.0 www.funcurrent.com
 0.0.0.0 www.fureai-hometown.jp
@@ -1504,6 +1512,7 @@
 0.0.0.0 www.kaitaitochigi.com
 0.0.0.0 www.kaitoritop.jp
 0.0.0.0 www.kanagawa-subaru.com
+0.0.0.0 www.kango-roo.com
 0.0.0.0 www.kankyo.metro.tokyo.lg.jp
 0.0.0.0 www.kano-kensetsu.com
 0.0.0.0 www.kao.co.jp
@@ -1697,6 +1706,7 @@
 0.0.0.0 www.panamedia.co.jp
 0.0.0.0 www.paris-miki.co.jp
 0.0.0.0 www.parkhotelgroup.com
+0.0.0.0 www.pattolixil-madohonpo.jp
 0.0.0.0 www.pc-webzine.com
 0.0.0.0 www.personalhealth.jp
 0.0.0.0 www.pet-coo.com
@@ -1836,9 +1846,11 @@
 0.0.0.0 www.suzukacircuit.jp
 0.0.0.0 www.t-fal.co.jp
 0.0.0.0 www.t-rough.jp
+0.0.0.0 www.tac-school.co.jp
 0.0.0.0 www.taishu.co.jp
 0.0.0.0 www.taiwan-panorama.com
 0.0.0.0 www.taiyakan.co.jp
+0.0.0.0 www.takagi-plc.co.jp
 0.0.0.0 www.takashimaya-global.com
 0.0.0.0 www.takashimaya.co.jp
 0.0.0.0 www.tanaka-denki.co.jp
@@ -1937,6 +1949,7 @@
 0.0.0.0 www.wmberg.com
 0.0.0.0 www.wonnesscompany.com
 0.0.0.0 www.woodtec.co.jp
+0.0.0.0 www.workport.co.jp
 0.0.0.0 www.worksap.co.jp
 0.0.0.0 www.wowbao.com
 0.0.0.0 www.wrappixel.com
@@ -1976,6 +1989,7 @@
 0.0.0.0 yamawake-estate.jp
 0.0.0.0 yametaraeenen.com
 0.0.0.0 yanase-audi.com
+0.0.0.0 yg-tax.net
 0.0.0.0 yhtop.co
 0.0.0.0 youin.jp
 0.0.0.0 youngjump.jp
