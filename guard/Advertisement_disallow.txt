@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 18 August 2024
+# Last modified: 19 August 2024
 #
 
 # [広告全般]
@@ -43,6 +43,8 @@
 0.0.0.0 agri.mynavi.jp
 0.0.0.0 ai-koumuten.info
 0.0.0.0 aigarden.com
+0.0.0.0 aix-otofuke.owst.jp
+0.0.0.0 akoakostudio.com
 0.0.0.0 alc.talkingmarathon.com
 0.0.0.0 alcon-contact.jp
 0.0.0.0 alcott-ordersuit.com
@@ -220,6 +222,7 @@
 0.0.0.0 ec-myprecious.jp
 0.0.0.0 ec.petfoods.shop
 0.0.0.0 eco-life-smile.com
+0.0.0.0 eco-mon.jp
 0.0.0.0 efex.co.jp
 0.0.0.0 egolf.jp
 0.0.0.0 ehime-sancyoku-premium.com
@@ -361,6 +364,7 @@
 0.0.0.0 hey-choshikun.com
 0.0.0.0 hha.hitachi-hightech.com
 0.0.0.0 hi-door.jp
+0.0.0.0 hibikoku.tokyo
 0.0.0.0 hijutaku.j-anshin.co.jp
 0.0.0.0 hikaku-rank.net
 0.0.0.0 hinata.me
@@ -644,6 +648,7 @@
 0.0.0.0 miyakojima-mobipa.jp
 0.0.0.0 mobile-fukugyo.work
 0.0.0.0 mokutown.jp
+0.0.0.0 monji.tech
 0.0.0.0 msb.loofen.jp
 0.0.0.0 mtg-campaign.com
 0.0.0.0 mtm-aoyama.com
@@ -760,6 +765,7 @@
 0.0.0.0 pxofms.buzz
 0.0.0.0 q-one.jp
 0.0.0.0 q1st.jp
+0.0.0.0 qago.dev
 0.0.0.0 qb-recruit.com
 0.0.0.0 qjin7.com
 0.0.0.0 quick-sidejob.com
@@ -968,6 +974,7 @@
 0.0.0.0 suguredashicp.jp
 0.0.0.0 sumaho-sousa.com
 0.0.0.0 sumai.es-conjapan.co.jp
+0.0.0.0 sumai.jalux.com
 0.0.0.0 sumai.panasonic.jp
 0.0.0.0 sumai.tokyu-land.co.jp
 0.0.0.0 sumisho-tatemono-chuukai.net
@@ -1144,6 +1151,7 @@
 0.0.0.0 www.airnewzealand.jp
 0.0.0.0 www.alba.co.jp
 0.0.0.0 www.allaroundmobilehomeservice.com
+0.0.0.0 www.allied-telesis.co.jp
 0.0.0.0 www.allsaints.jp
 0.0.0.0 www.alpen-route.com
 0.0.0.0 www.alpha-note.co.jp
@@ -1321,6 +1329,7 @@
 0.0.0.0 www.e-hapi.com
 0.0.0.0 www.e-hc.com
 0.0.0.0 www.e-kochoran.com
+0.0.0.0 www.e-sogi.com
 0.0.0.0 www.ecnex.jp
 0.0.0.0 www.edion.com
 0.0.0.0 www.edix-expo.jp
@@ -1370,6 +1379,7 @@
 0.0.0.0 www.fulloutsourcing.jp
 0.0.0.0 www.funcurrent.com
 0.0.0.0 www.fureai-hometown.jp
+0.0.0.0 www.furugioroshi.com
 0.0.0.0 www.g-search.or.jp
 0.0.0.0 www.gakuji.co.jp
 0.0.0.0 www.galu-shizuoka.jp
@@ -1557,6 +1567,7 @@
 0.0.0.0 www.kokokara-care.com
 0.0.0.0 www.kokushikan.ac.jp
 0.0.0.0 www.kominami.co.jp
+0.0.0.0 www.komyokaku.jp
 0.0.0.0 www.konaka-jp.com
 0.0.0.0 www.konami.com
 0.0.0.0 www.konoike.ac.jp
@@ -1577,6 +1588,7 @@
 0.0.0.0 www.lfoita.co.jp
 0.0.0.0 www.libertynet.jp
 0.0.0.0 www.linemo.jp
+0.0.0.0 www.links-gunma.net
 0.0.0.0 www.livable.co.jp
 0.0.0.0 www.lixil.co.jp
 0.0.0.0 www.logicool.co.jp
@@ -1636,12 +1648,14 @@
 0.0.0.0 www.monextrust.co.jp
 0.0.0.0 www.monkiara.com
 0.0.0.0 www.monocompany.com
+0.0.0.0 www.mont-deco.com
 0.0.0.0 www.morimotocon.co.jp
 0.0.0.0 www.morinobrand-store.com
 0.0.0.0 www.morrobay.org
 0.0.0.0 www.motherfarm.co.jp
 0.0.0.0 www.ms-ins.com
 0.0.0.0 www.mules.jp
+0.0.0.0 www.mwed.jp
 0.0.0.0 www.myagentla.com
 0.0.0.0 www.myremi.com
 0.0.0.0 www.mystino.jp
@@ -1674,6 +1688,7 @@
 0.0.0.0 www.nisikido.net
 0.0.0.0 www.nissan.co.jp
 0.0.0.0 www.nissui.co.jp
+0.0.0.0 www.nito.co.jp
 0.0.0.0 www.noa-yoga.com
 0.0.0.0 www.noapilates.jp
 0.0.0.0 www.nondact89.com
@@ -1780,6 +1795,7 @@
 0.0.0.0 www.s-re.jp
 0.0.0.0 www.saatva.com
 0.0.0.0 www.saison-am.co.jp
+0.0.0.0 www.salesforce.com
 0.0.0.0 www.salonpas.jp
 0.0.0.0 www.samsonite.co.jp
 0.0.0.0 www.sanchoku-niigata.com
@@ -1860,6 +1876,7 @@
 0.0.0.0 www.studyinkorea.go.kr
 0.0.0.0 www.sugar.org
 0.0.0.0 www.sunflower.co.jp
+0.0.0.0 www.sunstar-shop.jp
 0.0.0.0 www.superdramatv.com
 0.0.0.0 www.supermicro.com
 0.0.0.0 www.suzukacircuit.jp
@@ -1907,6 +1924,7 @@
 0.0.0.0 www.tokuyama-sc.jp
 0.0.0.0 www.tokyo-aff.or.jp
 0.0.0.0 www.tokyo-dome.co.jp
+0.0.0.0 www.tokyo-kasei.ac.jp
 0.0.0.0 www.tokyointerior.co.jp
 0.0.0.0 www.tokyoshigoto.jp
 0.0.0.0 www.tokyoupdates.metro.tokyo.lg.jp
