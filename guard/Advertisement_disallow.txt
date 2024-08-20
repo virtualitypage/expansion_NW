@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 19 August 2024
+# Last modified: 20 August 2024
 #
 
 # [広告全般]
@@ -72,6 +72,7 @@
 0.0.0.0 aqua-has.com
 0.0.0.0 art-logis.com
 0.0.0.0 art-mocha.net
+0.0.0.0 art.nikkei.com
 0.0.0.0 artgabbeh.com
 0.0.0.0 aruyo22.jp
 0.0.0.0 asahikawa-korpokkur.com
@@ -234,6 +235,7 @@
 0.0.0.0 energy-kyoiku.meti.go.jp
 0.0.0.0 enfant.living.jp
 0.0.0.0 enjoy-sidework.com
+0.0.0.0 enjoyhome-fudosan.net
 0.0.0.0 enk.or.jp
 0.0.0.0 entrata-chayamachi.com
 0.0.0.0 entrenet.jp
@@ -383,6 +385,7 @@
 0.0.0.0 hjabvtsx.life
 0.0.0.0 hkcy.tw
 0.0.0.0 hoken-sweet.com
+0.0.0.0 hokkaido-j.com
 0.0.0.0 hokuyu-ryokuti.com
 0.0.0.0 home-design-schmidt.uk
 0.0.0.0 hondacars.jp
@@ -390,6 +393,7 @@
 0.0.0.0 honkaku-coco.com
 0.0.0.0 horseracing-tipsters.biz
 0.0.0.0 hoshi.cocoloni.jp
+0.0.0.0 hougaku.kanto-gakuin.ac.jp
 0.0.0.0 house-kiya.co.jp
 0.0.0.0 housefreedom-fujiidera.com
 0.0.0.0 housing-garden.jp
@@ -457,6 +461,7 @@
 0.0.0.0 joylife.alsok.co.jp
 0.0.0.0 jp.apkpac.com
 0.0.0.0 jp.apkparks.com
+0.0.0.0 jp.appisfree.com
 0.0.0.0 jp.cryptolessnft.com
 0.0.0.0 jp.discovericl.com
 0.0.0.0 jp.drmartens.com
@@ -520,6 +525,7 @@
 0.0.0.0 kichi.bar
 0.0.0.0 kigkt.cersi.jp
 0.0.0.0 kimono-ice.com
+0.0.0.0 kinkisain.co.jp
 0.0.0.0 kirei-info.com
 0.0.0.0 kirinuki.jp
 0.0.0.0 koala.com
@@ -577,6 +583,7 @@
 0.0.0.0 lp.cloudydrive.net
 0.0.0.0 lp.eneos-wing.org
 0.0.0.0 lp.grapeseed.com
+0.0.0.0 lp.groundenergy.co.jp
 0.0.0.0 lp.it-trend.jp
 0.0.0.0 lp.kaitekikobo.jp
 0.0.0.0 lp.kaitori-daikichi.jp
@@ -955,6 +962,7 @@
 0.0.0.0 spikomi.net
 0.0.0.0 splus.website
 0.0.0.0 spopita.jp
+0.0.0.0 sportskart.com
 0.0.0.0 squareup.com
 0.0.0.0 ssl-system7.com
 0.0.0.0 ssr.abemashopping.jp
@@ -1300,6 +1308,7 @@
 0.0.0.0 www.cw.com.tw
 0.0.0.0 www.daigakujuken.com
 0.0.0.0 www.daiichisemi.net
+0.0.0.0 www.daiken.jp
 0.0.0.0 www.daimaru.co.jp
 0.0.0.0 www.dainiti.co.jp
 0.0.0.0 www.daioshop.jp
@@ -1358,6 +1367,7 @@
 0.0.0.0 www.fetnet.net
 0.0.0.0 www.fevertree.jp
 0.0.0.0 www.finetrack.com
+0.0.0.0 www.fismec.co.jp
 0.0.0.0 www.fiverr.com
 0.0.0.0 www.fk-build.com
 0.0.0.0 www.flat35.com
@@ -1475,6 +1485,7 @@
 0.0.0.0 www.ibexair.co.jp
 0.0.0.0 www.ichijo.co.jp
 0.0.0.0 www.ichiyanagi-sougu.co.jp
+0.0.0.0 www.icsics.co.jp
 0.0.0.0 www.icturn4.com
 0.0.0.0 www.idc.hinet.net
 0.0.0.0 www.ie-miru.jp
@@ -1824,6 +1835,7 @@
 0.0.0.0 www.shadow-garden-mog.jp
 0.0.0.0 www.shc.co.jp
 0.0.0.0 www.shigotoarimasu.com
+0.0.0.0 www.shigotozaidan.or.jp
 0.0.0.0 www.shikaku.co.jp
 0.0.0.0 www.shikishima-town.com
 0.0.0.0 www.shimane-mirai.jp
@@ -1875,6 +1887,7 @@
 0.0.0.0 www.strawberrycones.com
 0.0.0.0 www.studyinkorea.go.kr
 0.0.0.0 www.sugar.org
+0.0.0.0 www.sumida-aquarium.com
 0.0.0.0 www.sunflower.co.jp
 0.0.0.0 www.sunstar-shop.jp
 0.0.0.0 www.superdramatv.com
@@ -1932,6 +1945,7 @@
 0.0.0.0 www.tomiya.co.jp
 0.0.0.0 www.topvalu.net
 0.0.0.0 www.toritsuko.metro.tokyo.lg.jp
+0.0.0.0 www.totalrepair-fukasawa.com
 0.0.0.0 www.toyama-clean.com
 0.0.0.0 www.toyota-cn-gifu.co.jp
 0.0.0.0 www.toyotetsu.jp
@@ -1945,6 +1959,7 @@
 0.0.0.0 www.tsit.com.tw
 0.0.0.0 www.tsugaike.gr.jp
 0.0.0.0 www.tsumibukakikuri.jp
+0.0.0.0 www.tsunagaru-office.com
 0.0.0.0 www.tudass.co.jp
 0.0.0.0 www.tv-osaka.co.jp
 0.0.0.0 www.twellv.co.jp
