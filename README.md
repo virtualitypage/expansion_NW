@@ -1,4 +1,4 @@
-![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v2.2.12-blue?style=flat)
+![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v2.2.13-blue?style=flat)
 ![Release Date](https://img.shields.io/badge/Release_Date-August_18_2024-green?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualitypage/expansion_NW)
 
@@ -340,7 +340,7 @@ https://raw.githubusercontent.com/[repoOwner]/[repoName]/main/[folder]/[filename
 #!/bin/bash
 
 dest_dir="path/to/dest_dir" # 保存先ディレクトリ
-url_list="url_list.txt"# URLリストのファイル
+url_list="url_list.txt" # URLリストのファイル
 auth_token="PERSONAL_ACCESS_TOKEN" # パーソナルアクセストークン
 
 while IFS= read -r url; do
