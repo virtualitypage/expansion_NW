@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 20 August 2024
+# Last modified: 21 August 2024
 #
 
 # [広告全般]
@@ -207,6 +207,7 @@
 0.0.0.0 dosparaplus.com
 0.0.0.0 dotapps.jp
 0.0.0.0 dotgames.info
+0.0.0.0 doutaikanri.com
 0.0.0.0 dpoint.docomo.ne.jp
 0.0.0.0 dpt-e-school.w.waseda.jp
 0.0.0.0 dr-fish.net
@@ -230,6 +231,7 @@
 0.0.0.0 ehime.dd.daihatsu.co.jp
 0.0.0.0 eightdesign.jp
 0.0.0.0 eiko-juken.net
+0.0.0.0 elegantevita.co.jp
 0.0.0.0 emifull.jp
 0.0.0.0 enemacoffeereview.com
 0.0.0.0 energy-kyoiku.meti.go.jp
@@ -740,6 +742,7 @@
 0.0.0.0 pcareer.m3.com
 0.0.0.0 pcrepair-chiba.com
 0.0.0.0 pengy-magic.penguin-colony.net
+0.0.0.0 persol-hrpartners.co.jp
 0.0.0.0 personal.canon.jp
 0.0.0.0 petsougi.kensouji.com
 0.0.0.0 pia-group.jp
@@ -828,6 +831,7 @@
 0.0.0.0 saitama.sagamitenrei.com
 0.0.0.0 saiyo-shoten.com
 0.0.0.0 salon-de-alfurd.jp
+0.0.0.0 sapporotoyota-northernbox.jp
 0.0.0.0 sasatto.jp
 0.0.0.0 sauna-rezone.com
 0.0.0.0 saunavi.net
@@ -992,6 +996,7 @@
 0.0.0.0 sushitech-real.metro.tokyo.lg.jp
 0.0.0.0 sutekinajinsei.jp
 0.0.0.0 suumo.jp
+0.0.0.0 suzuki-ballet-studio.com
 0.0.0.0 syakuchiken.jp
 0.0.0.0 systema.lion.co.jp
 0.0.0.0 tabiiro.jp
@@ -1702,6 +1707,7 @@
 0.0.0.0 www.nito.co.jp
 0.0.0.0 www.noa-yoga.com
 0.0.0.0 www.noapilates.jp
+0.0.0.0 www.nobunaga-funding.jp
 0.0.0.0 www.nondact89.com
 0.0.0.0 www.nordsonmedical.com
 0.0.0.0 www.notalone-cao.go.jp
@@ -1925,6 +1931,7 @@
 0.0.0.0 www.ticketlife.jp
 0.0.0.0 www.tiger-corporation.com
 0.0.0.0 www.tirepit.jp
+0.0.0.0 www.tissotwatches.com
 0.0.0.0 www.titleist.co.jp
 0.0.0.0 www.to-kousya.or.jp
 0.0.0.0 www.toabio.co.jp
