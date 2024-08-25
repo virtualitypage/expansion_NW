@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 23 August 2024
+# Last modified: 25 August 2024
 #
 
 # [広告全般]
@@ -250,6 +250,7 @@
 0.0.0.0 drone-procrew.com
 0.0.0.0 ds.uncn.jp
 0.0.0.0 dsp.logly.co.jp
+0.0.0.0 duskin-cashlesscp.com
 0.0.0.0 dwqrkt.xyz
 0.0.0.0 e-gakkou.jp
 0.0.0.0 e4510.jp
@@ -289,6 +290,7 @@
 0.0.0.0 event.gvm.com.tw
 0.0.0.0 event.hncb.com.tw
 0.0.0.0 event.mi.com
+0.0.0.0 event.tenki-japan.co.jp
 0.0.0.0 event.travel.rakuten.co.jp
 0.0.0.0 evercolor.jp
 0.0.0.0 everygoodnews.com
@@ -338,6 +340,7 @@
 0.0.0.0 g.floorheating-best.net
 0.0.0.0 g123.jp
 0.0.0.0 gachinko-school.com
+0.0.0.0 gaiheki02.rank12345678.com
 0.0.0.0 gaihekitosou-support.jp
 0.0.0.0 games.dmm.com
 0.0.0.0 gankenshinkochi.com
@@ -641,6 +644,7 @@
 0.0.0.0 learn.cellsignal.jp
 0.0.0.0 learn.mashingup.org
 0.0.0.0 leconte.photo
+0.0.0.0 leisure-japan.jp
 0.0.0.0 lemino.docomo.ne.jp
 0.0.0.0 lemonhome.co.jp
 0.0.0.0 leopalace-fine2005.com
@@ -782,6 +786,7 @@
 0.0.0.0 niihama-coating.com
 0.0.0.0 niit-oc.com
 0.0.0.0 nikudokorodebeso.owst.jp
+0.0.0.0 nill.jp
 0.0.0.0 ninjakitchen.co.uk
 0.0.0.0 nishispo.nishinippon.co.jp
 0.0.0.0 nix-water.jp
@@ -1015,6 +1020,7 @@
 0.0.0.0 shibainu-shop.net
 0.0.0.0 shibo-zero.info
 0.0.0.0 shift-engineer.jp
+0.0.0.0 shigoto-clan.jp
 0.0.0.0 shigoto.amazon.co.jp
 0.0.0.0 shika-fujimoto-mouthpiece.hp.peraichi.com
 0.0.0.0 shikakucenter.com
@@ -1271,9 +1277,11 @@
 0.0.0.0 www.a-cial.com
 0.0.0.0 www.a-living.jp
 0.0.0.0 www.a-one.co.jp
+0.0.0.0 www.abc-mart.net
 0.0.0.0 www.able.co.jp
 0.0.0.0 www.accenture.com
 0.0.0.0 www.aceeatserve.com
+0.0.0.0 www.achilles.jp
 0.0.0.0 www.actus-tenjin.com
 0.0.0.0 www.aderans.co.jp
 0.0.0.0 www.adire-bkan.jp
@@ -1486,11 +1494,13 @@
 0.0.0.0 www.dumbarnielinks.com
 0.0.0.0 www.e-defi.com
 0.0.0.0 www.e-fitpro.jp
+0.0.0.0 www.e-furutani.com
 0.0.0.0 www.e-hapi.com
 0.0.0.0 www.e-hc.com
 0.0.0.0 www.e-kochoran.com
 0.0.0.0 www.e-sogi.com
 0.0.0.0 www.ecnex.jp
+0.0.0.0 www.ecocity.jp
 0.0.0.0 www.ecosmile-e.co.jp
 0.0.0.0 www.edion.com
 0.0.0.0 www.edix-expo.jp
@@ -1799,6 +1809,7 @@
 0.0.0.0 www.maruho.co.jp
 0.0.0.0 www.marusan-union.com
 0.0.0.0 www.maserati.com
+0.0.0.0 www.masuda-shika.net
 0.0.0.0 www.matsuoka-motars.co.jp
 0.0.0.0 www.matsuoka-setsuritsu.com
 0.0.0.0 www.matsuyama-satei.com
@@ -1819,6 +1830,7 @@
 0.0.0.0 www.mhlw.go.jp
 0.0.0.0 www.micconsulting.jp
 0.0.0.0 www.michiluno.jp
+0.0.0.0 www.mikahara.com
 0.0.0.0 www.miki-re.com
 0.0.0.0 www.mikimoto.com
 0.0.0.0 www.milktokyo.org
@@ -1943,6 +1955,7 @@
 0.0.0.0 www.pachislot-summit.com
 0.0.0.0 www.pacificgolf.co.jp
 0.0.0.0 www.packstyle.jp
+0.0.0.0 www.padi.co.jp
 0.0.0.0 www.panamedia.co.jp
 0.0.0.0 www.paris-miki.co.jp
 0.0.0.0 www.parkhotelgroup.com
@@ -2018,6 +2031,7 @@
 0.0.0.0 www.samsonite.co.jp
 0.0.0.0 www.sanchoku-niigata.com
 0.0.0.0 www.sangitan.ac.jp
+0.0.0.0 www.sanoya.co.jp
 0.0.0.0 www.sanpou-s.net
 0.0.0.0 www.sansei-l.co.jp
 0.0.0.0 www.sansinzemi.co.jp
@@ -2153,6 +2167,7 @@
 0.0.0.0 www.tokairadio.co.jp
 0.0.0.0 www.toki-iro.jp
 0.0.0.0 www.tokiomarineam.co.jp
+0.0.0.0 www.tokiwa-electric-fa.com
 0.0.0.0 www.toko-corp.co.jp
 0.0.0.0 www.tokuyama-sc.jp
 0.0.0.0 www.tokyo-aff.or.jp
@@ -2190,6 +2205,7 @@
 0.0.0.0 www.u-can.co.jp
 0.0.0.0 www.u-master.net
 0.0.0.0 www.ube.co.jp
+0.0.0.0 www.ucc.co.jp
 0.0.0.0 www.uehara-shinkyuin.com
 0.0.0.0 www.uhe.ac.jp
 0.0.0.0 www.unicef.or.jp
