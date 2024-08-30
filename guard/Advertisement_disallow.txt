@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 29 August 2024
+# Last modified: 30 August 2024
 #
 
 # [広告全般]
@@ -160,6 +160,7 @@
 0.0.0.0 buy.itreview.jp
 0.0.0.0 byd-ibaraki.co.jp
 0.0.0.0 byd.co.jp
+0.0.0.0 ca.nihon-trim.co.jp
 0.0.0.0 cafe-inn-hitoiki.com
 0.0.0.0 calendo365.com
 0.0.0.0 campaign.whitehouse.co.jp
@@ -220,6 +221,7 @@
 0.0.0.0 corolla-iwate.jp
 0.0.0.0 corporate.epson
 0.0.0.0 corporate.ofsji.org
+0.0.0.0 cosmion.jp
 0.0.0.0 couples.jp
 0.0.0.0 cowcamo.jp
 0.0.0.0 cp.manara.jp
@@ -258,6 +260,7 @@
 0.0.0.0 dive-oita.com
 0.0.0.0 dmdepart.jp
 0.0.0.0 do-recruit.info
+0.0.0.0 doax-venusvacation.jp
 0.0.0.0 doda.jp
 0.0.0.0 dogst.theshop.jp
 0.0.0.0 donation.yahoo.co.jp
@@ -476,6 +479,7 @@
 0.0.0.0 hisense-cp2024s.com
 0.0.0.0 hit-t-mark.jp
 0.0.0.0 hitechno.jp
+0.0.0.0 hitococo.com
 0.0.0.0 hitomgr.jp
 0.0.0.0 hitowafood-recruit.jp
 0.0.0.0 hjabvtsx.life
@@ -563,6 +567,7 @@
 0.0.0.0 jod.jsports.co.jp
 0.0.0.0 join.biglobe.ne.jp
 0.0.0.0 josaigakuen.ac.jp
+0.0.0.0 joshinweb.jp
 0.0.0.0 joyfit-west.jp
 0.0.0.0 joylife.alsok.co.jp
 0.0.0.0 jp.apkpac.com
@@ -657,6 +662,7 @@
 0.0.0.0 kobac-tenpaku01.nagoya
 0.0.0.0 kobe-u-clinic.jp
 0.0.0.0 kobe.dsautomobiles-dealer.jp
+0.0.0.0 kobetsushido-shibuya.com
 0.0.0.0 kochi-kenkochallenge.jp
 0.0.0.0 koharubiyoricafe.jimdo.com
 0.0.0.0 kojinsoken.co.jp
@@ -784,6 +790,7 @@
 0.0.0.0 megaten5.jp
 0.0.0.0 mei-ten.com
 0.0.0.0 mens-cut.net
+0.0.0.0 mens-rinx.jp
 0.0.0.0 mens.datsumo-hikaku.jp
 0.0.0.0 meshop-jp.com
 0.0.0.0 metsa-hanno.com
@@ -1201,6 +1208,7 @@
 0.0.0.0 ssl-system7.com
 0.0.0.0 ssr.abemashopping.jp
 0.0.0.0 stacia.jp
+0.0.0.0 staff-lines.com
 0.0.0.0 static.hfm.com
 0.0.0.0 stockedges.com
 0.0.0.0 store-jp.nintendo.com
@@ -1383,6 +1391,7 @@
 0.0.0.0 www.3ei.co.jp
 0.0.0.0 www.3m.com
 0.0.0.0 www.3qcut.com
+0.0.0.0 www.47news.jp
 0.0.0.0 www.5academy.com
 0.0.0.0 www.7-7maruka.com
 0.0.0.0 www.85cafe.com
@@ -1457,6 +1466,7 @@
 0.0.0.0 www.asahi-netshop.com
 0.0.0.0 www.asahi-shoes.co.jp
 0.0.0.0 www.asics.com
+0.0.0.0 www.askhim.jp
 0.0.0.0 www.askul.co.jp
 0.0.0.0 www.asoview.com
 0.0.0.0 www.asphaltgame.com
@@ -1483,6 +1493,7 @@
 0.0.0.0 www.betteisenkyu.jp
 0.0.0.0 www.bfw.com.tw
 0.0.0.0 www.biblesociety.org.uk
+0.0.0.0 www.biccamera.com
 0.0.0.0 www.bikekan.jp
 0.0.0.0 www.biofermin.co.jp
 0.0.0.0 www.bishouen.com
@@ -1654,6 +1665,7 @@
 0.0.0.0 www.fairmont-empress.com
 0.0.0.0 www.fancrew.jp
 0.0.0.0 www.fanstyle.co.jp
+0.0.0.0 www.fashion-tokyo.jp
 0.0.0.0 www.feather.co.jp
 0.0.0.0 www.feels-trend.site
 0.0.0.0 www.felicitycontrol.com
@@ -1739,6 +1751,7 @@
 0.0.0.0 www.hanazonohifuku.com
 0.0.0.0 www.hankyu.co.jp
 0.0.0.0 www.hannan-u.ac.jp
+0.0.0.0 www.happiness-direct.com
 0.0.0.0 www.happy-mealkit.com
 0.0.0.0 www.happy-semi.com
 0.0.0.0 www.hatarako.net
@@ -1798,6 +1811,7 @@
 0.0.0.0 www.icturn4.com
 0.0.0.0 www.idc.hinet.net
 0.0.0.0 www.ie-miru.jp
+0.0.0.0 www.ieshil.com
 0.0.0.0 www.ig.com
 0.0.0.0 www.iibc-global.org
 0.0.0.0 www.iijmio.jp
@@ -1821,6 +1835,7 @@
 0.0.0.0 www.iput.ac.jp
 0.0.0.0 www.irisplaza.co.jp
 0.0.0.0 www.ishichou.co.jp
+0.0.0.0 www.ishizukakagu.com
 0.0.0.0 www.itmaster.jp
 0.0.0.0 www.itokin.net
 0.0.0.0 www.ixol.co.jp
@@ -1848,6 +1863,7 @@
 0.0.0.0 www.jhl.co.jp
 0.0.0.0 www.jimotohome.jp
 0.0.0.0 www.jinrayworld.com
+0.0.0.0 www.jishin-hoken.jp
 0.0.0.0 www.jitbox.co.jp
 0.0.0.0 www.jka-cycle.jp
 0.0.0.0 www.jleague-ticket.jp
@@ -1857,6 +1873,7 @@
 0.0.0.0 www.job-medley.com
 0.0.0.0 www.jobkita.jp
 0.0.0.0 www.johoku.ac.jp
+0.0.0.0 www.jp-life.japanpost.jp
 0.0.0.0 www.jpcast.japanpost.jp
 0.0.0.0 www.jps-pharm.com
 0.0.0.0 www.jreast.co.jp
@@ -1927,6 +1944,7 @@
 0.0.0.0 www.kyosai-cc.or.jp
 0.0.0.0 www.l-i-keepers.com
 0.0.0.0 www.landrover.co.jp
+0.0.0.0 www.lanps.jp
 0.0.0.0 www.le-trois.jp
 0.0.0.0 www.lebledor.com
 0.0.0.0 www.lenovo.com
@@ -1977,6 +1995,7 @@
 0.0.0.0 www.mekarijinja.com
 0.0.0.0 www.menicon.co.jp
 0.0.0.0 www.mens-doors.com
+0.0.0.0 www.mens-rize.com
 0.0.0.0 www.metlife.co.jp
 0.0.0.0 www.metroopinion.com
 0.0.0.0 www.mewa.gov.sa
@@ -1992,6 +2011,7 @@
 0.0.0.0 www.miolaw.jp
 0.0.0.0 www.miraihd.jp
 0.0.0.0 www.miraikoji.com
+0.0.0.0 www.miricanvas.com
 0.0.0.0 www.misawa.co.jp
 0.0.0.0 www.mitsubishi-motors.co.jp
 0.0.0.0 www.mitsubishielectric.co.jp
@@ -2155,6 +2175,7 @@
 0.0.0.0 www.pref.fukushima.lg.jp
 0.0.0.0 www.pref.kochi.lg.jp
 0.0.0.0 www.pref.mie.lg.jp
+0.0.0.0 www.pref.saitama.lg.jp
 0.0.0.0 www.premiumoutlets.co.jp
 0.0.0.0 www.pressance-group.jp
 0.0.0.0 www.pressance.co.jp
