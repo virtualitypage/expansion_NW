@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 30 August 2024
+# Last modified: 31 August 2024
 #
 
 # [広告全般]
@@ -156,6 +156,7 @@
 0.0.0.0 bunge.com
 0.0.0.0 burg-chintai.com
 0.0.0.0 business.google.com
+0.0.0.0 business.mobile.rakuten.co.jp
 0.0.0.0 bussaiyo.entetsu.co.jp
 0.0.0.0 buy.itreview.jp
 0.0.0.0 byd-ibaraki.co.jp
@@ -175,6 +176,7 @@
 0.0.0.0 canbadge-arc76.com
 0.0.0.0 car-audio.ne.jp
 0.0.0.0 card-en-ciel.com
+0.0.0.0 cardshop-kenzo.myshopify.com
 0.0.0.0 career.levtech.jp
 0.0.0.0 casadangela-anhuit.com
 0.0.0.0 casge-town.jp
@@ -221,6 +223,7 @@
 0.0.0.0 corolla-iwate.jp
 0.0.0.0 corporate.epson
 0.0.0.0 corporate.ofsji.org
+0.0.0.0 correct-event.jp
 0.0.0.0 cosmion.jp
 0.0.0.0 couples.jp
 0.0.0.0 cowcamo.jp
@@ -288,6 +291,7 @@
 0.0.0.0 earol.co.uk
 0.0.0.0 easy-simulator.net
 0.0.0.0 ebookjapan.yahoo.co.jp
+0.0.0.0 ec-force.com
 0.0.0.0 ec-myprecious.jp
 0.0.0.0 ec.petfoods.shop
 0.0.0.0 eco-life-smile.com
@@ -402,6 +406,7 @@
 0.0.0.0 go.1edisource.com
 0.0.0.0 go.integralads.com
 0.0.0.0 go.persol-group.co.jp
+0.0.0.0 go.sbisec.co.jp
 0.0.0.0 go.unicomengineering.com
 0.0.0.0 gochisouya.jp
 0.0.0.0 gofuku-kaitori.com
@@ -600,6 +605,7 @@
 0.0.0.0 jra-fun.jp
 0.0.0.0 jsite.mhlw.go.jp
 0.0.0.0 jta.or.jp
+0.0.0.0 jts-gr.com
 0.0.0.0 julius.co.jp
 0.0.0.0 jw-clear.com
 0.0.0.0 jyouhoudenshi.jp
@@ -609,6 +615,7 @@
 0.0.0.0 kadenfan.hitachi.co.jp
 0.0.0.0 kadota.biz
 0.0.0.0 kagoshima-mbckh.z-souzoku.com
+0.0.0.0 kai-techweb.com
 0.0.0.0 kai-z.net
 0.0.0.0 kaifuu.co.jp
 0.0.0.0 kaigitable.shop
@@ -697,6 +704,7 @@
 0.0.0.0 l-tike.com
 0.0.0.0 l-works.design
 0.0.0.0 labrador.breeders.jp
+0.0.0.0 lagemayo.com
 0.0.0.0 lagged.com
 0.0.0.0 landing.mangot5.com
 0.0.0.0 landing.worksap.co.jp
@@ -828,6 +836,7 @@
 0.0.0.0 mtm-aoyama.com
 0.0.0.0 muqbel.jp
 0.0.0.0 musashi-kikaiyuso.com
+0.0.0.0 my-career.co.jp
 0.0.0.0 my.royalcanin.jp
 0.0.0.0 mybabiie.com
 0.0.0.0 mybest-cosme.com
@@ -864,6 +873,7 @@
 0.0.0.0 ngdl.jp
 0.0.0.0 ni-deau.jp
 0.0.0.0 nihonjyuutaku.co.jp
+0.0.0.0 niigata-akiyasoudan.com
 0.0.0.0 niihama-coating.com
 0.0.0.0 niit-oc.com
 0.0.0.0 nikudokorodebeso.owst.jp
@@ -880,6 +890,7 @@
 0.0.0.0 nova-ag.com
 0.0.0.0 novaassessoriatelefonica.jp
 0.0.0.0 nposalvage.com
+0.0.0.0 ns-saitama.nissan-dealer.jp
 0.0.0.0 nudge.cards
 0.0.0.0 nyushi.otemon.ac.jp
 0.0.0.0 nyusinavi.nagoya-wu.ac.jp
@@ -948,11 +959,13 @@
 0.0.0.0 poodle.breeders.jp
 0.0.0.0 portal.bizrisk.iij.jp
 0.0.0.0 porte.sport-school.com
+0.0.0.0 povo.jp
 0.0.0.0 pr-lp.net
 0.0.0.0 pr.bashotoru.com
 0.0.0.0 pr.go2senkyo.com
 0.0.0.0 pr.weissratings.jp
 0.0.0.0 pr1.takami-labo.com
+0.0.0.0 praise-amagasaki.com
 0.0.0.0 premiumstonegallery.com
 0.0.0.0 present-wine-shop.derisomu.com
 0.0.0.0 present.baby-calendar.com
@@ -987,6 +1000,7 @@
 0.0.0.0 re-katsu.jp
 0.0.0.0 realplace-net.com
 0.0.0.0 rebgil.funyoursjapan.pink
+0.0.0.0 recruit.nds-g.co.jp
 0.0.0.0 recruit.takuichi.okinawa
 0.0.0.0 recruit.tsukui.net
 0.0.0.0 refine-midori.net
@@ -1244,6 +1258,7 @@
 0.0.0.0 tabe-repo.net
 0.0.0.0 tabiiro.jp
 0.0.0.0 tabunne.click
+0.0.0.0 tahititourisme.travel
 0.0.0.0 taicca.tw
 0.0.0.0 tainenji.net
 0.0.0.0 takamatsu-marugame-bankin.com
@@ -1325,6 +1340,7 @@
 0.0.0.0 umiuma.jp
 0.0.0.0 unaginobori-hamamatsu.jp
 0.0.0.0 uncf.org
+0.0.0.0 unibag.jp
 0.0.0.0 unicorn-overlord.com
 0.0.0.0 universe-co.com
 0.0.0.0 uno-hotel.com
@@ -1368,6 +1384,7 @@
 0.0.0.0 webstore.ansi.org
 0.0.0.0 webx-asia.com
 0.0.0.0 wedding.mynavi.jp
+0.0.0.0 wef.iae-ryugaku.net
 0.0.0.0 wellbeing.kirin.co.jp
 0.0.0.0 wespo.westjr.co.jp
 0.0.0.0 whisper-lagoon.info
@@ -1392,6 +1409,7 @@
 0.0.0.0 www.3m.com
 0.0.0.0 www.3qcut.com
 0.0.0.0 www.47news.jp
+0.0.0.0 www.543life.com
 0.0.0.0 www.5academy.com
 0.0.0.0 www.7-7maruka.com
 0.0.0.0 www.85cafe.com
@@ -1593,6 +1611,8 @@
 0.0.0.0 www.cospa-wellness.co.jp
 0.0.0.0 www.couleur-harima.com
 0.0.0.0 www.coverland.co.jp
+0.0.0.0 www.cpu-net.co.jp
+0.0.0.0 www.cr.mufg.jp
 0.0.0.0 www.cross-m.co.jp
 0.0.0.0 www.crosslinktax.com
 0.0.0.0 www.ctbcinvestments.com
@@ -1600,6 +1620,7 @@
 0.0.0.0 www.cw.com.tw
 0.0.0.0 www.d-cart.jp
 0.0.0.0 www.daigakujuken.com
+0.0.0.0 www.daiichisankyo.co.jp
 0.0.0.0 www.daiichisemi.net
 0.0.0.0 www.daiken.jp
 0.0.0.0 www.daimaru.co.jp
@@ -1837,6 +1858,7 @@
 0.0.0.0 www.ishichou.co.jp
 0.0.0.0 www.ishizukakagu.com
 0.0.0.0 www.itmaster.jp
+0.0.0.0 www.itoen.jp
 0.0.0.0 www.itokin.net
 0.0.0.0 www.ixol.co.jp
 0.0.0.0 www.iyobank.co.jp
@@ -2083,6 +2105,7 @@
 0.0.0.0 www.noapilates.jp
 0.0.0.0 www.nobunaga-funding.jp
 0.0.0.0 www.noce.co.jp
+0.0.0.0 www.nomura-am.co.jp
 0.0.0.0 www.nondact89.com
 0.0.0.0 www.nordsonmedical.com
 0.0.0.0 www.notalone-cao.go.jp
@@ -2434,6 +2457,7 @@
 0.0.0.0 www.utsuwayayuuyuu.com
 0.0.0.0 www.valt-japan.com
 0.0.0.0 www.video.unext.jp
+0.0.0.0 www.vietnamairlines.com
 0.0.0.0 www.virinamaternity.com
 0.0.0.0 www.visartscenter.org
 0.0.0.0 www.visitjackson.com
@@ -2507,6 +2531,7 @@
 0.0.0.0 yamawake-estate.jp
 0.0.0.0 yametaraeenen.com
 0.0.0.0 yanase-audi.com
+0.0.0.0 yappari-hawaii.jp
 0.0.0.0 yg-tax.net
 0.0.0.0 yhtop.co
 0.0.0.0 yodomachi-cycling2024.com
