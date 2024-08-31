@@ -1,4 +1,4 @@
-![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v2.2.22-blue?style=flat)
+![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v2.3.0-blue?style=flat)
 ![Release Date](https://img.shields.io/badge/Release_Date-August_25_2024-green?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualitypage/expansion_NW)
 
@@ -9,6 +9,7 @@
   - [Send e-mail from the router - Load a file for e-mail and send it by e-mail](#ルーターからメール送信を行う---メール用のファイルを読み込んでメール送信)
   - [Send e-mail from the router - Insert attached file](#ルーターからメール送信を行う---添付ファイルを挿入)
   - [Download files from a private Github repository](#github-のプライベートリポジトリからファイルをダウンロードする)
+  - [Use WakeOnLAN to activate devices in the network](#Wake-On-LAN-を使ってネットワーク内の装置を起動する)
 - [Document - Troubleshooting](#document---troubleshooting)
   - [Hide irregular log output](#不規則なログ出力を非表示にする)
   - [Hide irregular log output - Displays normal cron logs and hides target logs](#不規則なログ出力を非表示にする---通常の-cron-ログを表示しつつ対象のログを非表示にする)
@@ -363,6 +364,61 @@ done < "$url_list"
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100 28976  100 28976    0     0  63498      0 --:--:-- --:--:-- --:--:-- 63964
+```
+
+---
+
+### Wake On LAN を使ってネットワーク内の装置を起動する
+
+1. ターミナルを開いて SSH でルーターにログインします。
+
+　`$ ssh root@{ip_address|host_name}`
+
+2. 以下のコマンドを実行します。
+
+　`$ opkg update`
+
+　`$ opkg install wakeonlan`
+
+3. DHCPサーバーのリース情報を表示します。
+
+　`$ cat /tmp/dhcp.leases`
+
+```
+0123456789 00:11:2c:3d:4e:5f 192.168.8.100 host_name_1 01:1b:2c:3d:4e:5f:6a
+1234567890 11:22:3c:4d:5e:6f 192.168.8.101 host_name_2 01:2b:3c:4d:5e:6f:7a
+2345678901 22:33:4c:5d:6e:7f 192.168.8.102 host_name_3 01:3b:4c:5d:6e:7f:8a
+3456789012 33:44:5c:6d:7e:8f 192.168.8.103 host_name_4 01:4b:5c:6d:7e:8f:9a
+4567890123 44:55:6c:7d:8e:9f 192.168.8.104 host_name_5 01:5b:6c:7d:8e:9f:0a
+```
+
+4. 手順3で取得した対象の情報を入力して、以下のコマンドを実行します。
+
+* `Private_IP`は手順3で表示されたものを使用、`MAC_Address` は2列目にある16進数。
+
+　`$ wakeonlan -i [Private_IP] [MAC_Address]`
+
+```
+Sending magic packet to [Private_IP]:9 with [MAC_Address]
+```
+
+5. 接続元の機器で、対象の装置が起動しているか確認します。 * `Tailscale_IP` とは Wireguard 接続管理サービス "Tailscale" で使用される IP アドレス
+
+　`$ ping {Private_IP|Tailscale_IP}`
+
+6. 以下のようなプロセスが開始・終了したら成功です。 *下記は一例です
+
+```
+PING 192.168.8.100 (192.168.8.100): 56 data bytes
+64 bytes from 192.168.8.100: icmp_seq=0 ttl=64 time=225.876 ms
+64 bytes from 192.168.8.100: icmp_seq=1 ttl=64 time=337.344 ms
+64 bytes from 192.168.8.100: icmp_seq=2 ttl=64 time=30.910 ms
+64 bytes from 192.168.8.100: icmp_seq=3 ttl=64 time=69.797 ms
+64 bytes from 192.168.8.100: icmp_seq=4 ttl=64 time=78.320 ms
+
+--- 192.168.8.100 ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 30.910/148.449/337.344/115.409 ms
 ```
 
 ## Document - Troubleshooting
