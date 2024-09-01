@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 31 August 2024
+# Last modified: 1 September 2024
 #
 
 # [広告全般]
@@ -120,6 +120,7 @@
 0.0.0.0 be-win.co.jp
 0.0.0.0 beacon.sp.gmossp-sp.jp
 0.0.0.0 beautiful-life-style.com
+0.0.0.0 belinda-clinic.site
 0.0.0.0 belindaclinic-shinjuku.net
 0.0.0.0 bengoshihoken-zero.jp
 0.0.0.0 beperch.com
@@ -135,6 +136,7 @@
 0.0.0.0 biz.kddi.com
 0.0.0.0 bizhint.jp
 0.0.0.0 bizreach.biz
+0.0.0.0 bkan.vbest.jp
 0.0.0.0 blessunleashed-dmg.pmang.jp
 0.0.0.0 bmccancer.biomedcentral.com
 0.0.0.0 boatzon.com
@@ -285,6 +287,7 @@
 0.0.0.0 dsp.logly.co.jp
 0.0.0.0 duskin-cashlesscp.com
 0.0.0.0 dwqrkt.xyz
+0.0.0.0 dxnavi.com
 0.0.0.0 dynabook.com
 0.0.0.0 e-gakkou.jp
 0.0.0.0 e4510.jp
@@ -601,6 +604,7 @@
 0.0.0.0 jp.vicoimaging.com
 0.0.0.0 jp.yiose.com
 0.0.0.0 jpn.nec.com
+0.0.0.0 jpn.pioneer
 0.0.0.0 jpstore.msi.com
 0.0.0.0 jra-fun.jp
 0.0.0.0 jsite.mhlw.go.jp
@@ -630,6 +634,7 @@
 0.0.0.0 kamata-nikuzushi.owst.jp
 0.0.0.0 kamposhop.kracie.co.jp
 0.0.0.0 kamukura-recruit.jp
+0.0.0.0 kan-dora.com
 0.0.0.0 kanbare.com
 0.0.0.0 kando.tv
 0.0.0.0 kankomirai-ouen.jp
@@ -870,6 +875,7 @@
 0.0.0.0 next.rikunabi.com
 0.0.0.0 nextengineer-benext.jp
 0.0.0.0 nextfocus.online
+0.0.0.0 nextpro.shop
 0.0.0.0 ngdl.jp
 0.0.0.0 ni-deau.jp
 0.0.0.0 nihonjyuutaku.co.jp
@@ -1162,6 +1168,7 @@
 0.0.0.0 shop.basefood.co.jp
 0.0.0.0 shop.g9trainer.com
 0.0.0.0 shop.ginzatanaka.co.jp
+0.0.0.0 shop.greenpark.co.jp
 0.0.0.0 shop.importparts-zeroone.com
 0.0.0.0 shop.joshin.co.jp
 0.0.0.0 shop.lumieu.jp
@@ -1236,6 +1243,7 @@
 0.0.0.0 store.vaio.com
 0.0.0.0 store.venex-j.co.jp
 0.0.0.0 store.wacoal.jp
+0.0.0.0 studio-kingyo.com
 0.0.0.0 studying.jp
 0.0.0.0 studyinternational.com
 0.0.0.0 sugamokai.co.jp
@@ -1372,6 +1380,7 @@
 0.0.0.0 web-cam.jp
 0.0.0.0 web.anabuki-college.ac.jp
 0.0.0.0 web.c4connect.co.jp
+0.0.0.0 web.citroen.jp
 0.0.0.0 web.customize-festaria.com
 0.0.0.0 web.my-class.jp
 0.0.0.0 web.peugeot.co.jp
@@ -1390,6 +1399,7 @@
 0.0.0.0 whisper-lagoon.info
 0.0.0.0 widgets.taxel.jp
 0.0.0.0 withonline.jp
+0.0.0.0 wod.wowow.co.jp
 0.0.0.0 woman-lifecp.metro.tokyo.lg.jp
 0.0.0.0 woman.chintai
 0.0.0.0 wooparoo.hangame.com
@@ -1659,6 +1669,7 @@
 0.0.0.0 www.e-hc.com
 0.0.0.0 www.e-kochoran.com
 0.0.0.0 www.e-sogi.com
+0.0.0.0 www.eclipsetraveler.com
 0.0.0.0 www.ecnex.jp
 0.0.0.0 www.ecocity.jp
 0.0.0.0 www.ecosmile-e.co.jp
@@ -1693,6 +1704,7 @@
 0.0.0.0 www.fetnet.net
 0.0.0.0 www.fevertree.jp
 0.0.0.0 www.finetrack.com
+0.0.0.0 www.firsttechfed.com
 0.0.0.0 www.fismec.co.jp
 0.0.0.0 www.fiverr.com
 0.0.0.0 www.fk-build.com
@@ -1933,6 +1945,7 @@
 0.0.0.0 www.kioicho.jp
 0.0.0.0 www.kirizai.jp
 0.0.0.0 www.klook.com
+0.0.0.0 www.ko-z.com
 0.0.0.0 www.kobax.net
 0.0.0.0 www.kobe-souzokuzei.com
 0.0.0.0 www.kobe.coop.or.jp
@@ -2071,6 +2084,7 @@
 0.0.0.0 www.nagoya-bengoshi.info
 0.0.0.0 www.nakae-bussan.shop
 0.0.0.0 www.nakamura-u.ac.jp
+0.0.0.0 www.nakanoya-harukas.com
 0.0.0.0 www.nakayamashouten.com
 0.0.0.0 www.naniwakanri.co.jp
 0.0.0.0 www.nantobank.co.jp
@@ -2150,6 +2164,7 @@
 0.0.0.0 www.oreillyauto.com
 0.0.0.0 www.oriental-hotels.com
 0.0.0.0 www.orientalmotor.co.th
+0.0.0.0 www.orlandokanko.com
 0.0.0.0 www.osaka-kyosai.or.jp
 0.0.0.0 www.osaka-solid.jp
 0.0.0.0 www.osaka-ti.co.jp
@@ -2189,6 +2204,7 @@
 0.0.0.0 www.pmark.jp
 0.0.0.0 www.pocketfolder.co.jp
 0.0.0.0 www.poconnor.com
+0.0.0.0 www.pokemon-card.com
 0.0.0.0 www.poll-tex.com.tw
 0.0.0.0 www.popy.jp
 0.0.0.0 www.porsche.co.jp
@@ -2284,6 +2300,7 @@
 0.0.0.0 www.shabu-yuzuan.jp
 0.0.0.0 www.shadow-garden-mog.jp
 0.0.0.0 www.shakker.ai
+0.0.0.0 www.sharkninja.jp
 0.0.0.0 www.shc.co.jp
 0.0.0.0 www.shigotoarimasu.com
 0.0.0.0 www.shigotozaidan.or.jp
@@ -2541,6 +2558,7 @@
 0.0.0.0 youngjump.jp
 0.0.0.0 ypa.localab.net
 0.0.0.0 ys-plan.jp.net
+0.0.0.0 yumekitchen.jp
 0.0.0.0 yutaka-tomonokai.jp
 0.0.0.0 zenbivy.com
 0.0.0.0 zexy.net
@@ -2577,7 +2595,6 @@
 0.0.0.0 career-town.net
 0.0.0.0 career.nikkei.com
 0.0.0.0 carmo-kun.jp
-0.0.0.0 channel.rakuten.co.jp
 0.0.0.0 classicchess.shop
 0.0.0.0 cloud.google.com
 0.0.0.0 coco-gourmet.com
