@@ -1,5 +1,5 @@
-![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v2.3.0-blue?style=flat)
-![Release Date](https://img.shields.io/badge/Release_Date-August_25_2024-green?style=flat)
+![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v3.0.0-blue?style=flat)
+![Release Date](https://img.shields.io/badge/Release_Date-September_1_2024-green?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualitypage/expansion_NW)
 
 > Table of Contents
@@ -864,15 +864,15 @@ The key fingerprint is:
 SHA256:aBCdE1f2ghIjklm3no4PQ5sT6uVwxYZa78bCD90EfGh email@example.com
 The key's randomart image is:
 +--[ED25519 256]--+
-|　　　　　　　　　    　　　　　　　　　    |
-|　　　　　　　　　    　　　　　　　　　    |
-|　　　　　　　　　    　　　　　　　　　    |
-|　　　　　　　　　    　　　　　　　　　    |
-|　　　　　　　　　    　　　　　　　　　    |
-|　　　　　　　　　    　　　　　　　　　    |
-|　　　　　　　　　    　　　　　　　　　    |
-|　　　　　　　　　    　　　　　　　　　    |
-|　　　　　　　　　    　　　　　　　　　    |
+|　　　　　　　　　  |
+|　　　　　　　　　  |
+|　　　　　　　　　  |
+|　　　　　　　　　  |
+|　　　　　　　　　  |
+|　　　　　　　　　  |
+|　　　　　　　　　  |
+|　　　　　　　　　  |
+|　　　　　　　　　  |
 +----[SHA256]-----+
 ```
 
