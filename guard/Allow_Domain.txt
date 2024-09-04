@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Allow_Domain.txt
 #
-# Last modified: 1 September 2024
+# Last modified: 4 September 2024
 #
 
 # [許可リクエスト]
@@ -18,15 +18,23 @@
 @@||apple.news
 @@||au.com
 @@||auone.jp
+@@||biz.kddi.com
 @@||brandavenue.rakuten.co.jp
+@@||business.google.com
+@@||business.mobile.rakuten.co.jp
 @@||digicert.com
 @@||discord.com
 @@||discord.gg
 @@||dmg.umamusume.jp
+@@||donation.yahoo.co.jp
+@@||ebookjapan.yahoo.co.jp
+@@||event.rakuten.co.jp
+@@||event.travel.rakuten.co.jp
 @@||explainshell.com
 @@||gigafile.nu
 @@||gmail.com
 @@||google.com.lan
+@@||gurunavi.com
 @@||icloud.com
 @@||instagram.com
 @@||intl.xiaomi.com
@@ -37,11 +45,13 @@
 @@||microsoft.com
 @@||mirrativ.com
 @@||miui.com
+@@||network.mobile.rakuten.co.jp
 @@||news.yahoo.co.jp
 @@||ntp.org
 @@||paypay.ne.jp
 @@||rakuten.co.jp
 @@||rakuten.ne.jp
+@@||retty.me
 @@||safebrowsing.apple
 @@||sakura-checker.jp
 @@||shopping.geocities.jp
@@ -54,12 +64,20 @@
 @@||twitter.com
 @@||www.aeon.co.jp
 @@||www.amazon.co.jp
+@@||www.cmoa.jp
+@@||www.e-mail.jp
 @@||www.google.co.jp
 @@||www.jabank.org
 @@||www.kochinews.co.jp
+@@||www.komeri.com
 @@||www.nitori-net.jp
 @@||www.onamae.com
+@@||www.rakuten-card.co.jp
+@@||www.rakuten.co.jp
+@@||www.rakuten.ne.jp
+@@||www.topvalu.net
 @@||xiaomi.net
 @@||yahoo.co.jp
+@@||ymobile-store.yahoo.co.jp
 @@||youtube.com
 @@||ytimg.com
