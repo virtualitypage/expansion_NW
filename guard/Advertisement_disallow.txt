@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 3 September 2024
+# Last modified: 4 September 2024
 #
 
 # [広告全般]
@@ -48,6 +48,7 @@
 0.0.0.0 aflart8739.com
 0.0.0.0 agri.mynavi.jp
 0.0.0.0 ai-koumuten.info
+0.0.0.0 aibo.sony.jp
 0.0.0.0 aigarden.com
 0.0.0.0 aik-order.com
 0.0.0.0 aix-otofuke.owst.jp
@@ -134,7 +135,6 @@
 0.0.0.0 bighornlaw.com
 0.0.0.0 bike-news.jp
 0.0.0.0 biryuhyakkaweb.jp
-0.0.0.0 biz.kddi.com
 0.0.0.0 bizhint.jp
 0.0.0.0 bizreach.biz
 0.0.0.0 bkan.vbest.jp
@@ -160,7 +160,6 @@
 0.0.0.0 bunge.com
 0.0.0.0 buppan-monococo.com
 0.0.0.0 burg-chintai.com
-0.0.0.0 business.google.com
 0.0.0.0 bussaiyo.entetsu.co.jp
 0.0.0.0 buy.itreview.jp
 0.0.0.0 byd-ibaraki.co.jp
@@ -297,6 +296,7 @@
 0.0.0.0 e4510.jp
 0.0.0.0 earol.co.uk
 0.0.0.0 easy-simulator.net
+0.0.0.0 ebookjapan.yahoo.co.jp
 0.0.0.0 ec-force.com
 0.0.0.0 ec-myprecious.jp
 0.0.0.0 ec.petfoods.shop
@@ -559,6 +559,7 @@
 0.0.0.0 islewhite.com
 0.0.0.0 istanbul.goturkiye.com
 0.0.0.0 it-shien.smrj.go.jp
+0.0.0.0 itb-nanairo.tokyo
 0.0.0.0 ito-ec.jp
 0.0.0.0 iyec.itoyokado.co.jp
 0.0.0.0 izumozine.jp
@@ -640,6 +641,7 @@
 0.0.0.0 kainuma.org
 0.0.0.0 kaitori.brandoff.co.jp
 0.0.0.0 kaitoribuyer.com
+0.0.0.0 kajima-kyoren.com
 0.0.0.0 kakuyomu.jp
 0.0.0.0 kamata-nikuzushi.owst.jp
 0.0.0.0 kamposhop.kracie.co.jp
@@ -754,6 +756,7 @@
 0.0.0.0 lp.eneos-wing.org
 0.0.0.0 lp.grapeseed.com
 0.0.0.0 lp.groundenergy.co.jp
+0.0.0.0 lp.hairlity.jp
 0.0.0.0 lp.it-trend.jp
 0.0.0.0 lp.kaitekikobo.jp
 0.0.0.0 lp.kaitori-daikichi.jp
@@ -960,6 +963,7 @@
 0.0.0.0 parks2.bandainamco-am.co.jp
 0.0.0.0 part2.money-yomiuri.com
 0.0.0.0 pc-farm.co.jp
+0.0.0.0 pc-seven.co.jp
 0.0.0.0 pcareer.m3.com
 0.0.0.0 pcrepair-chiba.com
 0.0.0.0 pengy-magic.penguin-colony.net
@@ -1039,7 +1043,6 @@
 0.0.0.0 rescue-suido.com
 0.0.0.0 retail.ksp-sp.com
 0.0.0.0 retailers.landrover.co.jp
-0.0.0.0 retty.me
 0.0.0.0 revecan.com
 0.0.0.0 richeprivatesalon.com
 0.0.0.0 ringraph.weddingpark.net
@@ -1447,6 +1450,7 @@
 0.0.0.0 www.543life.com
 0.0.0.0 www.5academy.com
 0.0.0.0 www.7-7maruka.com
+0.0.0.0 www.816kinki.com
 0.0.0.0 www.85cafe.com
 0.0.0.0 www.968.co.jp
 0.0.0.0 www.a-audition.jp
@@ -1488,7 +1492,6 @@
 0.0.0.0 www.alphamap.com
 0.0.0.0 www.alsi.co.jp
 0.0.0.0 www.amanofd.jp
-0.0.0.0 www.amazon.co.jp
 0.0.0.0 www.amd.com
 0.0.0.0 www.americanmeat.jp
 0.0.0.0 www.americantourister.jp
@@ -1632,7 +1635,6 @@
 0.0.0.0 www.club-t.com
 0.0.0.0 www.clubmed.co.jp
 0.0.0.0 www.cm.life8739.co.jp
-0.0.0.0 www.cmoa.jp
 0.0.0.0 www.coca-cola.com
 0.0.0.0 www.cockpit.co.jp
 0.0.0.0 www.cog.inc
@@ -1742,6 +1744,7 @@
 0.0.0.0 www.fiverr.com
 0.0.0.0 www.fk-build.com
 0.0.0.0 www.flat35.com
+0.0.0.0 www.flexispot.jp
 0.0.0.0 www.foodjobselect.com
 0.0.0.0 www.forcus.co.jp
 0.0.0.0 www.foreupgolf.com
@@ -2074,6 +2077,7 @@
 0.0.0.0 www.menicon.co.jp
 0.0.0.0 www.mens-doors.com
 0.0.0.0 www.mens-rize.com
+0.0.0.0 www.mesw.co.jp
 0.0.0.0 www.metlife.co.jp
 0.0.0.0 www.metroopinion.com
 0.0.0.0 www.mewa.gov.sa
@@ -2392,6 +2396,7 @@
 0.0.0.0 www.smfg.co.jp
 0.0.0.0 www.snk-corp.co.jp
 0.0.0.0 www.snowflake.com
+0.0.0.0 www.snowrecords.jp
 0.0.0.0 www.soai.ed.jp
 0.0.0.0 www.sodastream.jp
 0.0.0.0 www.sogo-seibu.jp
@@ -2469,6 +2474,7 @@
 0.0.0.0 www.to-kousya.or.jp
 0.0.0.0 www.toabio.co.jp
 0.0.0.0 www.tobu.co.jp
+0.0.0.0 www.tochigi-daihatsu.co.jp
 0.0.0.0 www.toitsutest-koukou.com
 0.0.0.0 www.tokairadio.co.jp
 0.0.0.0 www.toki-iro.jp
@@ -2488,7 +2494,6 @@
 0.0.0.0 www.tomei-riso.jp
 0.0.0.0 www.tomiya.co.jp
 0.0.0.0 www.topcard.co.jp
-0.0.0.0 www.topvalu.net
 0.0.0.0 www.toritsuko.metro.tokyo.lg.jp
 0.0.0.0 www.totalrepair-fukasawa.com
 0.0.0.0 www.toyama-clean.com
@@ -2625,13 +2630,11 @@
 0.0.0.0 zenbivy.com
 0.0.0.0 zexy.net
 0.0.0.0 zigen-inc.stores.jp
-0.0.0.0 zomeki-creators-club.jp
 
 # [Youtubeの広告]
 0.0.0.0 04510.jp
 0.0.0.0 221616.com
 0.0.0.0 714919.jp
-0.0.0.0 a-cashing.com
 0.0.0.0 ads-promote.timee.co.jp
 0.0.0.0 albiononline.com
 0.0.0.0 animaru.jp
@@ -2649,7 +2652,6 @@
 0.0.0.0 blessunleashed.pmang.jp
 0.0.0.0 blue-protocol.com
 0.0.0.0 booklive.jp
-0.0.0.0 bookwalker.jp
 0.0.0.0 bridge.ka-shimo.com
 0.0.0.0 brilliantcrypto.net
 0.0.0.0 camp.orico.co.jp
@@ -2661,11 +2663,9 @@
 0.0.0.0 cloud.google.com
 0.0.0.0 coco-gourmet.com
 0.0.0.0 cocomeister.jp
-0.0.0.0 coloso.jp
 0.0.0.0 consultsourcing.co.jp
 0.0.0.0 contact.sate-ie.com
 0.0.0.0 cookbiz.co.jp
-0.0.0.0 corporate.epson
 0.0.0.0 cosmedics.jp
 0.0.0.0 craftcafe.store
 0.0.0.0 customer.tamahome.jp
@@ -2677,7 +2677,6 @@
 0.0.0.0 doda.jp
 0.0.0.0 driveboss.automotive.panasonic.com
 0.0.0.0 eight-event.8card.net
-0.0.0.0 en-gage.net
 0.0.0.0 euro-casa.co.jp
 0.0.0.0 fachantavenue.com
 0.0.0.0 fc.d-kanazawaya.com
@@ -2687,9 +2686,7 @@
 0.0.0.0 fundinno.com
 0.0.0.0 furyu-hm.com
 0.0.0.0 games-week.net
-0.0.0.0 geo.8984.jp
 0.0.0.0 get.green-japan.com
-0.0.0.0 go.sbisec.co.jp
 0.0.0.0 gohan.soudan-anshin.com
 0.0.0.0 gooddo.jp
 0.0.0.0 gopro.com
@@ -2712,27 +2709,22 @@
 0.0.0.0 jp.antelopeaudio.com
 0.0.0.0 jp.infragistics.com
 0.0.0.0 jp.kingkong178.com
-0.0.0.0 jp.misumi-ec.com
 0.0.0.0 jp.muse-kiss.com
 0.0.0.0 jp.rigol.com
 0.0.0.0 jp.sharp
 0.0.0.0 jp.xgimi.com
 0.0.0.0 jpmall.rigol.com
 0.0.0.0 jpn.mizuno.com
-0.0.0.0 jra-fun.jp
 0.0.0.0 kaigo.clickjob.jp
 0.0.0.0 kaikuru.com
 0.0.0.0 kanro.jp
-0.0.0.0 karakubuy.com
 0.0.0.0 kekkon.kuraveil.jp
 0.0.0.0 keywordmap.jp
 0.0.0.0 kikankou.jp
-0.0.0.0 kintone.cybozu.co.jp
 0.0.0.0 kitera-cloud.jp
 0.0.0.0 kizukumo.com
 0.0.0.0 komodok.com
 0.0.0.0 konojyuku-ism.com
-0.0.0.0 l-works.design
 0.0.0.0 laxus.co
 0.0.0.0 line6.jp
 0.0.0.0 loan.kddi-fs.com
@@ -2764,7 +2756,6 @@
 0.0.0.0 mynavi-agent.jp
 0.0.0.0 neem.ink
 0.0.0.0 nelture.com
-0.0.0.0 next.rikunabi.com
 0.0.0.0 nosh.jp
 0.0.0.0 noz-collaboration.com
 0.0.0.0 octlink.jp
@@ -2772,7 +2763,6 @@
 0.0.0.0 okuji-onlineshop.co.jp
 0.0.0.0 oripa.clove.jp
 0.0.0.0 paid.jp
-0.0.0.0 panasonic.jp
 0.0.0.0 pc-page.crowdlog.jp
 0.0.0.0 pl.finess.jp
 0.0.0.0 plant.ten-navi.com
@@ -2784,7 +2774,6 @@
 0.0.0.0 product.et-x.jp
 0.0.0.0 qrio.me
 0.0.0.0 ragnarokonline.gungho.jp
-0.0.0.0 re-katsu.jp
 0.0.0.0 realdgame.jp
 0.0.0.0 recruit-daiso.com
 0.0.0.0 recruit.kyodo-engine.com
@@ -2801,7 +2790,6 @@
 0.0.0.0 sb.pluest.com
 0.0.0.0 sb.qlabo.blog
 0.0.0.0 sb.shop-yukimeg.jp
-0.0.0.0 sb.sukkiri-life.com
 0.0.0.0 sb.vitabrid.co.jp
 0.0.0.0 sb.yazuya.com
 0.0.0.0 school.addness.co.jp
@@ -2819,7 +2807,6 @@
 0.0.0.0 sp.universal-music.co.jp
 0.0.0.0 sq.kenko.morinagamilk.co.jp
 0.0.0.0 sq.morinaga.co.jp
-0.0.0.0 ssr.abemashopping.jp
 0.0.0.0 store.soeju.com
 0.0.0.0 sub.shi-harai.com
 0.0.0.0 sumijob.com
@@ -2863,7 +2850,6 @@
 0.0.0.0 www.carminashoemaker.com
 0.0.0.0 www.cira-foundation.or.jp
 0.0.0.0 www.cmoa.jp
-0.0.0.0 www.contactlens.co.jp
 0.0.0.0 www.coop-takuhai.jp
 0.0.0.0 www.crowdlog.jp
 0.0.0.0 www.cs.furyu.jp
@@ -2877,7 +2863,6 @@
 0.0.0.0 www.fashion-t.com
 0.0.0.0 www.freebcc.com
 0.0.0.0 www.fruitfulenglish.com
-0.0.0.0 www.fudousann.info
 0.0.0.0 www.game4u.jp
 0.0.0.0 www.gamecity.ne.jp
 0.0.0.0 www.gaprsc.or.jp
@@ -2906,19 +2891,14 @@
 0.0.0.0 www.kekkon-ouen.net
 0.0.0.0 www.kokuyo-st.co.jp
 0.0.0.0 www.kumagaigumi.co.jp
-0.0.0.0 www.landrover.co.jp
 0.0.0.0 www.libmo.jp
 0.0.0.0 www.livewith.site
-0.0.0.0 www.metlife.co.jp
 0.0.0.0 www.michelin.co.jp
-0.0.0.0 www.misawa.co.jp
 0.0.0.0 www.mizuhobank.co.jp
-0.0.0.0 www.mouse-jp.co.jp
 0.0.0.0 www.netoff.co.jp
 0.0.0.0 www.netprotections.com
 0.0.0.0 www.ni.com
 0.0.0.0 www.ntt.com
-0.0.0.0 www.onitsukatiger.com
 0.0.0.0 www.orixlife.co.jp
 0.0.0.0 www.oshigoto-info.com
 0.0.0.0 www.osoujihonpo-fc.com
@@ -2932,17 +2912,14 @@
 0.0.0.0 www.pikara.jp
 0.0.0.0 www.postas.co.jp
 0.0.0.0 www.proflex.co.jp
-0.0.0.0 www.pwc.com
 0.0.0.0 www.redbaron-recruit.com
 0.0.0.0 www.regus-office.jp
 0.0.0.0 www.renet.jp
 0.0.0.0 www.rockstargames.com
 0.0.0.0 www.sakura-is.co.jp
-0.0.0.0 www.salesforce.com
 0.0.0.0 www.sbisonpo.co.jp
 0.0.0.0 www.sevenbank.co.jp
 0.0.0.0 www.shamaison.com
-0.0.0.0 www.sharkninja.jp
 0.0.0.0 www.shikokubank.co.jp
 0.0.0.0 www.shionogi-hc.co.jp
 0.0.0.0 www.silver-gear.com
