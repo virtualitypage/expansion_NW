@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 4 September 2024
+# Last modified: 5 September 2024
 #
 
 # [広告全般]
@@ -89,6 +89,7 @@
 0.0.0.0 art-logis.com
 0.0.0.0 art-mocha.net
 0.0.0.0 art.nikkei.com
+0.0.0.0 artclient.jp
 0.0.0.0 artgabbeh.com
 0.0.0.0 artmac.co.jp
 0.0.0.0 aruyo22.jp
@@ -201,6 +202,7 @@
 0.0.0.0 chuchubaby.jp
 0.0.0.0 chugakujuken-kokugo.jp
 0.0.0.0 chuko-noki.com
+0.0.0.0 chuko.gakushukai.jp
 0.0.0.0 churashima.org
 0.0.0.0 chuwincle.co.jp
 0.0.0.0 citizen.jp
@@ -499,6 +501,7 @@
 0.0.0.0 hitowafood-recruit.jp
 0.0.0.0 hjabvtsx.life
 0.0.0.0 hkcy.tw
+0.0.0.0 hobbyshow.co.jp
 0.0.0.0 hoikunosekai.com
 0.0.0.0 hoken-hikakunavi.com
 0.0.0.0 hoken-sweet.com
@@ -730,6 +733,7 @@
 0.0.0.0 lastmemories.io
 0.0.0.0 lawschool.r.chuo-u.ac.jp
 0.0.0.0 le-chic-unjour.official-wedding.jp
+0.0.0.0 leadingtech.co.jp
 0.0.0.0 leanintree.com
 0.0.0.0 leap-dog.com
 0.0.0.0 learn.cellsignal.com
@@ -742,6 +746,7 @@
 0.0.0.0 leopalace-fine2005.com
 0.0.0.0 life.miele.co.jp
 0.0.0.0 life.oricon.co.jp
+0.0.0.0 lifetunes-mall.jp
 0.0.0.0 lim-store.jp
 0.0.0.0 linear.jr-central.co.jp
 0.0.0.0 lining-konishi.com
@@ -791,6 +796,7 @@
 0.0.0.0 madream.jp
 0.0.0.0 mag.bess.jp
 0.0.0.0 mahope.hair
+0.0.0.0 mainichi.nosh.jp
 0.0.0.0 make-mastery.com
 0.0.0.0 makinushi-tk.com
 0.0.0.0 makita-craft.co.jp
@@ -1061,6 +1067,7 @@
 0.0.0.0 ryuki-design.jp
 0.0.0.0 s-chikusakoen.jp
 0.0.0.0 s-imanani.com
+0.0.0.0 s-t-housing.com
 0.0.0.0 s.cardnavi-d.com
 0.0.0.0 s.magazineworld.jp
 0.0.0.0 s.weddingpark.net
@@ -1315,6 +1322,7 @@
 0.0.0.0 td-holdings.tokyocameraclub.com
 0.0.0.0 teknitape.com
 0.0.0.0 teleboat-cp.jp
+0.0.0.0 telling.asahi.com
 0.0.0.0 tenjinbc-shops.jp
 0.0.0.0 tenkuryo.jp
 0.0.0.0 tenshoku.mynavi.jp
@@ -1421,6 +1429,7 @@
 0.0.0.0 webstore.ansi.org
 0.0.0.0 webx-asia.com
 0.0.0.0 wedding.mynavi.jp
+0.0.0.0 weddings.westintokyoshop.com
 0.0.0.0 wef.iae-ryugaku.net
 0.0.0.0 wellbeing.kirin.co.jp
 0.0.0.0 wespo.westjr.co.jp
@@ -1433,10 +1442,12 @@
 0.0.0.0 wooparoo.hangame.com
 0.0.0.0 work-holiday.mhlw.go.jp
 0.0.0.0 world-culture-very.net
+0.0.0.0 world-natural-heritage.jp
 0.0.0.0 world.hello-gesher.com
 0.0.0.0 wowclassic.blizzard.com
 0.0.0.0 wp.i-voce.jp
 0.0.0.0 www.0101.co.jp
+0.0.0.0 www.0120058139.com
 0.0.0.0 www.114154.com
 0.0.0.0 www.1memoria.com
 0.0.0.0 www.1stwise.com
@@ -1730,6 +1741,7 @@
 0.0.0.0 www.f-marinos.com
 0.0.0.0 www.fabric-homes.co.jp
 0.0.0.0 www.fairmont-empress.com
+0.0.0.0 www.falcom.co.jp
 0.0.0.0 www.fancrew.jp
 0.0.0.0 www.fanstyle.co.jp
 0.0.0.0 www.fashion-tokyo.jp
@@ -1831,6 +1843,7 @@
 0.0.0.0 www.hatasapo.jp
 0.0.0.0 www.hawaiianairlines.co.jp
 0.0.0.0 www.hda.or.jp
+0.0.0.0 www.hebel-haus.com
 0.0.0.0 www.heisei-u.ac.jp
 0.0.0.0 www.hellermanntyton.co.jp
 0.0.0.0 www.helpfeel.com
@@ -1981,6 +1994,7 @@
 0.0.0.0 www.kd-icons.co.jp
 0.0.0.0 www.keiai.net
 0.0.0.0 www.keiji-pestcontrol.com
+0.0.0.0 www.keikyu-store.com
 0.0.0.0 www.keyence-foundation.or.jp
 0.0.0.0 www.kikyonooka.or.jp
 0.0.0.0 www.kindai.ac.jp
@@ -1995,6 +2009,7 @@
 0.0.0.0 www.kobe-souzokuzei.com
 0.0.0.0 www.kobe.coop.or.jp
 0.0.0.0 www.kobegakuin.ac.jp
+0.0.0.0 www.kobelco-kenki.co.jp
 0.0.0.0 www.kobeseika.ac.jp
 0.0.0.0 www.kobetsu.co.jp
 0.0.0.0 www.kobo-shinshu.com
@@ -2055,6 +2070,7 @@
 0.0.0.0 www.markandlona.com
 0.0.0.0 www.maru.jp
 0.0.0.0 www.maruhan-lp.net
+0.0.0.0 www.maruhinokagiana.com
 0.0.0.0 www.maruho.co.jp
 0.0.0.0 www.marusan-union.com
 0.0.0.0 www.maserati.com
@@ -2217,6 +2233,7 @@
 0.0.0.0 www.oreillyauto.com
 0.0.0.0 www.oriental-hotels.com
 0.0.0.0 www.orientalmotor.co.th
+0.0.0.0 www.orixbank.co.jp
 0.0.0.0 www.orlandokanko.com
 0.0.0.0 www.osaka-kyosai.or.jp
 0.0.0.0 www.osaka-solid.jp
@@ -2265,6 +2282,7 @@
 0.0.0.0 www.prageru.com
 0.0.0.0 www.preciousplatinum.jp
 0.0.0.0 www.pref.fukushima.lg.jp
+0.0.0.0 www.pref.kanagawa.jp
 0.0.0.0 www.pref.kochi.lg.jp
 0.0.0.0 www.pref.mie.lg.jp
 0.0.0.0 www.pref.saitama.lg.jp
@@ -2275,6 +2293,7 @@
 0.0.0.0 www.princehotels.co.jp
 0.0.0.0 www.printfesta.com
 0.0.0.0 www.propertyagent.co.jp
+0.0.0.0 www.proud-web.jp
 0.0.0.0 www.proyang.com.tw
 0.0.0.0 www.psosaka.com
 0.0.0.0 www.pure-house.co.jp
@@ -2305,6 +2324,7 @@
 0.0.0.0 www.repohappy.com
 0.0.0.0 www.ricoland.co.jp
 0.0.0.0 www.riken-hochoki.com
+0.0.0.0 www.ringyou.net
 0.0.0.0 www.ririsa-riristage.com
 0.0.0.0 www.riseisha.ac.jp
 0.0.0.0 www.riviere.gr.jp
@@ -2467,6 +2487,7 @@
 0.0.0.0 www.ticketlife.jp
 0.0.0.0 www.tiger-corporation.com
 0.0.0.0 www.tigerairtw.com
+0.0.0.0 www.tileshop-tamagawa.com
 0.0.0.0 www.tirepit.jp
 0.0.0.0 www.tissotwatches.com
 0.0.0.0 www.titleist.co.jp
@@ -2630,6 +2651,7 @@
 0.0.0.0 zenbivy.com
 0.0.0.0 zexy.net
 0.0.0.0 zigen-inc.stores.jp
+0.0.0.0 zumi-kobo.com
 
 # [Youtubeの広告]
 0.0.0.0 04510.jp
