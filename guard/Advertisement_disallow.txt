@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 6 September 2024
+# Last modified: 7 September 2024
 #
 
 # [広告全般]
@@ -233,6 +233,7 @@
 0.0.0.0 corporate.ofsji.org
 0.0.0.0 correct-event.jp
 0.0.0.0 cosmion.jp
+0.0.0.0 cotaoffice.com
 0.0.0.0 couples.jp
 0.0.0.0 cowcamo.jp
 0.0.0.0 cp.manara.jp
@@ -243,6 +244,7 @@
 0.0.0.0 crosset.onward.co.jp
 0.0.0.0 crowdtech.jp
 0.0.0.0 curama.jp
+0.0.0.0 curebo.tokyo
 0.0.0.0 cw-cl.jp
 0.0.0.0 d-shinkou.com
 0.0.0.0 dachs.breeders.jp
@@ -320,6 +322,7 @@
 0.0.0.0 emifull.jp
 0.0.0.0 en-gage.net
 0.0.0.0 enemacoffeereview.com
+0.0.0.0 eneos-cl.com
 0.0.0.0 energy-kyoiku.meti.go.jp
 0.0.0.0 enfant.living.jp
 0.0.0.0 enjoy-sidework.com
@@ -437,6 +440,7 @@
 0.0.0.0 googirl.jp
 0.0.0.0 goooodhome.gifu.jp
 0.0.0.0 gorogoromanga.jp
+0.0.0.0 gpc-gr.com
 0.0.0.0 grand-mercure-awajiisland-resortandspa.jp
 0.0.0.0 grand-mercure-beppubay-resortandspa.jp
 0.0.0.0 grand-mercure-lakebiwa-resortandspa.jp
@@ -707,6 +711,7 @@
 0.0.0.0 kosavu.com
 0.0.0.0 koshien.hanshin.co.jp
 0.0.0.0 kotilabo.com
+0.0.0.0 kotobapark.889100.com
 0.0.0.0 kottoukaitori-ohgiya.jp
 0.0.0.0 kouju.mabuchi.co.jp
 0.0.0.0 koukoukojitsu.com
@@ -1381,6 +1386,7 @@
 0.0.0.0 truckland.jp
 0.0.0.0 tsugunavi.funaisoken.co.jp
 0.0.0.0 tsujimoto-2007.com
+0.0.0.0 tsunagaru-design.co.jp
 0.0.0.0 turboterminaltractors.com
 0.0.0.0 tver.jp
 0.0.0.0 tw-img.vpon.com
@@ -1448,6 +1454,7 @@
 0.0.0.0 wef.iae-ryugaku.net
 0.0.0.0 wellbeing.kirin.co.jp
 0.0.0.0 wespo.westjr.co.jp
+0.0.0.0 wester.jr-odekake.net
 0.0.0.0 whisper-lagoon.info
 0.0.0.0 widgets.taxel.jp
 0.0.0.0 willcre03.com
@@ -2095,6 +2102,7 @@
 0.0.0.0 www.maruhinokagiana.com
 0.0.0.0 www.maruho.co.jp
 0.0.0.0 www.marusan-union.com
+0.0.0.0 www.masayoshifujishima.com
 0.0.0.0 www.maserati.com
 0.0.0.0 www.masuda-shika.net
 0.0.0.0 www.material-expo.jp
@@ -2260,6 +2268,7 @@
 0.0.0.0 www.orixbank.co.jp
 0.0.0.0 www.orlandokanko.com
 0.0.0.0 www.osaka-kyosai.or.jp
+0.0.0.0 www.osaka-shoko.co.jp
 0.0.0.0 www.osaka-solid.jp
 0.0.0.0 www.osaka-ti.co.jp
 0.0.0.0 www.osaka-toyopet.jp
@@ -2281,6 +2290,7 @@
 0.0.0.0 www.paris-miki.co.jp
 0.0.0.0 www.parkhotelgroup.com
 0.0.0.0 www.pattolixil-madohonpo.jp
+0.0.0.0 www.pbcruise.jp
 0.0.0.0 www.pc-webzine.com
 0.0.0.0 www.pccs.co.jp
 0.0.0.0 www.personalhealth.jp
@@ -2337,6 +2347,7 @@
 0.0.0.0 www.rarejob.com
 0.0.0.0 www.rbbtoday.com
 0.0.0.0 www.rbma.org
+0.0.0.0 www.recruit.co.jp
 0.0.0.0 www.recx.jp
 0.0.0.0 www.recycle-izumi.net
 0.0.0.0 www.redbaron.co.jp
@@ -2431,6 +2442,7 @@
 0.0.0.0 www.singaporeair.com
 0.0.0.0 www.sinto.co.jp
 0.0.0.0 www.sizenshokken.co.jp
+0.0.0.0 www.skin-c.com
 0.0.0.0 www.sky-career.jp
 0.0.0.0 www.skybldg.co.jp
 0.0.0.0 www.skyperfectv.co.jp
@@ -2447,6 +2459,7 @@
 0.0.0.0 www.sogo-seibu.jp
 0.0.0.0 www.solaseedair.jp
 0.0.0.0 www.songdream-blog.jp
+0.0.0.0 www.sonpo.or.jp
 0.0.0.0 www.sonysonpo.co.jp
 0.0.0.0 www.sophos.com
 0.0.0.0 www.sougi-soudan.jp
@@ -2554,6 +2567,7 @@
 0.0.0.0 www.trivago.jp
 0.0.0.0 www.trygroup.co.jp
 0.0.0.0 www.tsit.com.tw
+0.0.0.0 www.tsubame-saiyou.com
 0.0.0.0 www.tsugaike.gr.jp
 0.0.0.0 www.tsume.co.jp
 0.0.0.0 www.tsumibukakikuri.jp
@@ -2604,6 +2618,7 @@
 0.0.0.0 www.watsons.com.tw
 0.0.0.0 www.wayokudan.ed.jp
 0.0.0.0 www.wb-ookura.com
+0.0.0.0 www.weltec.jp
 0.0.0.0 www.white-choco.top
 0.0.0.0 www.wickedthemusical.co.uk
 0.0.0.0 www.wing-rev.co.jp
