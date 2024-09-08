@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 7 September 2024
+# Last modified: 8 September 2024
 #
 
 # [広告全般]
@@ -101,6 +101,7 @@
 0.0.0.0 asbestos-osaka.jp
 0.0.0.0 ashiba-leasekyokai.com
 0.0.0.0 ashley-furniture-blog.jp
+0.0.0.0 aslead.nri.co.jp
 0.0.0.0 asnavi.cersi.jp
 0.0.0.0 asobibar-shinjuku.net
 0.0.0.0 asp.hotel-story.ne.jp
@@ -996,6 +997,7 @@
 0.0.0.0 petrepi.shop
 0.0.0.0 petsougi.kensouji.com
 0.0.0.0 pia-group.jp
+0.0.0.0 piano.miki.co.jp
 0.0.0.0 piecebox.jp
 0.0.0.0 pingcap.co.jp
 0.0.0.0 pinklush.jp
@@ -1105,6 +1107,7 @@
 0.0.0.0 sauna-rezone.com
 0.0.0.0 saunavi.net
 0.0.0.0 sawaraguchi-cl.jp
+0.0.0.0 sb-apo-buster3.discover-news.tokyo
 0.0.0.0 sb-beauty-labo.ourpage.jp
 0.0.0.0 sb-beauty-popu.discover-news.tokyo
 0.0.0.0 sb-bremounq01.musthave-magazine.tokyo
@@ -1212,6 +1215,7 @@
 0.0.0.0 shisas-cafe-bbq.com
 0.0.0.0 shizuclear.jp
 0.0.0.0 shizuoka-norin-u.ac.jp
+0.0.0.0 shoesiland.com
 0.0.0.0 shoka-stick.jp
 0.0.0.0 shop-list.com
 0.0.0.0 shop.basefood.co.jp
@@ -1613,6 +1617,7 @@
 0.0.0.0 www.buysellonline.jp
 0.0.0.0 www.c-and-rm.com
 0.0.0.0 www.c-cube.cc
+0.0.0.0 www.cadjapan.com
 0.0.0.0 www.cafe-ring.com
 0.0.0.0 www.callawaygolf.jp
 0.0.0.0 www.camcast7.co.jp
@@ -1672,6 +1677,7 @@
 0.0.0.0 www.cm.life8739.co.jp
 0.0.0.0 www.coca-cola.com
 0.0.0.0 www.cockpit.co.jp
+0.0.0.0 www.cocotas.shop
 0.0.0.0 www.cog.inc
 0.0.0.0 www.coinpalace.jp
 0.0.0.0 www.colehaan.co.jp
@@ -1954,6 +1960,7 @@
 0.0.0.0 www.itmaster.jp
 0.0.0.0 www.itoen.jp
 0.0.0.0 www.itokin.net
+0.0.0.0 www.ivs.events
 0.0.0.0 www.ixol.co.jp
 0.0.0.0 www.iyobank.co.jp
 0.0.0.0 www.izumo-brand.jp
@@ -1985,6 +1992,7 @@
 0.0.0.0 www.jleague-ticket.jp
 0.0.0.0 www.jleague.jp
 0.0.0.0 www.jmsc.co.jp
+0.0.0.0 www.jnovel.co.jp
 0.0.0.0 www.job-card.mhlw.go.jp
 0.0.0.0 www.job-medley.com
 0.0.0.0 www.jobkita.jp
@@ -2239,6 +2247,7 @@
 0.0.0.0 www.occam-global.com
 0.0.0.0 www.ocg.ac.jp
 0.0.0.0 www.odysissuitesosaka.com
+0.0.0.0 www.oec.okaya.co.jp
 0.0.0.0 www.office-freelive.com
 0.0.0.0 www.officedeyasai.jp
 0.0.0.0 www.ohken.co.jp
@@ -2540,6 +2549,7 @@
 0.0.0.0 www.tokiomarineam.co.jp
 0.0.0.0 www.tokiwa-electric-fa.com
 0.0.0.0 www.toko-corp.co.jp
+0.0.0.0 www.tokuteigino.work
 0.0.0.0 www.tokuyama-sc.jp
 0.0.0.0 www.tokyo-aff.or.jp
 0.0.0.0 www.tokyo-dome.co.jp
