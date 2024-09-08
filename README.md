@@ -1,5 +1,5 @@
-![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v3.0.0-blue?style=flat)
-![Release Date](https://img.shields.io/badge/Release_Date-September_1_2024-green?style=flat)
+![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v3.1.5-blue?style=flat)
+![Release Date](https://img.shields.io/badge/Release_Date-September_8_2024-green?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualitypage/expansion_NW)
 
 > Table of Contents
@@ -10,6 +10,7 @@
   - [Send e-mail from the router - Insert attached file](#ルーターからメール送信を行う---添付ファイルを挿入)
   - [Download files from a private Github repository](#github-のプライベートリポジトリからファイルをダウンロードする)
   - [Use WakeOnLAN to activate devices in the network](#Wake-On-LAN-を使ってネットワーク内の装置を起動する)
+  - [How to add a cache invalidation setting for internal web sites](#内部-Web-サイトにおけるキャッシュ無効化設定の追加方法)
 - [Document - Troubleshooting](#document---troubleshooting)
   - [Hide irregular log output](#不規則なログ出力を非表示にする)
   - [Hide irregular log output - Displays normal cron logs and hides target logs](#不規則なログ出力を非表示にする---通常の-cron-ログを表示しつつ対象のログを非表示にする)
@@ -420,6 +421,80 @@ PING 192.168.8.100 (192.168.8.100): 56 data bytes
 5 packets transmitted, 5 packets received, 0.0% packet loss
 round-trip min/avg/max/stddev = 30.910/148.449/337.344/115.409 ms
 ```
+
+### 内部 Web サイトにおけるキャッシュ無効化設定の追加方法
+
+1. ターミナルを開いて SSH でルーターにログインします。
+
+　`$ ssh root@{ip_address|host_name}`
+
+2. "nginx.conf" ファイルを以下のように設定します。 * `# サーバーのキャッシュ制御設定を追加` の部分を追加
+
+　`$ vi /etc/nginx/nginx.conf`
+
+```
+user  root;
+worker_processes  auto;
+
+pid /var/run/nginx.pid;
+
+events {
+    worker_connections  1024;
+}
+
+http {
+    include       mime.types;
+    default_type  application/octet-stream;
+
+    sendfile on;
+    keepalive_timeout 5;
+
+    client_body_buffer_size 10K;
+    client_header_buffer_size 1k;
+    client_max_body_size 1G;
+    large_client_header_buffers 2 2k;
+
+    gzip_static on;
+
+    root /www;
+
+    access_log off;
+
+    include /etc/nginx/conf.d/*.conf;
+
+    # サーバーのキャッシュ制御設定を追加
+    server {
+        listen 80;
+        server_name localhost;
+
+        location / {
+            root /www;
+
+            # キャッシュ制御設定
+            add_header Cache-Control "no-cache, no-store, must-revalidate";
+            add_header Pragma "no-cache";
+            add_header Expires "0";
+        }
+    }
+}
+```
+
+3. 追加した設定が正しく動作するかをテストします。
+
+　`$ nginx -t`
+
+4. 以下のように出力されたら設定完了です。
+
+```
+nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
+nginx: configuration file /etc/nginx/nginx.conf test is successful
+```
+
+5. nginx を再起動します。
+
+　`$ /etc/init.d/nginx restart`
+
+6. JavaScript やその他リソースを更新した際、ブラウザ上で表示されるページが最新のものになっていることを確認して下さい。
 
 ## Document - Troubleshooting
 
