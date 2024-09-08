@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Allow_Domain.txt
 #
-# Last modified: 4 September 2024
+# Last modified: 8 September 2024
 #
 
 # [許可リクエスト]
@@ -36,6 +36,7 @@
 @@||google.com.lan
 @@||gurunavi.com
 @@||icloud.com
+@@||imanara.jp
 @@||instagram.com
 @@||intl.xiaomi.com
 @@||item.rakuten.co.jp
