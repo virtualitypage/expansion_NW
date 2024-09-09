@@ -4,13 +4,14 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 8 September 2024
+# Last modified: 9 September 2024
 #
 
 # [広告全般]
 0.0.0.0 2.homeplusone.com.tw
 0.0.0.0 2ndtable.com
 0.0.0.0 3016clinic.com
+0.0.0.0 321.inc
 0.0.0.0 35s.co.jp
 0.0.0.0 3d-mitsumori.com
 0.0.0.0 3ei.co.jp
@@ -459,6 +460,7 @@
 0.0.0.0 h-felice.com
 0.0.0.0 h.cgg4game.com
 0.0.0.0 haco-renovation.jp
+0.0.0.0 hacochef.cqree.jp
 0.0.0.0 hairvino.com
 0.0.0.0 hakkaexam.hakka.gov.tw
 0.0.0.0 hakoban.com
@@ -709,6 +711,7 @@
 0.0.0.0 kojosoko-koniken.com
 0.0.0.0 kojyo-kuruma.com
 0.0.0.0 kokokara.tais.ac.jp
+0.0.0.0 koreabucketlist.com
 0.0.0.0 kosavu.com
 0.0.0.0 koshien.hanshin.co.jp
 0.0.0.0 kotilabo.com
@@ -1363,6 +1366,7 @@
 0.0.0.0 toho-imazu.jp
 0.0.0.0 tohoku-kizunamatsuri.jp
 0.0.0.0 tohshin.net
+0.0.0.0 tokitomo-tatami-lp.jp
 0.0.0.0 tokyo-medical.jp
 0.0.0.0 tokyoshigoto-young.jp
 0.0.0.0 tomei-riso.jp
@@ -1443,6 +1447,7 @@
 0.0.0.0 web.c4connect.co.jp
 0.0.0.0 web.citroen.jp
 0.0.0.0 web.customize-festaria.com
+0.0.0.0 web.hh-online.jp
 0.0.0.0 web.my-class.jp
 0.0.0.0 web.peugeot.co.jp
 0.0.0.0 web.pitneybowes.com
@@ -1837,6 +1842,7 @@
 0.0.0.0 www.gmobile.biz
 0.0.0.0 www.goda-j.co.jp
 0.0.0.0 www.gofuku-kaitori.com
+0.0.0.0 www.gold.org
 0.0.0.0 www.goldwin.co.jp
 0.0.0.0 www.goo-net.com
 0.0.0.0 www.good-trip-ex.com
@@ -2155,6 +2161,7 @@
 0.0.0.0 www.mitsutake.co.jp
 0.0.0.0 www.miyakoda.co.jp
 0.0.0.0 www.miyanaka.co.jp
+0.0.0.0 www.mizuho-re.co.jp
 0.0.0.0 www.mobit.ne.jp
 0.0.0.0 www.mochihada.co.jp
 0.0.0.0 www.mod.go.jp
@@ -2168,6 +2175,7 @@
 0.0.0.0 www.monkiara.com
 0.0.0.0 www.monocompany.com
 0.0.0.0 www.mont-deco.com
+0.0.0.0 www.morimoto-shoji.co.jp
 0.0.0.0 www.morimotocon.co.jp
 0.0.0.0 www.morinaga.co.jp
 0.0.0.0 www.morinobrand-store.com
@@ -2313,6 +2321,7 @@
 0.0.0.0 www.plan-c.co.jp
 0.0.0.0 www.playstation.com
 0.0.0.0 www.pluscasa.com
+0.0.0.0 www.plusone-re.com
 0.0.0.0 www.pm-kentei.com
 0.0.0.0 www.pmark.jp
 0.0.0.0 www.pocketfolder.co.jp
@@ -2493,6 +2502,7 @@
 0.0.0.0 www.suiha.co.jp
 0.0.0.0 www.sumida-aquarium.com
 0.0.0.0 www.sunflower.co.jp
+0.0.0.0 www.sunokotan.com
 0.0.0.0 www.sunstar-shop.jp
 0.0.0.0 www.superdramatv.com
 0.0.0.0 www.supermicro.com
