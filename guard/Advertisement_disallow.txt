@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 9 September 2024
+# Last modified: 10 September 2024
 #
 
 # [広告全般]
@@ -152,6 +152,7 @@
 0.0.0.0 bonsai-kaitori.work
 0.0.0.0 booking.pacificgolf.co.jp
 0.0.0.0 booklive.jp
+0.0.0.0 books.bunshun.jp
 0.0.0.0 bookwalker.jp
 0.0.0.0 bordercollie.breeders.jp
 0.0.0.0 bostonterrier.breeders.jp
@@ -383,6 +384,7 @@
 0.0.0.0 fsp.norasci.com
 0.0.0.0 fto.co.jp
 0.0.0.0 fujikoumuten.co.jp
+0.0.0.0 fukubekaji.shop-pro.jp
 0.0.0.0 fukui-presentcpn.jp
 0.0.0.0 fukuoka-heya.jp
 0.0.0.0 fukuokapaint.com
@@ -933,6 +935,7 @@
 0.0.0.0 nix-water.jp
 0.0.0.0 no1-creditcard.com
 0.0.0.0 noj-kawanishi.com
+0.0.0.0 northernterritory.com
 0.0.0.0 norudake-kyoto.com
 0.0.0.0 notice.go.jp
 0.0.0.0 nova-ag.com
@@ -1289,6 +1292,7 @@
 0.0.0.0 stacia.jp
 0.0.0.0 staff-lines.com
 0.0.0.0 static.hfm.com
+0.0.0.0 stock-house.jp
 0.0.0.0 stockedges.com
 0.0.0.0 store-jp.nintendo.com
 0.0.0.0 store.alpen-group.jp
@@ -1332,6 +1336,7 @@
 0.0.0.0 takarado.co.jp
 0.0.0.0 takasaki.mitsuoka-dealer.com
 0.0.0.0 takayamado.shop
+0.0.0.0 takuhai.daichi-m.co.jp
 0.0.0.0 takutoproperty-members.com
 0.0.0.0 takuya-kimura.jp
 0.0.0.0 talia-campaign.square.site
@@ -1409,6 +1414,7 @@
 0.0.0.0 uetani-clinic.com
 0.0.0.0 uma-quick.com
 0.0.0.0 uma-rank.net
+0.0.0.0 umaki-items.com
 0.0.0.0 umiuma.jp
 0.0.0.0 unaginobori-hamamatsu.jp
 0.0.0.0 uncf.org
@@ -1739,6 +1745,7 @@
 0.0.0.0 www.dreammail.jp
 0.0.0.0 www.driver-haken.com
 0.0.0.0 www.drscholl.jp
+0.0.0.0 www.drumgarage.net
 0.0.0.0 www.dsautomobiles.jp
 0.0.0.0 www.ducati.com
 0.0.0.0 www.dumbarnielinks.com
@@ -1768,6 +1775,7 @@
 0.0.0.0 www.epam.com
 0.0.0.0 www.eposcard.co.jp
 0.0.0.0 www.epson.jp
+0.0.0.0 www.esforta.co.jp
 0.0.0.0 www.etungo.com.tw
 0.0.0.0 www.ex-anpi.com
 0.0.0.0 www.eyecity.jp
@@ -1923,6 +1931,7 @@
 0.0.0.0 www.hotstaff.co.jp
 0.0.0.0 www.housing-messe.com
 0.0.0.0 www.howabank.co.jp
+0.0.0.0 www.hs-orange.com
 0.0.0.0 www.hs.bgu.ac.jp
 0.0.0.0 www.htv.ne.jp
 0.0.0.0 www.hyo-med.ac.jp
@@ -1956,6 +1965,7 @@
 0.0.0.0 www.ins-saison.co.jp
 0.0.0.0 www.insight.com
 0.0.0.0 www.inspirekorea.com
+0.0.0.0 www.inter-edu.com
 0.0.0.0 www.invesco.com
 0.0.0.0 www.io-shin.com
 0.0.0.0 www.ipros.jp
