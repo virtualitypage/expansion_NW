@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 10 September 2024
+# Last modified: 11 September 2024
 #
 
 # [広告全般]
@@ -331,6 +331,7 @@
 0.0.0.0 enjoy-sidework.com
 0.0.0.0 enjoyhome-fudosan.net
 0.0.0.0 enk.or.jp
+0.0.0.0 entamega.com
 0.0.0.0 entrata-chayamachi.com
 0.0.0.0 entrenet.jp
 0.0.0.0 epiphyllum.thebase.in
@@ -1316,6 +1317,7 @@
 0.0.0.0 sumai.panasonic.jp
 0.0.0.0 sumai.tokyu-land.co.jp
 0.0.0.0 sumisho-tatemono-chuukai.net
+0.0.0.0 sunks-rentacar.com
 0.0.0.0 super-copy-brand.com
 0.0.0.0 survey.qlifeweb.jp
 0.0.0.0 sus-recruit.com
@@ -1340,6 +1342,7 @@
 0.0.0.0 takutoproperty-members.com
 0.0.0.0 takuya-kimura.jp
 0.0.0.0 talia-campaign.square.site
+0.0.0.0 tamatani-tenroku.com
 0.0.0.0 tamayakk.com
 0.0.0.0 tanaka501.com
 0.0.0.0 tanebo.click
@@ -1440,6 +1443,7 @@
 0.0.0.0 villa-hamanako.jp
 0.0.0.0 violetllama42.sakura.ne.jp
 0.0.0.0 vo-metsoffice.jp
+0.0.0.0 vook.vc
 0.0.0.0 voyage.asukacruise.co.jp
 0.0.0.0 vrcon.forum8.co.jp
 0.0.0.0 vti-glovebox.com
@@ -1606,6 +1610,7 @@
 0.0.0.0 www.bishouen.com
 0.0.0.0 www.bitecglobal.com
 0.0.0.0 www.bizreach.jp
+0.0.0.0 www.blue-dolphins.net
 0.0.0.0 www.bmw-motorrad.co.uk
 0.0.0.0 www.bodyfit-mpn.com
 0.0.0.0 www.bookoff.co.jp
@@ -1749,6 +1754,8 @@
 0.0.0.0 www.dsautomobiles.jp
 0.0.0.0 www.ducati.com
 0.0.0.0 www.dumbarnielinks.com
+0.0.0.0 www.dusit.com
+0.0.0.0 www.dynacjapan.com
 0.0.0.0 www.e-defi.com
 0.0.0.0 www.e-fitpro.jp
 0.0.0.0 www.e-furutani.com
@@ -2210,6 +2217,7 @@
 0.0.0.0 www.nantobank.co.jp
 0.0.0.0 www.nanzan-u.ac.jp
 0.0.0.0 www.napolipizza.jp
+0.0.0.0 www.natureworld.jp
 0.0.0.0 www.navit-j.com
 0.0.0.0 www.nec-lavie.jp
 0.0.0.0 www.necosuke.jp
@@ -2556,6 +2564,7 @@
 0.0.0.0 www.tigerairtw.com
 0.0.0.0 www.tileshop-tamagawa.com
 0.0.0.0 www.tirepit.jp
+0.0.0.0 www.tis.co.jp
 0.0.0.0 www.tissotwatches.com
 0.0.0.0 www.titleist.co.jp
 0.0.0.0 www.tm-c.jp
@@ -2718,6 +2727,7 @@
 0.0.0.0 ypa.localab.net
 0.0.0.0 ys-plan.jp.net
 0.0.0.0 yumekitchen.jp
+0.0.0.0 yuskin.co.jp
 0.0.0.0 yutaka-tomonokai.jp
 0.0.0.0 zenbivy.com
 0.0.0.0 zexy.net
