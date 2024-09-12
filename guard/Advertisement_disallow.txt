@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 11 September 2024
+# Last modified: 12 September 2024
 #
 
 # [広告全般]
@@ -790,6 +790,7 @@
 0.0.0.0 lp.mediacloudtech.com
 0.0.0.0 lp.nuviasmiles.com
 0.0.0.0 lp.sokuwork.com
+0.0.0.0 lp.studyinternational.com
 0.0.0.0 lp.zipair.net
 0.0.0.0 lp2.m-kun.com
 0.0.0.0 lps.plarium.com
@@ -901,12 +902,14 @@
 0.0.0.0 naganokaitai.net
 0.0.0.0 nagoya.ace-clinic.com
 0.0.0.0 nakanodental-cl.com
+0.0.0.0 nanatsuya-radical-yasumitsu.sai-soku.jp
 0.0.0.0 nannyme.love
 0.0.0.0 nara.jr-central.co.jp
 0.0.0.0 natgeo.nikkeibp.co.jp
 0.0.0.0 navi.jobpal.jp
 0.0.0.0 nekkoya.shop-pro.jp
 0.0.0.0 nesta.click
+0.0.0.0 nesting-hokago.com
 0.0.0.0 nestle.jp
 0.0.0.0 netzfukuoka.jp
 0.0.0.0 new-tips.net
@@ -924,6 +927,7 @@
 0.0.0.0 ngdl.jp
 0.0.0.0 ni-deau.jp
 0.0.0.0 nihonjyuutaku.co.jp
+0.0.0.0 nihonkeizaishindoi.com
 0.0.0.0 niigata-akiyasoudan.com
 0.0.0.0 niihama-coating.com
 0.0.0.0 niit-oc.com
@@ -1051,6 +1055,7 @@
 0.0.0.0 quick-sidejob.com
 0.0.0.0 r-style.eco.coocan.jp
 0.0.0.0 r.casalemedia.com
+0.0.0.0 r1-usc1.zemanta.com
 0.0.0.0 race.nishinippon.co.jp
 0.0.0.0 rakugo-zanmai.pia.co.jp
 0.0.0.0 rakuori.com
@@ -1376,6 +1381,7 @@
 0.0.0.0 tohshin.net
 0.0.0.0 tokitomo-tatami-lp.jp
 0.0.0.0 tokyo-medical.jp
+0.0.0.0 tokyo-seminar-studio.com
 0.0.0.0 tokyoshigoto-young.jp
 0.0.0.0 tomei-riso.jp
 0.0.0.0 tomei.c-nexco.co.jp
@@ -1598,6 +1604,7 @@
 0.0.0.0 www.bank-daiwa.co.jp
 0.0.0.0 www.bayfm.co.jp
 0.0.0.0 www.benesse.co.jp
+0.0.0.0 www.benscycle.com
 0.0.0.0 www.benzkansai.com
 0.0.0.0 www.berlitz.com
 0.0.0.0 www.best1cruise.com
@@ -2298,6 +2305,7 @@
 0.0.0.0 www.ophthalmologytimes.com
 0.0.0.0 www.orbussoftware.com
 0.0.0.0 www.oreillyauto.com
+0.0.0.0 www.orient-watch.jp
 0.0.0.0 www.oriental-hotels.com
 0.0.0.0 www.orientalmotor.co.th
 0.0.0.0 www.orixbank.co.jp
@@ -2604,6 +2612,7 @@
 0.0.0.0 www.tripetonlineshop.com.tw
 0.0.0.0 www.triumphmotorcycles.jp
 0.0.0.0 www.trivago.jp
+0.0.0.0 www.trust-technology.co.jp
 0.0.0.0 www.trygroup.co.jp
 0.0.0.0 www.tsit.com.tw
 0.0.0.0 www.tsubame-saiyou.com
