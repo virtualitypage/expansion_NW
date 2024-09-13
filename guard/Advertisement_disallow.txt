@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 12 September 2024
+# Last modified: 13 September 2024
 #
 
 # [広告全般]
@@ -20,6 +20,7 @@
 0.0.0.0 4years.asahi.com
 0.0.0.0 6699.jp
 0.0.0.0 78kanteikyoku.jp
+0.0.0.0 7ticket.jp
 0.0.0.0 8proud.jp
 0.0.0.0 9000.jp
 0.0.0.0 a-c-as.com
@@ -212,7 +213,9 @@
 0.0.0.0 chuwincle.co.jp
 0.0.0.0 citizen.jp
 0.0.0.0 citymonthly.jp
+0.0.0.0 cl.sozoku-guide.bk.mufg.jp
 0.0.0.0 clean-labo.net
+0.0.0.0 closet.eiwa-uniform.com
 0.0.0.0 cloud.info.asics.com
 0.0.0.0 cms.racms.jp
 0.0.0.0 coachtech.site
@@ -302,6 +305,7 @@
 0.0.0.0 dwqrkt.xyz
 0.0.0.0 dxnavi.com
 0.0.0.0 dynabook.com
+0.0.0.0 e-finit.net
 0.0.0.0 e-gakkou.jp
 0.0.0.0 e4510.jp
 0.0.0.0 earol.co.uk
@@ -736,6 +740,7 @@
 0.0.0.0 kurumeshi-regionalcareer.com
 0.0.0.0 kusakariki.com
 0.0.0.0 kushio-miyako.owst.jp
+0.0.0.0 kyodonewsprwire.jp
 0.0.0.0 kyomono-sampo.jp
 0.0.0.0 kyoto-kimonorental.com
 0.0.0.0 kyotofu-shoene.jp
@@ -979,6 +984,7 @@
 0.0.0.0 openhub.ntt.com
 0.0.0.0 order.ymobile.jp
 0.0.0.0 original-champagne.net
+0.0.0.0 oripa.clove.jp
 0.0.0.0 ortho-mouthpiece-jp.life
 0.0.0.0 os.sinto.co.jp
 0.0.0.0 osaka-hanalangue.com
@@ -1103,10 +1109,12 @@
 0.0.0.0 s.magazineworld.jp
 0.0.0.0 s.weddingpark.net
 0.0.0.0 sablelabs.co
+0.0.0.0 safarilounge.jp
 0.0.0.0 safe.tr.mufg.jp
 0.0.0.0 safesitecheckin.com
 0.0.0.0 sagan-sakana.com
 0.0.0.0 saiene-support.jp
+0.0.0.0 saimu-soudanjo.com
 0.0.0.0 saimuseiri-green.com
 0.0.0.0 saimushindan-hibiki.com
 0.0.0.0 saitama.netz-toyota-dealer.jp
@@ -1524,6 +1532,7 @@
 0.0.0.0 www.achilles.jp
 0.0.0.0 www.actus-tenjin.com
 0.0.0.0 www.aderans.co.jp
+0.0.0.0 www.adgraphy.jp
 0.0.0.0 www.adire-bkan.jp
 0.0.0.0 www.adire.jp
 0.0.0.0 www.adremover.org
@@ -1707,6 +1716,7 @@
 0.0.0.0 www.collisioncareers.com
 0.0.0.0 www.columbiasports.co.jp
 0.0.0.0 www.commufa.jp
+0.0.0.0 www.concent-f.jp
 0.0.0.0 www.coneru.co.jp
 0.0.0.0 www.connection.com
 0.0.0.0 www.conoha.jp
@@ -2104,6 +2114,7 @@
 0.0.0.0 www.kyjlaw.com
 0.0.0.0 www.kyodoyokohama.com
 0.0.0.0 www.kyosai-cc.or.jp
+0.0.0.0 www.kyusanko.co.jp
 0.0.0.0 www.l-i-keepers.com
 0.0.0.0 www.landrover.co.jp
 0.0.0.0 www.lanps.jp
@@ -2527,6 +2538,7 @@
 0.0.0.0 www.sugar.org
 0.0.0.0 www.suiha.co.jp
 0.0.0.0 www.sumida-aquarium.com
+0.0.0.0 www.suminodou.jp
 0.0.0.0 www.sunflower.co.jp
 0.0.0.0 www.sunokotan.com
 0.0.0.0 www.sunstar-shop.jp
@@ -2565,6 +2577,7 @@
 0.0.0.0 www.tgn.co.jp
 0.0.0.0 www.tgsc.tokyo
 0.0.0.0 www.the-cushion.com
+0.0.0.0 www.the-pathfinder.com
 0.0.0.0 www.thepiel.com
 0.0.0.0 www.thermondo.de
 0.0.0.0 www.ticketlife.jp
