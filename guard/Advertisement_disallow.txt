@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 13 September 2024
+# Last modified: 14 September 2024
 #
 
 # [広告全般]
@@ -64,6 +64,7 @@
 0.0.0.0 allie-ai.kao-kirei.com
 0.0.0.0 alohadou.com
 0.0.0.0 alphamiki.co.jp
+0.0.0.0 alpsoutdoorsummit.jp
 0.0.0.0 ampmedia.jp
 0.0.0.0 ananweb.jp
 0.0.0.0 and-conote.powergrid.chuden.co.jp
@@ -217,6 +218,7 @@
 0.0.0.0 clean-labo.net
 0.0.0.0 closet.eiwa-uniform.com
 0.0.0.0 cloud.info.asics.com
+0.0.0.0 clta.jp
 0.0.0.0 cms.racms.jp
 0.0.0.0 coachtech.site
 0.0.0.0 coco-store.jp
@@ -353,6 +355,7 @@
 0.0.0.0 everygoodnews.com
 0.0.0.0 exerurgentcare.com
 0.0.0.0 expa-official.jp
+0.0.0.0 exzeal.co.jp
 0.0.0.0 f-cre.com
 0.0.0.0 fairfield-michinoeki-japan.com
 0.0.0.0 fam-8.net
@@ -519,6 +522,7 @@
 0.0.0.0 hitowafood-recruit.jp
 0.0.0.0 hjabvtsx.life
 0.0.0.0 hkcy.tw
+0.0.0.0 hmaru.jp
 0.0.0.0 hobbyshow.co.jp
 0.0.0.0 hoikunosekai.com
 0.0.0.0 hoken-hikakunavi.com
@@ -554,6 +558,7 @@
 0.0.0.0 iei.jp
 0.0.0.0 ifdesign.com
 0.0.0.0 igolfstudio.jp
+0.0.0.0 ii.tokyu.co.jp
 0.0.0.0 ikedahearinggear.com
 0.0.0.0 iki-online.com
 0.0.0.0 imabarishintoshi-aeonmall.com
@@ -662,6 +667,7 @@
 0.0.0.0 kaigo.benesse-style-care.co.jp
 0.0.0.0 kaigo.nichiigakkan-careerplus.jp
 0.0.0.0 kaigojj.com
+0.0.0.0 kaigyoyushi-osaka.jp
 0.0.0.0 kainuma.org
 0.0.0.0 kaitori.brandoff.co.jp
 0.0.0.0 kaitoribuyer.com
@@ -674,6 +680,7 @@
 0.0.0.0 kanbare.com
 0.0.0.0 kando.tv
 0.0.0.0 kankomirai-ouen.jp
+0.0.0.0 kansai-elevator.co.jp
 0.0.0.0 karakubuy.com
 0.0.0.0 kascogolf.com
 0.0.0.0 kashiyama1927.jp
@@ -732,6 +739,7 @@
 0.0.0.0 kritikazero-dmg.pmang.jp
 0.0.0.0 kudan-tokyo.jp
 0.0.0.0 kumajob.jp
+0.0.0.0 kumashirofarm.stores.jp
 0.0.0.0 kuradashi.jp
 0.0.0.0 kurashigoto.hokkaido.jp
 0.0.0.0 kurashinobenriyasan.com
@@ -787,6 +795,7 @@
 0.0.0.0 lp.grapeseed.com
 0.0.0.0 lp.groundenergy.co.jp
 0.0.0.0 lp.hairlity.jp
+0.0.0.0 lp.iibc-global.org
 0.0.0.0 lp.it-trend.jp
 0.0.0.0 lp.kaitekikobo.jp
 0.0.0.0 lp.kaitori-daikichi.jp
@@ -801,6 +810,7 @@
 0.0.0.0 lps.plarium.com
 0.0.0.0 lucuaosaka-recruit.jp
 0.0.0.0 lululun.com
+0.0.0.0 lussoshioya-lp.sanyo-kaigo.net
 0.0.0.0 luvlit.jp
 0.0.0.0 luxsfront.com
 0.0.0.0 m-ihinseiri.jp
@@ -967,6 +977,7 @@
 0.0.0.0 oishii-izumo.jp
 0.0.0.0 oka-d-art.com
 0.0.0.0 okaido.clare.jp
+0.0.0.0 okamoto-dental.clinic
 0.0.0.0 okayama.coop
 0.0.0.0 oldisroad.com
 0.0.0.0 omedeto.hp.peraichi.com
@@ -1072,6 +1083,7 @@
 0.0.0.0 re-katsu.jp
 0.0.0.0 realplace-net.com
 0.0.0.0 rebgil.funyoursjapan.pink
+0.0.0.0 recruit.meccs.co.jp
 0.0.0.0 recruit.nds-g.co.jp
 0.0.0.0 recruit.takuichi.okinawa
 0.0.0.0 recruit.tsukui.net
@@ -1273,6 +1285,7 @@
 0.0.0.0 smile-zemi.jp
 0.0.0.0 smilepack.jp
 0.0.0.0 sneakerbunko.jp
+0.0.0.0 socialnews-ai.com
 0.0.0.0 sodaigomi-kaishu.com
 0.0.0.0 sodaigomi-kaishutai.com
 0.0.0.0 solasto-career.com
@@ -1323,6 +1336,7 @@
 0.0.0.0 studying.jp
 0.0.0.0 studyinternational.com
 0.0.0.0 sugamokai.co.jp
+0.0.0.0 sugo-japan.com
 0.0.0.0 suguredashicp.jp
 0.0.0.0 sumaho-sousa.com
 0.0.0.0 sumai.es-conjapan.co.jp
@@ -1343,6 +1357,7 @@
 0.0.0.0 tabe-repo.net
 0.0.0.0 tabiiro.jp
 0.0.0.0 tabunne.click
+0.0.0.0 tadfur.co.jp
 0.0.0.0 tahititourisme.travel
 0.0.0.0 taicca.tw
 0.0.0.0 tainenji.net
@@ -1541,6 +1556,7 @@
 0.0.0.0 www.aeonsportsclub.jp
 0.0.0.0 www.afgc.co.jp
 0.0.0.0 www.aflac.co.jp
+0.0.0.0 www.afr-web.co.jp
 0.0.0.0 www.agoda.com
 0.0.0.0 www.ahiruyaminimal.com
 0.0.0.0 www.ai2010.net
@@ -1579,6 +1595,7 @@
 0.0.0.0 www.aqa.org.uk
 0.0.0.0 www.aquaclara.co.jp
 0.0.0.0 www.arc-web.com
+0.0.0.0 www.ark-shop.com
 0.0.0.0 www.armonia.jp
 0.0.0.0 www.aronkasei.co.jp
 0.0.0.0 www.arrowgroup.co.jp
@@ -1869,6 +1886,7 @@
 0.0.0.0 www.gfo-sc.jp
 0.0.0.0 www.gineiden-neuesaga.com
 0.0.0.0 www.ginza-cruise.co.jp
+0.0.0.0 www.glamping-chibakamogawa.com
 0.0.0.0 www.gleif.org
 0.0.0.0 www.global-style.jp
 0.0.0.0 www.gmobile.biz
@@ -1964,6 +1982,7 @@
 0.0.0.0 www.i-note.jp
 0.0.0.0 www.i879.com
 0.0.0.0 www.ibexair.co.jp
+0.0.0.0 www.ice-yoji.com
 0.0.0.0 www.ichijo.co.jp
 0.0.0.0 www.ichiyanagi-sougu.co.jp
 0.0.0.0 www.icsics.co.jp
@@ -2065,6 +2084,7 @@
 0.0.0.0 www.kaptax.jp
 0.0.0.0 www.karatshop.com.tw
 0.0.0.0 www.kasamart.jp
+0.0.0.0 www.kasuga-ds.co.jp
 0.0.0.0 www.katafune.jp
 0.0.0.0 www.kawai-koumuten.jp
 0.0.0.0 www.kawate-shika.site
@@ -2072,6 +2092,7 @@
 0.0.0.0 www.keiai.net
 0.0.0.0 www.keiji-pestcontrol.com
 0.0.0.0 www.keikyu-store.com
+0.0.0.0 www.kenko-webshop.jp
 0.0.0.0 www.keyence-foundation.or.jp
 0.0.0.0 www.kikyonooka.or.jp
 0.0.0.0 www.kindai.ac.jp
@@ -2243,6 +2264,7 @@
 0.0.0.0 www.nemurishop.jp
 0.0.0.0 www.nerima.co.jp
 0.0.0.0 www.netbk.co.jp
+0.0.0.0 www.netsudan.jp
 0.0.0.0 www.newart.co.jp
 0.0.0.0 www.nextfactory.jp
 0.0.0.0 www.nfu.ne.jp
@@ -2301,6 +2323,7 @@
 0.0.0.0 www.oitabank.co.jp
 0.0.0.0 www.okabemen.co.jp
 0.0.0.0 www.okatsu.co.jp
+0.0.0.0 www.okawasanki.co.jp
 0.0.0.0 www.okeihan.net
 0.0.0.0 www.okinawatimes.co.jp
 0.0.0.0 www.oligo.jp
@@ -2319,6 +2342,7 @@
 0.0.0.0 www.orient-watch.jp
 0.0.0.0 www.oriental-hotels.com
 0.0.0.0 www.orientalmotor.co.th
+0.0.0.0 www.orix.co.jp
 0.0.0.0 www.orixbank.co.jp
 0.0.0.0 www.orlandokanko.com
 0.0.0.0 www.osaka-kyosai.or.jp
@@ -2478,6 +2502,7 @@
 0.0.0.0 www.shinkyogaoka.jp
 0.0.0.0 www.shinkyokushinkai.co.jp
 0.0.0.0 www.shinmeishin-info.com
+0.0.0.0 www.shinpur.store
 0.0.0.0 www.shinwaclimb.jp
 0.0.0.0 www.shionogi.com
 0.0.0.0 www.shiseido.co.jp
@@ -2732,6 +2757,7 @@
 0.0.0.0 yaeyama-rentacar.com
 0.0.0.0 yamadahomes.jp
 0.0.0.0 yamadahomes.resv.jp
+0.0.0.0 yamanaka-kensetsu-lp.com
 0.0.0.0 yamanashi.media
 0.0.0.0 yamashiro-onlinestore.com
 0.0.0.0 yamato-signage.com
