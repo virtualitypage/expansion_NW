@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 15 September 2024
+# Last modified: 16 September 2024
 #
 
 # [広告全般]
@@ -66,6 +66,7 @@
 0.0.0.0 alphamiki.co.jp
 0.0.0.0 alpsoutdoorsummit.jp
 0.0.0.0 ampmedia.jp
+0.0.0.0 anajinzai.recruitment.jp
 0.0.0.0 ananweb.jp
 0.0.0.0 and-conote.powergrid.chuden.co.jp
 0.0.0.0 angelinasweet.com
@@ -124,6 +125,7 @@
 0.0.0.0 basefood.co.jp
 0.0.0.0 bashotoru.com
 0.0.0.0 baycrews.jp
+0.0.0.0 bbq.urban-earth.jp
 0.0.0.0 bcp.sfri.jp
 0.0.0.0 be-epilogue.jp
 0.0.0.0 be-win.co.jp
@@ -256,6 +258,7 @@
 0.0.0.0 cw-cl.jp
 0.0.0.0 d-shinkou.com
 0.0.0.0 dachs.breeders.jp
+0.0.0.0 daiei-corporation.com
 0.0.0.0 danshin-smile.cardif.co.jp
 0.0.0.0 deagostini.jp
 0.0.0.0 dealer.bydauto.co.jp
@@ -559,6 +562,7 @@
 0.0.0.0 ichigen.shop
 0.0.0.0 ichoice-coop.com
 0.0.0.0 id.asics.com
+0.0.0.0 id.seikowatches.com
 0.0.0.0 idea.kawahara.ac.jp
 0.0.0.0 iei.jp
 0.0.0.0 ifdesign.com
@@ -787,6 +791,7 @@
 0.0.0.0 leopalace-fine2005.com
 0.0.0.0 life.miele.co.jp
 0.0.0.0 life.oricon.co.jp
+0.0.0.0 lifestyle-habit.com
 0.0.0.0 lifetunes-mall.jp
 0.0.0.0 lim-store.jp
 0.0.0.0 linear.jr-central.co.jp
@@ -1122,6 +1127,7 @@
 0.0.0.0 rxr.happyelements.co.jp
 0.0.0.0 ryorinin.ihcsa.or.jp
 0.0.0.0 rys-cafe.bar
+0.0.0.0 ryt200yoga.com
 0.0.0.0 ryuki-design.jp
 0.0.0.0 s-chikusakoen.jp
 0.0.0.0 s-imanani.com
@@ -1640,6 +1646,7 @@
 0.0.0.0 www.balmuda.com
 0.0.0.0 www.bank-daiwa.co.jp
 0.0.0.0 www.bayfm.co.jp
+0.0.0.0 www.be4tech.com
 0.0.0.0 www.benesse.co.jp
 0.0.0.0 www.benscycle.com
 0.0.0.0 www.benzkansai.com
@@ -2029,6 +2036,7 @@
 0.0.0.0 www.iput.ac.jp
 0.0.0.0 www.irisplaza.co.jp
 0.0.0.0 www.ishichou.co.jp
+0.0.0.0 www.ishimaru-sr.jp
 0.0.0.0 www.ishizukakagu.com
 0.0.0.0 www.itmaster.jp
 0.0.0.0 www.itoen.jp
@@ -2151,6 +2159,7 @@
 0.0.0.0 www.kyosai-cc.or.jp
 0.0.0.0 www.kyusanko.co.jp
 0.0.0.0 www.l-i-keepers.com
+0.0.0.0 www.lancome.jp
 0.0.0.0 www.landrover.co.jp
 0.0.0.0 www.lanps.jp
 0.0.0.0 www.le-trois.jp
@@ -2271,6 +2280,7 @@
 0.0.0.0 www.nantobank.co.jp
 0.0.0.0 www.nanzan-u.ac.jp
 0.0.0.0 www.napolipizza.jp
+0.0.0.0 www.narisup.com
 0.0.0.0 www.natureworld.jp
 0.0.0.0 www.navit-j.com
 0.0.0.0 www.nec-lavie.jp
@@ -2611,6 +2621,7 @@
 0.0.0.0 www.tdk.com
 0.0.0.0 www.teamlab.art
 0.0.0.0 www.teez.jp
+0.0.0.0 www.tejongde.jp
 0.0.0.0 www.teksystems.com
 0.0.0.0 www.tele.soumu.go.jp
 0.0.0.0 www.temu.com
@@ -2695,6 +2706,7 @@
 0.0.0.0 www.unzen-mikado.net
 0.0.0.0 www.uqwimax.jp
 0.0.0.0 www.ur-net.go.jp
+0.0.0.0 www.urasenke.or.jp
 0.0.0.0 www.urban-izumiku.co.jp
 0.0.0.0 www.urban-research.jp
 0.0.0.0 www.uruorich.jp
@@ -2733,6 +2745,7 @@
 0.0.0.0 www.woodtec.co.jp
 0.0.0.0 www.workport.co.jp
 0.0.0.0 www.worksap.co.jp
+0.0.0.0 www.worldvision.jp
 0.0.0.0 www.wowbao.com
 0.0.0.0 www.wrappixel.com
 0.0.0.0 www.xmtrading.com
@@ -2768,6 +2781,7 @@
 0.0.0.0 www.zokkonkareshi.top
 0.0.0.0 www2.aqlub.com
 0.0.0.0 www2.bglen.net
+0.0.0.0 www2.nissan.co.jp
 0.0.0.0 www3.jeed.go.jp
 0.0.0.0 www3.kawasaki-motors.com
 0.0.0.0 www3.nissan.co.jp
