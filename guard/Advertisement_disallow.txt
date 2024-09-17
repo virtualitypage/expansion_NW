@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 16 September 2024
+# Last modified: 17 September 2024
 #
 
 # [広告全般]
@@ -311,6 +311,7 @@
 0.0.0.0 dwqrkt.xyz
 0.0.0.0 dxnavi.com
 0.0.0.0 dynabook.com
+0.0.0.0 e-coding.net
 0.0.0.0 e-finit.net
 0.0.0.0 e-gakkou.jp
 0.0.0.0 e4510.jp
@@ -705,6 +706,7 @@
 0.0.0.0 kazoku-shintaku.org
 0.0.0.0 kddi.smartdrone.co.jp
 0.0.0.0 keihan-smile.com
+0.0.0.0 keiji.lawyers-high.jp
 0.0.0.0 keirin.by-onko-chishin.com
 0.0.0.0 keishuku-reha.com
 0.0.0.0 kenminforum-aomori.com
@@ -749,6 +751,7 @@
 0.0.0.0 kouseisaiyou.mhlw.go.jp
 0.0.0.0 koutoku.ac.jp
 0.0.0.0 kritikazero-dmg.pmang.jp
+0.0.0.0 ktv-housing.com
 0.0.0.0 kudan-tokyo.jp
 0.0.0.0 kumajob.jp
 0.0.0.0 kumashirofarm.stores.jp
@@ -760,6 +763,7 @@
 0.0.0.0 kurumeshi-regionalcareer.com
 0.0.0.0 kusakariki.com
 0.0.0.0 kushio-miyako.owst.jp
+0.0.0.0 kuzira-mizu.com
 0.0.0.0 kyodonewsprwire.jp
 0.0.0.0 kyomono-sampo.jp
 0.0.0.0 kyoto-kimonorental.com
@@ -1112,6 +1116,7 @@
 0.0.0.0 rescue-suido.com
 0.0.0.0 retail.ksp-sp.com
 0.0.0.0 retailers.landrover.co.jp
+0.0.0.0 reuse-tenshoku.com
 0.0.0.0 revecan.com
 0.0.0.0 richeprivatesalon.com
 0.0.0.0 ringraph.weddingpark.net
@@ -1597,6 +1602,7 @@
 0.0.0.0 www.americanmeat.jp
 0.0.0.0 www.americantourister.jp
 0.0.0.0 www.amh.clinic
+0.0.0.0 www.amiami.jp
 0.0.0.0 www.ana.co.jp
 0.0.0.0 www.anabuki-style.com
 0.0.0.0 www.anabuki-style.com.lan
@@ -1606,6 +1612,7 @@
 0.0.0.0 www.anshindo-grp.co.jp
 0.0.0.0 www.anytimefitness.co.jp
 0.0.0.0 www.apg-aiplan.com
+0.0.0.0 www.apiadome.com
 0.0.0.0 www.apo-mjob.com
 0.0.0.0 www.apolloseiko.co.jp
 0.0.0.0 www.aprica.jp
@@ -1949,6 +1956,7 @@
 0.0.0.0 www.happiness-direct.com
 0.0.0.0 www.happy-mealkit.com
 0.0.0.0 www.happy-semi.com
+0.0.0.0 www.haseko.co.jp
 0.0.0.0 www.hatarako.net
 0.0.0.0 www.hatasapo.jp
 0.0.0.0 www.hawaiianairlines.co.jp
@@ -2203,6 +2211,7 @@
 0.0.0.0 www.matsuoka-setsuritsu.com
 0.0.0.0 www.matsuyama-satei.com
 0.0.0.0 www.matsuzakaya.co.jp
+0.0.0.0 www.maxplanckschools.org
 0.0.0.0 www.maybournebeverlyhills.com
 0.0.0.0 www.mblqs.com
 0.0.0.0 www.mdsol.co.jp
@@ -2329,6 +2338,7 @@
 0.0.0.0 www.ntt-f.co.jp
 0.0.0.0 www.ntt-west.co.jp
 0.0.0.0 www.nttcoms.com
+0.0.0.0 www.nugu.jp
 0.0.0.0 www.numo.or.jp
 0.0.0.0 www.nursejinzaibank.com
 0.0.0.0 www.oakplaza.jp
@@ -2529,6 +2539,7 @@
 0.0.0.0 www.shinkyogaoka.jp
 0.0.0.0 www.shinkyokushinkai.co.jp
 0.0.0.0 www.shinmeishin-info.com
+0.0.0.0 www.shinmoku.jp
 0.0.0.0 www.shinpur.store
 0.0.0.0 www.shinwaclimb.jp
 0.0.0.0 www.shionogi.com
@@ -2737,6 +2748,7 @@
 0.0.0.0 www.wayokudan.ed.jp
 0.0.0.0 www.wb-ookura.com
 0.0.0.0 www.weltec.jp
+0.0.0.0 www.westin-osaka.co.jp
 0.0.0.0 www.white-choco.top
 0.0.0.0 www.wickedthemusical.co.uk
 0.0.0.0 www.wing-rev.co.jp
