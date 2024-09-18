@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 17 September 2024
+# Last modified: 18 September 2024
 #
 
 # [広告全般]
@@ -311,6 +311,7 @@
 0.0.0.0 dwqrkt.xyz
 0.0.0.0 dxnavi.com
 0.0.0.0 dynabook.com
+0.0.0.0 e-actionlearning.jp
 0.0.0.0 e-coding.net
 0.0.0.0 e-finit.net
 0.0.0.0 e-gakkou.jp
@@ -362,6 +363,7 @@
 0.0.0.0 exerurgentcare.com
 0.0.0.0 expa-official.jp
 0.0.0.0 exzeal.co.jp
+0.0.0.0 ezyremit.com
 0.0.0.0 f-cre.com
 0.0.0.0 fairfield-michinoeki-japan.com
 0.0.0.0 fam-8.net
@@ -413,6 +415,7 @@
 0.0.0.0 furunavi.jp
 0.0.0.0 furusato-karatsu.com
 0.0.0.0 furusato-yoichi.jp
+0.0.0.0 g-prep.co.jp
 0.0.0.0 g.floorheating-best.net
 0.0.0.0 g123.jp
 0.0.0.0 gachinko-school.com
@@ -480,6 +483,7 @@
 0.0.0.0 haco-renovation.jp
 0.0.0.0 hacochef.cqree.jp
 0.0.0.0 hairvino.com
+0.0.0.0 hakabanogarou.jp
 0.0.0.0 hakkaexam.hakka.gov.tw
 0.0.0.0 hakoban.com
 0.0.0.0 hal-tanteisya.com
@@ -1123,6 +1127,7 @@
 0.0.0.0 rinri-project.jp
 0.0.0.0 riseisha.ed.jp
 0.0.0.0 risk.lexisnexis.co.uk
+0.0.0.0 rittosci.com
 0.0.0.0 rivertrain-forest.click
 0.0.0.0 rlx.jp
 0.0.0.0 rokon.click
@@ -1340,6 +1345,7 @@
 0.0.0.0 ssr.abemashopping.jp
 0.0.0.0 stacia.jp
 0.0.0.0 staff-lines.com
+0.0.0.0 startup.ftstandard.jp
 0.0.0.0 static.hfm.com
 0.0.0.0 stock-house.jp
 0.0.0.0 stockedges.com
@@ -1421,6 +1427,7 @@
 0.0.0.0 timee.co.jp
 0.0.0.0 timume.com
 0.0.0.0 tire.bridgestone.co.jp
+0.0.0.0 tkcp-premium-tire-sale-5ab30bb4478c.herokuapp.com
 0.0.0.0 toho-imazu.jp
 0.0.0.0 tohoku-kizunamatsuri.jp
 0.0.0.0 tohshin.net
@@ -1528,6 +1535,7 @@
 0.0.0.0 whisper-lagoon.info
 0.0.0.0 widgets.taxel.jp
 0.0.0.0 willcre03.com
+0.0.0.0 wink000.myshopify.com
 0.0.0.0 withonline.jp
 0.0.0.0 wod.wowow.co.jp
 0.0.0.0 woman-lifecp.metro.tokyo.lg.jp
@@ -1877,6 +1885,7 @@
 0.0.0.0 www.forum8.co.jp
 0.0.0.0 www.france.fr
 0.0.0.0 www.freedom.co.jp
+0.0.0.0 www.freee.co.jp
 0.0.0.0 www.frewa.jp
 0.0.0.0 www.frontier-direct.jp
 0.0.0.0 www.fudousann.info
@@ -2157,6 +2166,7 @@
 0.0.0.0 www.koushihaken.com
 0.0.0.0 www.koyama.co.jp
 0.0.0.0 www.ksdh.or.jp
+0.0.0.0 www.ksos-web.jp
 0.0.0.0 www.ksu.ac.jp
 0.0.0.0 www.ktv.jp
 0.0.0.0 www.kucho-houei.com
@@ -2203,6 +2213,7 @@
 0.0.0.0 www.maruhinokagiana.com
 0.0.0.0 www.maruho.co.jp
 0.0.0.0 www.marusan-union.com
+0.0.0.0 www.maruten-print.jp
 0.0.0.0 www.masayoshifujishima.com
 0.0.0.0 www.maserati.com
 0.0.0.0 www.masuda-shika.net
@@ -2275,6 +2286,7 @@
 0.0.0.0 www.mules.jp
 0.0.0.0 www.musashinomura.co.jp
 0.0.0.0 www.mwed.jp
+0.0.0.0 www.my9.jp
 0.0.0.0 www.myagentla.com
 0.0.0.0 www.myremi.com
 0.0.0.0 www.mystino.jp
@@ -2631,6 +2643,7 @@
 0.0.0.0 www.tb-kumano.jp
 0.0.0.0 www.tdk.com
 0.0.0.0 www.teamlab.art
+0.0.0.0 www.technoassocie.co.jp
 0.0.0.0 www.teez.jp
 0.0.0.0 www.tejongde.jp
 0.0.0.0 www.teksystems.com
@@ -2688,6 +2701,7 @@
 0.0.0.0 www.tpishida.co.jp
 0.0.0.0 www.trailer-house.biz
 0.0.0.0 www.transgrip.co.jp
+0.0.0.0 www.travellerinn.jp
 0.0.0.0 www.tripetonlineshop.com.tw
 0.0.0.0 www.triumphmotorcycles.jp
 0.0.0.0 www.trivago.jp
