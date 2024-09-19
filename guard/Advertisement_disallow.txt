@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 18 September 2024
+# Last modified: 19 September 2024
 #
 
 # [広告全般]
@@ -244,6 +244,7 @@
 0.0.0.0 correct-event.jp
 0.0.0.0 cosmion.jp
 0.0.0.0 cotaoffice.com
+0.0.0.0 cott0n.net
 0.0.0.0 couples.jp
 0.0.0.0 cowcamo.jp
 0.0.0.0 cp.manara.jp
@@ -540,6 +541,7 @@
 0.0.0.0 hoikunosekai.com
 0.0.0.0 hoken-hikakunavi.com
 0.0.0.0 hoken-sweet.com
+0.0.0.0 hokengreat.net
 0.0.0.0 hokkaido-j.com
 0.0.0.0 hokuriku.c-nexco.co.jp
 0.0.0.0 hokuyu-ryokuti.com
@@ -780,6 +782,7 @@
 0.0.0.0 labrador.breeders.jp
 0.0.0.0 lagemayo.com
 0.0.0.0 lagged.com
+0.0.0.0 lalacrush-snoopy.makers-pts.net
 0.0.0.0 landing.mangot5.com
 0.0.0.0 landing.worksap.co.jp
 0.0.0.0 landingpage.jinjib.co.jp
@@ -978,6 +981,7 @@
 0.0.0.0 noj-kawanishi.com
 0.0.0.0 northernterritory.com
 0.0.0.0 norudake-kyoto.com
+0.0.0.0 note-infomart.jp
 0.0.0.0 notice.go.jp
 0.0.0.0 nova-ag.com
 0.0.0.0 novaassessoriatelefonica.jp
@@ -1295,6 +1299,7 @@
 0.0.0.0 side-kom.com
 0.0.0.0 sienca.jp
 0.0.0.0 simple-h.com
+0.0.0.0 sirok.jp
 0.0.0.0 sites.google.com
 0.0.0.0 sjhierq.top
 0.0.0.0 skijan.com
@@ -1408,6 +1413,7 @@
 0.0.0.0 targety.jp
 0.0.0.0 tateyoko-kazuma.com
 0.0.0.0 taxisaiyo.entetsu.co.jp
+0.0.0.0 tcb-beauty.net
 0.0.0.0 td-holdings.tokyocameraclub.com
 0.0.0.0 teknitape.com
 0.0.0.0 teleboat-cp.jp
@@ -1583,6 +1589,7 @@
 0.0.0.0 www.adremover.org
 0.0.0.0 www.advancelink.co.jp
 0.0.0.0 www.advertimes.com
+0.0.0.0 www.aeonet.co.jp
 0.0.0.0 www.aeonsportsclub.jp
 0.0.0.0 www.afgc.co.jp
 0.0.0.0 www.aflac.co.jp
@@ -2101,6 +2108,7 @@
 0.0.0.0 www.jps-pharm.com
 0.0.0.0 www.jreast.co.jp
 0.0.0.0 www.jri.co.jp
+0.0.0.0 www.jsa.or.jp
 0.0.0.0 www.jsy.jp
 0.0.0.0 www.jtbcorp.jp
 0.0.0.0 www.julliaolger.jp
@@ -2113,6 +2121,7 @@
 0.0.0.0 www.kahm-art.co.jp
 0.0.0.0 www.kaitaitochigi.com
 0.0.0.0 www.kaitori-daikichi.jp
+0.0.0.0 www.kaitori-massan.com
 0.0.0.0 www.kaitoritop.jp
 0.0.0.0 www.kanagawa-subaru.com
 0.0.0.0 www.kango-roo.com
@@ -2188,6 +2197,7 @@
 0.0.0.0 www.lettuceclub.net
 0.0.0.0 www.lfoita.co.jp
 0.0.0.0 www.libertynet.jp
+0.0.0.0 www.life-n.jp
 0.0.0.0 www.linemo.jp
 0.0.0.0 www.links-gunma.net
 0.0.0.0 www.liquors.ne.jp
@@ -2218,6 +2228,7 @@
 0.0.0.0 www.maserati.com
 0.0.0.0 www.masuda-shika.net
 0.0.0.0 www.material-expo.jp
+0.0.0.0 www.matsujiro.shop
 0.0.0.0 www.matsuoka-motars.co.jp
 0.0.0.0 www.matsuoka-setsuritsu.com
 0.0.0.0 www.matsuyama-satei.com
