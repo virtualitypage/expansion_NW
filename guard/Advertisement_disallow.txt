@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 19 September 2024
+# Last modified: 20 September 2024
 #
 
 # [広告全般]
@@ -109,6 +109,7 @@
 0.0.0.0 asnavi.cersi.jp
 0.0.0.0 asobibar-shinjuku.net
 0.0.0.0 asp.hotel-story.ne.jp
+0.0.0.0 at-living.press
 0.0.0.0 atelier-eijitsu.com
 0.0.0.0 atom-clinic.com
 0.0.0.0 atorifu-teradatyo.jp
@@ -216,6 +217,7 @@
 0.0.0.0 chuwincle.co.jp
 0.0.0.0 citizen.jp
 0.0.0.0 citymonthly.jp
+0.0.0.0 cl-assist.com
 0.0.0.0 cl.sozoku-guide.bk.mufg.jp
 0.0.0.0 clean-labo.net
 0.0.0.0 closet.eiwa-uniform.com
@@ -395,6 +397,7 @@
 0.0.0.0 frenchbull.breeders.jp
 0.0.0.0 friday.gold
 0.0.0.0 fringeos.com
+0.0.0.0 frozen-vender.jp
 0.0.0.0 fs3.just.edu.tw
 0.0.0.0 fsi-plusf.jp
 0.0.0.0 fso.ieitown.jp
@@ -615,6 +618,7 @@
 0.0.0.0 jackrussell.breeders.jp
 0.0.0.0 japan-staff.jp
 0.0.0.0 japanese.visitkorea.or.kr
+0.0.0.0 jcloud.co.jp
 0.0.0.0 jetb.co.jp
 0.0.0.0 jewelry-girls.net
 0.0.0.0 jibunmakura.com
@@ -654,6 +658,7 @@
 0.0.0.0 jp.omsystem.com
 0.0.0.0 jp.puma.com
 0.0.0.0 jp.shein.com
+0.0.0.0 jp.shokz.com
 0.0.0.0 jp.stanby.com
 0.0.0.0 jp.steelcase.com
 0.0.0.0 jp.toto.com
@@ -880,6 +885,7 @@
 0.0.0.0 medicalarts-amt.com
 0.0.0.0 medicaldoc.jp
 0.0.0.0 medicalnote.jp
+0.0.0.0 medusafragrance.com
 0.0.0.0 meganestore.co.jp
 0.0.0.0 megaten5.jp
 0.0.0.0 mei-ten.com
@@ -945,6 +951,7 @@
 0.0.0.0 nannyme.love
 0.0.0.0 nara.jr-central.co.jp
 0.0.0.0 natgeo.nikkeibp.co.jp
+0.0.0.0 naturalchange.jp
 0.0.0.0 navi.jobpal.jp
 0.0.0.0 nekkoya.shop-pro.jp
 0.0.0.0 nesta.click
@@ -973,6 +980,7 @@
 0.0.0.0 nikudokorodebeso.owst.jp
 0.0.0.0 nikunotajimatsuhan.com
 0.0.0.0 nill.jp
+0.0.0.0 ninja-takayama.com
 0.0.0.0 ninjakitchen.co.uk
 0.0.0.0 nishispo.nishinippon.co.jp
 0.0.0.0 nittobest-online.net
@@ -1012,6 +1020,7 @@
 0.0.0.0 oneit.co.jp
 0.0.0.0 onesho.com
 0.0.0.0 online.uc.edu
+0.0.0.0 onlineshop.est-online.com
 0.0.0.0 onlinezemi.nokai.jp
 0.0.0.0 onlyoneafrica.com
 0.0.0.0 onlystory.co.jp
@@ -1030,6 +1039,7 @@
 0.0.0.0 osakastationcity.com
 0.0.0.0 osho-research.co.jp
 0.0.0.0 ost-honeypot-1.oreillyauto.com
+0.0.0.0 otori-hearing.com
 0.0.0.0 p-project.jp
 0.0.0.0 p-town.dmm.com
 0.0.0.0 pages.vaio.com
@@ -1162,6 +1172,7 @@
 0.0.0.0 saitama.sagamitenrei.com
 0.0.0.0 saitokikaku.co.jp
 0.0.0.0 saiyo-shoten.com
+0.0.0.0 sakai.jeep-dealer.jp
 0.0.0.0 salon-de-alfurd.jp
 0.0.0.0 sapporo-nissan.com
 0.0.0.0 sapporotoyota-northernbox.jp
@@ -1230,6 +1241,7 @@
 0.0.0.0 sb2.juku.st
 0.0.0.0 scenery-bi.com
 0.0.0.0 schnauzer.breeders.jp
+0.0.0.0 school.dhw.co.jp
 0.0.0.0 screen-spe-introduction.com
 0.0.0.0 sealm.jp
 0.0.0.0 sealy-jp.com
@@ -1434,6 +1446,7 @@
 0.0.0.0 timume.com
 0.0.0.0 tire.bridgestone.co.jp
 0.0.0.0 tkcp-premium-tire-sale-5ab30bb4478c.herokuapp.com
+0.0.0.0 to-hand.com
 0.0.0.0 toho-imazu.jp
 0.0.0.0 tohoku-kizunamatsuri.jp
 0.0.0.0 tohshin.net
@@ -1447,6 +1460,7 @@
 0.0.0.0 tomotaqu.com
 0.0.0.0 toptoon.jp
 0.0.0.0 torcroftlodges.com
+0.0.0.0 torras.co.jp
 0.0.0.0 tosei-hotel.co.jp
 0.0.0.0 toushi-up.com
 0.0.0.0 tovira.jp
@@ -1809,6 +1823,7 @@
 0.0.0.0 www.daiwa.com
 0.0.0.0 www.daiwahouse.co.jp
 0.0.0.0 www.daiyuu.com
+0.0.0.0 www.dakimakurakobo.jp
 0.0.0.0 www.deaf-tryout24.para-athlete.tokyo
 0.0.0.0 www.decorte.com
 0.0.0.0 www.denray.com
@@ -1930,6 +1945,7 @@
 0.0.0.0 www.gfo-sc.jp
 0.0.0.0 www.gineiden-neuesaga.com
 0.0.0.0 www.ginza-cruise.co.jp
+0.0.0.0 www.glamhide.com
 0.0.0.0 www.glamping-chibakamogawa.com
 0.0.0.0 www.gleif.org
 0.0.0.0 www.global-style.jp
@@ -1954,6 +1970,7 @@
 0.0.0.0 www.gregory.jp
 0.0.0.0 www.gressive.jp
 0.0.0.0 www.gs-vanlife.com
+0.0.0.0 www.gulfnet.co.jp
 0.0.0.0 www.gunmabank.co.jp
 0.0.0.0 www.guska.jp
 0.0.0.0 www.gyakubiki.net
@@ -2437,6 +2454,7 @@
 0.0.0.0 www.phiten.com
 0.0.0.0 www.photoruction.com
 0.0.0.0 www.phys.kanagawa-u.ac.jp
+0.0.0.0 www.pitatoku.com
 0.0.0.0 www.pjaowl.com
 0.0.0.0 www.plan-c.co.jp
 0.0.0.0 www.playstation.com
@@ -2448,6 +2466,7 @@
 0.0.0.0 www.poconnor.com
 0.0.0.0 www.pokemon-card.com
 0.0.0.0 www.poll-tex.com.tw
+0.0.0.0 www.poodle.me
 0.0.0.0 www.popy.jp
 0.0.0.0 www.porsche.co.jp
 0.0.0.0 www.prada.com
@@ -2713,6 +2732,7 @@
 0.0.0.0 www.trailer-house.biz
 0.0.0.0 www.transgrip.co.jp
 0.0.0.0 www.travellerinn.jp
+0.0.0.0 www.trialfoods.jp
 0.0.0.0 www.tripetonlineshop.com.tw
 0.0.0.0 www.triumphmotorcycles.jp
 0.0.0.0 www.trivago.jp
