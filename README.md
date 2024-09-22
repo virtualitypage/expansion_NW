@@ -1,5 +1,5 @@
-![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v3.1.12-blue?style=flat)
-![Release Date](https://img.shields.io/badge/Release_Date-September_15_2024-green?style=flat)
+![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v3.2.6-blue?style=flat)
+![Release Date](https://img.shields.io/badge/Release_Date-September_22_2024-green?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualitypage/expansion_NW)
 
 > Table of Contents
@@ -19,6 +19,7 @@
   - [Unable to apply previous commit undo to remote repository](#直前のコミット取り消しをリモートリポジトリに適用できない)
   - [Authentication error occurs in "Push origin" in "GitHub Desktop.app"](#github-desktop-アプリの-push-origin-にて認証エラーが発生する)
   - [Authentication errors occur with "git clone", "git push origin main", etc.](#git-clone-や-git-push-origin-main-等で認証エラーが発生する)
+  - [The GL-MT3000 administration screen does not appear](gl-mt3000-の-admin-panel-が表示されない)
 - [Management Rules](#management-rules)
 - [SSH to Github](#ssh-to-github)
 
@@ -422,6 +423,8 @@ PING 192.168.8.100 (192.168.8.100): 56 data bytes
 round-trip min/avg/max/stddev = 30.910/148.449/337.344/115.409 ms
 ```
 
+---
+
 ### 内部 Web サイトにおけるキャッシュ無効化設定の追加方法
 
 1. ターミナルを開いて SSH でルーターにログインします。
@@ -533,9 +536,9 @@ config system
 	option timezone 'JST-9'
 	option zonename 'Asia/Tokyo'
 	option log_proto 'udp'
-	option log_size '62500'
 	option log_file '/tmp/system.log'
 	option conloglevel '8'
+	option log_size '62500'
 	option cronloglevel '10'
 ```
 
@@ -569,9 +572,9 @@ config system
 	option timezone 'JST-9'
 	option zonename 'Asia/Tokyo'
 	option log_proto 'udp'
-	option log_size '62500'
 	option log_file '/tmp/system.log'
 	option conloglevel '4'
+	option log_size '62500'
 	option cronloglevel '5'
 ```
 
@@ -865,6 +868,55 @@ remote: Total 10 (delta 2), reused 10 (delta 2), pack-reused 0
 Receiving objects: 100% (10/10), 36.33 KiB | 6.05 MiB/s, done.
 Resolving deltas: 100% (2/2), done.
 ```
+
+---
+
+### GL-MT3000 の Admin Panel が表示されない
+
+> 事前調査
+>
+> 1. http://192.168.8.1/#/login にて右クリックで"要素の詳細を表示"、もしくは"検証"でモードに移行。
+>
+> 2. "ネットワーク"で赤く表示されているファイル（.js）をクリック。
+>
+> 3. "ヘッダ"にてステータスを確認。
+>
+> * Safari
+>
+> ```
+> ステータス: —
+> ```
+>
+> * Google Chrome
+>
+> ```
+> ステータスコード: 404 Not Found
+> ```
+>
+> このようになっている場合、ファイルが存在しないため Admin Panel を表示することが出来ない。
+
+1. ターミナルを開いて SSH でルーターにログインします。
+
+　`$ ssh root@{ip_address|host_name}`
+
+2. 参照元である js ディレクトリを表示、先頭に `app.` が付くものを探します。
+
+　`$ ls -l /www/js`
+
+3. app.1a2b3456.js.gz を解凍します。 *ファイル名は一例です `-d` で解凍、`-k` で解凍前のファイルを残す
+
+　`$ gzip -dk /www/js/app.1a2b3456.js.gz`
+
+4. Admin Panel を表示する html ファイルを編集します。 * 以下の箇所を新しい js ファイル名に変更
+
+　`$ vi /www/gl_home.html`
+
+```
+<link href="/js/app.1a2b3456.js" rel="preload" as="script">
+<script src="/js/app.1a2b3456.js"></script>
+```
+
+5. http://192.168.8.1/#/login にて Admin Panel が表示されたら完了です。
 
 ## Management Rules
 
