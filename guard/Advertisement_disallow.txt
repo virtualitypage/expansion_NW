@@ -4,10 +4,11 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 22 September 2024
+# Last modified: 23 September 2024
 #
 
 # [広告全般]
+0.0.0.0 083083.jp
 0.0.0.0 2.homeplusone.com.tw
 0.0.0.0 2ndtable.com
 0.0.0.0 3016clinic.com
@@ -56,6 +57,7 @@
 0.0.0.0 aigarden.com
 0.0.0.0 aik-order.com
 0.0.0.0 aix-otofuke.owst.jp
+0.0.0.0 akiya-oita.com
 0.0.0.0 akoakostudio.com
 0.0.0.0 al-mare.irodori-inc-okj.co.jp
 0.0.0.0 alc.talkingmarathon.com
@@ -515,6 +517,7 @@
 0.0.0.0 harekuraray.com
 0.0.0.0 hari1.com
 0.0.0.0 harmonies.kumon.ne.jp
+0.0.0.0 harmotec.com
 0.0.0.0 haseko-bp.jp
 0.0.0.0 hashibukuro.com
 0.0.0.0 hatarakujob.com
@@ -716,6 +719,7 @@
 0.0.0.0 kan-dora.com
 0.0.0.0 kanbare.com
 0.0.0.0 kando.tv
+0.0.0.0 kanekaq10pr.com
 0.0.0.0 kankomirai-ouen.jp
 0.0.0.0 kansai-elevator.co.jp
 0.0.0.0 karakubuy.com
@@ -829,6 +833,7 @@
 0.0.0.0 linear.jr-central.co.jp
 0.0.0.0 lining-konishi.com
 0.0.0.0 link.springer.com
+0.0.0.0 liveviewing.jp
 0.0.0.0 loans.life
 0.0.0.0 longterm.kikagaku.ai
 0.0.0.0 lovelyhall.com
@@ -1068,6 +1073,7 @@
 0.0.0.0 papillon.breeders.jp
 0.0.0.0 parks2.bandainamco-am.co.jp
 0.0.0.0 part2.money-yomiuri.com
+0.0.0.0 party-wedding.gnavi.co.jp
 0.0.0.0 pc-farm.co.jp
 0.0.0.0 pc-seven.co.jp
 0.0.0.0 pcareer.m3.com
@@ -1166,6 +1172,7 @@
 0.0.0.0 rittosci.com
 0.0.0.0 rivertrain-forest.click
 0.0.0.0 rlx.jp
+0.0.0.0 rokkomeetsart.jp
 0.0.0.0 rokon.click
 0.0.0.0 roseoncheeks.com
 0.0.0.0 roundi.us
@@ -1263,6 +1270,7 @@
 0.0.0.0 sb.trend-news.info
 0.0.0.0 sb1.genpeiseiyaku.com
 0.0.0.0 sb2.juku.st
+0.0.0.0 sc1.axtos.com
 0.0.0.0 scenery-bi.com
 0.0.0.0 schnauzer.breeders.jp
 0.0.0.0 school.dhw.co.jp
@@ -1330,6 +1338,7 @@
 0.0.0.0 shop.xplus.co.jp
 0.0.0.0 shop.yuasa-winery.jp
 0.0.0.0 shopping.geocities.jp
+0.0.0.0 shopping.speedia-ost.com
 0.0.0.0 shopping.tbs.co.jp
 0.0.0.0 shumei.ac.jp
 0.0.0.0 side-kom.com
@@ -1716,6 +1725,7 @@
 0.0.0.0 www.benzkansai.com
 0.0.0.0 www.berlitz.com
 0.0.0.0 www.best1cruise.com
+0.0.0.0 www.besthousing.co.jp
 0.0.0.0 www.betteisenkyu.jp
 0.0.0.0 www.bfw.com.tw
 0.0.0.0 www.biblesociety.org.uk
@@ -2017,6 +2027,7 @@
 0.0.0.0 www.happiness-direct.com
 0.0.0.0 www.happy-mealkit.com
 0.0.0.0 www.happy-semi.com
+0.0.0.0 www.harikaehonpo.net
 0.0.0.0 www.haseko.co.jp
 0.0.0.0 www.hatarako.net
 0.0.0.0 www.hatasapo.jp
@@ -2311,6 +2322,7 @@
 0.0.0.0 www.mikimoto.com
 0.0.0.0 www.milk-soft.com
 0.0.0.0 www.milktokyo.org
+0.0.0.0 www.mind.co.jp
 0.0.0.0 www.mini.jp
 0.0.0.0 www.miolaw.jp
 0.0.0.0 www.miraihd.jp
@@ -2491,6 +2503,7 @@
 0.0.0.0 www.photoruction.com
 0.0.0.0 www.phys.kanagawa-u.ac.jp
 0.0.0.0 www.pitatoku.com
+0.0.0.0 www.pizzahut-job.com
 0.0.0.0 www.pjaowl.com
 0.0.0.0 www.plan-c.co.jp
 0.0.0.0 www.playstation.com
@@ -2613,6 +2626,7 @@
 0.0.0.0 www.shigotozaidan.or.jp
 0.0.0.0 www.shikaku.co.jp
 0.0.0.0 www.shikishima-town.com
+0.0.0.0 www.shimachu.co.jp
 0.0.0.0 www.shimane-mirai.jp
 0.0.0.0 www.shimonjuku.com
 0.0.0.0 www.shinkyogaoka.jp
@@ -2819,6 +2833,7 @@
 0.0.0.0 www.vocalmaster.jp
 0.0.0.0 www.voyager.co.jp
 0.0.0.0 www.w-nexco.co.jp
+0.0.0.0 www.w2gym.jp
 0.0.0.0 www.wa-kukan-life.com
 0.0.0.0 www.waf-seminar.de
 0.0.0.0 www.waiper.co.jp
@@ -2910,6 +2925,7 @@
 0.0.0.0 zenbivy.com
 0.0.0.0 zexy.net
 0.0.0.0 zigen-inc.stores.jp
+0.0.0.0 zona-kobe.com
 0.0.0.0 zumi-kobo.com
 
 # [Youtubeの広告]
