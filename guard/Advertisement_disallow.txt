@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 21 September 2024
+# Last modified: 22 September 2024
 #
 
 # [広告全般]
@@ -46,6 +46,7 @@
 0.0.0.0 adaptermug.com
 0.0.0.0 adebis.basefood.co.jp
 0.0.0.0 ads.kaipoke.biz
+0.0.0.0 afi-support.com
 0.0.0.0 afilab.jp
 0.0.0.0 aflart.net
 0.0.0.0 aflart8739.com
@@ -56,6 +57,7 @@
 0.0.0.0 aik-order.com
 0.0.0.0 aix-otofuke.owst.jp
 0.0.0.0 akoakostudio.com
+0.0.0.0 al-mare.irodori-inc-okj.co.jp
 0.0.0.0 alc.talkingmarathon.com
 0.0.0.0 alcon-contact.jp
 0.0.0.0 alcott-ordersuit.com
@@ -69,7 +71,9 @@
 0.0.0.0 ampmedia.jp
 0.0.0.0 anajinzai.recruitment.jp
 0.0.0.0 ananweb.jp
+0.0.0.0 anchorbolt.base.shop
 0.0.0.0 and-conote.powergrid.chuden.co.jp
+0.0.0.0 and-english.com
 0.0.0.0 angelinasweet.com
 0.0.0.0 animefesta.iowl.jp
 0.0.0.0 ankanpou.com
@@ -189,6 +193,7 @@
 0.0.0.0 canbadge-arc38.com
 0.0.0.0 canbadge-arc44.com
 0.0.0.0 canbadge-arc76.com
+0.0.0.0 canow.tokyo
 0.0.0.0 car-audio.ne.jp
 0.0.0.0 card-en-ciel.com
 0.0.0.0 cardshop-kenzo.myshopify.com
@@ -226,6 +231,7 @@
 0.0.0.0 clta.jp
 0.0.0.0 cms.racms.jp
 0.0.0.0 coachtech.site
+0.0.0.0 coatjapan.com
 0.0.0.0 coco-store.jp
 0.0.0.0 cocochicosme.com
 0.0.0.0 cocofull.net
@@ -321,6 +327,7 @@
 0.0.0.0 e-gakkou.jp
 0.0.0.0 e4510.jp
 0.0.0.0 earol.co.uk
+0.0.0.0 earthrapport0407.com
 0.0.0.0 easy-simulator.net
 0.0.0.0 ebookjapan.yahoo.co.jp
 0.0.0.0 ec-force.com
@@ -434,6 +441,7 @@
 0.0.0.0 garireo.co.jp
 0.0.0.0 gcloud.genbasupport.com
 0.0.0.0 gemer.jp
+0.0.0.0 genba-dojo.net
 0.0.0.0 gendai.media
 0.0.0.0 gentosha-go.com
 0.0.0.0 geo.8984.jp
@@ -725,6 +733,7 @@
 0.0.0.0 keiji.lawyers-high.jp
 0.0.0.0 keirin.by-onko-chishin.com
 0.0.0.0 keishuku-reha.com
+0.0.0.0 kenkoudo.darm.co.jp
 0.0.0.0 kenminforum-aomori.com
 0.0.0.0 kens-smile.com
 0.0.0.0 kenseidayori-mie.com
@@ -816,6 +825,7 @@
 0.0.0.0 lifestyle-habit.com
 0.0.0.0 lifetunes-mall.jp
 0.0.0.0 lim-store.jp
+0.0.0.0 limehair.jp
 0.0.0.0 linear.jr-central.co.jp
 0.0.0.0 lining-konishi.com
 0.0.0.0 link.springer.com
@@ -980,6 +990,7 @@
 0.0.0.0 nextpro.shop
 0.0.0.0 ngdl.jp
 0.0.0.0 ni-deau.jp
+0.0.0.0 nico-d.net
 0.0.0.0 nihonjyuutaku.co.jp
 0.0.0.0 nihonkeizaishindoi.com
 0.0.0.0 niigata-akiyasoudan.com
@@ -1051,6 +1062,7 @@
 0.0.0.0 p-project.jp
 0.0.0.0 p-town.dmm.com
 0.0.0.0 pages.vaio.com
+0.0.0.0 pair-loan.com
 0.0.0.0 paiza.jp
 0.0.0.0 panasonic.jp
 0.0.0.0 papillon.breeders.jp
@@ -1404,6 +1416,7 @@
 0.0.0.0 sumisho-tatemono-chuukai.net
 0.0.0.0 sunks-rentacar.com
 0.0.0.0 super-copy-brand.com
+0.0.0.0 supi.owned.media
 0.0.0.0 survey.qlifeweb.jp
 0.0.0.0 sus-recruit.com
 0.0.0.0 sushitech-real.metro.tokyo.lg.jp
@@ -1447,6 +1460,7 @@
 0.0.0.0 tenkuryo.jp
 0.0.0.0 tenshoku.mynavi.jp
 0.0.0.0 tetra.jp
+0.0.0.0 the-knitbar.com
 0.0.0.0 the-law-office.jp
 0.0.0.0 thefulfiller.com
 0.0.0.0 thegrace.jp
@@ -1652,6 +1666,7 @@
 0.0.0.0 www.ankerjapan.com
 0.0.0.0 www.anpic.jp
 0.0.0.0 www.anshindo-grp.co.jp
+0.0.0.0 www.antiques-and.com
 0.0.0.0 www.anytimefitness.co.jp
 0.0.0.0 www.apg-aiplan.com
 0.0.0.0 www.apiadome.com
@@ -2089,6 +2104,7 @@
 0.0.0.0 www.ipros.jp
 0.0.0.0 www.iput.ac.jp
 0.0.0.0 www.irisplaza.co.jp
+0.0.0.0 www.ishibashi-mfg.com
 0.0.0.0 www.ishichou.co.jp
 0.0.0.0 www.ishimaru-sr.jp
 0.0.0.0 www.ishizukakagu.com
@@ -2143,6 +2159,8 @@
 0.0.0.0 www.jtbcorp.jp
 0.0.0.0 www.julliaolger.jp
 0.0.0.0 www.justanswer.jp
+0.0.0.0 www.jutakuhaku.co.jp
+0.0.0.0 www.jyubako.com
 0.0.0.0 www.k-idea.jp
 0.0.0.0 www.kabu-nagasaka.co.jp
 0.0.0.0 www.kadokawa.co.jp
@@ -2178,6 +2196,7 @@
 0.0.0.0 www.kinsoku.ac.jp
 0.0.0.0 www.kintetsu.co.jp
 0.0.0.0 www.kioicho.jp
+0.0.0.0 www.kirishima.co.jp
 0.0.0.0 www.kirizai.jp
 0.0.0.0 www.klook.com
 0.0.0.0 www.ko-z.com
@@ -2349,6 +2368,7 @@
 0.0.0.0 www.navit-j.com
 0.0.0.0 www.nec-lavie.jp
 0.0.0.0 www.necosuke.jp
+0.0.0.0 www.nees1013.com
 0.0.0.0 www.nekonote-saijo.com
 0.0.0.0 www.nemurishop.jp
 0.0.0.0 www.nerima.co.jp
@@ -2579,6 +2599,7 @@
 0.0.0.0 www.seiss.co.jp
 0.0.0.0 www.seito-jp.com
 0.0.0.0 www.sekisuiheim.com
+0.0.0.0 www.sekiya-giken.com
 0.0.0.0 www.sendai-bridalring.com
 0.0.0.0 www.senju-museum.jp
 0.0.0.0 www.sercanto.co.uk
@@ -2736,6 +2757,7 @@
 0.0.0.0 www.tokyoupdates.metro.tokyo.lg.jp
 0.0.0.0 www.tomas.co.jp
 0.0.0.0 www.tomei-riso.jp
+0.0.0.0 www.tomesode-myselect.com
 0.0.0.0 www.tomiya.co.jp
 0.0.0.0 www.topcard.co.jp
 0.0.0.0 www.toritsuko.metro.tokyo.lg.jp
