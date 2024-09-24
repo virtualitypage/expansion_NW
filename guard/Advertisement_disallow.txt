@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 23 September 2024
+# Last modified: 24 September 2024
 #
 
 # [広告全般]
@@ -103,6 +103,7 @@
 0.0.0.0 artclient.jp
 0.0.0.0 artfrall-kaiga.jp
 0.0.0.0 artgabbeh.com
+0.0.0.0 artglorieux.jp
 0.0.0.0 artmac.co.jp
 0.0.0.0 artvivant-fantasyart.net
 0.0.0.0 aruyo22.jp
@@ -243,9 +244,11 @@
 0.0.0.0 comic.iowl.jp
 0.0.0.0 comic.k-manga.jp
 0.0.0.0 commit.carlifesquare.com
+0.0.0.0 comorebi-camp.jp
 0.0.0.0 company.rpahack.tech
 0.0.0.0 conosur-lovers.jp
 0.0.0.0 content.rview.com
+0.0.0.0 continental-automotive.com
 0.0.0.0 continentaltire.com
 0.0.0.0 converse.co.jp
 0.0.0.0 corgi.breeders.jp
@@ -929,6 +932,7 @@
 0.0.0.0 minoh.ooedoonsen.jp
 0.0.0.0 minsah-ring.com
 0.0.0.0 miokuriteitaku.jp
+0.0.0.0 mirai-compass.net
 0.0.0.0 mirai-mugen-recipe.hp.peraichi.com
 0.0.0.0 mirai-work.life
 0.0.0.0 miraiyu-career.com
@@ -1313,6 +1317,7 @@
 0.0.0.0 shikisaisai.net
 0.0.0.0 shima-corp.com
 0.0.0.0 shimane.dd.daihatsu.co.jp
+0.0.0.0 shimanomi.com
 0.0.0.0 shinchiku.homes.co.jp
 0.0.0.0 shingakunet.com
 0.0.0.0 shingon.jp
@@ -1758,6 +1763,7 @@
 0.0.0.0 www.buysellonline.jp
 0.0.0.0 www.c-and-rm.com
 0.0.0.0 www.c-cube.cc
+0.0.0.0 www.c21mercury.com
 0.0.0.0 www.cadjapan.com
 0.0.0.0 www.cafe-ring.com
 0.0.0.0 www.callawaygolf.jp
@@ -1809,6 +1815,7 @@
 0.0.0.0 www.city.hachinohe.aomori.jp
 0.0.0.0 www.city.hiratsuka.kanagawa.jp
 0.0.0.0 www.city.matsuyama.ehime.jp
+0.0.0.0 www.city.nagoya.jp
 0.0.0.0 www.city.osaka.lg.jp
 0.0.0.0 www.ck-saikouchiku.go.jp
 0.0.0.0 www.clickkabu365.jp
@@ -2476,6 +2483,7 @@
 0.0.0.0 www.osaka-toyopet.jp
 0.0.0.0 www.osakahome.jp
 0.0.0.0 www.oscd.jp
+0.0.0.0 www.otani.ac.jp
 0.0.0.0 www.otrs.jp
 0.0.0.0 www.otsuka-shokai.co.jp
 0.0.0.0 www.otv.co.jp
@@ -2491,6 +2499,7 @@
 0.0.0.0 www.panamedia.co.jp
 0.0.0.0 www.paris-miki.co.jp
 0.0.0.0 www.parkhotelgroup.com
+0.0.0.0 www.pathtosuccess.global
 0.0.0.0 www.pattolixil-madohonpo.jp
 0.0.0.0 www.pbcruise.jp
 0.0.0.0 www.pc-webzine.com
@@ -2683,6 +2692,7 @@
 0.0.0.0 www.st-mary.ac.jp
 0.0.0.0 www.st.com
 0.0.0.0 www.startup-roudou.mhlw.go.jp
+0.0.0.0 www.stellarplace.net
 0.0.0.0 www.stepon.co.jp
 0.0.0.0 www.stepup-school.net
 0.0.0.0 www.stevenstone.co.uk
@@ -2904,6 +2914,7 @@
 0.0.0.0 yamanaka-kensetsu-lp.com
 0.0.0.0 yamanashi.media
 0.0.0.0 yamashiro-onlinestore.com
+0.0.0.0 yamatane-museum.com
 0.0.0.0 yamato-signage.com
 0.0.0.0 yamawake-estate.jp
 0.0.0.0 yametaraeenen.com
