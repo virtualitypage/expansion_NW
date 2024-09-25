@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 24 September 2024
+# Last modified: 25 September 2024
 #
 
 # [広告全般]
@@ -271,6 +271,7 @@
 0.0.0.0 curama.jp
 0.0.0.0 curebo.tokyo
 0.0.0.0 cw-cl.jp
+0.0.0.0 cybersecurity-100.com
 0.0.0.0 d-shinkou.com
 0.0.0.0 dachs.breeders.jp
 0.0.0.0 daiei-corporation.com
@@ -369,6 +370,7 @@
 0.0.0.0 esnet-tax.com
 0.0.0.0 estateliquidation-jp.life
 0.0.0.0 etc.kmg-cloud.com
+0.0.0.0 eubeeflamb.eu
 0.0.0.0 ev2.nissan.co.jp
 0.0.0.0 event.gvm.com.tw
 0.0.0.0 event.hncb.com.tw
@@ -471,6 +473,7 @@
 0.0.0.0 gochisouya.jp
 0.0.0.0 gofuku-kaitori.com
 0.0.0.0 gofund.co.jp
+0.0.0.0 gol-win.com
 0.0.0.0 golden.breeders.jp
 0.0.0.0 goldplaza.jp
 0.0.0.0 goldteethusa.com
@@ -726,6 +729,7 @@
 0.0.0.0 kankomirai-ouen.jp
 0.0.0.0 kansai-elevator.co.jp
 0.0.0.0 karakubuy.com
+0.0.0.0 karte.io
 0.0.0.0 kascogolf.com
 0.0.0.0 kashiyama1927.jp
 0.0.0.0 kasuyashika.com
@@ -940,6 +944,7 @@
 0.0.0.0 misawa-kinki.jp
 0.0.0.0 mishima-minase.com
 0.0.0.0 mishimakagu.com
+0.0.0.0 mito-chuoh.com
 0.0.0.0 mitsuboshifarm.jp
 0.0.0.0 mitsui-art.com
 0.0.0.0 mitsui-shopping-park.com
@@ -1614,6 +1619,7 @@
 0.0.0.0 www.1memoria.com
 0.0.0.0 www.1stwise.com
 0.0.0.0 www.240.takeda.com
+0.0.0.0 www.2ndstreet.jp
 0.0.0.0 www.303select.com
 0.0.0.0 www.39asset.co.jp
 0.0.0.0 www.3ei.co.jp
@@ -1889,6 +1895,7 @@
 0.0.0.0 www.drscholl.jp
 0.0.0.0 www.drumgarage.net
 0.0.0.0 www.dsautomobiles.jp
+0.0.0.0 www.dss365.com
 0.0.0.0 www.ducati.com
 0.0.0.0 www.dumbarnielinks.com
 0.0.0.0 www.dusit.com
@@ -2251,6 +2258,7 @@
 0.0.0.0 www.kyjlaw.com
 0.0.0.0 www.kyodoyokohama.com
 0.0.0.0 www.kyosai-cc.or.jp
+0.0.0.0 www.kyousei-shika.net
 0.0.0.0 www.kyusanko.co.jp
 0.0.0.0 www.l-i-keepers.com
 0.0.0.0 www.lancome.jp
@@ -2468,6 +2476,7 @@
 0.0.0.0 www.oosawaonsen.com
 0.0.0.0 www.open-circuit.ne.jp
 0.0.0.0 www.ophthalmologytimes.com
+0.0.0.0 www.oralb.braun.co.jp
 0.0.0.0 www.orbussoftware.com
 0.0.0.0 www.oreillyauto.com
 0.0.0.0 www.orient-watch.jp
@@ -2618,6 +2627,7 @@
 0.0.0.0 www.sears.jp
 0.0.0.0 www.seed.co.jp
 0.0.0.0 www.seibuprince.com
+0.0.0.0 www.seikowatches.com
 0.0.0.0 www.seiss.co.jp
 0.0.0.0 www.seito-jp.com
 0.0.0.0 www.sekisuiheim.com
@@ -2689,6 +2699,7 @@
 0.0.0.0 www.spf21.net
 0.0.0.0 www.sportsoasis.co.jp
 0.0.0.0 www.ss-beta.co.jp
+0.0.0.0 www.st-andrews.ac.uk
 0.0.0.0 www.st-mary.ac.jp
 0.0.0.0 www.st.com
 0.0.0.0 www.startup-roudou.mhlw.go.jp
