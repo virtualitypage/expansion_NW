@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Allow_Domain.txt
 #
-# Last modified: 8 September 2024
+# Last modified: 25 September 2024
 #
 
 # [許可リクエスト]
@@ -31,7 +31,9 @@
 @@||event.rakuten.co.jp
 @@||event.travel.rakuten.co.jp
 @@||explainshell.com
+@@||fontawesome.com
 @@||gigafile.nu
+@@||global.rakuten.com
 @@||gmail.com
 @@||google.com.lan
 @@||gurunavi.com
@@ -50,7 +52,9 @@
 @@||news.yahoo.co.jp
 @@||ntp.org
 @@||paypay.ne.jp
+@@||radiko.jp
 @@||rakuten.co.jp
+@@||rakuten.com
 @@||rakuten.ne.jp
 @@||retty.me
 @@||safebrowsing.apple
@@ -65,6 +69,7 @@
 @@||twitter.com
 @@||www.aeon.co.jp
 @@||www.amazon.co.jp
+@@||www.cecile.co.jp
 @@||www.cmoa.jp
 @@||www.e-mail.jp
 @@||www.google.co.jp
