@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 25 September 2024
+# Last modified: 26 September 2024
 #
 
 # [広告全般]
@@ -143,6 +143,7 @@
 0.0.0.0 belinda-clinic.site
 0.0.0.0 belindaclinic-shinjuku.net
 0.0.0.0 bengoshihoken-zero.jp
+0.0.0.0 benitorado.com
 0.0.0.0 beperch.com
 0.0.0.0 best-ai-forecasta.online
 0.0.0.0 besv.jp
@@ -225,6 +226,7 @@
 0.0.0.0 churashima.org
 0.0.0.0 chuwincle.co.jp
 0.0.0.0 citizen.jp
+0.0.0.0 cityindex.co.jp
 0.0.0.0 citymonthly.jp
 0.0.0.0 cl-assist.com
 0.0.0.0 cl.sozoku-guide.bk.mufg.jp
@@ -477,6 +479,7 @@
 0.0.0.0 golden.breeders.jp
 0.0.0.0 goldplaza.jp
 0.0.0.0 goldteethusa.com
+0.0.0.0 goldtsumitatekun.com
 0.0.0.0 golf-resort.kintetsu-re.co.jp
 0.0.0.0 golfrangeluana.jp
 0.0.0.0 gooda.brangista.com
@@ -761,9 +764,11 @@
 0.0.0.0 kintone.cybozu.co.jp
 0.0.0.0 kintorihiki-hikaku.com
 0.0.0.0 kirei-info.com
+0.0.0.0 kirei-world.click
 0.0.0.0 kirinuki.jp
 0.0.0.0 kiseki.urr.jp
 0.0.0.0 kitamoto.click
+0.0.0.0 kitashinnchiushinozennpremium.owst.jp
 0.0.0.0 koala.com
 0.0.0.0 kobac-tenpaku01.nagoya
 0.0.0.0 kobe-invisalign.jp
@@ -1015,6 +1020,7 @@
 0.0.0.0 nill.jp
 0.0.0.0 ninja-takayama.com
 0.0.0.0 ninjakitchen.co.uk
+0.0.0.0 nipponham-cp.com
 0.0.0.0 nishispo.nishinippon.co.jp
 0.0.0.0 nittobest-online.net
 0.0.0.0 nix-water.jp
@@ -1214,6 +1220,7 @@
 0.0.0.0 sakai.jeep-dealer.jp
 0.0.0.0 sales-adventure.jp
 0.0.0.0 salon-de-alfurd.jp
+0.0.0.0 sandesica.jp
 0.0.0.0 sapporo-nissan.com
 0.0.0.0 sapporotoyota-northernbox.jp
 0.0.0.0 sasatto.jp
@@ -1376,6 +1383,7 @@
 0.0.0.0 socialnews-ai.com
 0.0.0.0 sodaigomi-kaishu.com
 0.0.0.0 sodaigomi-kaishutai.com
+0.0.0.0 sogokagu-cres.net
 0.0.0.0 solasto-career.com
 0.0.0.0 solize-software.com
 0.0.0.0 songdream.jp
@@ -1404,6 +1412,7 @@
 0.0.0.0 squareup.com
 0.0.0.0 ssl-system7.com
 0.0.0.0 ssr.abemashopping.jp
+0.0.0.0 ssw.jac-skill.or.jp
 0.0.0.0 stacia.jp
 0.0.0.0 staff-lines.com
 0.0.0.0 startup.ftstandard.jp
@@ -1500,12 +1509,14 @@
 0.0.0.0 tokyo-medical.jp
 0.0.0.0 tokyo-seminar-studio.com
 0.0.0.0 tokyoshigoto-young.jp
+0.0.0.0 toma-toma.owst.jp
 0.0.0.0 tomei-riso.jp
 0.0.0.0 tomei.c-nexco.co.jp
 0.0.0.0 tomishiyaku.net
 0.0.0.0 tomotaqu.com
 0.0.0.0 toptoon.jp
 0.0.0.0 torcroftlodges.com
+0.0.0.0 toriton.owst.jp
 0.0.0.0 torras.co.jp
 0.0.0.0 tosei-hotel.co.jp
 0.0.0.0 toushi-up.com
@@ -1631,6 +1642,7 @@
 0.0.0.0 www.7-7maruka.com
 0.0.0.0 www.816kinki.com
 0.0.0.0 www.85cafe.com
+0.0.0.0 www.89waku.com
 0.0.0.0 www.968.co.jp
 0.0.0.0 www.a-audition.jp
 0.0.0.0 www.a-cial.com
@@ -1847,6 +1859,7 @@
 0.0.0.0 www.cordlesschime.com
 0.0.0.0 www.corehouse.jp
 0.0.0.0 www.corona.co.jp
+0.0.0.0 www.corp-m-rental.com
 0.0.0.0 www.cosme.com
 0.0.0.0 www.cosmo-mycar.com
 0.0.0.0 www.cospa-wellness.co.jp
@@ -2123,6 +2136,7 @@
 0.0.0.0 www.ins-saison.co.jp
 0.0.0.0 www.insight.com
 0.0.0.0 www.inspirekorea.com
+0.0.0.0 www.intel.co.jp
 0.0.0.0 www.inter-edu.com
 0.0.0.0 www.invesco.com
 0.0.0.0 www.io-shin.com
@@ -2439,6 +2453,7 @@
 0.0.0.0 www.nta.go.jp
 0.0.0.0 www.ntt-f.co.jp
 0.0.0.0 www.ntt-west.co.jp
+0.0.0.0 www.nttcom.co.jp
 0.0.0.0 www.nttcoms.com
 0.0.0.0 www.nugu.jp
 0.0.0.0 www.numo.or.jp
@@ -2560,6 +2575,7 @@
 0.0.0.0 www.qoo10.jp
 0.0.0.0 www.qsquare.com.tw
 0.0.0.0 www.qtmobile.jp
+0.0.0.0 www.qualita-travel.com
 0.0.0.0 www.r-ac.co.jp
 0.0.0.0 www.r-staffing.co.jp
 0.0.0.0 www.racingmaster.game
