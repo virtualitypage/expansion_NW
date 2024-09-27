@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 26 September 2024
+# Last modified: 27 September 2024
 #
 
 # [広告全般]
@@ -176,10 +176,12 @@
 0.0.0.0 bs.i-fieldnet.com
 0.0.0.0 buddica.direct
 0.0.0.0 bulk.co.jp
+0.0.0.0 bulkup.co.jp
 0.0.0.0 bulova.jp
 0.0.0.0 bunge.com
 0.0.0.0 buppan-monococo.com
 0.0.0.0 burg-chintai.com
+0.0.0.0 business.google.com
 0.0.0.0 bussaiyo.entetsu.co.jp
 0.0.0.0 buy.itreview.jp
 0.0.0.0 byd-ibaraki.co.jp
@@ -953,6 +955,7 @@
 0.0.0.0 mitsuboshifarm.jp
 0.0.0.0 mitsui-art.com
 0.0.0.0 mitsui-shopping-park.com
+0.0.0.0 miyagi-aw2024.com
 0.0.0.0 miyagi-daihatsu.co.jp
 0.0.0.0 miyakojima-mobipa.jp
 0.0.0.0 mizoguchi-saiten.co.jp
@@ -1626,6 +1629,7 @@
 0.0.0.0 wp.i-voce.jp
 0.0.0.0 www.0101.co.jp
 0.0.0.0 www.0120058139.com
+0.0.0.0 www.0551353133.com
 0.0.0.0 www.114154.com
 0.0.0.0 www.1memoria.com
 0.0.0.0 www.1stwise.com
@@ -2049,6 +2053,7 @@
 0.0.0.0 www.han-ei.jp
 0.0.0.0 www.hanashinkumi.com
 0.0.0.0 www.hanazonohifuku.com
+0.0.0.0 www.haneda.jalcity.co.jp
 0.0.0.0 www.hankyu.co.jp
 0.0.0.0 www.hannan-u.ac.jp
 0.0.0.0 www.happiness-direct.com
@@ -2228,6 +2233,7 @@
 0.0.0.0 www.keiji-pestcontrol.com
 0.0.0.0 www.keikyu-store.com
 0.0.0.0 www.kenko-webshop.jp
+0.0.0.0 www.kewpie.co.jp
 0.0.0.0 www.keyence-foundation.or.jp
 0.0.0.0 www.kikyonooka.or.jp
 0.0.0.0 www.kindai.ac.jp
@@ -2672,6 +2678,7 @@
 0.0.0.0 www.shinwaclimb.jp
 0.0.0.0 www.shionogi.com
 0.0.0.0 www.shiseido.co.jp
+0.0.0.0 www.shitate.net
 0.0.0.0 www.shitennoji.ac.jp
 0.0.0.0 www.shizutetsu-homes.co.jp
 0.0.0.0 www.shokochukin.co.jp
@@ -2833,6 +2840,7 @@
 0.0.0.0 www.tsume.co.jp
 0.0.0.0 www.tsumibukakikuri.jp
 0.0.0.0 www.tsunagaru-office.com
+0.0.0.0 www.tsuruya-kimono.jp
 0.0.0.0 www.tudass.co.jp
 0.0.0.0 www.tv-osaka.co.jp
 0.0.0.0 www.twellv.co.jp
