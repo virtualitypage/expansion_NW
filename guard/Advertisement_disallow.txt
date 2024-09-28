@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 27 September 2024
+# Last modified: 28 September 2024
 #
 
 # [広告全般]
@@ -130,6 +130,7 @@
 0.0.0.0 azaleanet.or.jp
 0.0.0.0 b-checker.com
 0.0.0.0 backlog.com
+0.0.0.0 balletschool.hp.peraichi.com
 0.0.0.0 bananarepublic.gap.co.jp
 0.0.0.0 basefood.co.jp
 0.0.0.0 bashotoru.com
@@ -151,6 +152,7 @@
 0.0.0.0 beverageandfood.direct.suntory.co.jp
 0.0.0.0 bianshack.com
 0.0.0.0 biblesforjapan.org
+0.0.0.0 big5-basic.com
 0.0.0.0 bighornlaw.com
 0.0.0.0 bike-news.jp
 0.0.0.0 biryuhyakkaweb.jp
@@ -371,6 +373,7 @@
 0.0.0.0 epiphyllum.thebase.in
 0.0.0.0 eplan.jp
 0.0.0.0 eplus.jp
+0.0.0.0 es4.easyerin.top
 0.0.0.0 esnet-tax.com
 0.0.0.0 estateliquidation-jp.life
 0.0.0.0 etc.kmg-cloud.com
@@ -757,6 +760,7 @@
 0.0.0.0 kentei.tokyo-cci.or.jp
 0.0.0.0 kenzai-kaitori.net
 0.0.0.0 key-security.jp
+0.0.0.0 kgg-nanporo4.hp.peraichi.com
 0.0.0.0 khiang-osaka.owst.jp
 0.0.0.0 kichi.bar
 0.0.0.0 kigkt.cersi.jp
@@ -776,6 +780,7 @@
 0.0.0.0 kobe-invisalign.jp
 0.0.0.0 kobe-u-clinic.jp
 0.0.0.0 kobe.dsautomobiles-dealer.jp
+0.0.0.0 kobekizuna.hp.peraichi.com
 0.0.0.0 kobetsushido-shibuya.com
 0.0.0.0 kochi-kenkochallenge.jp
 0.0.0.0 koharubiyoricafe.jimdo.com
@@ -921,6 +926,7 @@
 0.0.0.0 medicaldoc.jp
 0.0.0.0 medicalnote.jp
 0.0.0.0 medusafragrance.com
+0.0.0.0 megalos.co.jp
 0.0.0.0 meganestore.co.jp
 0.0.0.0 megaten5.jp
 0.0.0.0 mei-ten.com
@@ -1073,6 +1079,7 @@
 0.0.0.0 original-champagne.net
 0.0.0.0 oripa.clove.jp
 0.0.0.0 ortho-mouthpiece-jp.life
+0.0.0.0 os-insourcring.bluememe.jp
 0.0.0.0 os.sinto.co.jp
 0.0.0.0 osaka-hanalangue.com
 0.0.0.0 osaka-jakunen-chiki.mhlw.go.jp
@@ -1161,6 +1168,7 @@
 0.0.0.0 ranzu.jp
 0.0.0.0 rasik.style
 0.0.0.0 re-katsu.jp
+0.0.0.0 re-model.jp
 0.0.0.0 realplace-net.com
 0.0.0.0 rebgil.funyoursjapan.pink
 0.0.0.0 reccet-gym.com
@@ -1206,6 +1214,7 @@
 0.0.0.0 s-t-housing.com
 0.0.0.0 s.cardnavi-d.com
 0.0.0.0 s.magazineworld.jp
+0.0.0.0 s.shufoo.net
 0.0.0.0 s.weddingpark.net
 0.0.0.0 sablelabs.co
 0.0.0.0 safarilounge.jp
@@ -1337,6 +1346,7 @@
 0.0.0.0 shingakunet.com
 0.0.0.0 shingon.jp
 0.0.0.0 shinjuku-4510.jp
+0.0.0.0 shinjuku-will.jp
 0.0.0.0 shisaku-kiban.com
 0.0.0.0 shisas-cafe-bbq.com
 0.0.0.0 shizuclear.jp
@@ -1352,6 +1362,7 @@
 0.0.0.0 shop.joshin.co.jp
 0.0.0.0 shop.lumieu.jp
 0.0.0.0 shop.nakano-group.co.jp
+0.0.0.0 shop.remozer.com
 0.0.0.0 shop.shoyeido.co.jp
 0.0.0.0 shop.soundfun.co.jp
 0.0.0.0 shop.uyeki.co.jp
@@ -1501,6 +1512,7 @@
 0.0.0.0 thisischiffoncake.com
 0.0.0.0 three-v-amenity.co.jp
 0.0.0.0 timee.co.jp
+0.0.0.0 timesbiz.jp
 0.0.0.0 timume.com
 0.0.0.0 tire.bridgestone.co.jp
 0.0.0.0 tkcp-premium-tire-sale-5ab30bb4478c.herokuapp.com
@@ -1934,6 +1946,7 @@
 0.0.0.0 www.eheya.net
 0.0.0.0 www.ehime-ben.or.jp
 0.0.0.0 www.eldenring.jp
+0.0.0.0 www.elder.jeed.go.jp
 0.0.0.0 www.elegance-cosmetics.com
 0.0.0.0 www.enecho.meti.go.jp
 0.0.0.0 www.enemaru.com
@@ -2275,6 +2288,7 @@
 0.0.0.0 www.kucho-houei.com
 0.0.0.0 www.kuchou-fuku.com
 0.0.0.0 www.kumamoto-hsu.ac.jp
+0.0.0.0 www.kungfuds.l4t.biz
 0.0.0.0 www.kyjlaw.com
 0.0.0.0 www.kyodoyokohama.com
 0.0.0.0 www.kyosai-cc.or.jp
@@ -2533,6 +2547,7 @@
 0.0.0.0 www.pattolixil-madohonpo.jp
 0.0.0.0 www.pbcruise.jp
 0.0.0.0 www.pc-webzine.com
+0.0.0.0 www.pc4353.net
 0.0.0.0 www.pccs.co.jp
 0.0.0.0 www.personalhealth.jp
 0.0.0.0 www.pet-coo.com
