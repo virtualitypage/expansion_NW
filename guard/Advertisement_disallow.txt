@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 28 September 2024
+# Last modified: 29 September 2024
 #
 
 # [広告全般]
@@ -309,6 +309,7 @@
 0.0.0.0 dmdepart.jp
 0.0.0.0 do-recruit.info
 0.0.0.0 doax-venusvacation.jp
+0.0.0.0 doctorsfile.jp
 0.0.0.0 doda-x.jp
 0.0.0.0 doda.jp
 0.0.0.0 dog-vacation.art
@@ -532,6 +533,7 @@
 0.0.0.0 hari1.com
 0.0.0.0 harmonies.kumon.ne.jp
 0.0.0.0 harmotec.com
+0.0.0.0 haruwari.com
 0.0.0.0 haseko-bp.jp
 0.0.0.0 hashibukuro.com
 0.0.0.0 hatarakujob.com
@@ -736,6 +738,7 @@
 0.0.0.0 kanekaq10pr.com
 0.0.0.0 kankomirai-ouen.jp
 0.0.0.0 kansai-elevator.co.jp
+0.0.0.0 karadak.com
 0.0.0.0 karakubuy.com
 0.0.0.0 karte.io
 0.0.0.0 kascogolf.com
@@ -775,6 +778,7 @@
 0.0.0.0 kiseki.urr.jp
 0.0.0.0 kitamoto.click
 0.0.0.0 kitashinnchiushinozennpremium.owst.jp
+0.0.0.0 kk-takada.com
 0.0.0.0 koala.com
 0.0.0.0 kobac-tenpaku01.nagoya
 0.0.0.0 kobe-invisalign.jp
@@ -984,6 +988,7 @@
 0.0.0.0 mydrabu.georgia.jp
 0.0.0.0 myluxurycard.co.jp
 0.0.0.0 mynumber.city.osaka.lg.jp
+0.0.0.0 myojudoshop.com
 0.0.0.0 mypage.s-axol.jp
 0.0.0.0 mypetandi.elanco.com
 0.0.0.0 myscue.com
@@ -1354,6 +1359,7 @@
 0.0.0.0 shoesiland.com
 0.0.0.0 shoka-stick.jp
 0.0.0.0 shop-list.com
+0.0.0.0 shop.bancdor-saitama.com
 0.0.0.0 shop.basefood.co.jp
 0.0.0.0 shop.g9trainer.com
 0.0.0.0 shop.ginzatanaka.co.jp
@@ -1372,8 +1378,10 @@
 0.0.0.0 shopping.speedia-ost.com
 0.0.0.0 shopping.tbs.co.jp
 0.0.0.0 shumei.ac.jp
+0.0.0.0 shunsai-tateyama.com
 0.0.0.0 side-kom.com
 0.0.0.0 sienca.jp
+0.0.0.0 sig-navi.com
 0.0.0.0 simple-h.com
 0.0.0.0 sirok.jp
 0.0.0.0 sites.google.com
@@ -1504,6 +1512,7 @@
 0.0.0.0 tetra.jp
 0.0.0.0 the-knitbar.com
 0.0.0.0 the-law-office.jp
+0.0.0.0 the-money777.com
 0.0.0.0 thefulfiller.com
 0.0.0.0 thegrace.jp
 0.0.0.0 themusiccourt.jp
@@ -1580,6 +1589,7 @@
 0.0.0.0 uptofficial.jp
 0.0.0.0 urayasu.brightonhotels.co.jp
 0.0.0.0 urbancherry.jp
+0.0.0.0 uridoki.net
 0.0.0.0 urikko.com
 0.0.0.0 urutsuya.toabio.co.jp
 0.0.0.0 usagi-online.com
@@ -2092,10 +2102,12 @@
 0.0.0.0 www.hikoki-powertools.jp
 0.0.0.0 www.hiro-clinic.or.jp
 0.0.0.0 www.hiroshima-hirobiro.jp
+0.0.0.0 www.hirosumida.us
 0.0.0.0 www.hirox.com
 0.0.0.0 www.his-j.com
 0.0.0.0 www.hisamitsu.co.jp
 0.0.0.0 www.hisamitsu.info
+0.0.0.0 www.hisense.co.jp
 0.0.0.0 www.hitachi-solutions-create.co.jp
 0.0.0.0 www.hitachi-solutions.co.jp
 0.0.0.0 www.hitachi.co.jp
@@ -2568,6 +2580,7 @@
 0.0.0.0 www.pocketfolder.co.jp
 0.0.0.0 www.poconnor.com
 0.0.0.0 www.pokemon-card.com
+0.0.0.0 www.polident.com
 0.0.0.0 www.poll-tex.com.tw
 0.0.0.0 www.poodle.me
 0.0.0.0 www.popy.jp
@@ -2690,6 +2703,7 @@
 0.0.0.0 www.shinmeishin-info.com
 0.0.0.0 www.shinmoku.jp
 0.0.0.0 www.shinpur.store
+0.0.0.0 www.shinsakae-hotel.nagoya
 0.0.0.0 www.shinwaclimb.jp
 0.0.0.0 www.shionogi.com
 0.0.0.0 www.shiseido.co.jp
@@ -2959,6 +2973,7 @@
 0.0.0.0 xn--pckua2a7gp15o89zb.com
 0.0.0.0 yacnee.co.jp
 0.0.0.0 yaeyama-rentacar.com
+0.0.0.0 yakiniku-fc.com
 0.0.0.0 yamadahomes.jp
 0.0.0.0 yamadahomes.resv.jp
 0.0.0.0 yamanaka-kensetsu-lp.com
@@ -2983,6 +2998,7 @@
 0.0.0.0 yumekitchen.jp
 0.0.0.0 yuskin.co.jp
 0.0.0.0 yutaka-tomonokai.jp
+0.0.0.0 zaimani.com
 0.0.0.0 zenbivy.com
 0.0.0.0 zexy.net
 0.0.0.0 zigen-inc.stores.jp
