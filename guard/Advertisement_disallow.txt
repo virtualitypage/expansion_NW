@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 29 September 2024
+# Last modified: 30 September 2024
 #
 
 # [広告全般]
@@ -117,6 +117,7 @@
 0.0.0.0 asnavi.cersi.jp
 0.0.0.0 asobibar-shinjuku.net
 0.0.0.0 asp.hotel-story.ne.jp
+0.0.0.0 astmaxenergy.co.jp
 0.0.0.0 at-living.press
 0.0.0.0 atelier-eijitsu.com
 0.0.0.0 atom-clinic.com
@@ -221,6 +222,7 @@
 0.0.0.0 chemeon.com
 0.0.0.0 chester-tax.com
 0.0.0.0 chihuahua.breeders.jp
+0.0.0.0 chikudenchi-asahi.com
 0.0.0.0 chirashi.akachan.jp
 0.0.0.0 chouwasha.jp
 0.0.0.0 chuchubaby.jp
@@ -428,6 +430,7 @@
 0.0.0.0 fsp.norasci.com
 0.0.0.0 fto.co.jp
 0.0.0.0 fujikoumuten.co.jp
+0.0.0.0 fukoku-h.co.jp
 0.0.0.0 fukubekaji.shop-pro.jp
 0.0.0.0 fukui-presentcpn.jp
 0.0.0.0 fukuoka-heya.jp
@@ -494,6 +497,7 @@
 0.0.0.0 goooodhome.gifu.jp
 0.0.0.0 gorogoromanga.jp
 0.0.0.0 gpc-gr.com
+0.0.0.0 gradsguide.jp
 0.0.0.0 grand-mercure-awajiisland-resortandspa.jp
 0.0.0.0 grand-mercure-beppubay-resortandspa.jp
 0.0.0.0 grand-mercure-lakebiwa-resortandspa.jp
@@ -804,6 +808,7 @@
 0.0.0.0 kouseisaiyou.mhlw.go.jp
 0.0.0.0 koutoku.ac.jp
 0.0.0.0 kritikazero-dmg.pmang.jp
+0.0.0.0 ks-factory.soueisha.net
 0.0.0.0 ktv-housing.com
 0.0.0.0 kudan-tokyo.jp
 0.0.0.0 kumajob.jp
@@ -1162,6 +1167,7 @@
 0.0.0.0 qb-recruit.com
 0.0.0.0 qjin7.com
 0.0.0.0 quick-sidejob.com
+0.0.0.0 r-kaden.site
 0.0.0.0 r-style.eco.coocan.jp
 0.0.0.0 r.casalemedia.com
 0.0.0.0 r1-usc1.zemanta.com
@@ -1190,6 +1196,7 @@
 0.0.0.0 renata-clinic.com
 0.0.0.0 renoman-shinjuku.com
 0.0.0.0 rental-coin.com
+0.0.0.0 rental-pallet.net
 0.0.0.0 rescue-suido.com
 0.0.0.0 retail.ksp-sp.com
 0.0.0.0 retailers.landrover.co.jp
@@ -1550,6 +1557,7 @@
 0.0.0.0 toyokeizai.net
 0.0.0.0 toyonishi-store.com
 0.0.0.0 toyota.jp
+0.0.0.0 trace.popin.cc
 0.0.0.0 tramsystem.co.jp
 0.0.0.0 transformation-showcase.com
 0.0.0.0 travel.willer.co.jp
@@ -1608,6 +1616,7 @@
 0.0.0.0 vrcon.forum8.co.jp
 0.0.0.0 vti-glovebox.com
 0.0.0.0 wakurino.work
+0.0.0.0 walar.co.jp
 0.0.0.0 walife.co.jp
 0.0.0.0 washington.jp
 0.0.0.0 watch-yoshida.co.jp
@@ -1985,6 +1994,7 @@
 0.0.0.0 www.felicitycontrol.com
 0.0.0.0 www.fetnet.net
 0.0.0.0 www.fevertree.jp
+0.0.0.0 www.fiat-jp.com
 0.0.0.0 www.finetrack.com
 0.0.0.0 www.firsttechfed.com
 0.0.0.0 www.fismec.co.jp
@@ -2370,6 +2380,7 @@
 0.0.0.0 www.menicon.co.jp
 0.0.0.0 www.mens-doors.com
 0.0.0.0 www.mens-rize.com
+0.0.0.0 www.mensbigen.jp
 0.0.0.0 www.mesw.co.jp
 0.0.0.0 www.metlife.co.jp
 0.0.0.0 www.metroopinion.com
@@ -2436,6 +2447,7 @@
 0.0.0.0 www.nantobank.co.jp
 0.0.0.0 www.nanzan-u.ac.jp
 0.0.0.0 www.napolipizza.jp
+0.0.0.0 www.narimatsuya.com
 0.0.0.0 www.narisup.com
 0.0.0.0 www.natureworld.jp
 0.0.0.0 www.navit-j.com
@@ -2564,6 +2576,7 @@
 0.0.0.0 www.personalhealth.jp
 0.0.0.0 www.pet-coo.com
 0.0.0.0 www.peugeot.co.jp
+0.0.0.0 www.pfizer-covid19.jp
 0.0.0.0 www.pgs-home-recruit.jp
 0.0.0.0 www.phiten.com
 0.0.0.0 www.photoruction.com
@@ -2652,6 +2665,7 @@
 0.0.0.0 www.saatva.com
 0.0.0.0 www.saison-am.co.jp
 0.0.0.0 www.salesforce.com
+0.0.0.0 www.salo-ka.com
 0.0.0.0 www.salonpas.jp
 0.0.0.0 www.samsonite.co.jp
 0.0.0.0 www.sanchoku-niigata.com
@@ -2939,6 +2953,7 @@
 0.0.0.0 www.yamaha-motor.co.jp
 0.0.0.0 www.yamaha.co.jp
 0.0.0.0 www.yamano-music.co.jp
+0.0.0.0 www.yamato-u.ac.jp
 0.0.0.0 www.yane-takumi.net
 0.0.0.0 www.yasuda-u.ac.jp
 0.0.0.0 www.yawata.tv
