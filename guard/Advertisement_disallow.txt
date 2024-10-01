@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 30 September 2024
+# Last modified: 1 October 2024
 #
 
 # [広告全般]
@@ -142,11 +142,13 @@
 0.0.0.0 be-win.co.jp
 0.0.0.0 beacon.sp.gmossp-sp.jp
 0.0.0.0 beautiful-life-style.com
+0.0.0.0 beavers.co.jp
 0.0.0.0 belinda-clinic.site
 0.0.0.0 belindaclinic-shinjuku.net
 0.0.0.0 bengoshihoken-zero.jp
 0.0.0.0 benitorado.com
 0.0.0.0 beperch.com
+0.0.0.0 bering.jp
 0.0.0.0 best-ai-forecasta.online
 0.0.0.0 besv.jp
 0.0.0.0 betterstack.com
@@ -316,6 +318,7 @@
 0.0.0.0 doda.jp
 0.0.0.0 dog-vacation.art
 0.0.0.0 dogst.theshop.jp
+0.0.0.0 dongri-manzara.owst.jp
 0.0.0.0 doremi-international.com
 0.0.0.0 dorutyenascita.owst.jp
 0.0.0.0 dosparaplus.com
@@ -399,6 +402,7 @@
 0.0.0.0 fan-blogs.com
 0.0.0.0 fanddf.net
 0.0.0.0 fasteasy.io
+0.0.0.0 fc.e-daikoku.com
 0.0.0.0 fctl.co.jp
 0.0.0.0 fegroup-fukui.jp
 0.0.0.0 felice-create.com
@@ -1086,6 +1090,7 @@
 0.0.0.0 opencampus.nagoya-wu.ac.jp
 0.0.0.0 openhub.ntt.com
 0.0.0.0 order.ymobile.jp
+0.0.0.0 orgel-gallery.jp
 0.0.0.0 original-champagne.net
 0.0.0.0 oripa.clove.jp
 0.0.0.0 ortho-mouthpiece-jp.life
@@ -1488,6 +1493,7 @@
 0.0.0.0 tadfur.co.jp
 0.0.0.0 tahititourisme.travel
 0.0.0.0 taicca.tw
+0.0.0.0 taiheiyou-ireikyoukai.jp
 0.0.0.0 tainenji.net
 0.0.0.0 takamatsu-marugame-bankin.com
 0.0.0.0 takamatsu.bess.jp
@@ -1847,6 +1853,7 @@
 0.0.0.0 www.ccm.com.hk
 0.0.0.0 www.cerezo.jp
 0.0.0.0 www.cervin.co.jp
+0.0.0.0 www.cetaphil.jp
 0.0.0.0 www.cettire.com
 0.0.0.0 www.cezanne.co.jp
 0.0.0.0 www.chalier.jp
@@ -1865,6 +1872,7 @@
 0.0.0.0 www.citruspark-glamping.com
 0.0.0.0 www.city-con.jp
 0.0.0.0 www.city-housing.net
+0.0.0.0 www.city-osaka-kenko.jp
 0.0.0.0 www.city.hachinohe.aomori.jp
 0.0.0.0 www.city.hiratsuka.kanagawa.jp
 0.0.0.0 www.city.matsuyama.ehime.jp
@@ -2278,6 +2286,7 @@
 0.0.0.0 www.kioicho.jp
 0.0.0.0 www.kirishima.co.jp
 0.0.0.0 www.kirizai.jp
+0.0.0.0 www.kitzmf.com
 0.0.0.0 www.klook.com
 0.0.0.0 www.ko-z.com
 0.0.0.0 www.kobax.net
@@ -2414,6 +2423,7 @@
 0.0.0.0 www.mof.go.jp
 0.0.0.0 www.moj.go.jp
 0.0.0.0 www.moki-ss.co.jp
+0.0.0.0 www.mokkedanofoods.com
 0.0.0.0 www.mokumeganeya.com
 0.0.0.0 www.momak.go.jp
 0.0.0.0 www.momoshop.com.tw
@@ -2478,6 +2488,7 @@
 0.0.0.0 www.nisikido.net
 0.0.0.0 www.nissan.co.jp
 0.0.0.0 www.nisshinfire.co.jp
+0.0.0.0 www.nissin-shoji.net
 0.0.0.0 www.nissui.co.jp
 0.0.0.0 www.nito.co.jp
 0.0.0.0 www.nitori-net.jp
@@ -2551,6 +2562,7 @@
 0.0.0.0 www.osaka-toyopet.jp
 0.0.0.0 www.osakahome.jp
 0.0.0.0 www.oscd.jp
+0.0.0.0 www.osg.co.jp
 0.0.0.0 www.otani.ac.jp
 0.0.0.0 www.otrs.jp
 0.0.0.0 www.otsuka-shokai.co.jp
