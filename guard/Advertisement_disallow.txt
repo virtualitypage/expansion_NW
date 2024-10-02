@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 1 October 2024
+# Last modified: 2 October 2024
 #
 
 # [広告全般]
@@ -777,6 +777,7 @@
 0.0.0.0 kigkt.cersi.jp
 0.0.0.0 kimono-ice.com
 0.0.0.0 kimono-yamato-furisode.com
+0.0.0.0 kingram.shop
 0.0.0.0 kinkisain.co.jp
 0.0.0.0 kintone.cybozu.co.jp
 0.0.0.0 kintorihiki-hikaku.com
@@ -1389,6 +1390,7 @@
 0.0.0.0 shopping.geocities.jp
 0.0.0.0 shopping.speedia-ost.com
 0.0.0.0 shopping.tbs.co.jp
+0.0.0.0 shougai-nenkin119.com
 0.0.0.0 shumei.ac.jp
 0.0.0.0 shunsai-tateyama.com
 0.0.0.0 side-kom.com
@@ -1515,6 +1517,7 @@
 0.0.0.0 tateyoko-kazuma.com
 0.0.0.0 taxisaiyo.entetsu.co.jp
 0.0.0.0 tcb-beauty.net
+0.0.0.0 tck-racecampaign2024.com
 0.0.0.0 td-holdings.tokyocameraclub.com
 0.0.0.0 teknitape.com
 0.0.0.0 teleboat-cp.jp
@@ -1523,6 +1526,7 @@
 0.0.0.0 tenkuryo.jp
 0.0.0.0 tenshoku.mynavi.jp
 0.0.0.0 tetra.jp
+0.0.0.0 the-japanese-spirit.com
 0.0.0.0 the-knitbar.com
 0.0.0.0 the-law-office.jp
 0.0.0.0 the-money777.com
@@ -1550,6 +1554,7 @@
 0.0.0.0 tomei-riso.jp
 0.0.0.0 tomei.c-nexco.co.jp
 0.0.0.0 tomishiyaku.net
+0.0.0.0 tomohirokai.or.jp
 0.0.0.0 tomotaqu.com
 0.0.0.0 toptoon.jp
 0.0.0.0 torcroftlodges.com
@@ -1760,6 +1765,7 @@
 0.0.0.0 www.asahi-kasei.com
 0.0.0.0 www.asahi-netshop.com
 0.0.0.0 www.asahi-shoes.co.jp
+0.0.0.0 www.asahi.com
 0.0.0.0 www.asics.com
 0.0.0.0 www.askhim.jp
 0.0.0.0 www.askul.co.jp
@@ -1856,6 +1862,7 @@
 0.0.0.0 www.cetaphil.jp
 0.0.0.0 www.cettire.com
 0.0.0.0 www.cezanne.co.jp
+0.0.0.0 www.chado-kentei.com
 0.0.0.0 www.chalier.jp
 0.0.0.0 www.challeath.com
 0.0.0.0 www.check-roudou.mhlw.go.jp
@@ -1937,6 +1944,7 @@
 0.0.0.0 www.digiraku.com
 0.0.0.0 www.digital.go.jp
 0.0.0.0 www.diningmaison.jp
+0.0.0.0 www.dinosaur.pref.fukui.jp
 0.0.0.0 www.discoverhongkong.com
 0.0.0.0 www.dlsite.com
 0.0.0.0 www.docomo.ne.jp
@@ -2663,6 +2671,7 @@
 0.0.0.0 www.ringyou.net
 0.0.0.0 www.ririsa-riristage.com
 0.0.0.0 www.riseisha.ac.jp
+0.0.0.0 www.ristorante-espoir.net
 0.0.0.0 www.riviere.gr.jp
 0.0.0.0 www.rizaim.biz
 0.0.0.0 www.roborock.jp
@@ -2974,6 +2983,7 @@
 0.0.0.0 www.ymobile.jp
 0.0.0.0 www.yodobashi.com
 0.0.0.0 www.yoka-mall.com
+0.0.0.0 www.yokdee.com
 0.0.0.0 www.yomiuriland.com
 0.0.0.0 www.yonoton.com
 0.0.0.0 www.yoshinoya.com
@@ -3027,6 +3037,7 @@
 0.0.0.0 yutaka-tomonokai.jp
 0.0.0.0 zaimani.com
 0.0.0.0 zenbivy.com
+0.0.0.0 zero.gift
 0.0.0.0 zexy.net
 0.0.0.0 zigen-inc.stores.jp
 0.0.0.0 zona-kobe.com
