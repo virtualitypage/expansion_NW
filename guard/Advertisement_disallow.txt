@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 2 October 2024
+# Last modified: 3 October 2024
 #
 
 # [広告全般]
@@ -46,6 +46,7 @@
 0.0.0.0 adacotech.co.jp
 0.0.0.0 adaptermug.com
 0.0.0.0 adebis.basefood.co.jp
+0.0.0.0 admission-info.tokyo-kasei-univ.jp
 0.0.0.0 ads.kaipoke.biz
 0.0.0.0 afi-support.com
 0.0.0.0 afilab.jp
@@ -332,6 +333,7 @@
 0.0.0.0 dressandstyles.com
 0.0.0.0 drinco.jp
 0.0.0.0 drone-procrew.com
+0.0.0.0 drplus-japan.com
 0.0.0.0 ds.uncn.jp
 0.0.0.0 dsp.logly.co.jp
 0.0.0.0 duskin-cashlesscp.com
@@ -441,6 +443,7 @@
 0.0.0.0 fukuokapaint.com
 0.0.0.0 fukushi-iryo.denpa.jp
 0.0.0.0 fukushima-hook.jp
+0.0.0.0 fukushima-oiseafood.jp
 0.0.0.0 fukutoku.ed.jp
 0.0.0.0 fukutujishiki.com
 0.0.0.0 fun.asahi-gf.co.jp
@@ -595,6 +598,7 @@
 0.0.0.0 hoshi.cocoloni.jp
 0.0.0.0 hougaku.kanto-gakuin.ac.jp
 0.0.0.0 house-kiya.co.jp
+0.0.0.0 house-yokubari.com
 0.0.0.0 housefreedom-fujiidera.com
 0.0.0.0 housing-garden.jp
 0.0.0.0 housing.hicbc.com
@@ -737,6 +741,7 @@
 0.0.0.0 kakuteishinkoku-zeirishi.jp
 0.0.0.0 kakuyomu.jp
 0.0.0.0 kamata-nikuzushi.owst.jp
+0.0.0.0 kameman.owst.jp
 0.0.0.0 kamenoi-hotels.com
 0.0.0.0 kamposhop.kracie.co.jp
 0.0.0.0 kamukura-recruit.jp
@@ -979,6 +984,7 @@
 0.0.0.0 miyagi-daihatsu.co.jp
 0.0.0.0 miyakojima-mobipa.jp
 0.0.0.0 mizoguchi-saiten.co.jp
+0.0.0.0 mizunopack.com
 0.0.0.0 mizusympo2024.sakura.ne.jp
 0.0.0.0 mlogic.tax
 0.0.0.0 mobile-fukugyo.work
@@ -1013,6 +1019,7 @@
 0.0.0.0 natgeo.nikkeibp.co.jp
 0.0.0.0 naturalchange.jp
 0.0.0.0 navi.jobpal.jp
+0.0.0.0 neith.tokyo
 0.0.0.0 nekkoya.shop-pro.jp
 0.0.0.0 nesta.click
 0.0.0.0 nesting-hokago.com
@@ -1416,6 +1423,7 @@
 0.0.0.0 smile-zemi.jp
 0.0.0.0 smilepack.jp
 0.0.0.0 sneakerbunko.jp
+0.0.0.0 sobre.jp
 0.0.0.0 socialnews-ai.com
 0.0.0.0 sodaigomi-kaishu.com
 0.0.0.0 sodaigomi-kaishutai.com
@@ -1458,6 +1466,7 @@
 0.0.0.0 store-jp.nintendo.com
 0.0.0.0 store.alpen-group.jp
 0.0.0.0 store.ashleyfurniture.jp
+0.0.0.0 store.fix-it.jp
 0.0.0.0 store.mens-null.net
 0.0.0.0 store.sanyo-shokai.co.jp
 0.0.0.0 store.tokyostyle.co.jp
@@ -1497,6 +1506,7 @@
 0.0.0.0 taicca.tw
 0.0.0.0 taiheiyou-ireikyoukai.jp
 0.0.0.0 tainenji.net
+0.0.0.0 taishuubistoroharadaya.owst.jp
 0.0.0.0 takamatsu-marugame-bankin.com
 0.0.0.0 takamatsu.bess.jp
 0.0.0.0 takarado.co.jp
@@ -1573,6 +1583,7 @@
 0.0.0.0 transformation-showcase.com
 0.0.0.0 travel.willer.co.jp
 0.0.0.0 treefinancial.co.jp
+0.0.0.0 tripmall.online
 0.0.0.0 trivia-library.com
 0.0.0.0 trophylv.com
 0.0.0.0 tropical-hawaiianfestival.jp
@@ -1669,6 +1680,7 @@
 0.0.0.0 world.hello-gesher.com
 0.0.0.0 wowclassic.blizzard.com
 0.0.0.0 wp.i-voce.jp
+0.0.0.0 www.0038.co.jp
 0.0.0.0 www.0101.co.jp
 0.0.0.0 www.0120058139.com
 0.0.0.0 www.0551353133.com
@@ -1992,6 +2004,7 @@
 0.0.0.0 www.eposcard.co.jp
 0.0.0.0 www.epson.jp
 0.0.0.0 www.esforta.co.jp
+0.0.0.0 www.eslead.co.jp
 0.0.0.0 www.etungo.com.tw
 0.0.0.0 www.ex-anpi.com
 0.0.0.0 www.eyecity.jp
@@ -2108,6 +2121,7 @@
 0.0.0.0 www.happiness-direct.com
 0.0.0.0 www.happy-mealkit.com
 0.0.0.0 www.happy-semi.com
+0.0.0.0 www.harbourvillehotel.com
 0.0.0.0 www.harikaehonpo.net
 0.0.0.0 www.haseko.co.jp
 0.0.0.0 www.hatarako.net
@@ -2394,6 +2408,7 @@
 0.0.0.0 www.meikuri.co.jp
 0.0.0.0 www.meimonkai.co.jp
 0.0.0.0 www.mekarijinja.com
+0.0.0.0 www.menard.co.jp
 0.0.0.0 www.menicon.co.jp
 0.0.0.0 www.mens-doors.com
 0.0.0.0 www.mens-rize.com
@@ -2545,6 +2560,7 @@
 0.0.0.0 www.okinawatimes.co.jp
 0.0.0.0 www.oligo.jp
 0.0.0.0 www.oliveoilsfromspain.jp
+0.0.0.0 www.omron.com
 0.0.0.0 www.omu.ac.jp
 0.0.0.0 www.onetop-japan.jp
 0.0.0.0 www.onitsukatiger.com
@@ -2688,6 +2704,7 @@
 0.0.0.0 www.salesforce.com
 0.0.0.0 www.salo-ka.com
 0.0.0.0 www.salonpas.jp
+0.0.0.0 www.salt-para.jp
 0.0.0.0 www.samsonite.co.jp
 0.0.0.0 www.sanchoku-niigata.com
 0.0.0.0 www.sangitan.ac.jp
