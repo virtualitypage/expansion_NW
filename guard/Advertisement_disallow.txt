@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 3 October 2024
+# Last modified: 4 October 2024
 #
 
 # [広告全般]
@@ -17,6 +17,7 @@
 0.0.0.0 3d-mitsumori.com
 0.0.0.0 3ei.co.jp
 0.0.0.0 3m.commerceconnector.net
+0.0.0.0 3mk2r3.com
 0.0.0.0 47095986.form.kintoneapp.com
 0.0.0.0 4years.asahi.com
 0.0.0.0 6699.jp
@@ -311,6 +312,7 @@
 0.0.0.0 direct.eizo.co.jp
 0.0.0.0 distance.media
 0.0.0.0 dive-oita.com
+0.0.0.0 dl.apparel-web.co.jp
 0.0.0.0 dmdepart.jp
 0.0.0.0 do-recruit.info
 0.0.0.0 doax-venusvacation.jp
@@ -474,6 +476,7 @@
 0.0.0.0 ghibli-park.jp
 0.0.0.0 gifunavi.jp
 0.0.0.0 gindaco-tsudanuma.owst.jp
+0.0.0.0 gion-group.jp
 0.0.0.0 gion-museum.com
 0.0.0.0 glampicks.jp
 0.0.0.0 global.jr-central.co.jp
@@ -665,6 +668,7 @@
 0.0.0.0 jcloud.co.jp
 0.0.0.0 jetb.co.jp
 0.0.0.0 jewelry-girls.net
+0.0.0.0 jh.shijonawate-gakuen.ac.jp
 0.0.0.0 jibunmakura.com
 0.0.0.0 jicamagazine.jica.go.jp
 0.0.0.0 jinentai.com
@@ -1046,6 +1050,7 @@
 0.0.0.0 niigata-akiyasoudan.com
 0.0.0.0 niihama-coating.com
 0.0.0.0 niit-oc.com
+0.0.0.0 nikudokoro-mo-shabutantan.owst.jp
 0.0.0.0 nikudokorodebeso.owst.jp
 0.0.0.0 nikunotajimatsuhan.com
 0.0.0.0 nill.jp
@@ -1452,6 +1457,7 @@
 0.0.0.0 splus.website
 0.0.0.0 spopita.jp
 0.0.0.0 sportskart.com
+0.0.0.0 spur.hpplus.jp
 0.0.0.0 sq.morinaga.co.jp
 0.0.0.0 squareup.com
 0.0.0.0 ssl-system7.com
@@ -1547,6 +1553,7 @@
 0.0.0.0 theshopyohjiyamamoto.jp
 0.0.0.0 thisischiffoncake.com
 0.0.0.0 three-v-amenity.co.jp
+0.0.0.0 tib.metro.tokyo.lg.jp
 0.0.0.0 timee.co.jp
 0.0.0.0 timesbiz.jp
 0.0.0.0 timume.com
@@ -1975,6 +1982,7 @@
 0.0.0.0 www.ducati.com
 0.0.0.0 www.dumbarnielinks.com
 0.0.0.0 www.dusit.com
+0.0.0.0 www.duskin-hozumi.com
 0.0.0.0 www.dynacjapan.com
 0.0.0.0 www.e-defi.com
 0.0.0.0 www.e-fitpro.jp
@@ -2158,6 +2166,7 @@
 0.0.0.0 www.hokkokubank.co.jp
 0.0.0.0 www.hokuriku-u.ac.jp
 0.0.0.0 www.hokuyobank.co.jp
+0.0.0.0 www.holiday-cs.co.jp
 0.0.0.0 www.holmanusa.com
 0.0.0.0 www.home.saxo
 0.0.0.0 www.homedepo.biz
@@ -2169,6 +2178,7 @@
 0.0.0.0 www.hotel-ichii.co.jp
 0.0.0.0 www.hotpepper.jp
 0.0.0.0 www.hotstaff.co.jp
+0.0.0.0 www.hotty.co.jp
 0.0.0.0 www.housing-messe.com
 0.0.0.0 www.howabank.co.jp
 0.0.0.0 www.hs-orange.com
@@ -2609,6 +2619,7 @@
 0.0.0.0 www.pc-webzine.com
 0.0.0.0 www.pc4353.net
 0.0.0.0 www.pccs.co.jp
+0.0.0.0 www.penta-lab.com
 0.0.0.0 www.personalhealth.jp
 0.0.0.0 www.pet-coo.com
 0.0.0.0 www.peugeot.co.jp
@@ -2839,8 +2850,10 @@
 0.0.0.0 www.takarakuji-official.jp
 0.0.0.0 www.takashimaya-global.com
 0.0.0.0 www.takashimaya.co.jp
+0.0.0.0 www.takinogawa.ed.jp
 0.0.0.0 www.tanaka-denki.co.jp
 0.0.0.0 www.tanakagakushukai.com
+0.0.0.0 www.tangrachinese.com.sg
 0.0.0.0 www.tannowahouse.jp
 0.0.0.0 www.tanoshii-ie.jp
 0.0.0.0 www.tanzo.jp
