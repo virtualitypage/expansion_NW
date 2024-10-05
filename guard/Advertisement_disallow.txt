@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 4 October 2024
+# Last modified: 5 October 2024
 #
 
 # [広告全般]
@@ -39,6 +39,7 @@
 0.0.0.0 achieve.atimes.co.jp
 0.0.0.0 activate.games.dmm.com
 0.0.0.0 activesleep.jp
+0.0.0.0 aculabo-yamaguchi-sports.com
 0.0.0.0 acuvuevision.jp
 0.0.0.0 ad-kowa.com
 0.0.0.0 ad.doubleclick.net
@@ -646,6 +647,7 @@
 0.0.0.0 invest.takuto-investment.com
 0.0.0.0 investor-a.com
 0.0.0.0 investsspot.com
+0.0.0.0 iroiro2008.net
 0.0.0.0 irumo.docomo.ne.jp
 0.0.0.0 ishi-career.jp
 0.0.0.0 ishikansyu.com
@@ -1184,6 +1186,7 @@
 0.0.0.0 qago.dev
 0.0.0.0 qb-recruit.com
 0.0.0.0 qjin7.com
+0.0.0.0 quanshuiwetmarket.com
 0.0.0.0 quick-sidejob.com
 0.0.0.0 r-kaden.site
 0.0.0.0 r-style.eco.coocan.jp
@@ -1354,6 +1357,7 @@
 0.0.0.0 service.ocn.ne.jp
 0.0.0.0 seta-clinic.com
 0.0.0.0 setupnext-project.com
+0.0.0.0 sg.tcacoustic.asia
 0.0.0.0 shaktimat.co.jp
 0.0.0.0 sharkclean.co.uk
 0.0.0.0 shashinten.info
@@ -1991,6 +1995,7 @@
 0.0.0.0 www.e-hc.com
 0.0.0.0 www.e-kochoran.com
 0.0.0.0 www.e-sogi.com
+0.0.0.0 www.e-ty.co.jp
 0.0.0.0 www.eclipsetraveler.com
 0.0.0.0 www.ecnex.jp
 0.0.0.0 www.ecocity.jp
@@ -2267,6 +2272,7 @@
 0.0.0.0 www.job-medley.com
 0.0.0.0 www.jobkita.jp
 0.0.0.0 www.johoku.ac.jp
+0.0.0.0 www.jokermovie.com.sg
 0.0.0.0 www.jp-life.japanpost.jp
 0.0.0.0 www.jpcast.japanpost.jp
 0.0.0.0 www.jplum.com
@@ -2283,6 +2289,7 @@
 0.0.0.0 www.k-idea.jp
 0.0.0.0 www.kabu-nagasaka.co.jp
 0.0.0.0 www.kadokawa.co.jp
+0.0.0.0 www.kagaiboushi.metro.tokyo.lg.jp
 0.0.0.0 www.kagi-gakkou.com
 0.0.0.0 www.kagu-uenoya.com
 0.0.0.0 www.kahm-art.co.jp
@@ -2567,6 +2574,7 @@
 0.0.0.0 www.okatsu.co.jp
 0.0.0.0 www.okawasanki.co.jp
 0.0.0.0 www.okeihan.net
+0.0.0.0 www.oki.com
 0.0.0.0 www.okinawatimes.co.jp
 0.0.0.0 www.oligo.jp
 0.0.0.0 www.oliveoilsfromspain.jp
@@ -2711,6 +2719,7 @@
 0.0.0.0 www.ruxur.net
 0.0.0.0 www.s-re.jp
 0.0.0.0 www.saatva.com
+0.0.0.0 www.safra.sg
 0.0.0.0 www.saison-am.co.jp
 0.0.0.0 www.salesforce.com
 0.0.0.0 www.salo-ka.com
@@ -2913,6 +2922,7 @@
 0.0.0.0 www.tomiya.co.jp
 0.0.0.0 www.topcard.co.jp
 0.0.0.0 www.toritsuko.metro.tokyo.lg.jp
+0.0.0.0 www.torus.co.jp
 0.0.0.0 www.totalrepair-fukasawa.com
 0.0.0.0 www.town.okuma.fukushima.jp
 0.0.0.0 www.toyama-clean.com
@@ -3057,6 +3067,7 @@
 0.0.0.0 yodomachi-cycling2024.com
 0.0.0.0 yorkie.breeders.jp
 0.0.0.0 yoshino-gypsum.com
+0.0.0.0 yotasteshop.com
 0.0.0.0 youin.jp
 0.0.0.0 youngjump.jp
 0.0.0.0 ypa.localab.net
