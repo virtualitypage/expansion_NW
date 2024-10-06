@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 5 October 2024
+# Last modified: 6 October 2024
 #
 
 # [広告全般]
@@ -50,6 +50,7 @@
 0.0.0.0 adebis.basefood.co.jp
 0.0.0.0 admission-info.tokyo-kasei-univ.jp
 0.0.0.0 ads.kaipoke.biz
+0.0.0.0 adt.rokunomiya.jp
 0.0.0.0 afi-support.com
 0.0.0.0 afilab.jp
 0.0.0.0 aflart.net
@@ -484,6 +485,7 @@
 0.0.0.0 global.tamanlestari.com
 0.0.0.0 globalxetfs.co.jp
 0.0.0.0 globe.asahi.com
+0.0.0.0 glowonline.jp
 0.0.0.0 gmobb.jp
 0.0.0.0 gng.thebase.in
 0.0.0.0 go.1edisource.com
@@ -642,6 +644,7 @@
 0.0.0.0 info.uopochi.jp
 0.0.0.0 infocp.syngenta.co.jp
 0.0.0.0 ing-chojyu.jp
+0.0.0.0 inline.app
 0.0.0.0 inquiry.renosy.com
 0.0.0.0 insta-beauty.net
 0.0.0.0 invest.takuto-investment.com
@@ -854,6 +857,7 @@
 0.0.0.0 landing.mangot5.com
 0.0.0.0 landing.worksap.co.jp
 0.0.0.0 landingpage.jinjib.co.jp
+0.0.0.0 landscapefurano.jp
 0.0.0.0 lastmemories.io
 0.0.0.0 lawschool.r.chuo-u.ac.jp
 0.0.0.0 le-chic-unjour.official-wedding.jp
@@ -1009,6 +1013,7 @@
 0.0.0.0 mybest-cosme.com
 0.0.0.0 mydrabu.georgia.jp
 0.0.0.0 myluxurycard.co.jp
+0.0.0.0 mynavi-kaigo.jp
 0.0.0.0 mynumber.city.osaka.lg.jp
 0.0.0.0 myojudoshop.com
 0.0.0.0 mypage.s-axol.jp
@@ -1517,6 +1522,7 @@
 0.0.0.0 taiheiyou-ireikyoukai.jp
 0.0.0.0 tainenji.net
 0.0.0.0 taishuubistoroharadaya.owst.jp
+0.0.0.0 takadaseed.com
 0.0.0.0 takamatsu-marugame-bankin.com
 0.0.0.0 takamatsu.bess.jp
 0.0.0.0 takarado.co.jp
@@ -1964,6 +1970,7 @@
 0.0.0.0 www.deaf-tryout24.para-athlete.tokyo
 0.0.0.0 www.decorte.com
 0.0.0.0 www.denray.com
+0.0.0.0 www.dentsu.ed.jp
 0.0.0.0 www.digiraku.com
 0.0.0.0 www.digital.go.jp
 0.0.0.0 www.diningmaison.jp
@@ -2313,6 +2320,7 @@
 0.0.0.0 www.kd-icons.co.jp
 0.0.0.0 www.keiai.net
 0.0.0.0 www.keiji-pestcontrol.com
+0.0.0.0 www.keiko.josho.ac.jp
 0.0.0.0 www.keikyu-store.com
 0.0.0.0 www.kenko-webshop.jp
 0.0.0.0 www.kewpie.co.jp
@@ -2415,6 +2423,7 @@
 0.0.0.0 www.matsuyama-satei.com
 0.0.0.0 www.matsuzakaya.co.jp
 0.0.0.0 www.maxplanckschools.org
+0.0.0.0 www.maybank2u.com.sg
 0.0.0.0 www.maybournebeverlyhills.com
 0.0.0.0 www.mblqs.com
 0.0.0.0 www.mdsol.co.jp
@@ -2931,6 +2940,7 @@
 0.0.0.0 www.tpishida.co.jp
 0.0.0.0 www.trailer-house.biz
 0.0.0.0 www.transgrip.co.jp
+0.0.0.0 www.transnusa.co.id
 0.0.0.0 www.travellerinn.jp
 0.0.0.0 www.trialfoods.jp
 0.0.0.0 www.tripetonlineshop.com.tw
