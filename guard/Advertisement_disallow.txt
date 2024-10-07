@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 6 October 2024
+# Last modified: 7 October 2024
 #
 
 # [広告全般]
@@ -61,8 +61,10 @@
 0.0.0.0 aigarden.com
 0.0.0.0 aik-order.com
 0.0.0.0 aix-otofuke.owst.jp
+0.0.0.0 aiya-osaka.com
 0.0.0.0 akiya-oita.com
 0.0.0.0 akoakostudio.com
+0.0.0.0 akr0674735414.owst.jp
 0.0.0.0 al-mare.irodori-inc-okj.co.jp
 0.0.0.0 alc.talkingmarathon.com
 0.0.0.0 alcon-contact.jp
@@ -129,6 +131,7 @@
 0.0.0.0 audi-tokai.com
 0.0.0.0 audika.jp
 0.0.0.0 audition.photoreco.com
+0.0.0.0 australian-macadamias.jp
 0.0.0.0 awake-support.com
 0.0.0.0 axia-expo.nikkan.co.jp
 0.0.0.0 az-art.net
@@ -165,6 +168,7 @@
 0.0.0.0 biryuhyakkaweb.jp
 0.0.0.0 bizhint.jp
 0.0.0.0 bizreach.biz
+0.0.0.0 biztel.jp
 0.0.0.0 bkan.vbest.jp
 0.0.0.0 blessunleashed-dmg.pmang.jp
 0.0.0.0 blog.adregion.co.jp
@@ -213,6 +217,7 @@
 0.0.0.0 card-en-ciel.com
 0.0.0.0 cardshop-kenzo.myshopify.com
 0.0.0.0 career.levtech.jp
+0.0.0.0 carioca.owst.jp
 0.0.0.0 casadangela-anhuit.com
 0.0.0.0 casge-town.jp
 0.0.0.0 catalog.toubi.co.jp
@@ -402,6 +407,7 @@
 0.0.0.0 exzeal.co.jp
 0.0.0.0 ezyremit.com
 0.0.0.0 f-cre.com
+0.0.0.0 fa.toray-enter.co.jp
 0.0.0.0 fairfield-michinoeki-japan.com
 0.0.0.0 fam-8.net
 0.0.0.0 famousbbq.com
@@ -448,6 +454,7 @@
 0.0.0.0 fukushi-iryo.denpa.jp
 0.0.0.0 fukushima-hook.jp
 0.0.0.0 fukushima-oiseafood.jp
+0.0.0.0 fukushima-sweetspremium.jp
 0.0.0.0 fukutoku.ed.jp
 0.0.0.0 fukutujishiki.com
 0.0.0.0 fun.asahi-gf.co.jp
@@ -788,6 +795,7 @@
 0.0.0.0 kgg-nanporo4.hp.peraichi.com
 0.0.0.0 khiang-osaka.owst.jp
 0.0.0.0 kichi.bar
+0.0.0.0 kids.tipness.co.jp
 0.0.0.0 kigkt.cersi.jp
 0.0.0.0 kimono-ice.com
 0.0.0.0 kimono-yamato-furisode.com
@@ -1088,6 +1096,7 @@
 0.0.0.0 officee.jp
 0.0.0.0 official-mall.com
 0.0.0.0 ohbacorp.com
+0.0.0.0 ohka-kobe.owst.jp
 0.0.0.0 ohnoseijyo.com
 0.0.0.0 oishii-izumo.jp
 0.0.0.0 oka-d-art.com
@@ -1097,6 +1106,7 @@
 0.0.0.0 oldisroad.com
 0.0.0.0 omedeto.hp.peraichi.com
 0.0.0.0 omurakyotei.jp
+0.0.0.0 ondemand-trump.com
 0.0.0.0 ondemand.meluon.com
 0.0.0.0 one-up-life.com
 0.0.0.0 oneit.co.jp
@@ -1192,6 +1202,7 @@
 0.0.0.0 qb-recruit.com
 0.0.0.0 qjin7.com
 0.0.0.0 quanshuiwetmarket.com
+0.0.0.0 quick-royal.misseyedor.jp
 0.0.0.0 quick-sidejob.com
 0.0.0.0 r-kaden.site
 0.0.0.0 r-style.eco.coocan.jp
@@ -1606,6 +1617,7 @@
 0.0.0.0 tropical-hawaiianfestival.jp
 0.0.0.0 trubridge.com
 0.0.0.0 truckland.jp
+0.0.0.0 try-edge.infield95.com
 0.0.0.0 tsugunavi.funaisoken.co.jp
 0.0.0.0 tsujimoto-2007.com
 0.0.0.0 tsunagaru-design.co.jp
@@ -1724,6 +1736,7 @@
 0.0.0.0 www.a-hosho.co.jp
 0.0.0.0 www.a-living.jp
 0.0.0.0 www.a-one.co.jp
+0.0.0.0 www.abarth.jp
 0.0.0.0 www.abc-mart.net
 0.0.0.0 www.able.co.jp
 0.0.0.0 www.accenture.com
@@ -1971,6 +1984,7 @@
 0.0.0.0 www.decorte.com
 0.0.0.0 www.denray.com
 0.0.0.0 www.dentsu.ed.jp
+0.0.0.0 www.difstory.com
 0.0.0.0 www.digiraku.com
 0.0.0.0 www.digital.go.jp
 0.0.0.0 www.diningmaison.jp
@@ -2260,6 +2274,7 @@
 0.0.0.0 www.japan-it.jp
 0.0.0.0 www.japanenergyevent.com
 0.0.0.0 www.jcom.co.jp
+0.0.0.0 www.jeed.go.jp
 0.0.0.0 www.jex-inc.co.jp
 0.0.0.0 www.jf-pearl-ehime.com
 0.0.0.0 www.jftc.go.jp
@@ -2351,6 +2366,7 @@
 0.0.0.0 www.koi-para.net
 0.0.0.0 www.kokokara-care.com
 0.0.0.0 www.kokushikan.ac.jp
+0.0.0.0 www.kolkatabeckons.com.sg
 0.0.0.0 www.kominami.co.jp
 0.0.0.0 www.komyokaku.jp
 0.0.0.0 www.konaka-jp.com
@@ -2463,6 +2479,7 @@
 0.0.0.0 www.mitsubishielectric.co.jp
 0.0.0.0 www.mitsui.com
 0.0.0.0 www.mitsutake.co.jp
+0.0.0.0 www.mitte.ne.jp
 0.0.0.0 www.miyakoda.co.jp
 0.0.0.0 www.miyanaka.co.jp
 0.0.0.0 www.mizuho-re.co.jp
@@ -2530,6 +2547,7 @@
 0.0.0.0 www.niit.ac.jp
 0.0.0.0 www.nikahome.jp
 0.0.0.0 www.nikon-image.com
+0.0.0.0 www.nilaina-holidays.com
 0.0.0.0 www.ninkatsuka.metro.tokyo.lg.jp
 0.0.0.0 www.nipponham.co.jp
 0.0.0.0 www.nipponmanpower.co.jp
@@ -2984,6 +3002,7 @@
 0.0.0.0 www.valt-japan.com
 0.0.0.0 www.video.unext.jp
 0.0.0.0 www.vietnamairlines.com
+0.0.0.0 www.vintagewatch.jp
 0.0.0.0 www.virinamaternity.com
 0.0.0.0 www.visartscenter.org
 0.0.0.0 www.visitjackson.com
@@ -3084,6 +3103,7 @@
 0.0.0.0 ys-plan.jp.net
 0.0.0.0 ysp-shop.com
 0.0.0.0 yumekitchen.jp
+0.0.0.0 yururi-nikori.owst.jp
 0.0.0.0 yuskin.co.jp
 0.0.0.0 yutaka-tomonokai.jp
 0.0.0.0 zaimani.com
