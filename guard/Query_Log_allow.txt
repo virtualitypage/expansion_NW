@@ -4,7 +4,7 @@
 # References: Query Log
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Query_Log_allow.txt
 #
-# Last modified: 18 August 2024
+# Last modified: 8 October 2024
 #
 
 # [クエリ・ログで検出された許可リクエスト]
@@ -21,7 +21,6 @@
 @@||alt8-mtalk.google.com
 @@||api.accuweather.com
 @@||app-measurement.com
-@@||apple-dns.net
 @@||applovin.com
 @@||appsflyer.com
 @@||auctions.yahooapis.jp
@@ -29,7 +28,6 @@
 @@||captive.apple.com
 @@||cdninstagram.com
 @@||clarity.ms
-@@||clashofclans.com
 @@||cloudfront.net
 @@||colorflow.app
 @@||connectivitycheck.cbg-app.huawei.com
@@ -37,9 +35,7 @@
 @@||dailyinnovation.biz
 @@||drive.google.com
 @@||fbcdn.net
-@@||fw.gl-inet.com
 @@||ggpht.com
-@@||github.com
 @@||googleapis.com
 @@||googleusercontent.com
 @@||googlevideo.com
@@ -48,49 +44,24 @@
 @@||gvt1.com
 @@||gw.line.naver.jp
 @@||hicloud.com
-@@||instagram.com
 @@||isnssdk.com
 @@||japan-yokohama-ca-version-2.expressnetw.com
 @@||jquery.com
-@@||kddi.com
-@@||kddi.ne.jp
 @@||kefirgames.ru
 @@||learnings.ai
 @@||line-apps.com
 @@||line-scdn.net
-@@||line.me
 @@||linecorp.com
-@@||mail.google.com
 @@||map.c.yimg.jp
 @@||map.yahoo.co.jp
 @@||map.yahooapis.jp
-@@||mercari-shops-static.com
-@@||mercari-shops.com
-@@||mercari.com
-@@||mercari.jp
 @@||mercdn.net
 @@||mtalk.google.com
 @@||mtalk.google.com.lan
 @@||mtalk.google.com.tail06b0f8.ts.net
-@@||news.yahoo.co.jp
-@@||ntp.nict.jp
 @@||pinimg.com
-@@||pinterest.com
-@@||rakuten.co.jp
-@@||resource.widget.auone.jp
-@@||resource.widget.auone.jp.lan
-@@||resource.widget.auone.jp.tail06b0f8.ts.net
 @@||sentry.io
 @@||sgsnssdk.com
 @@||t.co
-@@||tailscale.com
-@@||tailscale.io
 @@||time.android.com
-@@||web.facebook.com
-@@||www.google-analytics.com
-@@||www.google.com
-@@||www.googleadservices.com
 @@||www3.l.google.com
-@@||yahoo.co.jp
-@@||yahooapis.jp
-@@||yimg.jp
