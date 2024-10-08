@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 7 October 2024
+# Last modified: 8 October 2024
 #
 
 # [広告全般]
@@ -609,6 +609,7 @@
 0.0.0.0 honkaku-coco.com
 0.0.0.0 horseracing-tipsters.biz
 0.0.0.0 hoshi.cocoloni.jp
+0.0.0.0 hottoke.jp
 0.0.0.0 hougaku.kanto-gakuin.ac.jp
 0.0.0.0 house-kiya.co.jp
 0.0.0.0 house-yokubari.com
@@ -1282,6 +1283,7 @@
 0.0.0.0 sales-adventure.jp
 0.0.0.0 salon-de-alfurd.jp
 0.0.0.0 sandesica.jp
+0.0.0.0 sanriku-jouban-umeemon.jp
 0.0.0.0 sapporo-nissan.com
 0.0.0.0 sapporotoyota-northernbox.jp
 0.0.0.0 sasatto.jp
@@ -2632,6 +2634,7 @@
 0.0.0.0 www.osakahome.jp
 0.0.0.0 www.oscd.jp
 0.0.0.0 www.osg.co.jp
+0.0.0.0 www.otafuku.co.jp
 0.0.0.0 www.otani.ac.jp
 0.0.0.0 www.otrs.jp
 0.0.0.0 www.otsuka-shokai.co.jp
@@ -2754,6 +2757,7 @@
 0.0.0.0 www.salt-para.jp
 0.0.0.0 www.samsonite.co.jp
 0.0.0.0 www.sanchoku-niigata.com
+0.0.0.0 www.sanco.co.jp
 0.0.0.0 www.sangitan.ac.jp
 0.0.0.0 www.sanoya.co.jp
 0.0.0.0 www.sanpou-s.net
@@ -3040,6 +3044,7 @@
 0.0.0.0 www.xprice.co.jp
 0.0.0.0 www.xtb.com
 0.0.0.0 www.y-yokohama.com
+0.0.0.0 www.yamada-denkiweb.com
 0.0.0.0 www.yamaha-motor.co.jp
 0.0.0.0 www.yamaha.co.jp
 0.0.0.0 www.yamano-music.co.jp
@@ -3060,6 +3065,7 @@
 0.0.0.0 www.ytj.gr.jp
 0.0.0.0 www.yuanta.com.tw
 0.0.0.0 www.yuifactory.co.jp
+0.0.0.0 www.yunker.jp
 0.0.0.0 www.yunohanaso.co.jp
 0.0.0.0 www.zaitakucare.co.jp
 0.0.0.0 www.zeczec.com
