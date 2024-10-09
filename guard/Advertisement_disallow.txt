@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 8 October 2024
+# Last modified: 9 October 2024
 #
 
 # [広告全般]
@@ -107,6 +107,7 @@
 0.0.0.0 art-mocha.net
 0.0.0.0 art.nikkei.com
 0.0.0.0 artclient.jp
+0.0.0.0 artdive.net
 0.0.0.0 artfrall-kaiga.jp
 0.0.0.0 artgabbeh.com
 0.0.0.0 artglorieux.jp
@@ -1514,6 +1515,7 @@
 0.0.0.0 sumai.jalux.com
 0.0.0.0 sumai.panasonic.jp
 0.0.0.0 sumai.tokyu-land.co.jp
+0.0.0.0 sumikalog.bess.jp
 0.0.0.0 sumisho-tatemono-chuukai.net
 0.0.0.0 sunks-rentacar.com
 0.0.0.0 super-copy-brand.com
@@ -1801,6 +1803,7 @@
 0.0.0.0 www.ark-shop.com
 0.0.0.0 www.armonia.jp
 0.0.0.0 www.aronkasei.co.jp
+0.0.0.0 www.arrow-school.com
 0.0.0.0 www.arrowgroup.co.jp
 0.0.0.0 www.arsoa.co.jp
 0.0.0.0 www.artnature.co.jp
@@ -2619,6 +2622,7 @@
 0.0.0.0 www.ophthalmologytimes.com
 0.0.0.0 www.oralb.braun.co.jp
 0.0.0.0 www.orbussoftware.com
+0.0.0.0 www.orchidliveseafood.com.sg
 0.0.0.0 www.oreillyauto.com
 0.0.0.0 www.orient-watch.jp
 0.0.0.0 www.oriental-hotels.com
@@ -2718,6 +2722,7 @@
 0.0.0.0 www.rakuto-taxi.co.jp
 0.0.0.0 www.rank-hikaku.com
 0.0.0.0 www.rarejob.com
+0.0.0.0 www.raymon.co.jp
 0.0.0.0 www.rbbtoday.com
 0.0.0.0 www.rbma.org
 0.0.0.0 www.recruit.co.jp
@@ -2832,6 +2837,7 @@
 0.0.0.0 www.skybldg.co.jp
 0.0.0.0 www.skyperfectv.co.jp
 0.0.0.0 www.skyxia.jp
+0.0.0.0 www.slim-couture.com
 0.0.0.0 www.smauto.co.jp
 0.0.0.0 www.smbc-card.com
 0.0.0.0 www.smbc.co.jp
@@ -2993,6 +2999,7 @@
 0.0.0.0 www.uniqloichiropost.com
 0.0.0.0 www.universal-robots.com
 0.0.0.0 www.unzen-mikado.net
+0.0.0.0 www.uob.com.sg
 0.0.0.0 www.uqwimax.jp
 0.0.0.0 www.ur-net.go.jp
 0.0.0.0 www.urasenke.or.jp
