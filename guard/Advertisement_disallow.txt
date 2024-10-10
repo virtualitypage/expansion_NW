@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 9 October 2024
+# Last modified: 10 October 2024
 #
 
 # [広告全般]
@@ -167,6 +167,7 @@
 0.0.0.0 bighornlaw.com
 0.0.0.0 bike-news.jp
 0.0.0.0 biryuhyakkaweb.jp
+0.0.0.0 bix.exparo.com
 0.0.0.0 bizhint.jp
 0.0.0.0 bizreach.biz
 0.0.0.0 biztel.jp
@@ -568,6 +569,7 @@
 0.0.0.0 healthcarelife.info
 0.0.0.0 heitenya.com
 0.0.0.0 heki.owst.jp
+0.0.0.0 hello-bbq.tokyo
 0.0.0.0 henna.assemblage-hd.com
 0.0.0.0 hennge.com
 0.0.0.0 hey-choshikun.com
@@ -853,6 +855,7 @@
 0.0.0.0 kuzira-mizu.com
 0.0.0.0 kyodonewsprwire.jp
 0.0.0.0 kyomono-sampo.jp
+0.0.0.0 kyoto-hatoya.jp
 0.0.0.0 kyoto-kimonorental.com
 0.0.0.0 kyotofu-shoene.jp
 0.0.0.0 kyotomk-recruit.jp
@@ -1085,6 +1088,7 @@
 0.0.0.0 notice.go.jp
 0.0.0.0 nova-ag.com
 0.0.0.0 novaassessoriatelefonica.jp
+0.0.0.0 noz-shop.com
 0.0.0.0 nposalvage.com
 0.0.0.0 ns-saitama.nissan-dealer.jp
 0.0.0.0 nudge.cards
@@ -1504,6 +1508,7 @@
 0.0.0.0 store.venex-j.co.jp
 0.0.0.0 store.wacoal.jp
 0.0.0.0 store.zita.life
+0.0.0.0 stressless-pr.jp
 0.0.0.0 studio-kingyo.com
 0.0.0.0 studying.jp
 0.0.0.0 studyinternational.com
@@ -1673,6 +1678,7 @@
 0.0.0.0 wakurino.work
 0.0.0.0 walar.co.jp
 0.0.0.0 walife.co.jp
+0.0.0.0 warabimochipompom.com
 0.0.0.0 washington.jp
 0.0.0.0 watch-yoshida.co.jp
 0.0.0.0 watchsalon-fukuoka.com
@@ -1826,6 +1832,7 @@
 0.0.0.0 www.ateliermarriage.com
 0.0.0.0 www.athome.co.jp
 0.0.0.0 www.atpress.ne.jp
+0.0.0.0 www.audi-kusunoki.jp
 0.0.0.0 www.audiotech.jp
 0.0.0.0 www.austria.info
 0.0.0.0 www.autotrace.info
@@ -2414,6 +2421,7 @@
 0.0.0.0 www.livable.co.jp
 0.0.0.0 www.lixil.co.jp
 0.0.0.0 www.logicool.co.jp
+0.0.0.0 www.londonmasteringstudio.co.uk
 0.0.0.0 www.loperaio.co.jp
 0.0.0.0 www.lpio.jp
 0.0.0.0 www.lululemon.co.jp
@@ -2421,6 +2429,7 @@
 0.0.0.0 www.lyft-gym.com
 0.0.0.0 www.m-ams.co.jp
 0.0.0.0 www.m-keiei.jp
+0.0.0.0 www.macaotourism.gov.mo
 0.0.0.0 www.magionet.co.jp
 0.0.0.0 www.magna-tokyo.com
 0.0.0.0 www.makuake.com
@@ -2849,6 +2858,7 @@
 0.0.0.0 www.sodastream.jp
 0.0.0.0 www.softbank.jp
 0.0.0.0 www.sogo-seibu.jp
+0.0.0.0 www.sola-resort.com
 0.0.0.0 www.solaseedair.jp
 0.0.0.0 www.songdream-blog.jp
 0.0.0.0 www.sonpo.or.jp
