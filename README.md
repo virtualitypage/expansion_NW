@@ -1,4 +1,4 @@
-![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v3.2.24-blue?style=flat)
+![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v3.3.0-blue?style=flat)
 ![Release Date](https://img.shields.io/badge/Release_Date-October_6_2024-green?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualitypage/expansion_NW)
 
@@ -62,7 +62,7 @@
 
 ---
 
-> AdGuard Home の「クエリ・ログ」取得設定手順 (再起動しなければクエリ・ログを取得できないため非推奨)
+> AdGuard Home の「クエリ・ログ」取得設定手順 ~~(再起動しなければクエリ・ログを取得できないため非推奨)~~
 
 * 参照元：https://github.com/AdguardTeam/AdGuardHome/wiki/Configuration#configuration-file
 
@@ -70,36 +70,55 @@
 
 　`$ ssh root@{ip_address|host_name}`
 
-2. クエリログを格納するフォルダを任意の場所に作成します。
+2. 以下の箇所を編集します。
 
-3. 以下の箇所を編集します。
+・クエリ・ログ設定
 
 ```
-dir_path: ""
-file_enabled: false
+dir_path:            // クエリ・ログファイルを保存するためのカスタムディレクトリ
+file_enabled: false  // クエリ・ログファイル保存設定
+```
+
+・ログ設定
+
+```
+file:              // ログファイルへのフルパス
+max_age: 3         // ログファイルがローテーションされるまでの最大日数
+local_time: false  // タイムスタンプのフォーマット設定
 ```
 
 　`$ vi /etc/AdGuardHome/config.yaml`
 
 ```
 querylog:
-  dir_path: /etc/AdGuard_query
+  dir_path: /etc/AdGuardHome/data
   ignored: []
   interval: 2160h
   size_memory: 1000
   enabled: true
-  file_enabled: true
+  file_enabled: true // false から true に変更
 ```
 
-4. 設定適用の為にルーターを再起動します。
+```
+log:
+  file: /etc/AdGuardHome/data/querylog.json
+  max_backups: 0
+  max_size: 100
+  max_age: 7 // 3 から 7 に変更
+  compress: false
+  local_time: true // false から true に変更
+  verbose: false
+```
 
-5. 実行ファイルにログファイルのパスを渡します。ここで指定したファイル名(ここでは"querylog")の json ファイルが作成され、書き込まれます。
+3. 設定適用の為にルーターを再起動します。
 
-　`$ AdGuardHome -l /etc/AdGuard_query/querylog`
+4. 実行ファイルにログファイルのフルパスを渡します。ここで指定したファイル名(ここでは"querylog.json")の json ファイルが作成され、クエリ・ログが書き込まれます。
 
-6. 以下のような内容になっていることを確認します。
+　`$ AdGuardHome --logfile /etc/AdGuardHome/data/querylog.json`
 
-　`$ cat /etc/AdGuard_query/querylog`
+5. 以下のような内容になっていることを確認します。
+
+　`$ cat /etc/AdGuardHome/querylog.json`
 
 ```
 YYYY/MM/DD HH24:MI:SS.FF [info] AdGuard Home, version v0.107.46
@@ -113,7 +132,7 @@ YYYY/MM/DD HH24:MI:SS.FF [info] safesearch default: disabled
 YYYY/MM/DD HH24:MI:SS.FF [info] Initializing auth module: /etc/AdGuardHome/data/sessions.db
 ```
 
-* アプリ "AdGuard Home" を再起動(停止・起動)すると、以下の内容が追加されて初期化されるので注意
+* GUI 上でアプリ "AdGuard Home" を再起動(停止・起動)すると、以下の内容が追加されて初期化されるので注意
 
 ```
 YYYY/MM/DD HH24:MI:SS.FF [info] auth: initialized.  users:0  sessions:0
@@ -131,6 +150,38 @@ YYYY/MM/DD HH24:MI:SS.FF [info] stopping http server...
 YYYY/MM/DD HH24:MI:SS.FF [info] stopped http server
 YYYY/MM/DD HH24:MI:SS.FF [info] stopped
 ```
+
+* 設定適用により http://192.168.8.1:3000/#logs のクエリ・ログも指定期間保存されている。
+
+以下、検証メモ(2024/10/11)
+>
+> 本設定の第二検証時、ルーター再起動前に以下コマンドを実行している。コマンド入力の必要性は今後調査予定
+>
+>　`$ AdGuardHome --logfile /etc/AdGuardHome/data/querylog.json` * プロンプトが表示されなくなった為、Control+Cで強制終了
+>
+>　`$ cat /etc/AdGuardHome/querylog.json` * 手順 5 と同様の内容、しかし強制終了した為それに関する情報が追記されていた
+>
+>　`$ AdGuardHome --service stop`
+>
+>　`$ AdGuardHome --service start`
+>
+>　`$ AdGuardHome --service restart`
+>
+>動作確認のため GUI 上でアプリの再起動(停止・起動)を行うと AdGuardHome が初期化されてしまった。その際、不要となった querylog.json は再起動前に破棄。
+>
+>そして、検証失敗として切り戻し(再起動を伴うリストア)を実施。
+>
+>しかし、上記設定はバックアップ対象外だった為、再起動により設定が適用されてクエリ・ログ取得処理が開始された。
+>
+>以上の事から再検証時に以下の実施を行うこと
+>
+>・設定前にバックアップを取得する("/etc/AdGuardHome"配下は対象外)
+>
+>・AdGuardHome が初期化される別の動作とその対策方法、要因等の調査
+>
+>・必要に応じて手順の修正を実施
+>
+>・AdGuardHome コマンド入力の必要性について調査
 
 ## Document - Expansion
 
