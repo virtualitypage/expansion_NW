@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 10 October 2024
+# Last modified: 11 October 2024
 #
 
 # [広告全般]
@@ -312,6 +312,7 @@
 0.0.0.0 depaco.daimaru-matsuzakaya.jp
 0.0.0.0 dfashion.docomo.ne.jp
 0.0.0.0 dg-at.fg-games.co.jp
+0.0.0.0 diet-kyoukai.com
 0.0.0.0 digilumi.jp
 0.0.0.0 digina.jp
 0.0.0.0 digital-women.maia.co.jp
@@ -429,6 +430,7 @@
 0.0.0.0 flex.amazon.co.jp
 0.0.0.0 fod.fujitv.co.jp
 0.0.0.0 food-match-japan.campaign.europa.eu
+0.0.0.0 foodingjournal.com
 0.0.0.0 form.jotform.com
 0.0.0.0 form2024.shinkin-cp.com
 0.0.0.0 forms.office.com
@@ -448,6 +450,7 @@
 0.0.0.0 fsp.norasci.com
 0.0.0.0 fto.co.jp
 0.0.0.0 fujikoumuten.co.jp
+0.0.0.0 fujimedica.com
 0.0.0.0 fukoku-h.co.jp
 0.0.0.0 fukubekaji.shop-pro.jp
 0.0.0.0 fukui-presentcpn.jp
@@ -1169,6 +1172,7 @@
 0.0.0.0 pitariko.jp
 0.0.0.0 pitat-house.info
 0.0.0.0 pitathouse-nishinagahori.jp
+0.0.0.0 plan.117.co.jp
 0.0.0.0 platte.jp
 0.0.0.0 plus.tobemori.com
 0.0.0.0 point.zensho.co.jp
@@ -1522,6 +1526,7 @@
 0.0.0.0 sumai.tokyu-land.co.jp
 0.0.0.0 sumikalog.bess.jp
 0.0.0.0 sumisho-tatemono-chuukai.net
+0.0.0.0 sumiyaginzo.owst.jp
 0.0.0.0 sunks-rentacar.com
 0.0.0.0 super-copy-brand.com
 0.0.0.0 supi.owned.media
@@ -1560,6 +1565,7 @@
 0.0.0.0 tansei-legaloffice.jp
 0.0.0.0 tarezou.com
 0.0.0.0 targety.jp
+0.0.0.0 tasaki-s.co.jp
 0.0.0.0 tateyoko-kazuma.com
 0.0.0.0 taxisaiyo.entetsu.co.jp
 0.0.0.0 tcb-beauty.net
@@ -1783,6 +1789,7 @@
 0.0.0.0 www.alpha-note.co.jp
 0.0.0.0 www.alphamap.com
 0.0.0.0 www.alsi.co.jp
+0.0.0.0 www.amafair.com
 0.0.0.0 www.amanofd.jp
 0.0.0.0 www.amd.com
 0.0.0.0 www.americanmeat.jp
@@ -1874,6 +1881,7 @@
 0.0.0.0 www.brother.co.jp
 0.0.0.0 www.bscycle.co.jp
 0.0.0.0 www.bsigroup.com
+0.0.0.0 www.bubu-jp.com
 0.0.0.0 www.budoo-wedding.com
 0.0.0.0 www.buil-repo.com
 0.0.0.0 www.bulksports.com
@@ -2051,6 +2059,7 @@
 0.0.0.0 www.epson.jp
 0.0.0.0 www.esforta.co.jp
 0.0.0.0 www.eslead.co.jp
+0.0.0.0 www.esplanade.com
 0.0.0.0 www.etungo.com.tw
 0.0.0.0 www.ex-anpi.com
 0.0.0.0 www.eyecity.jp
@@ -2311,6 +2320,7 @@
 0.0.0.0 www.jpcast.japanpost.jp
 0.0.0.0 www.jplum.com
 0.0.0.0 www.jps-pharm.com
+0.0.0.0 www.jr-odekake.net
 0.0.0.0 www.jreast.co.jp
 0.0.0.0 www.jri.co.jp
 0.0.0.0 www.jsa.or.jp
@@ -2758,6 +2768,7 @@
 0.0.0.0 www.roombra.jp
 0.0.0.0 www.rooms-taishodo.co.jp
 0.0.0.0 www.ropepartner.com
+0.0.0.0 www.rosemont-swiss.com
 0.0.0.0 www.roudousaigai.jp
 0.0.0.0 www.rtyfghgroup.com
 0.0.0.0 www.ruxur.net
@@ -2862,6 +2873,7 @@
 0.0.0.0 www.solaseedair.jp
 0.0.0.0 www.songdream-blog.jp
 0.0.0.0 www.sonpo.or.jp
+0.0.0.0 www.sony.jp
 0.0.0.0 www.sonysonpo.co.jp
 0.0.0.0 www.sophos.com
 0.0.0.0 www.sougi-soudan.jp
@@ -2932,6 +2944,7 @@
 0.0.0.0 www.tgsc.tokyo
 0.0.0.0 www.the-cushion.com
 0.0.0.0 www.the-pathfinder.com
+0.0.0.0 www.themalaygolfer.com
 0.0.0.0 www.thepiel.com
 0.0.0.0 www.thermondo.de
 0.0.0.0 www.ticketlife.jp
