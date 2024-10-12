@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 11 October 2024
+# Last modified: 12 October 2024
 #
 
 # [広告全般]
@@ -23,6 +23,7 @@
 0.0.0.0 6699.jp
 0.0.0.0 78kanteikyoku.jp
 0.0.0.0 7ticket.jp
+0.0.0.0 88423.co.jp
 0.0.0.0 8proud.jp
 0.0.0.0 9000.jp
 0.0.0.0 a-c-as.com
@@ -582,6 +583,7 @@
 0.0.0.0 hidanosake-hip.com
 0.0.0.0 hijutaku.j-anshin.co.jp
 0.0.0.0 hikaku-rank.net
+0.0.0.0 himeji-greenfamily.net
 0.0.0.0 hinata.me
 0.0.0.0 hiraiart-gallery.jp
 0.0.0.0 hirakata-ryutsu.com
@@ -666,6 +668,7 @@
 0.0.0.0 investsspot.com
 0.0.0.0 iroiro2008.net
 0.0.0.0 irumo.docomo.ne.jp
+0.0.0.0 iryou-ishi-hatarakikata.mhlw.go.jp
 0.0.0.0 ishi-career.jp
 0.0.0.0 ishikansyu.com
 0.0.0.0 islewhite.com
@@ -847,6 +850,7 @@
 0.0.0.0 kudan-tokyo.jp
 0.0.0.0 kumajob.jp
 0.0.0.0 kumashirofarm.stores.jp
+0.0.0.0 kumonfranchise.sg
 0.0.0.0 kuradashi.jp
 0.0.0.0 kurashigoto.hokkaido.jp
 0.0.0.0 kurashinobenriyasan.com
@@ -1130,6 +1134,7 @@
 0.0.0.0 openhub.ntt.com
 0.0.0.0 order.ymobile.jp
 0.0.0.0 orgel-gallery.jp
+0.0.0.0 orientstar-watch.com
 0.0.0.0 original-champagne.net
 0.0.0.0 oripa.clove.jp
 0.0.0.0 ortho-mouthpiece-jp.life
@@ -1550,6 +1555,7 @@
 0.0.0.0 takadaseed.com
 0.0.0.0 takamatsu-marugame-bankin.com
 0.0.0.0 takamatsu.bess.jp
+0.0.0.0 takarada-metal.com
 0.0.0.0 takarado.co.jp
 0.0.0.0 takasaki.mitsuoka-dealer.com
 0.0.0.0 takayamado.shop
@@ -1927,6 +1933,7 @@
 0.0.0.0 www.chado-kentei.com
 0.0.0.0 www.chalier.jp
 0.0.0.0 www.challeath.com
+0.0.0.0 www.changiairport.com
 0.0.0.0 www.check-roudou.mhlw.go.jp
 0.0.0.0 www.cheer-sec.co.jp
 0.0.0.0 www.chen-mama.com.tw
@@ -2487,6 +2494,7 @@
 0.0.0.0 www.mhlw.go.jp
 0.0.0.0 www.micconsulting.jp
 0.0.0.0 www.michiluno.jp
+0.0.0.0 www.miinhair.com
 0.0.0.0 www.mikahara.com
 0.0.0.0 www.miki-re.com
 0.0.0.0 www.mikimoto.com
@@ -2784,6 +2792,7 @@
 0.0.0.0 www.sanchoku-niigata.com
 0.0.0.0 www.sanco.co.jp
 0.0.0.0 www.sangitan.ac.jp
+0.0.0.0 www.sankeilink.com
 0.0.0.0 www.sanoya.co.jp
 0.0.0.0 www.sanpou-s.net
 0.0.0.0 www.sansei-l.co.jp
@@ -2802,6 +2811,7 @@
 0.0.0.0 www.sbs-toshibalogistics.co.jp
 0.0.0.0 www.sc.ouj.ac.jp
 0.0.0.0 www.scan.co.uk
+0.0.0.0 www.scholarly.sg
 0.0.0.0 www.sears.jp
 0.0.0.0 www.seed.co.jp
 0.0.0.0 www.seibuprince.com
