@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 12 October 2024
+# Last modified: 13 October 2024
 #
 
 # [広告全般]
@@ -107,6 +107,7 @@
 0.0.0.0 art-logis.com
 0.0.0.0 art-mocha.net
 0.0.0.0 art.nikkei.com
+0.0.0.0 artary.sg
 0.0.0.0 artclient.jp
 0.0.0.0 artdive.net
 0.0.0.0 artfrall-kaiga.jp
@@ -1178,6 +1179,7 @@
 0.0.0.0 pitat-house.info
 0.0.0.0 pitathouse-nishinagahori.jp
 0.0.0.0 plan.117.co.jp
+0.0.0.0 planetarium-cafebar-misora.owst.jp
 0.0.0.0 platte.jp
 0.0.0.0 plus.tobemori.com
 0.0.0.0 point.zensho.co.jp
@@ -1682,6 +1684,7 @@
 0.0.0.0 view.adjust.com
 0.0.0.0 villa-hamanako.jp
 0.0.0.0 violetllama42.sakura.ne.jp
+0.0.0.0 vitalebarberiscanonico.jp
 0.0.0.0 vo-metsoffice.jp
 0.0.0.0 vook.vc
 0.0.0.0 voyage.asukacruise.co.jp
@@ -1777,6 +1780,7 @@
 0.0.0.0 www.afgc.co.jp
 0.0.0.0 www.aflac.co.jp
 0.0.0.0 www.afr-web.co.jp
+0.0.0.0 www.agentx.so
 0.0.0.0 www.agoda.com
 0.0.0.0 www.ahiruyaminimal.com
 0.0.0.0 www.ai2010.net
@@ -2009,6 +2013,7 @@
 0.0.0.0 www.dakimakurakobo.jp
 0.0.0.0 www.deaf-tryout24.para-athlete.tokyo
 0.0.0.0 www.decorte.com
+0.0.0.0 www.delonghi.com
 0.0.0.0 www.denray.com
 0.0.0.0 www.dentsu.ed.jp
 0.0.0.0 www.difstory.com
@@ -2180,6 +2185,7 @@
 0.0.0.0 www.haneda.jalcity.co.jp
 0.0.0.0 www.hankyu.co.jp
 0.0.0.0 www.hannan-u.ac.jp
+0.0.0.0 www.hanshow.com
 0.0.0.0 www.happiness-direct.com
 0.0.0.0 www.happy-mealkit.com
 0.0.0.0 www.happy-semi.com
@@ -2920,6 +2926,7 @@
 0.0.0.0 www.t-fal.co.jp
 0.0.0.0 www.t-rough.jp
 0.0.0.0 www.tac-school.co.jp
+0.0.0.0 www.taiho.co.jp
 0.0.0.0 www.taishu.co.jp
 0.0.0.0 www.taiwan-panorama.com
 0.0.0.0 www.taiyakan.co.jp
