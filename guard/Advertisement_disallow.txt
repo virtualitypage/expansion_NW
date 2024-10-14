@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 13 October 2024
+# Last modified: 14 October 2024
 #
 
 # [広告全般]
@@ -2058,6 +2058,7 @@
 0.0.0.0 www.edix-expo.jp
 0.0.0.0 www.eheya.net
 0.0.0.0 www.ehime-ben.or.jp
+0.0.0.0 www.ehime-shogai.net
 0.0.0.0 www.eldenring.jp
 0.0.0.0 www.elder.jeed.go.jp
 0.0.0.0 www.elegance-cosmetics.com
@@ -2500,6 +2501,7 @@
 0.0.0.0 www.mhlw.go.jp
 0.0.0.0 www.micconsulting.jp
 0.0.0.0 www.michiluno.jp
+0.0.0.0 www.mignon-eyelash-recruit.com
 0.0.0.0 www.miinhair.com
 0.0.0.0 www.mikahara.com
 0.0.0.0 www.miki-re.com
@@ -2519,6 +2521,7 @@
 0.0.0.0 www.mitsutake.co.jp
 0.0.0.0 www.mitte.ne.jp
 0.0.0.0 www.miyakoda.co.jp
+0.0.0.0 www.miyakoink.co.jp
 0.0.0.0 www.miyanaka.co.jp
 0.0.0.0 www.mizuho-re.co.jp
 0.0.0.0 www.mobit.ne.jp
@@ -3147,6 +3150,7 @@
 0.0.0.0 yg-tax.net
 0.0.0.0 yhtop.co
 0.0.0.0 yodomachi-cycling2024.com
+0.0.0.0 yoridoko-kanko.co.jp
 0.0.0.0 yorkie.breeders.jp
 0.0.0.0 yoshino-gypsum.com
 0.0.0.0 yotasteshop.com
