@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 14 October 2024
+# Last modified: 15 October 2024
 #
 
 # [広告全般]
@@ -198,6 +198,7 @@
 0.0.0.0 bunge.com
 0.0.0.0 buppan-monococo.com
 0.0.0.0 burg-chintai.com
+0.0.0.0 business.form-mailer.jp
 0.0.0.0 business.google.com
 0.0.0.0 bussaiyo.entetsu.co.jp
 0.0.0.0 buy.itreview.jp
@@ -1043,6 +1044,7 @@
 0.0.0.0 mystyhub.com
 0.0.0.0 myvketofficial.cloud.vket.com
 0.0.0.0 naganokaitai.net
+0.0.0.0 nagoya-camera.mikawa.ne.jp
 0.0.0.0 nagoya.ace-clinic.com
 0.0.0.0 nakanodental-cl.com
 0.0.0.0 nanatsuya-radical-yasumitsu.sai-soku.jp
@@ -1237,6 +1239,7 @@
 0.0.0.0 realplace-net.com
 0.0.0.0 rebgil.funyoursjapan.pink
 0.0.0.0 reccet-gym.com
+0.0.0.0 recruit.fordays.jp
 0.0.0.0 recruit.meccs.co.jp
 0.0.0.0 recruit.nds-g.co.jp
 0.0.0.0 recruit.takuichi.okinawa
@@ -1302,6 +1305,7 @@
 0.0.0.0 sanriku-jouban-umeemon.jp
 0.0.0.0 sapporo-nissan.com
 0.0.0.0 sapporotoyota-northernbox.jp
+0.0.0.0 sasaki-kougyo.com
 0.0.0.0 sasatto.jp
 0.0.0.0 sauna-rezone.com
 0.0.0.0 saunavi.net
@@ -1696,6 +1700,7 @@
 0.0.0.0 warabimochipompom.com
 0.0.0.0 washington.jp
 0.0.0.0 watch-yoshida.co.jp
+0.0.0.0 watchrepair.com.sg
 0.0.0.0 watchsalon-fukuoka.com
 0.0.0.0 web-cam.jp
 0.0.0.0 web.anabuki-college.ac.jp
@@ -1857,6 +1862,7 @@
 0.0.0.0 www.ayano-craft.co.jp
 0.0.0.0 www.az-art.net
 0.0.0.0 www.b-conplaza.jp
+0.0.0.0 www.balbix.com
 0.0.0.0 www.balmuda.com
 0.0.0.0 www.bank-daiwa.co.jp
 0.0.0.0 www.bayfm.co.jp
@@ -2089,6 +2095,7 @@
 0.0.0.0 www.feather.co.jp
 0.0.0.0 www.feels-trend.site
 0.0.0.0 www.felicitycontrol.com
+0.0.0.0 www.ferry-sunflower.co.jp
 0.0.0.0 www.fetnet.net
 0.0.0.0 www.fevertree.jp
 0.0.0.0 www.fiat-jp.com
@@ -2113,6 +2120,7 @@
 0.0.0.0 www.fujicorporation.com
 0.0.0.0 www.fujiiso.co.jp
 0.0.0.0 www.fujiki-orthod.com
+0.0.0.0 www.fujioh.shop
 0.0.0.0 www.fujisan-climb.jp
 0.0.0.0 www.fujitsu.com
 0.0.0.0 www.fukagawaganka.net
@@ -2176,6 +2184,7 @@
 0.0.0.0 www.h-bd.co.jp
 0.0.0.0 www.hacobell.com
 0.0.0.0 www.hakata-ieh.jp
+0.0.0.0 www.hakken.pro
 0.0.0.0 www.hakodateyama.com
 0.0.0.0 www.hakuaisha.jp
 0.0.0.0 www.hamada-juku.com
@@ -2281,6 +2290,7 @@
 0.0.0.0 www.inter-edu.com
 0.0.0.0 www.invesco.com
 0.0.0.0 www.io-shin.com
+0.0.0.0 www.ipet-direct.com
 0.0.0.0 www.ipros.jp
 0.0.0.0 www.iput.ac.jp
 0.0.0.0 www.irisplaza.co.jp
@@ -2461,6 +2471,7 @@
 0.0.0.0 www.mandarinoriental.com
 0.0.0.0 www.manga1.jp
 0.0.0.0 www.markandlona.com
+0.0.0.0 www.marriott.com
 0.0.0.0 www.maru.jp
 0.0.0.0 www.maruhan-lp.net
 0.0.0.0 www.maruhinokagiana.com
@@ -2633,6 +2644,7 @@
 0.0.0.0 www.oec.okaya.co.jp
 0.0.0.0 www.office-freelive.com
 0.0.0.0 www.officedeyasai.jp
+0.0.0.0 www.ohkawa-sub.com
 0.0.0.0 www.ohken.co.jp
 0.0.0.0 www.oil-factory.com
 0.0.0.0 www.oisix.com
