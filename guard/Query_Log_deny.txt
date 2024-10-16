@@ -4,7 +4,7 @@
 # References: Query Log
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Query_Log_deny.txt
 #
-# Last modified: 19 August 2024
+# Last modified: 16 October 2024
 #
 
 # [クエリ・ログで検出された広告]
@@ -33,6 +33,10 @@
 0.0.0.0 api16-access-gcp.pangle-b.ioio.tail06b0f8.ts.net
 0.0.0.0 api16-access-sg.pangle.io
 0.0.0.0 apis.naver.com
+0.0.0.0 app.adjust.com
+0.0.0.0 app.adjust.com.lan
+0.0.0.0 app.adjust.com.tail06b0f8.ts.net
+0.0.0.0 app.adjust.io
 0.0.0.0 app.adjust.net.in
 0.0.0.0 app.adjust.net.in.lan
 0.0.0.0 app.adjust.net.in.tail06b0f8.ts.net
