@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 15 October 2024
+# Last modified: 16 October 2024
 #
 
 # [広告全般]
@@ -94,9 +94,6 @@
 0.0.0.0 apamanshop-tennoji.net
 0.0.0.0 apexgirls.neorigin.com
 0.0.0.0 apollostation-chubu.com
-0.0.0.0 app.adjust.com
-0.0.0.0 app.adjust.com.lan
-0.0.0.0 app.adjust.com.tail06b0f8.ts.net
 0.0.0.0 appleone.shop
 0.0.0.0 apply.suu.edu
 0.0.0.0 apps.shopify.com
@@ -169,6 +166,7 @@
 0.0.0.0 bighornlaw.com
 0.0.0.0 bike-news.jp
 0.0.0.0 biryuhyakkaweb.jp
+0.0.0.0 bistria-uotalian.owst.jp
 0.0.0.0 bix.exparo.com
 0.0.0.0 bizhint.jp
 0.0.0.0 bizreach.biz
@@ -822,6 +820,7 @@
 0.0.0.0 kitamoto.click
 0.0.0.0 kitashinnchiushinozennpremium.owst.jp
 0.0.0.0 kk-takada.com
+0.0.0.0 klimt-cairnhill.contact-us.sg
 0.0.0.0 koala.com
 0.0.0.0 kobac-tenpaku01.nagoya
 0.0.0.0 kobe-invisalign.jp
@@ -1006,6 +1005,7 @@
 0.0.0.0 miraiyu-career.com
 0.0.0.0 misawa-chugoku.jp
 0.0.0.0 misawa-kinki.jp
+0.0.0.0 mishima-jrtakatsuki.com
 0.0.0.0 mishima-minase.com
 0.0.0.0 mishimakagu.com
 0.0.0.0 mito-chuoh.com
@@ -1090,6 +1090,7 @@
 0.0.0.0 nishispo.nishinippon.co.jp
 0.0.0.0 nittobest-online.net
 0.0.0.0 nix-water.jp
+0.0.0.0 nnr-h.com
 0.0.0.0 no1-creditcard.com
 0.0.0.0 noj-kawanishi.com
 0.0.0.0 northernterritory.com
@@ -1146,6 +1147,7 @@
 0.0.0.0 osaka-hanalangue.com
 0.0.0.0 osaka-jakunen-chiki.mhlw.go.jp
 0.0.0.0 osaka-pleats-amido.com
+0.0.0.0 osaka.letsgojp.com
 0.0.0.0 osaka.seikatsuclub.coop
 0.0.0.0 osakastationcity.com
 0.0.0.0 osho-research.co.jp
@@ -1221,6 +1223,7 @@
 0.0.0.0 qb-recruit.com
 0.0.0.0 qjin7.com
 0.0.0.0 quanshuiwetmarket.com
+0.0.0.0 questetra.com
 0.0.0.0 quick-royal.misseyedor.jp
 0.0.0.0 quick-sidejob.com
 0.0.0.0 r-kaden.site
@@ -1544,6 +1547,7 @@
 0.0.0.0 survey.qlifeweb.jp
 0.0.0.0 sus-recruit.com
 0.0.0.0 sushitech-real.metro.tokyo.lg.jp
+0.0.0.0 sustineri.co.jp
 0.0.0.0 sutekinajinsei.jp
 0.0.0.0 suumo.jp
 0.0.0.0 suzuki-ballet-studio.com
