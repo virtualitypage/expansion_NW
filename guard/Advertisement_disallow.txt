@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 16 October 2024
+# Last modified: 17 October 2024
 #
 
 # [広告全般]
@@ -79,6 +79,7 @@
 0.0.0.0 alpsoutdoorsummit.jp
 0.0.0.0 ampmedia.jp
 0.0.0.0 anajinzai.recruitment.jp
+0.0.0.0 ananti.kr
 0.0.0.0 ananweb.jp
 0.0.0.0 anchorbolt.base.shop
 0.0.0.0 and-conote.powergrid.chuden.co.jp
@@ -367,6 +368,7 @@
 0.0.0.0 ec-myprecious.jp
 0.0.0.0 ec.petfoods.shop
 0.0.0.0 ec.store.nec.co.jp
+0.0.0.0 echool.tachibana-u.ac.jp
 0.0.0.0 eco-life-smile.com
 0.0.0.0 eco-mon.jp
 0.0.0.0 efex.co.jp
@@ -521,6 +523,7 @@
 0.0.0.0 gooday.nikkei.co.jp
 0.0.0.0 googirl.jp
 0.0.0.0 goooodhome.gifu.jp
+0.0.0.0 gorillada.automotive.panasonic.com
 0.0.0.0 gorogoromanga.jp
 0.0.0.0 gpc-gr.com
 0.0.0.0 gradsguide.jp
@@ -776,6 +779,7 @@
 0.0.0.0 kando.tv
 0.0.0.0 kanekaq10pr.com
 0.0.0.0 kankomirai-ouen.jp
+0.0.0.0 kansai-boatshow.jp
 0.0.0.0 kansai-elevator.co.jp
 0.0.0.0 karadak.com
 0.0.0.0 karakubuy.com
@@ -839,6 +843,7 @@
 0.0.0.0 koshien.hanshin.co.jp
 0.0.0.0 kotilabo.com
 0.0.0.0 kotobapark.889100.com
+0.0.0.0 kotobukisannomiya.owst.jp
 0.0.0.0 kottoukaitori-ohgiya.jp
 0.0.0.0 kouju.mabuchi.co.jp
 0.0.0.0 koukoukojitsu.com
@@ -1074,6 +1079,7 @@
 0.0.0.0 nextpro.shop
 0.0.0.0 ngdl.jp
 0.0.0.0 ni-deau.jp
+0.0.0.0 niche-strategy.co.jp
 0.0.0.0 nico-d.net
 0.0.0.0 nihonjyuutaku.co.jp
 0.0.0.0 nihonkeizaishindoi.com
@@ -1398,6 +1404,7 @@
 0.0.0.0 service.ocn.ne.jp
 0.0.0.0 seta-clinic.com
 0.0.0.0 setupnext-project.com
+0.0.0.0 sg.steelcase.com
 0.0.0.0 sg.tcacoustic.asia
 0.0.0.0 shaktimat.co.jp
 0.0.0.0 sharkclean.co.uk
@@ -1467,6 +1474,7 @@
 0.0.0.0 smart-supply.org
 0.0.0.0 smartcool-rinku.shop
 0.0.0.0 smarthr.jp
+0.0.0.0 smartmeal.co.jp
 0.0.0.0 smartvision1999.com
 0.0.0.0 smile-bin.com
 0.0.0.0 smile-glamping.com
@@ -2265,6 +2273,7 @@
 0.0.0.0 www.i879.com
 0.0.0.0 www.ibexair.co.jp
 0.0.0.0 www.ice-yoji.com
+0.0.0.0 www.ichijo-homeloan.jp
 0.0.0.0 www.ichijo.co.jp
 0.0.0.0 www.ichiyanagi-sougu.co.jp
 0.0.0.0 www.icsics.co.jp
@@ -3022,6 +3031,7 @@
 0.0.0.0 www.totalrepair-fukasawa.com
 0.0.0.0 www.town.okuma.fukushima.jp
 0.0.0.0 www.toyama-clean.com
+0.0.0.0 www.toyo.ac.jp
 0.0.0.0 www.toyota-cn-gifu.co.jp
 0.0.0.0 www.toyotetsu.jp
 0.0.0.0 www.tpishida.co.jp
