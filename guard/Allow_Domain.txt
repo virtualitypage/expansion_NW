@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Allow_Domain.txt
 #
-# Last modified: 16 October 2024
+# Last modified: 17 October 2024
 #
 
 # [許可リクエスト]
@@ -98,7 +98,6 @@
 @@||www.e-mail.jp
 @@||www.google-analytics.com
 @@||www.google.co.jp
-@@||www.google.com
 @@||www.googleadservices.com
 @@||www.jabank.org
 @@||www.kochinews.co.jp
