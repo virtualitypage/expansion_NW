@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 17 October 2024
+# Last modified: 18 October 2024
 #
 
 # [広告全般]
@@ -57,6 +57,7 @@
 0.0.0.0 aflart.net
 0.0.0.0 aflart8739.com
 0.0.0.0 agri.mynavi.jp
+0.0.0.0 ahamo.com
 0.0.0.0 ai-koumuten.info
 0.0.0.0 aibo.sony.jp
 0.0.0.0 aigarden.com
@@ -229,6 +230,7 @@
 0.0.0.0 cavalier.breeders.jp
 0.0.0.0 cavedescript.com
 0.0.0.0 cbhpage.com
+0.0.0.0 cdp-japan.jp
 0.0.0.0 cell-diagnostics.co.jp
 0.0.0.0 celvoke.com
 0.0.0.0 ceremony-kokoro.jp
@@ -295,6 +297,7 @@
 0.0.0.0 curebo.tokyo
 0.0.0.0 cw-cl.jp
 0.0.0.0 cybersecurity-100.com
+0.0.0.0 cybozu-office.com
 0.0.0.0 d-shinkou.com
 0.0.0.0 dachs.breeders.jp
 0.0.0.0 daiei-corporation.com
@@ -321,6 +324,7 @@
 0.0.0.0 dining-masayoshi.com
 0.0.0.0 diplomat-jpn.com
 0.0.0.0 direct-teleshop.jp
+0.0.0.0 direct.ajinomoto.co.jp
 0.0.0.0 direct.eizo.co.jp
 0.0.0.0 distance.media
 0.0.0.0 dive-oita.com
@@ -382,6 +386,7 @@
 0.0.0.0 elbe.bmw.jp
 0.0.0.0 elegantevita.co.jp
 0.0.0.0 emifull.jp
+0.0.0.0 en-ambi.com
 0.0.0.0 en-gage.net
 0.0.0.0 enemacoffeereview.com
 0.0.0.0 eneos-cl.com
@@ -547,6 +552,7 @@
 0.0.0.0 h.cgg4game.com
 0.0.0.0 haco-renovation.jp
 0.0.0.0 hacochef.cqree.jp
+0.0.0.0 hadanara-trend.com
 0.0.0.0 hairvino.com
 0.0.0.0 hakabanogarou.jp
 0.0.0.0 hakkaexam.hakka.gov.tw
@@ -950,6 +956,7 @@
 0.0.0.0 m019.forseasons-dealer.jp
 0.0.0.0 m071.gstcoltd.jp
 0.0.0.0 m121.mitsuoka-osaka.jp
+0.0.0.0 ma-dodai.daido-life.co.jp
 0.0.0.0 machibiz.jp
 0.0.0.0 madakana-edohaku.jp
 0.0.0.0 madama-hada.jp
@@ -1329,6 +1336,7 @@
 0.0.0.0 sb-danidaidanidanidanidanidanidanidanidanidanidani.discover-news.tokyo
 0.0.0.0 sb-drcula-white.service-info.jp
 0.0.0.0 sb-fukugyou.discover-news.tokyo
+0.0.0.0 sb-hasu.myown-page.com
 0.0.0.0 sb-hip-happy.ourservice.jp
 0.0.0.0 sb-hizakosi-kenko.myown-page.com
 0.0.0.0 sb-hizanosuuke.newsanything.tokyo
@@ -1549,6 +1557,7 @@
 0.0.0.0 sumikalog.bess.jp
 0.0.0.0 sumisho-tatemono-chuukai.net
 0.0.0.0 sumiyaginzo.owst.jp
+0.0.0.0 sumusite.sekisuihouse.co.jp
 0.0.0.0 sunks-rentacar.com
 0.0.0.0 super-copy-brand.com
 0.0.0.0 supi.owned.media
@@ -1624,6 +1633,7 @@
 0.0.0.0 tohoku-kizunamatsuri.jp
 0.0.0.0 tohshin.net
 0.0.0.0 tokitomo-tatami-lp.jp
+0.0.0.0 tokuyuuchin-kyoto.jp
 0.0.0.0 tokyo-medical.jp
 0.0.0.0 tokyo-seminar-studio.com
 0.0.0.0 tokyoshigoto-young.jp
@@ -1753,6 +1763,7 @@
 0.0.0.0 wp.i-voce.jp
 0.0.0.0 www.0038.co.jp
 0.0.0.0 www.0101.co.jp
+0.0.0.0 www.0120-70-7777.jp
 0.0.0.0 www.0120058139.com
 0.0.0.0 www.0551353133.com
 0.0.0.0 www.114154.com
@@ -1865,12 +1876,14 @@
 0.0.0.0 www.atc-ihpc.com
 0.0.0.0 www.ateliermarriage.com
 0.0.0.0 www.athome.co.jp
+0.0.0.0 www.atlas-web.jp
 0.0.0.0 www.atpress.ne.jp
 0.0.0.0 www.audi-kusunoki.jp
 0.0.0.0 www.audiotech.jp
 0.0.0.0 www.austria.info
 0.0.0.0 www.autotrace.info
 0.0.0.0 www.aws-pairring.jp
+0.0.0.0 www.axa.co.jp
 0.0.0.0 www.ayano-craft.co.jp
 0.0.0.0 www.az-art.net
 0.0.0.0 www.b-conplaza.jp
@@ -2080,6 +2093,7 @@
 0.0.0.0 www.eldenring.jp
 0.0.0.0 www.elder.jeed.go.jp
 0.0.0.0 www.elegance-cosmetics.com
+0.0.0.0 www.emberstoria.jp
 0.0.0.0 www.enecho.meti.go.jp
 0.0.0.0 www.enemaru.com
 0.0.0.0 www.enhousing.jp
@@ -2199,6 +2213,7 @@
 0.0.0.0 www.hakken.pro
 0.0.0.0 www.hakodateyama.com
 0.0.0.0 www.hakuaisha.jp
+0.0.0.0 www.hakuhodody-media.co.jp
 0.0.0.0 www.hamada-juku.com
 0.0.0.0 www.hamigaki.gr.jp
 0.0.0.0 www.han-ei.jp
@@ -2331,6 +2346,7 @@
 0.0.0.0 www.janfusun.com.tw
 0.0.0.0 www.japan-it.jp
 0.0.0.0 www.japanenergyevent.com
+0.0.0.0 www.jcb.jp
 0.0.0.0 www.jcom.co.jp
 0.0.0.0 www.jeed.go.jp
 0.0.0.0 www.jex-inc.co.jp
@@ -2542,6 +2558,7 @@
 0.0.0.0 www.mitsubishi-motors.co.jp
 0.0.0.0 www.mitsubishielectric.co.jp
 0.0.0.0 www.mitsui.com
+0.0.0.0 www.mitsuihome.co.jp
 0.0.0.0 www.mitsutake.co.jp
 0.0.0.0 www.mitte.ne.jp
 0.0.0.0 www.miyakoda.co.jp
@@ -2659,6 +2676,7 @@
 0.0.0.0 www.officedeyasai.jp
 0.0.0.0 www.ohkawa-sub.com
 0.0.0.0 www.ohken.co.jp
+0.0.0.0 www.ohkifudosan.co.jp
 0.0.0.0 www.oil-factory.com
 0.0.0.0 www.oisix.com
 0.0.0.0 www.oit.ac.jp
@@ -2814,6 +2832,7 @@
 0.0.0.0 www.roudousaigai.jp
 0.0.0.0 www.rtyfghgroup.com
 0.0.0.0 www.ruxur.net
+0.0.0.0 www.ryukakusan.co.jp
 0.0.0.0 www.s-re.jp
 0.0.0.0 www.saatva.com
 0.0.0.0 www.safra.sg
