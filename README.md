@@ -1,4 +1,4 @@
-![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v3.3.7-blue?style=flat)
+![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v3.4.0-blue?style=flat)
 ![Release Date](https://img.shields.io/badge/Release_Date-October_13_2024-green?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualitypage/expansion_NW)
 
@@ -11,6 +11,7 @@
   - [Download files from a private Github repository](#github-のプライベートリポジトリからファイルをダウンロードする)
   - [Use WakeOnLAN to activate devices in the network](#Wake-On-LAN-を使ってネットワーク内の装置を起動する)
   - [How to add a cache invalidation setting for internal web sites](#内部-Web-サイトにおけるキャッシュ無効化設定の追加方法)
+  - [Computer to computer file transfer using FTP](#FTP-を使用したコンピュータ間ファイル転送)
 - [Document - Troubleshooting](#document---troubleshooting)
   - [Hide irregular log output](#不規則なログ出力を非表示にする)
   - [Hide irregular log output - Displays normal cron logs and hides target logs](#不規則なログ出力を非表示にする---通常の-cron-ログを表示しつつ対象のログを非表示にする)
@@ -549,6 +550,76 @@ nginx: configuration file /etc/nginx/nginx.conf test is successful
 　`$ /etc/init.d/nginx restart`
 
 6. JavaScript やその他リソースを更新した際、ブラウザ上で表示されるページが最新のものになっていることを確認して下さい。
+
+---
+
+### FTP を使用したコンピュータ間ファイル転送
+
+1. ターミナルを開いて SSH でルーターにログインします。
+
+　`$ ssh root@{ip_address|host_name}`
+
+2. 以下のコマンドを実行します。
+
+　`$ opkg update`
+
+　`$ opkg install vsftpd`
+
+3. 以下のコマンドを実行して `"listen=YES"` を追記します。
+
+　`$ vi /etc/vsftpd.conf`
+
+```
+#Initialized
+background=YES
+#listen=NO // コメントアウト
+listen=YES // 追記
+```
+
+4. 以下のコマンドを実行して FTP サーバを起動します。
+
+　`$ /etc/init.d/vsftpd reload`
+
+　`$ /etc/init.d/vsftpd start`
+
+5. FTP ソリューション [FileZilla](https://filezilla-project.org/download.php?type=client) で以下の設定を行い、FTP サーバー(GL-MT3000)に接続します。 * 使用するには操作端末へのインストールが必要
+
+```
+プロトコル: FTP - ファイル転送プロトコル
+ホスト: 192.168.8.100 // GL-MT3000 のIP アドレス
+ポート: (ここは空欄)
+暗号化: 使用可能なら明示的な FTP over TLS を使用
+-------------------------------------------
+ログオンタイプ: パスワードを尋ねる
+ユーザー: user // 登録されているユーザー名
+パスワード: (ここは空欄)
+```
+
+6. 接続時、以下のポップアップが表示されますが「OK」で接続を続行します。* 下記は一例です
+
+```
+このサーバーは FTP over TLS をサポートしていません。
+続行すると、パスワードとファイルはインターネット経由でそのまま送信されます。
+
+  ホスト: 192.168.8.100
+  ポート: 21
+```
+
+7. FileZilla 上で、以下のようなメッセージが出力されたら完了です。 * 下記は一例です
+
+```
+状態:          	192.168.8.100:21 に接続中...
+状態:         	接続を確立しました。ウェルカム メッセージを待っています...
+状態:          	FTP over TLS がサポートされていないセキュアでないサーバーです
+状態:          	ログインしました
+状態:          	ディレクトリ リストを取得中...
+状態:          	サーバーのタイムゾーン オフセットを計算しています...
+状態:          	Timezone offset of server is 0 seconds.
+```
+
+8. FTP サーバを停止する場合は、以下のコマンドを入力します。
+
+　`$ /etc/init.d/vsftpd stop`
 
 ## Document - Troubleshooting
 
