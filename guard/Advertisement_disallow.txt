@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 18 October 2024
+# Last modified: 19 October 2024
 #
 
 # [広告全般]
@@ -386,6 +386,7 @@
 0.0.0.0 elbe.bmw.jp
 0.0.0.0 elegantevita.co.jp
 0.0.0.0 emifull.jp
+0.0.0.0 employment.en-japan.com
 0.0.0.0 en-ambi.com
 0.0.0.0 en-gage.net
 0.0.0.0 enemacoffeereview.com
@@ -424,6 +425,7 @@
 0.0.0.0 famousbbq.com
 0.0.0.0 fan-blogs.com
 0.0.0.0 fanddf.net
+0.0.0.0 fashionbox.tkj.jp
 0.0.0.0 fasteasy.io
 0.0.0.0 fc.e-daikoku.com
 0.0.0.0 fctl.co.jp
@@ -675,12 +677,14 @@
 0.0.0.0 invest.takuto-investment.com
 0.0.0.0 investor-a.com
 0.0.0.0 investsspot.com
+0.0.0.0 ippachi-tennoji.owst.jp
 0.0.0.0 iroiro2008.net
 0.0.0.0 irumo.docomo.ne.jp
 0.0.0.0 iryou-ishi-hatarakikata.mhlw.go.jp
 0.0.0.0 ishi-career.jp
 0.0.0.0 ishikansyu.com
 0.0.0.0 islewhite.com
+0.0.0.0 issyou-nishinakajima.owst.jp
 0.0.0.0 istanbul.goturkiye.com
 0.0.0.0 it-shien.smrj.go.jp
 0.0.0.0 itami-hagukumi.work
@@ -864,6 +868,7 @@
 0.0.0.0 kumashirofarm.stores.jp
 0.0.0.0 kumonfranchise.sg
 0.0.0.0 kuradashi.jp
+0.0.0.0 kurakula.net
 0.0.0.0 kurashigoto.hokkaido.jp
 0.0.0.0 kurashinobenriyasan.com
 0.0.0.0 kuri.shirokawa.jp
@@ -876,6 +881,7 @@
 0.0.0.0 kyomono-sampo.jp
 0.0.0.0 kyoto-hatoya.jp
 0.0.0.0 kyoto-kimonorental.com
+0.0.0.0 kyoto.brightonhotels.co.jp
 0.0.0.0 kyotofu-shoene.jp
 0.0.0.0 kyotomk-recruit.jp
 0.0.0.0 kyotoseika-nara-shaken.com
@@ -1183,6 +1189,7 @@
 0.0.0.0 pengy-magic.penguin-colony.net
 0.0.0.0 persol-hrpartners.co.jp
 0.0.0.0 personal.canon.jp
+0.0.0.0 petbakery.jp
 0.0.0.0 petelect.jp
 0.0.0.0 petfoods.shop
 0.0.0.0 petrepi.shop
@@ -1441,6 +1448,7 @@
 0.0.0.0 shisas-cafe-bbq.com
 0.0.0.0 shizuclear.jp
 0.0.0.0 shizuoka-norin-u.ac.jp
+0.0.0.0 shizuoka-onpaku.jp
 0.0.0.0 shoesiland.com
 0.0.0.0 shoka-stick.jp
 0.0.0.0 shop-list.com
@@ -2160,6 +2168,7 @@
 0.0.0.0 www.fundex.co.jp
 0.0.0.0 www.fureai-hometown.jp
 0.0.0.0 www.furugioroshi.com
+0.0.0.0 www.furusato-tax.jp
 0.0.0.0 www.futakiya.com
 0.0.0.0 www.g-search.or.jp
 0.0.0.0 www.g-shes.com
@@ -2754,6 +2763,7 @@
 0.0.0.0 www.pjaowl.com
 0.0.0.0 www.plan-c.co.jp
 0.0.0.0 www.playstation.com
+0.0.0.0 www.plumsteadvilleinn.com
 0.0.0.0 www.pluscasa.com
 0.0.0.0 www.plusone-re.com
 0.0.0.0 www.pm-kentei.com
