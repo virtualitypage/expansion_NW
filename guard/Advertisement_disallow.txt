@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 19 October 2024
+# Last modified: 20 October 2024
 #
 
 # [広告全般]
@@ -910,6 +910,7 @@
 0.0.0.0 lemino.docomo.ne.jp
 0.0.0.0 lemonhome.co.jp
 0.0.0.0 leopalace-fine2005.com
+0.0.0.0 lidea.today
 0.0.0.0 life.miele.co.jp
 0.0.0.0 life.oricon.co.jp
 0.0.0.0 lifestyle-habit.com
@@ -1232,6 +1233,7 @@
 0.0.0.0 ps-hp.jpn.panasonic.com
 0.0.0.0 ps.nikkei.com
 0.0.0.0 pspo.jp
+0.0.0.0 psta.co.jp
 0.0.0.0 public-connect.jp
 0.0.0.0 public.lec-jp.com
 0.0.0.0 pug.breeders.jp
@@ -1306,6 +1308,7 @@
 0.0.0.0 s-t-housing.com
 0.0.0.0 s.cardnavi-d.com
 0.0.0.0 s.magazineworld.jp
+0.0.0.0 s.shamaison.com
 0.0.0.0 s.shufoo.net
 0.0.0.0 s.weddingpark.net
 0.0.0.0 sablelabs.co
@@ -2421,6 +2424,7 @@
 0.0.0.0 www.keiji-pestcontrol.com
 0.0.0.0 www.keiko.josho.ac.jp
 0.0.0.0 www.keikyu-store.com
+0.0.0.0 www.keisokuten.jp
 0.0.0.0 www.kenko-webshop.jp
 0.0.0.0 www.kewpie.co.jp
 0.0.0.0 www.keyence-foundation.or.jp
@@ -2433,6 +2437,7 @@
 0.0.0.0 www.kirishima.co.jp
 0.0.0.0 www.kirizai.jp
 0.0.0.0 www.kitzmf.com
+0.0.0.0 www.kiyobank.co.jp
 0.0.0.0 www.klook.com
 0.0.0.0 www.ko-z.com
 0.0.0.0 www.kobax.net
