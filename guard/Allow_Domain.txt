@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Allow_Domain.txt
 #
-# Last modified: 8 October 2024
+# Last modified: 17 October 2024
 #
 
 # [許可リクエスト]
@@ -29,6 +29,7 @@
 @@||discord.gg
 @@||dmg.umamusume.jp
 @@||donation.yahoo.co.jp
+@@||duolingo.com
 @@||ebookjapan.yahoo.co.jp
 @@||event.rakuten.co.jp
 @@||event.travel.rakuten.co.jp
@@ -56,6 +57,7 @@
 @@||mercari-shops.com
 @@||mercari.com
 @@||mercari.jp
+@@||mercoin.com
 @@||microsoft.com
 @@||mirrativ.com
 @@||miui.com
@@ -64,6 +66,7 @@
 @@||news.yahoo.co.jp
 @@||ntp.nict.jp
 @@||ntp.org
+@@||one.one.one.one
 @@||paypay.ne.jp
 @@||pinterest.com
 @@||prod-tsuruha-consumer.wsmt.jp
@@ -95,7 +98,6 @@
 @@||www.e-mail.jp
 @@||www.google-analytics.com
 @@||www.google.co.jp
-@@||www.google.com
 @@||www.googleadservices.com
 @@||www.jabank.org
 @@||www.kochinews.co.jp
@@ -106,10 +108,14 @@
 @@||www.rakuten.co.jp
 @@||www.rakuten.ne.jp
 @@||www.topvalu.net
+@@||www3.nhk.or.jp
+@@||x.com
 @@||xiaomi.net
 @@||yahoo.co.jp
 @@||yahooapis.jp
+@@||yamato-hd.co.jp
 @@||yimg.jp
 @@||ymobile-store.yahoo.co.jp
 @@||youtube.com
 @@||ytimg.com
+@@||merpay.com
