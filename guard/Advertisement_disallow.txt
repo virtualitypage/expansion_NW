@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 20 October 2024
+# Last modified: 21 October 2024
 #
 
 # [広告全般]
@@ -138,6 +138,7 @@
 0.0.0.0 axia-expo.nikkan.co.jp
 0.0.0.0 az-art.net
 0.0.0.0 azaleanet.or.jp
+0.0.0.0 azu-l.com
 0.0.0.0 b-checker.com
 0.0.0.0 backlog.com
 0.0.0.0 balletschool.hp.peraichi.com
@@ -370,6 +371,7 @@
 0.0.0.0 ebookjapan.yahoo.co.jp
 0.0.0.0 ec-force.com
 0.0.0.0 ec-myprecious.jp
+0.0.0.0 ec.eternam.co.jp
 0.0.0.0 ec.petfoods.shop
 0.0.0.0 ec.store.nec.co.jp
 0.0.0.0 echool.tachibana-u.ac.jp
@@ -510,6 +512,7 @@
 0.0.0.0 glowonline.jp
 0.0.0.0 gmobb.jp
 0.0.0.0 gng.thebase.in
+0.0.0.0 go-makesense.com
 0.0.0.0 go.1edisource.com
 0.0.0.0 go.integralads.com
 0.0.0.0 go.persol-group.co.jp
@@ -744,6 +747,7 @@
 0.0.0.0 jp.shokz.com
 0.0.0.0 jp.stanby.com
 0.0.0.0 jp.steelcase.com
+0.0.0.0 jp.store.bambulab.com
 0.0.0.0 jp.toto.com
 0.0.0.0 jp.vicoimaging.com
 0.0.0.0 jp.yiose.com
@@ -1325,6 +1329,7 @@
 0.0.0.0 saitokikaku.co.jp
 0.0.0.0 saiyo-shoten.com
 0.0.0.0 sakai.jeep-dealer.jp
+0.0.0.0 sakedininglit.owst.jp
 0.0.0.0 sales-adventure.jp
 0.0.0.0 salon-de-alfurd.jp
 0.0.0.0 sandesica.jp
@@ -1462,6 +1467,7 @@
 0.0.0.0 shop.greenpark.co.jp
 0.0.0.0 shop.importparts-zeroone.com
 0.0.0.0 shop.joshin.co.jp
+0.0.0.0 shop.kaneko-jewelry.jp
 0.0.0.0 shop.lumieu.jp
 0.0.0.0 shop.nakano-group.co.jp
 0.0.0.0 shop.remozer.com
@@ -1557,6 +1563,7 @@
 0.0.0.0 studio-kingyo.com
 0.0.0.0 studying.jp
 0.0.0.0 studyinternational.com
+0.0.0.0 sudachi.support
 0.0.0.0 sugamokai.co.jp
 0.0.0.0 sugo-japan.com
 0.0.0.0 suguredashicp.jp
@@ -1727,6 +1734,7 @@
 0.0.0.0 voyage.asukacruise.co.jp
 0.0.0.0 vrcon.forum8.co.jp
 0.0.0.0 vti-glovebox.com
+0.0.0.0 wadainohon.com
 0.0.0.0 wakurino.work
 0.0.0.0 walar.co.jp
 0.0.0.0 walife.co.jp
@@ -2212,6 +2220,7 @@
 0.0.0.0 www.grand-seiko.com
 0.0.0.0 www.grandelakes.com
 0.0.0.0 www.grandsoleil.co.jp
+0.0.0.0 www.greenynbio.com
 0.0.0.0 www.gregory.jp
 0.0.0.0 www.gressive.jp
 0.0.0.0 www.gs-vanlife.com
@@ -2257,6 +2266,7 @@
 0.0.0.0 www.hfcfinance.com.tw
 0.0.0.0 www.hibou-chushou.com
 0.0.0.0 www.hikoki-powertools.jp
+0.0.0.0 www.hinodegakuen-recruit.com
 0.0.0.0 www.hiro-clinic.or.jp
 0.0.0.0 www.hiroshima-hirobiro.jp
 0.0.0.0 www.hirosumida.us
@@ -2650,11 +2660,13 @@
 0.0.0.0 www.nishinippon.co.jp
 0.0.0.0 www.nisikido.net
 0.0.0.0 www.nissan.co.jp
+0.0.0.0 www.nisshin.com
 0.0.0.0 www.nisshinfire.co.jp
 0.0.0.0 www.nissin-shoji.net
 0.0.0.0 www.nissui.co.jp
 0.0.0.0 www.nito.co.jp
 0.0.0.0 www.nitori-net.jp
+0.0.0.0 www.niziiro.jp
 0.0.0.0 www.noa-yoga.com
 0.0.0.0 www.noaonline.jp
 0.0.0.0 www.noapilates.jp
@@ -3035,6 +3047,7 @@
 0.0.0.0 www.tissotwatches.com
 0.0.0.0 www.titleist.co.jp
 0.0.0.0 www.tm-c.jp
+0.0.0.0 www.tn7.co
 0.0.0.0 www.to-kousya.or.jp
 0.0.0.0 www.toabio.co.jp
 0.0.0.0 www.tobu.co.jp
@@ -3210,6 +3223,7 @@
 0.0.0.0 yg-tax.net
 0.0.0.0 yhtop.co
 0.0.0.0 yodomachi-cycling2024.com
+0.0.0.0 yokanavi.com
 0.0.0.0 yoridoko-kanko.co.jp
 0.0.0.0 yorkie.breeders.jp
 0.0.0.0 yoshino-gypsum.com
