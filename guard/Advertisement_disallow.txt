@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 21 October 2024
+# Last modified: 22 October 2024
 #
 
 # [広告全般]
@@ -38,6 +38,7 @@
 0.0.0.0 acehandymanfranchising.com
 0.0.0.0 achi-kochi.jp
 0.0.0.0 achieve.atimes.co.jp
+0.0.0.0 acrove.co.jp
 0.0.0.0 activate.games.dmm.com
 0.0.0.0 activesleep.jp
 0.0.0.0 aculabo-yamaguchi-sports.com
@@ -78,6 +79,7 @@
 0.0.0.0 alohadou.com
 0.0.0.0 alphamiki.co.jp
 0.0.0.0 alpsoutdoorsummit.jp
+0.0.0.0 amanitadesign.com
 0.0.0.0 ampmedia.jp
 0.0.0.0 anajinzai.recruitment.jp
 0.0.0.0 ananti.kr
@@ -248,6 +250,7 @@
 0.0.0.0 chuko-noki.com
 0.0.0.0 chuko.gakushukai.jp
 0.0.0.0 churashima.org
+0.0.0.0 chusho-invoice.go.jp
 0.0.0.0 chuwincle.co.jp
 0.0.0.0 citizen.jp
 0.0.0.0 cityindex.co.jp
@@ -522,6 +525,7 @@
 0.0.0.0 gochisouya.jp
 0.0.0.0 gofuku-kaitori.com
 0.0.0.0 gofund.co.jp
+0.0.0.0 gojou-lawfirm.com
 0.0.0.0 gol-win.com
 0.0.0.0 golden.breeders.jp
 0.0.0.0 goldplaza.jp
@@ -1013,6 +1017,7 @@
 0.0.0.0 micromagazine.co.jp
 0.0.0.0 miechuo.bmw.jp
 0.0.0.0 minamiasagaya.ryusei-sekkotuin.net
+0.0.0.0 minase-ep.jp
 0.0.0.0 mindwind.tokyo
 0.0.0.0 mineo-ambassador.com
 0.0.0.0 mineo.jp
@@ -1023,6 +1028,7 @@
 0.0.0.0 minsah-ring.com
 0.0.0.0 miokuriteitaku.jp
 0.0.0.0 mirai-compass.net
+0.0.0.0 mirai-denchi.jp
 0.0.0.0 mirai-mugen-recipe.hp.peraichi.com
 0.0.0.0 mirai-work.life
 0.0.0.0 miraiyu-career.com
@@ -1152,6 +1158,7 @@
 0.0.0.0 one-up-life.com
 0.0.0.0 oneit.co.jp
 0.0.0.0 onesho.com
+0.0.0.0 online.cosmo-space.jp
 0.0.0.0 online.uc.edu
 0.0.0.0 onlineshop.est-online.com
 0.0.0.0 onlinezemi.nokai.jp
@@ -1620,6 +1627,7 @@
 0.0.0.0 tateyoko-kazuma.com
 0.0.0.0 taxisaiyo.entetsu.co.jp
 0.0.0.0 tcb-beauty.net
+0.0.0.0 tcd.joetsu-dc.com
 0.0.0.0 tck-racecampaign2024.com
 0.0.0.0 td-holdings.tokyocameraclub.com
 0.0.0.0 teknitape.com
@@ -2126,6 +2134,7 @@
 0.0.0.0 www.esplanade.com
 0.0.0.0 www.etungo.com.tw
 0.0.0.0 www.ex-anpi.com
+0.0.0.0 www.examtopics.com
 0.0.0.0 www.eyecity.jp
 0.0.0.0 www.ezsoft.co.jp
 0.0.0.0 www.eztravel.com.tw
@@ -2185,11 +2194,13 @@
 0.0.0.0 www.g-shes.com
 0.0.0.0 www.gakuji.co.jp
 0.0.0.0 www.galu-shizuoka.jp
+0.0.0.0 www.gan-kisho.novartis.co.jp
 0.0.0.0 www.gap.co.jp
 0.0.0.0 www.garmin.co.jp
 0.0.0.0 www.gassaferegister.co.uk
 0.0.0.0 www.gatsby.jp
 0.0.0.0 www.gdep.co.jp
+0.0.0.0 www.gdl-cubic.com
 0.0.0.0 www.genkinokuni.jp
 0.0.0.0 www.genryoya.com
 0.0.0.0 www.gero-spa.com
@@ -2621,6 +2632,7 @@
 0.0.0.0 www.nagasaki-ichiba.com
 0.0.0.0 www.nagasakistadiumcity.com
 0.0.0.0 www.nagoya-bengoshi.info
+0.0.0.0 www.nagoyatokyuhotel-wedding.com
 0.0.0.0 www.nakae-bussan.shop
 0.0.0.0 www.nakamura-u.ac.jp
 0.0.0.0 www.nakanoya-harukas.com
@@ -2673,6 +2685,7 @@
 0.0.0.0 www.nobunaga-funding.jp
 0.0.0.0 www.noce.co.jp
 0.0.0.0 www.nomura-am.co.jp
+0.0.0.0 www.nomura-landport.com
 0.0.0.0 www.nondact89.com
 0.0.0.0 www.nordsonmedical.com
 0.0.0.0 www.notalone-cao.go.jp
@@ -2773,6 +2786,7 @@
 0.0.0.0 www.pfizer-covid19.jp
 0.0.0.0 www.pgs-home-recruit.jp
 0.0.0.0 www.phiten.com
+0.0.0.0 www.phoplus.online
 0.0.0.0 www.photoruction.com
 0.0.0.0 www.phys.kanagawa-u.ac.jp
 0.0.0.0 www.pitatoku.com
@@ -2995,7 +3009,9 @@
 0.0.0.0 www.sunstar-shop.jp
 0.0.0.0 www.superdramatv.com
 0.0.0.0 www.supermicro.com
+0.0.0.0 www.suwaeru-spray.jp
 0.0.0.0 www.suzukacircuit.jp
+0.0.0.0 www.suzuki.co.jp
 0.0.0.0 www.swan-kg.com
 0.0.0.0 www.t-fal.co.jp
 0.0.0.0 www.t-rough.jp
@@ -3142,6 +3158,7 @@
 0.0.0.0 www.wa-kukan-life.com
 0.0.0.0 www.waf-seminar.de
 0.0.0.0 www.waiper.co.jp
+0.0.0.0 www.wakamatsuya.co.jp
 0.0.0.0 www.wakayamaumeshu.jp
 0.0.0.0 www.wappenya.com
 0.0.0.0 www.wasedajuku.com
