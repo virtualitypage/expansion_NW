@@ -17,6 +17,7 @@
 @@||apple-dns.net
 @@||apple.com
 @@||apple.news
+@@||au-market.com
 @@||au.com
 @@||auone.jp
 @@||biz.kddi.com
@@ -58,6 +59,7 @@
 @@||mercari.com
 @@||mercari.jp
 @@||mercoin.com
+@@||merpay.com
 @@||microsoft.com
 @@||mirrativ.com
 @@||miui.com
@@ -118,4 +120,3 @@
 @@||ymobile-store.yahoo.co.jp
 @@||youtube.com
 @@||ytimg.com
-@@||merpay.com
