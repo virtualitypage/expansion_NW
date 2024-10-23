@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 22 October 2024
+# Last modified: 23 October 2024
 #
 
 # [広告全般]
@@ -256,6 +256,7 @@
 0.0.0.0 cityindex.co.jp
 0.0.0.0 citymonthly.jp
 0.0.0.0 cl-assist.com
+0.0.0.0 cl-shiroya.co.jp
 0.0.0.0 cl.sozoku-guide.bk.mufg.jp
 0.0.0.0 clean-labo.net
 0.0.0.0 closet.eiwa-uniform.com
@@ -1727,6 +1728,7 @@
 0.0.0.0 urikko.com
 0.0.0.0 urutsuya.toabio.co.jp
 0.0.0.0 usagi-online.com
+0.0.0.0 utattemita-collection.jp
 0.0.0.0 vda.afkjourney.com
 0.0.0.0 vegasvegas-recruit.com
 0.0.0.0 verde8-18-28-24.com
@@ -2106,6 +2108,7 @@
 0.0.0.0 www.e-hc.com
 0.0.0.0 www.e-kochoran.com
 0.0.0.0 www.e-sogi.com
+0.0.0.0 www.e-tix.jp
 0.0.0.0 www.e-ty.co.jp
 0.0.0.0 www.eclipsetraveler.com
 0.0.0.0 www.ecnex.jp
@@ -3114,6 +3117,7 @@
 0.0.0.0 www.tsume.co.jp
 0.0.0.0 www.tsumibukakikuri.jp
 0.0.0.0 www.tsunagaru-office.com
+0.0.0.0 www.tsurumi-ryokuchi.jp
 0.0.0.0 www.tsuruya-kimono.jp
 0.0.0.0 www.tudass.co.jp
 0.0.0.0 www.tv-osaka.co.jp
