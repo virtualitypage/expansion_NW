@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Allow_Domain.txt
 #
-# Last modified: 17 October 2024
+# Last modified: 25 October 2024
 #
 
 # [許可リクエスト]
@@ -61,7 +61,6 @@
 @@||mercoin.com
 @@||merpay.com
 @@||microsoft.com
-@@||mirrativ.com
 @@||miui.com
 @@||moduleapps.com
 @@||network.mobile.rakuten.co.jp
