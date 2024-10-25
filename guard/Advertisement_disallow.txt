@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 24 October 2024
+# Last modified: 25 October 2024
 #
 
 # [広告全般]
@@ -69,6 +69,7 @@
 0.0.0.0 akiya-oita.com
 0.0.0.0 akoakostudio.com
 0.0.0.0 akr0674735414.owst.jp
+0.0.0.0 akr9636581561.owst.jp
 0.0.0.0 al-mare.irodori-inc-okj.co.jp
 0.0.0.0 alc.talkingmarathon.com
 0.0.0.0 alcon-contact.jp
@@ -1001,6 +1002,7 @@
 0.0.0.0 mcs-ainoie.com
 0.0.0.0 mecha-tok.com
 0.0.0.0 mechacomic.jp
+0.0.0.0 media-hakase.com
 0.0.0.0 mediaworld.co.jp
 0.0.0.0 medical-kokokara.com
 0.0.0.0 medical-shinjuku.com
@@ -1053,6 +1055,7 @@
 0.0.0.0 mizunopack.com
 0.0.0.0 mizusympo2024.sakura.ne.jp
 0.0.0.0 mlogic.tax
+0.0.0.0 mobazo.jp
 0.0.0.0 mobile-fukugyo.work
 0.0.0.0 mokutown.jp
 0.0.0.0 money-college.org
@@ -1138,6 +1141,7 @@
 0.0.0.0 nposalvage.com
 0.0.0.0 ns-saitama.nissan-dealer.jp
 0.0.0.0 nudge.cards
+0.0.0.0 number.bunshun.jp
 0.0.0.0 nyushi.otemon.ac.jp
 0.0.0.0 nyusinavi.nagoya-wu.ac.jp
 0.0.0.0 nzzz.airnewzealand.jp
@@ -1166,6 +1170,7 @@
 0.0.0.0 online.cosmo-space.jp
 0.0.0.0 online.uc.edu
 0.0.0.0 onlineshop.est-online.com
+0.0.0.0 onlinestore.maxvalu.co.jp
 0.0.0.0 onlinezemi.nokai.jp
 0.0.0.0 onlyoneafrica.com
 0.0.0.0 onlystory.co.jp
@@ -1343,6 +1348,7 @@
 0.0.0.0 saiyo-shoten.com
 0.0.0.0 sakai.jeep-dealer.jp
 0.0.0.0 sakedininglit.owst.jp
+0.0.0.0 sale.24028.jp
 0.0.0.0 sales-adventure.jp
 0.0.0.0 salon-de-alfurd.jp
 0.0.0.0 sandesica.jp
@@ -1475,6 +1481,7 @@
 0.0.0.0 shop-list.com
 0.0.0.0 shop.bancdor-saitama.com
 0.0.0.0 shop.basefood.co.jp
+0.0.0.0 shop.fumakilla.jp
 0.0.0.0 shop.g9trainer.com
 0.0.0.0 shop.ginzatanaka.co.jp
 0.0.0.0 shop.greenpark.co.jp
@@ -1559,6 +1566,7 @@
 0.0.0.0 stagioneootemachi.owst.jp
 0.0.0.0 startup.ftstandard.jp
 0.0.0.0 static.hfm.com
+0.0.0.0 static.locari.jp
 0.0.0.0 stock-house.jp
 0.0.0.0 stockedges.com
 0.0.0.0 store-jp.nintendo.com
@@ -2711,6 +2719,7 @@
 0.0.0.0 www.ntt-west.co.jp
 0.0.0.0 www.nttcom.co.jp
 0.0.0.0 www.nttcoms.com
+0.0.0.0 www.nttud.co.jp
 0.0.0.0 www.nugu.jp
 0.0.0.0 www.numo.or.jp
 0.0.0.0 www.nurse-secom.com
@@ -2784,6 +2793,7 @@
 0.0.0.0 www.packstyle.jp
 0.0.0.0 www.padi.co.jp
 0.0.0.0 www.panamedia.co.jp
+0.0.0.0 www.panasonic.com
 0.0.0.0 www.paris-miki.co.jp
 0.0.0.0 www.parkhotelgroup.com
 0.0.0.0 www.pathtosuccess.global
@@ -2995,6 +3005,7 @@
 0.0.0.0 www.sony.jp
 0.0.0.0 www.sonysonpo.co.jp
 0.0.0.0 www.sophos.com
+0.0.0.0 www.sougaku-academy.jp
 0.0.0.0 www.sougi-soudan.jp
 0.0.0.0 www.sousou.co.jp
 0.0.0.0 www.southbank.org
