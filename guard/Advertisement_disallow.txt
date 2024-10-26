@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_disallow.txt
 #
-# Last modified: 25 October 2024
+# Last modified: 26 October 2024
 #
 
 # [広告全般]
@@ -57,6 +57,7 @@
 0.0.0.0 afilab.jp
 0.0.0.0 aflart.net
 0.0.0.0 aflart8739.com
+0.0.0.0 agfblendy-campaign.jp
 0.0.0.0 agri.mynavi.jp
 0.0.0.0 ahamo.com
 0.0.0.0 ai-koumuten.info
@@ -328,6 +329,7 @@
 0.0.0.0 digilumi.jp
 0.0.0.0 digina.jp
 0.0.0.0 digital-women.maia.co.jp
+0.0.0.0 din-kyushu.jp
 0.0.0.0 dining-masayoshi.com
 0.0.0.0 diplomat-jpn.com
 0.0.0.0 direct-teleshop.jp
@@ -1188,6 +1190,7 @@
 0.0.0.0 osaka-hanalangue.com
 0.0.0.0 osaka-jakunen-chiki.mhlw.go.jp
 0.0.0.0 osaka-pleats-amido.com
+0.0.0.0 osaka-posting.jp
 0.0.0.0 osaka.letsgojp.com
 0.0.0.0 osaka.seikatsuclub.coop
 0.0.0.0 osakastationcity.com
@@ -1256,6 +1259,7 @@
 0.0.0.0 ps.nikkei.com
 0.0.0.0 pspo.jp
 0.0.0.0 psta.co.jp
+0.0.0.0 pt-eye.com
 0.0.0.0 public-connect.jp
 0.0.0.0 public.lec-jp.com
 0.0.0.0 pug.breeders.jp
@@ -1582,6 +1586,7 @@
 0.0.0.0 store.wacoal.jp
 0.0.0.0 store.world.co.jp
 0.0.0.0 store.zita.life
+0.0.0.0 stories-hyperballad.com
 0.0.0.0 stressless-pr.jp
 0.0.0.0 studio-kingyo.com
 0.0.0.0 studying.jp
@@ -2679,6 +2684,7 @@
 0.0.0.0 www.ngk.co.jp
 0.0.0.0 www.nhow-hotels.com
 0.0.0.0 www.niaeru.com
+0.0.0.0 www.nice.com
 0.0.0.0 www.nichias.co.jp
 0.0.0.0 www.nichibenren.or.jp
 0.0.0.0 www.nihonhoeipro.co.jp
@@ -2877,6 +2883,7 @@
 0.0.0.0 www.redstoneonline.jp
 0.0.0.0 www.regina-web.jp
 0.0.0.0 www.remotecall.com
+0.0.0.0 www.rendimento.com.br
 0.0.0.0 www.rengo-aichi.or.jp
 0.0.0.0 www.rentalpronto.net
 0.0.0.0 www.reply.com
@@ -3146,6 +3153,7 @@
 0.0.0.0 www.tv-osaka.co.jp
 0.0.0.0 www.twellv.co.jp
 0.0.0.0 www.twintreesphotography.com
+0.0.0.0 www.tymetro.com.tw
 0.0.0.0 www.u-can.co.jp
 0.0.0.0 www.u-master.net
 0.0.0.0 www.ube.co.jp
