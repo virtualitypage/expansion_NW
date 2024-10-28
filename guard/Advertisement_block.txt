@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 27 October 2024
+# Last modified: 28 October 2024
 #
 
 # [広告全般]
@@ -133,6 +133,7 @@
 0.0.0.0 asp.hotel-story.ne.jp
 0.0.0.0 astmaxenergy.co.jp
 0.0.0.0 at-living.press
+0.0.0.0 atbex.attokyo.co.jp
 0.0.0.0 atelier-eijitsu.com
 0.0.0.0 atom-clinic.com
 0.0.0.0 atorifu-teradatyo.jp
@@ -416,6 +417,7 @@
 0.0.0.0 es4.easyerin.top
 0.0.0.0 esnet-tax.com
 0.0.0.0 estateliquidation-jp.life
+0.0.0.0 estore.wacom.jp
 0.0.0.0 etc.kmg-cloud.com
 0.0.0.0 eubeeflamb.eu
 0.0.0.0 ev2.nissan.co.jp
@@ -843,6 +845,7 @@
 0.0.0.0 kinkisain.co.jp
 0.0.0.0 kintone.cybozu.co.jp
 0.0.0.0 kintorihiki-hikaku.com
+0.0.0.0 kiond.com
 0.0.0.0 kirei-info.com
 0.0.0.0 kirei-world.click
 0.0.0.0 kirinuki.jp
@@ -1291,6 +1294,7 @@
 0.0.0.0 randb.jp
 0.0.0.0 ranzu.jp
 0.0.0.0 rasik.style
+0.0.0.0 re-dia.jp
 0.0.0.0 re-katsu.jp
 0.0.0.0 re-model.jp
 0.0.0.0 realplace-net.com
@@ -1472,6 +1476,7 @@
 0.0.0.0 shika-fujimoto-mouthpiece.hp.peraichi.com
 0.0.0.0 shikakucenter.com
 0.0.0.0 shikakupass.com
+0.0.0.0 shikinouta-sannomiya.owst.jp
 0.0.0.0 shikisaisai.net
 0.0.0.0 shima-corp.com
 0.0.0.0 shimane.dd.daihatsu.co.jp
@@ -1906,6 +1911,7 @@
 0.0.0.0 www.aprica.jp
 0.0.0.0 www.aqa.org.uk
 0.0.0.0 www.aquaclara.co.jp
+0.0.0.0 www.aqura.co.jp
 0.0.0.0 www.arc-web.com
 0.0.0.0 www.ark-shop.com
 0.0.0.0 www.armonia.jp
@@ -2063,6 +2069,7 @@
 0.0.0.0 www.columbiasports.co.jp
 0.0.0.0 www.commufa.jp
 0.0.0.0 www.concent-f.jp
+0.0.0.0 www.concur.co.jp
 0.0.0.0 www.coneru.co.jp
 0.0.0.0 www.connection.com
 0.0.0.0 www.conoha.jp
@@ -2658,6 +2665,7 @@
 0.0.0.0 www.ms-ins.com
 0.0.0.0 www.mules.jp
 0.0.0.0 www.musashinomura.co.jp
+0.0.0.0 www.musubell.com
 0.0.0.0 www.mwed.jp
 0.0.0.0 www.my9.jp
 0.0.0.0 www.myagentla.com
@@ -3033,6 +3041,7 @@
 0.0.0.0 www.st-mary.ac.jp
 0.0.0.0 www.st.com
 0.0.0.0 www.startup-roudou.mhlw.go.jp
+0.0.0.0 www.stat.go.jp
 0.0.0.0 www.stellarplace.net
 0.0.0.0 www.stepon.co.jp
 0.0.0.0 www.stepup-school.net
@@ -3064,6 +3073,7 @@
 0.0.0.0 www.taiwan-panorama.com
 0.0.0.0 www.taiyakan.co.jp
 0.0.0.0 www.takagi-plc.co.jp
+0.0.0.0 www.takao-gc.jp
 0.0.0.0 www.takara-standard.co.jp
 0.0.0.0 www.takarakuji-official.jp
 0.0.0.0 www.takashimaya-global.com
@@ -3216,6 +3226,7 @@
 0.0.0.0 www.westin-osaka.co.jp
 0.0.0.0 www.white-choco.top
 0.0.0.0 www.wickedthemusical.co.uk
+0.0.0.0 www.wine-party.jp
 0.0.0.0 www.wing-rev.co.jp
 0.0.0.0 www.wmberg.com
 0.0.0.0 www.wonnesscompany.com
@@ -3280,6 +3291,7 @@
 0.0.0.0 yamatane-museum.com
 0.0.0.0 yamato-signage.com
 0.0.0.0 yamawake-estate.jp
+0.0.0.0 yamawarau.owst.jp
 0.0.0.0 yametaraeenen.com
 0.0.0.0 yanase-audi.com
 0.0.0.0 yappari-hawaii.jp
