@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 28 October 2024
+# Last modified: 29 October 2024
 #
 
 # [広告全般]
@@ -669,6 +669,7 @@
 0.0.0.0 iei.jp
 0.0.0.0 ifdesign.com
 0.0.0.0 igolfstudio.jp
+0.0.0.0 ihin-asul.com
 0.0.0.0 ii.tokyu.co.jp
 0.0.0.0 ikedahearinggear.com
 0.0.0.0 iki-online.com
@@ -1205,6 +1206,7 @@
 0.0.0.0 osakastationcity.com
 0.0.0.0 osho-research.co.jp
 0.0.0.0 ost-honeypot-1.oreillyauto.com
+0.0.0.0 otonamuse.jp
 0.0.0.0 otori-hearing.com
 0.0.0.0 p-project.jp
 0.0.0.0 p-town.dmm.com
@@ -1215,6 +1217,7 @@
 0.0.0.0 papillon.breeders.jp
 0.0.0.0 parks2.bandainamco-am.co.jp
 0.0.0.0 part2.money-yomiuri.com
+0.0.0.0 party-maker.studio.site
 0.0.0.0 party-wedding.gnavi.co.jp
 0.0.0.0 pc-farm.co.jp
 0.0.0.0 pc-seven.co.jp
@@ -1514,6 +1517,7 @@
 0.0.0.0 shopping.geocities.jp
 0.0.0.0 shopping.speedia-ost.com
 0.0.0.0 shopping.tbs.co.jp
+0.0.0.0 shosoin-ten.jp
 0.0.0.0 shougai-nenkin119.com
 0.0.0.0 shumei.ac.jp
 0.0.0.0 shunsai-tateyama.com
@@ -2581,6 +2585,7 @@
 0.0.0.0 www.maruhinokagiana.com
 0.0.0.0 www.maruho.co.jp
 0.0.0.0 www.marusan-union.com
+0.0.0.0 www.marusho-1819.com
 0.0.0.0 www.maruten-print.jp
 0.0.0.0 www.masayoshifujishima.com
 0.0.0.0 www.maserati.com
@@ -2635,6 +2640,7 @@
 0.0.0.0 www.mitsubishielectric.co.jp
 0.0.0.0 www.mitsui.com
 0.0.0.0 www.mitsuihome.co.jp
+0.0.0.0 www.mitsuoka-motor.com
 0.0.0.0 www.mitsutake.co.jp
 0.0.0.0 www.mitte.ne.jp
 0.0.0.0 www.miyakoda.co.jp
@@ -2714,6 +2720,7 @@
 0.0.0.0 www.nipponmanpower.co.jp
 0.0.0.0 www.nishikawa1566.com
 0.0.0.0 www.nishinippon.co.jp
+0.0.0.0 www.nisiki-kai.com
 0.0.0.0 www.nisikido.net
 0.0.0.0 www.nissan.co.jp
 0.0.0.0 www.nisshin.com
@@ -2802,6 +2809,7 @@
 0.0.0.0 www.oscd.jp
 0.0.0.0 www.osg.co.jp
 0.0.0.0 www.otafuku.co.jp
+0.0.0.0 www.otakaraya.jp
 0.0.0.0 www.otani.ac.jp
 0.0.0.0 www.otrs.jp
 0.0.0.0 www.otsuka-shokai.co.jp
@@ -3136,6 +3144,7 @@
 0.0.0.0 www.tokyointerior.co.jp
 0.0.0.0 www.tokyomk.com
 0.0.0.0 www.tokyoshigoto.jp
+0.0.0.0 www.tokyosoundbox.com
 0.0.0.0 www.tokyoupdates.metro.tokyo.lg.jp
 0.0.0.0 www.tomas.co.jp
 0.0.0.0 www.tomei-riso.jp
