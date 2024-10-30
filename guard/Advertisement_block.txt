@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 29 October 2024
+# Last modified: 30 October 2024
 #
 
 # [広告全般]
@@ -25,6 +25,7 @@
 0.0.0.0 78kanteikyoku.jp
 0.0.0.0 7ticket.jp
 0.0.0.0 88423.co.jp
+0.0.0.0 8984.jp
 0.0.0.0 8proud.jp
 0.0.0.0 9000.jp
 0.0.0.0 a-c-as.com
@@ -325,6 +326,7 @@
 0.0.0.0 dentsu-ho.com
 0.0.0.0 denzaibuhin.com
 0.0.0.0 depaco.daimaru-matsuzakaya.jp
+0.0.0.0 designpocket.jp
 0.0.0.0 dfashion.docomo.ne.jp
 0.0.0.0 dg-at.fg-games.co.jp
 0.0.0.0 diet-kyoukai.com
@@ -1111,6 +1113,7 @@
 0.0.0.0 new-tips.net
 0.0.0.0 new.osakastationcity.com
 0.0.0.0 newhouse.591.com.tw
+0.0.0.0 newing.kintetsu-re.co.jp
 0.0.0.0 news.chu.edu.tw
 0.0.0.0 news.j-wave.co.jp
 0.0.0.0 newsonjapan.com
@@ -1370,6 +1373,7 @@
 0.0.0.0 salon-de-alfurd.jp
 0.0.0.0 sandesica.jp
 0.0.0.0 sanriku-jouban-umeemon.jp
+0.0.0.0 sanwakeigoukin.co.jp
 0.0.0.0 sapporo-nissan.com
 0.0.0.0 sapporotoyota-northernbox.jp
 0.0.0.0 sasaki-kougyo.com
@@ -2291,6 +2295,7 @@
 0.0.0.0 www.hamada-juku.com
 0.0.0.0 www.hamigaki.gr.jp
 0.0.0.0 www.han-ei.jp
+0.0.0.0 www.hana-intelligence.jp
 0.0.0.0 www.hanashinkumi.com
 0.0.0.0 www.hanazonohifuku.com
 0.0.0.0 www.haneda.jalcity.co.jp
@@ -2471,6 +2476,7 @@
 0.0.0.0 www.kaitori-massan.com
 0.0.0.0 www.kaitoritop.jp
 0.0.0.0 www.kanagawa-subaru.com
+0.0.0.0 www.kanagawa-u.ac.jp
 0.0.0.0 www.kango-roo.com
 0.0.0.0 www.kankyo.metro.tokyo.lg.jp
 0.0.0.0 www.kano-kensetsu.com
