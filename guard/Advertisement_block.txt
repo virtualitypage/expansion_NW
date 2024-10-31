@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 30 October 2024
+# Last modified: 31 October 2024
 #
 
 # [広告全般]
@@ -21,6 +21,7 @@
 0.0.0.0 3mk2r3.com
 0.0.0.0 47095986.form.kintoneapp.com
 0.0.0.0 4years.asahi.com
+0.0.0.0 50ban-shop.com
 0.0.0.0 6699.jp
 0.0.0.0 78kanteikyoku.jp
 0.0.0.0 7ticket.jp
@@ -46,7 +47,6 @@
 0.0.0.0 aculabo-yamaguchi-sports.com
 0.0.0.0 acuvuevision.jp
 0.0.0.0 ad-kowa.com
-0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.games.dmm.co.jp
 0.0.0.0 ad.games.dmm.com
 0.0.0.0 adacotech.co.jp
@@ -264,6 +264,7 @@
 0.0.0.0 cl-assist.com
 0.0.0.0 cl-shiroya.co.jp
 0.0.0.0 cl.sozoku-guide.bk.mufg.jp
+0.0.0.0 cl.unisize.makip.co.jp
 0.0.0.0 clean-labo.net
 0.0.0.0 closet.eiwa-uniform.com
 0.0.0.0 cloud.info.asics.com
@@ -362,6 +363,7 @@
 0.0.0.0 dr-fish.net
 0.0.0.0 dreamorder.com
 0.0.0.0 dressandstyles.com
+0.0.0.0 drilnews.com
 0.0.0.0 drinco.jp
 0.0.0.0 drone-procrew.com
 0.0.0.0 drplus-japan.com
@@ -432,6 +434,7 @@
 0.0.0.0 exerurgentcare.com
 0.0.0.0 expa-official.jp
 0.0.0.0 explore.arenasolutions.com
+0.0.0.0 explore.komatsu
 0.0.0.0 exzeal.co.jp
 0.0.0.0 ezyremit.com
 0.0.0.0 f-cre.com
@@ -499,6 +502,7 @@
 0.0.0.0 g.floorheating-best.net
 0.0.0.0 g123.jp
 0.0.0.0 gachinko-school.com
+0.0.0.0 gaga.ne.jp
 0.0.0.0 gaiheki02.rank12345678.com
 0.0.0.0 gaihekitosou-support.jp
 0.0.0.0 games.dmm.com
@@ -870,6 +874,7 @@
 0.0.0.0 kojosoko-koniken.com
 0.0.0.0 kojyo-kuruma.com
 0.0.0.0 kokokara.tais.ac.jp
+0.0.0.0 konciwa.com
 0.0.0.0 koreabucketlist.com
 0.0.0.0 kosavu.com
 0.0.0.0 koshien.hanshin.co.jp
@@ -1446,6 +1451,7 @@
 0.0.0.0 schnauzer.breeders.jp
 0.0.0.0 school.dhw.co.jp
 0.0.0.0 screen-spe-introduction.com
+0.0.0.0 sdt.inc
 0.0.0.0 sealm.jp
 0.0.0.0 sealy-jp.com
 0.0.0.0 search.sbisec.co.jp
@@ -1467,6 +1473,7 @@
 0.0.0.0 service.ocn.ne.jp
 0.0.0.0 seta-clinic.com
 0.0.0.0 setupnext-project.com
+0.0.0.0 sev-tsuhan.com
 0.0.0.0 sg.steelcase.com
 0.0.0.0 sg.tcacoustic.asia
 0.0.0.0 shaktimat.co.jp
@@ -1775,7 +1782,6 @@
 0.0.0.0 vermeermountainwest.com
 0.0.0.0 video.unext.jp
 0.0.0.0 vieconseils.com
-0.0.0.0 view.adjust.com
 0.0.0.0 villa-hamanako.jp
 0.0.0.0 violetllama42.sakura.ne.jp
 0.0.0.0 vitalebarberiscanonico.jp
@@ -1899,6 +1905,7 @@
 0.0.0.0 www.amafair.com
 0.0.0.0 www.amanofd.jp
 0.0.0.0 www.amd.com
+0.0.0.0 www.amepla.jp
 0.0.0.0 www.americanmeat.jp
 0.0.0.0 www.americantourister.jp
 0.0.0.0 www.amh.clinic
@@ -2734,7 +2741,6 @@
 0.0.0.0 www.nissin-shoji.net
 0.0.0.0 www.nissui.co.jp
 0.0.0.0 www.nito.co.jp
-0.0.0.0 www.nitori-net.jp
 0.0.0.0 www.niziiro.jp
 0.0.0.0 www.noa-yoga.com
 0.0.0.0 www.noaonline.jp
@@ -2964,6 +2970,7 @@
 0.0.0.0 www.sat.co.jp
 0.0.0.0 www.sateraito.jp
 0.0.0.0 www.sbc-marketing.co.jp
+0.0.0.0 www.sbifxt.co.jp
 0.0.0.0 www.sbisec.co.jp
 0.0.0.0 www.sbivc.co.jp
 0.0.0.0 www.sbs-toshibalogistics.co.jp
