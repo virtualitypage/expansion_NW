@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 31 October 2024
+# Last modified: 1 November 2024
 #
 
 # [広告全般]
@@ -461,6 +461,7 @@
 0.0.0.0 food-match-japan.campaign.europa.eu
 0.0.0.0 foodingjournal.com
 0.0.0.0 form.jotform.com
+0.0.0.0 form.run
 0.0.0.0 form2024.shinkin-cp.com
 0.0.0.0 forms.office.com
 0.0.0.0 fortune-moon.net
@@ -478,6 +479,7 @@
 0.0.0.0 fso.ieitown.jp
 0.0.0.0 fsp.norasci.com
 0.0.0.0 fto.co.jp
+0.0.0.0 fugusugata.jp
 0.0.0.0 fujikoumuten.co.jp
 0.0.0.0 fujimedica.com
 0.0.0.0 fukoku-h.co.jp
@@ -731,6 +733,7 @@
 0.0.0.0 jibunmakura.com
 0.0.0.0 jicamagazine.jica.go.jp
 0.0.0.0 jinentai.com
+0.0.0.0 jireidb.shougaisha-sabetukaishou.go.jp
 0.0.0.0 jishanoen.jp
 0.0.0.0 jnet-store.com
 0.0.0.0 job-gear.net
@@ -1077,7 +1080,9 @@
 0.0.0.0 mokutown.jp
 0.0.0.0 money-college.org
 0.0.0.0 monji.tech
+0.0.0.0 mothers-tenshiba.com
 0.0.0.0 movie-marketing.com
+0.0.0.0 mozsweden.com
 0.0.0.0 msb.loofen.jp
 0.0.0.0 mtg-campaign.com
 0.0.0.0 mtm-aoyama.com
@@ -1614,6 +1619,7 @@
 0.0.0.0 store.zita.life
 0.0.0.0 stories-hyperballad.com
 0.0.0.0 stressless-pr.jp
+0.0.0.0 strux.oner.jp
 0.0.0.0 studio-kingyo.com
 0.0.0.0 studying.jp
 0.0.0.0 studyinternational.com
@@ -1716,6 +1722,7 @@
 0.0.0.0 tomishiyaku.net
 0.0.0.0 tomohirokai.or.jp
 0.0.0.0 tomotaqu.com
+0.0.0.0 topgunairtx.com
 0.0.0.0 toptoon.jp
 0.0.0.0 torcroftlodges.com
 0.0.0.0 toriton.owst.jp
@@ -1742,6 +1749,7 @@
 0.0.0.0 try-edge.infield95.com
 0.0.0.0 tsugunavi.funaisoken.co.jp
 0.0.0.0 tsujimoto-2007.com
+0.0.0.0 tsuna-ag.tsuna-ag.com
 0.0.0.0 tsunagaru-design.co.jp
 0.0.0.0 turboterminaltractors.com
 0.0.0.0 tver.jp
@@ -1988,6 +1996,7 @@
 0.0.0.0 www.blue-dolphins.net
 0.0.0.0 www.bmw-motorrad.co.uk
 0.0.0.0 www.bodyfit-mpn.com
+0.0.0.0 www.bondjewelry.net
 0.0.0.0 www.bookoff.co.jp
 0.0.0.0 www.bosai.yomiuri.co.jp
 0.0.0.0 www.bousai.pref.fukuoka.jp
@@ -2308,6 +2317,7 @@
 0.0.0.0 www.haneda.jalcity.co.jp
 0.0.0.0 www.hankyu.co.jp
 0.0.0.0 www.hannan-u.ac.jp
+0.0.0.0 www.hanshin-exp.co.jp
 0.0.0.0 www.hanshow.com
 0.0.0.0 www.happiness-direct.com
 0.0.0.0 www.happy-mealkit.com
