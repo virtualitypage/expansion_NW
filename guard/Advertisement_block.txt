@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 1 November 2024
+# Last modified: 2 November 2024
 #
 
 # [広告全般]
@@ -72,6 +72,7 @@
 0.0.0.0 akiya-oita.com
 0.0.0.0 akoakostudio.com
 0.0.0.0 akr0674735414.owst.jp
+0.0.0.0 akr4061480779.owst.jp
 0.0.0.0 akr9636581561.owst.jp
 0.0.0.0 al-mare.irodori-inc-okj.co.jp
 0.0.0.0 alc.talkingmarathon.com
@@ -231,6 +232,7 @@
 0.0.0.0 card-en-ciel.com
 0.0.0.0 cardshop-kenzo.myshopify.com
 0.0.0.0 career.levtech.jp
+0.0.0.0 careerjp.work
 0.0.0.0 carioca.owst.jp
 0.0.0.0 casadangela-anhuit.com
 0.0.0.0 casge-town.jp
@@ -281,6 +283,7 @@
 0.0.0.0 comic.iowl.jp
 0.0.0.0 comic.k-manga.jp
 0.0.0.0 commit.carlifesquare.com
+0.0.0.0 common3.pref.akita.lg.jp
 0.0.0.0 comorebi-camp.jp
 0.0.0.0 company.rpahack.tech
 0.0.0.0 conosur-lovers.jp
@@ -288,6 +291,7 @@
 0.0.0.0 continental-automotive.com
 0.0.0.0 continentaltire.com
 0.0.0.0 converse.co.jp
+0.0.0.0 cores-ec.site
 0.0.0.0 corgi.breeders.jp
 0.0.0.0 corolla-iwate.jp
 0.0.0.0 corporate.epson
@@ -450,6 +454,7 @@
 0.0.0.0 fctl.co.jp
 0.0.0.0 fegroup-fukui.jp
 0.0.0.0 felice-create.com
+0.0.0.0 feliz-malto.com
 0.0.0.0 feliz.okadanet.com
 0.0.0.0 fieldsuite-hakuba.com
 0.0.0.0 firmbond.co.jp
@@ -457,6 +462,7 @@
 0.0.0.0 firstgolf.world
 0.0.0.0 flasharkracing.com
 0.0.0.0 flex.amazon.co.jp
+0.0.0.0 flowerjob.net
 0.0.0.0 fod.fujitv.co.jp
 0.0.0.0 food-match-japan.campaign.europa.eu
 0.0.0.0 foodingjournal.com
@@ -662,6 +668,7 @@
 0.0.0.0 howdyplus.com
 0.0.0.0 hoyeon.plaync.com
 0.0.0.0 htm.sf-express.com
+0.0.0.0 hubble-ban-yan-tree-terrace.owst.jp
 0.0.0.0 hyogo-lifepartner.co.jp
 0.0.0.0 hyogo-quality.jp
 0.0.0.0 i-voce.jp
@@ -877,6 +884,7 @@
 0.0.0.0 kojosoko-koniken.com
 0.0.0.0 kojyo-kuruma.com
 0.0.0.0 kokokara.tais.ac.jp
+0.0.0.0 kokyo111.owst.jp
 0.0.0.0 konciwa.com
 0.0.0.0 koreabucketlist.com
 0.0.0.0 kosavu.com
@@ -1304,6 +1312,7 @@
 0.0.0.0 r.casalemedia.com
 0.0.0.0 r1-usc1.zemanta.com
 0.0.0.0 race.nishinippon.co.jp
+0.0.0.0 raichoshrine.owst.jp
 0.0.0.0 rakugo-zanmai.pia.co.jp
 0.0.0.0 rakuori.com
 0.0.0.0 rakurakusatei.com
@@ -1888,6 +1897,7 @@
 0.0.0.0 www.advertimes.com
 0.0.0.0 www.aeonet.co.jp
 0.0.0.0 www.aeonsportsclub.jp
+0.0.0.0 www.aero.co.jp
 0.0.0.0 www.afgc.co.jp
 0.0.0.0 www.aflac.co.jp
 0.0.0.0 www.afr-web.co.jp
@@ -2175,6 +2185,7 @@
 0.0.0.0 www.ecocity.jp
 0.0.0.0 www.ecoflow.com
 0.0.0.0 www.ecosmile-e.co.jp
+0.0.0.0 www.edic.jp
 0.0.0.0 www.edion.com
 0.0.0.0 www.edix-expo.jp
 0.0.0.0 www.eheya.net
@@ -2339,6 +2350,7 @@
 0.0.0.0 www.herutu.co.jp
 0.0.0.0 www.herz-bag.jp
 0.0.0.0 www.hfcfinance.com.tw
+0.0.0.0 www.hi753.com
 0.0.0.0 www.hibou-chushou.com
 0.0.0.0 www.hikoki-powertools.jp
 0.0.0.0 www.hinodegakuen-recruit.com
@@ -2723,6 +2735,7 @@
 0.0.0.0 www.nemurishop.jp
 0.0.0.0 www.nerima.co.jp
 0.0.0.0 www.netbk.co.jp
+0.0.0.0 www.netchina.jp
 0.0.0.0 www.netsudan.jp
 0.0.0.0 www.newart.co.jp
 0.0.0.0 www.nextfactory.jp
@@ -2811,6 +2824,7 @@
 0.0.0.0 www.ooita-ijuushuunou.com
 0.0.0.0 www.oosawaonsen.com
 0.0.0.0 www.open-circuit.ne.jp
+0.0.0.0 www.opera-official.net
 0.0.0.0 www.ophthalmologytimes.com
 0.0.0.0 www.oralb.braun.co.jp
 0.0.0.0 www.orbussoftware.com
@@ -2954,6 +2968,7 @@
 0.0.0.0 www.rtyfghgroup.com
 0.0.0.0 www.ruxur.net
 0.0.0.0 www.ryukakusan.co.jp
+0.0.0.0 www.s-ge.com
 0.0.0.0 www.s-re.jp
 0.0.0.0 www.saatva.com
 0.0.0.0 www.safra.sg
@@ -3084,9 +3099,11 @@
 0.0.0.0 www.studioemu.info
 0.0.0.0 www.studyinkorea.go.kr
 0.0.0.0 www.sugar.org
+0.0.0.0 www.sugimoto-k.com
 0.0.0.0 www.suiha.co.jp
 0.0.0.0 www.sumida-aquarium.com
 0.0.0.0 www.suminodou.jp
+0.0.0.0 www.sumirin-residential.co.jp
 0.0.0.0 www.sunflower.co.jp
 0.0.0.0 www.sunokotan.com
 0.0.0.0 www.sunstar-shop.jp
@@ -3096,6 +3113,7 @@
 0.0.0.0 www.suzukacircuit.jp
 0.0.0.0 www.suzuki.co.jp
 0.0.0.0 www.swan-kg.com
+0.0.0.0 www.sy32.jp
 0.0.0.0 www.t-fal.co.jp
 0.0.0.0 www.t-rough.jp
 0.0.0.0 www.tac-school.co.jp
@@ -3137,6 +3155,7 @@
 0.0.0.0 www.the-pathfinder.com
 0.0.0.0 www.themalaygolfer.com
 0.0.0.0 www.thepiel.com
+0.0.0.0 www.thermofisher.com
 0.0.0.0 www.thermondo.de
 0.0.0.0 www.ticketlife.jp
 0.0.0.0 www.tiger-corporation.com
@@ -3272,6 +3291,7 @@
 0.0.0.0 www.xprice.co.jp
 0.0.0.0 www.xtb.com
 0.0.0.0 www.y-yokohama.com
+0.0.0.0 www.yaken.store
 0.0.0.0 www.yamada-denkiweb.com
 0.0.0.0 www.yamaha-motor.co.jp
 0.0.0.0 www.yamaha.co.jp
@@ -3333,6 +3353,7 @@
 0.0.0.0 yokanavi.com
 0.0.0.0 yoridoko-kanko.co.jp
 0.0.0.0 yorkie.breeders.jp
+0.0.0.0 yorokobishop.com
 0.0.0.0 yoshino-gypsum.com
 0.0.0.0 yotasteshop.com
 0.0.0.0 youin.jp
@@ -3342,6 +3363,7 @@
 0.0.0.0 ysp-shop.com
 0.0.0.0 yumekitchen.jp
 0.0.0.0 yururi-nikori.owst.jp
+0.0.0.0 yusho-kyoto.owst.jp
 0.0.0.0 yuskin.co.jp
 0.0.0.0 yutaka-tomonokai.jp
 0.0.0.0 zaimani.com
