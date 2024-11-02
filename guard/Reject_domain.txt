@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_domain.txt
 #
-# Last modified: 31 October 2024
+# Last modified: 2 November 2024
 #
 
 # [拒否リクエスト]
@@ -35,10 +35,12 @@
 0.0.0.0 g.doubleclick.net.tail06b0f8.ts.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 id5-sync.com
+0.0.0.0 profile.line-scdn.net
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 socdm.com
 0.0.0.0 static.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 td.doubleclick.net
+0.0.0.0 torimochi.line-apps.com
 0.0.0.0 view.adjust.com
 0.0.0.0 yads.c.yimg.jp
