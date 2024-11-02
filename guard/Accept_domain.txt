@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Accept_domain.txt
 #
-# Last modified: 30 October 2024
+# Last modified: 2 November 2024
 #
 
 # [許可リクエスト]
@@ -16,6 +16,9 @@
 @@||brandavenue.rakuten.co.jp
 @@||business.google.com
 @@||business.mobile.rakuten.co.jp
+@@||cdn-manga-stf-router-api.line-scdn.net
+@@||ch-news.line-apps.com
+@@||chromewebstore.google.com
 @@||collector.github.com
 @@||controlplane.tailscale.com
 @@||discord.com
@@ -30,7 +33,10 @@
 @@||gigafile.nu
 @@||i.ytimg.com
 @@||imap01.au.com
+@@||img-api-jp-linemusic.line-apps.com
 @@||item.rakuten.co.jp
+@@||linemanga-obs.line-scdn.net
+@@||linemusic-webapp.landpress.line.me
 @@||log.tailscale.io
 @@||mail.google.com
 @@||manga.line.me
@@ -38,6 +44,7 @@
 @@||meet.google.com
 @@||mercari-shops.com
 @@||mobile-webview.gmail.com
+@@||music.line.me
 @@||network.mobile.rakuten.co.jp
 @@||news.yahoo.co.jp
 @@||ocsp.digicert.com
@@ -45,16 +52,21 @@
 @@||param-d.data-storage.auone.jp
 @@||pool.ntp.org
 @@||proxy.safebrowsing.apple
+@@||remotedesktop.google.com
+@@||resource-jp-linemusic.line-scdn.net
 @@||resource.widget.auone.jp
 @@||retty.me
 @@||safebrowsing.g.applimg.com
 @@||safebrowsing.googleapis.com
 @@||sakura-checker.jp
+@@||static.line-scdn.net
 @@||steampowered.com
+@@||stickershop.line-scdn.net
 @@||t.co
 @@||thumbnail.smartnews.com
 @@||token.safebrowsing.apple
 @@||use.fontawesome.com
+@@||voom-obs.line-scdn.net
 @@||web.facebook.com
 @@||www.amazon.co.jp
 @@||www.cecile.co.jp
