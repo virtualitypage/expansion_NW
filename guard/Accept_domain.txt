@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Accept_domain.txt
 #
-# Last modified: 2 November 2024
+# Last modified: 3 November 2024
 #
 
 # [許可リクエスト]
@@ -20,6 +20,7 @@
 @@||ch-news.line-apps.com
 @@||chromewebstore.google.com
 @@||collector.github.com
+@@||connectivitycheck.gstatic.com
 @@||controlplane.tailscale.com
 @@||discord.com
 @@||docs.google.com
@@ -35,6 +36,7 @@
 @@||imap01.au.com
 @@||img-api-jp-linemusic.line-apps.com
 @@||item.rakuten.co.jp
+@@||kidsmanagement-pa.googleapis.com
 @@||linemanga-obs.line-scdn.net
 @@||linemusic-webapp.landpress.line.me
 @@||log.tailscale.io
@@ -50,6 +52,7 @@
 @@||ocsp.digicert.com
 @@||one.one.one.one
 @@||param-d.data-storage.auone.jp
+@@||play.googleapis.com
 @@||pool.ntp.org
 @@||proxy.safebrowsing.apple
 @@||remotedesktop.google.com
@@ -72,6 +75,7 @@
 @@||www.cecile.co.jp
 @@||www.google.co.jp
 @@||www.googleadservices.com
+@@||www.googleapis.com
 @@||www.icloud.com
 @@||www.instagram.com
 @@||www.jabank.org
