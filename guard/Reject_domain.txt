@@ -4,11 +4,12 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_domain.txt
 #
-# Last modified: 27 October 2024
+# Last modified: 3 November 2024
 #
 
 # [拒否リクエスト]
 0.0.0.0 accounts.doubleclick.net
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 adservice.google.com
@@ -33,12 +34,74 @@
 0.0.0.0 g.doubleclick.net.lan
 0.0.0.0 g.doubleclick.net.tail06b0f8.ts.net
 0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 googlesyndication.com
 0.0.0.0 id5-sync.com
-0.0.0.0 rubiconproject.com
+0.0.0.0 profile.line-scdn.net
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 socdm.com
 0.0.0.0 static.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 td.doubleclick.net
+0.0.0.0 torimochi.line-apps.com
+0.0.0.0 view.adjust.com
 0.0.0.0 yads.c.yimg.jp
+
+# [*.appsflyer.com]
+0.0.0.0 app.appsflyer.com
+0.0.0.0 aps-webhandler.appsflyer.com
+0.0.0.0 attr.appsflyer.com
+0.0.0.0 engagements.appsflyer.com
+0.0.0.0 gcdsdk.appsflyer.com
+0.0.0.0 impression.appsflyer.com
+0.0.0.0 inapps.appsflyer.com
+0.0.0.0 launches.appsflyer.com
+0.0.0.0 wa.appsflyer.com
+0.0.0.0 websdk.appsflyer.com
+
+# [*.unity3d.com]
+0.0.0.0 a-adq.mediation.unity3d.com
+0.0.0.0 ae.iads.unity3d.com
+0.0.0.0 aps-attribution.unityads.unity3d.com
+0.0.0.0 auction-load.unityads.unity3d.com
+0.0.0.0 cdn-creatives-cf-prd.acquire.unity3dusercontent.com
+0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
+0.0.0.0 cdn.iads.unity3d.com
+0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 config.uca.cloud.unity3d.com.lan
+0.0.0.0 configv2.unityads.unity3d.com
+0.0.0.0 configv2.unityads.unity3d.com.lan
+0.0.0.0 content.offerwall.unity3d.com
+0.0.0.0 events.mz.unity3d.com
+0.0.0.0 gateway.unityads.unity3d.com
+0.0.0.0 gw-is.iads.unity3d.com
+0.0.0.0 gw-rv.iads.unity3d.com
+0.0.0.0 gw-rv.iads.unity3d.com.lan
+0.0.0.0 gw.mediation.unity3d.com
+0.0.0.0 hbevents-public.mz.unity3d.com
+0.0.0.0 hbevents-public.mz.unity3d.com.lan
+0.0.0.0 html-uap.iads.unity3d.com
+0.0.0.0 httpkafka.unityads.unity3d.com
+0.0.0.0 i-adq.mediation.unity3d.com
+0.0.0.0 i-sdk.mediation.unity3d.com
+0.0.0.0 i-sdk.mediation.unity3d.com.lan
+0.0.0.0 icon-uap.iads.unity3d.com
+0.0.0.0 img-dyn-uap.iads.unity3d.com
+0.0.0.0 o-adq.mediation.unity3d.com
+0.0.0.0 o-iab.mediation.unity3d.com
+0.0.0.0 o-iab.mediation.unity3d.com.lan
+0.0.0.0 o-pxt.iads.unity3d.com
+0.0.0.0 o-sdk.mediation.unity3d.com
+0.0.0.0 o-sdk.mediation.unity3d.com.lan
+0.0.0.0 o.iads.unity3d.com
+0.0.0.0 o.iads.unity3d.com.lan
+0.0.0.0 o.isx.unity3d.com
+0.0.0.0 perf-events.cloud.unity3d.com
+0.0.0.0 publisher-event.unityads.unity3d.com
+0.0.0.0 scar.unityads.unity3d.com
+0.0.0.0 thind.unityads.unity3d.com
+0.0.0.0 vid-uap.iads.unity3d.com
+0.0.0.0 w.isx.unity3d.com
+0.0.0.0 webview.unityads.unity3d.com
+
+# [*.swrve.com]
+0.0.0.0 swrve.com
