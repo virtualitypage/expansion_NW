@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 2 November 2024
+# Last modified: 3 November 2024
 #
 
 # [広告全般]
@@ -300,6 +300,7 @@
 0.0.0.0 cosmion.jp
 0.0.0.0 cotaoffice.com
 0.0.0.0 cott0n.net
+0.0.0.0 coubic.com
 0.0.0.0 couples.jp
 0.0.0.0 cowcamo.jp
 0.0.0.0 cp.manara.jp
@@ -318,6 +319,7 @@
 0.0.0.0 dachs.breeders.jp
 0.0.0.0 daiei-corporation.com
 0.0.0.0 danshin-smile.cardif.co.jp
+0.0.0.0 darts-strix.owst.jp
 0.0.0.0 deagostini.jp
 0.0.0.0 dealer.bydauto.co.jp
 0.0.0.0 deep2031.com
@@ -334,6 +336,7 @@
 0.0.0.0 designpocket.jp
 0.0.0.0 dfashion.docomo.ne.jp
 0.0.0.0 dg-at.fg-games.co.jp
+0.0.0.0 didoritei-hankyutsukaguchi.owst.jp
 0.0.0.0 diet-kyoukai.com
 0.0.0.0 digilumi.jp
 0.0.0.0 digina.jp
@@ -1632,6 +1635,7 @@
 0.0.0.0 studio-kingyo.com
 0.0.0.0 studying.jp
 0.0.0.0 studyinternational.com
+0.0.0.0 sub.kinematranslationclub.com
 0.0.0.0 sudachi.support
 0.0.0.0 sugamokai.co.jp
 0.0.0.0 sugo-japan.com
@@ -2001,6 +2005,7 @@
 0.0.0.0 www.biofermin.co.jp
 0.0.0.0 www.bishouen.com
 0.0.0.0 www.bitecglobal.com
+0.0.0.0 www.biyoushinkyuu.com
 0.0.0.0 www.bizreach.jp
 0.0.0.0 www.bk.mufg.jp
 0.0.0.0 www.blue-dolphins.net
@@ -2316,6 +2321,7 @@
 0.0.0.0 www.hacobell.com
 0.0.0.0 www.hakata-ieh.jp
 0.0.0.0 www.hakken.pro
+0.0.0.0 www.hakkenden.jp
 0.0.0.0 www.hakodateyama.com
 0.0.0.0 www.hakuaisha.jp
 0.0.0.0 www.hakuhodody-media.co.jp
@@ -2704,6 +2710,7 @@
 0.0.0.0 www.motherfarm.co.jp
 0.0.0.0 www.mouse-jp.co.jp
 0.0.0.0 www.ms-ins.com
+0.0.0.0 www.mugenrecruit.com
 0.0.0.0 www.mules.jp
 0.0.0.0 www.musashinomura.co.jp
 0.0.0.0 www.musubell.com
@@ -2906,6 +2913,7 @@
 0.0.0.0 www.pref.mie.lg.jp
 0.0.0.0 www.pref.osaka.lg.jp
 0.0.0.0 www.pref.saitama.lg.jp
+0.0.0.0 www.pref.tottori.lg.jp
 0.0.0.0 www.premiumoutlets.co.jp
 0.0.0.0 www.pressance-arge.com
 0.0.0.0 www.pressance-group.jp
