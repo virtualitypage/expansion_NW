@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_domain.txt
 #
-# Last modified: 3 November 2024
+# Last modified: 4 November 2024
 #
 
 # [拒否リクエスト]
@@ -31,6 +31,7 @@
 0.0.0.0 creativecdn.com
 0.0.0.0 doubleclick.net
 0.0.0.0 doubleclick.net.lan
+0.0.0.0 duu7p-szrcy.jp
 0.0.0.0 g.doubleclick.net.lan
 0.0.0.0 g.doubleclick.net.tail06b0f8.ts.net
 0.0.0.0 googleads.g.doubleclick.net
@@ -62,6 +63,7 @@
 0.0.0.0 ae.iads.unity3d.com
 0.0.0.0 aps-attribution.unityads.unity3d.com
 0.0.0.0 auction-load.unityads.unity3d.com
+0.0.0.0 auction-load.unityads.unity3d.com.lan
 0.0.0.0 cdn-creatives-cf-prd.acquire.unity3dusercontent.com
 0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
 0.0.0.0 cdn.iads.unity3d.com
