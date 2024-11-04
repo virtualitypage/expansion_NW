@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Accept_domain.txt
 #
-# Last modified: 3 November 2024
+# Last modified: 4 November 2024
 #
 
 # [許可リクエスト]
@@ -62,6 +62,7 @@
 @@||safebrowsing.g.applimg.com
 @@||safebrowsing.googleapis.com
 @@||sakura-checker.jp
+@@||securl.nu
 @@||static.line-scdn.net
 @@||steampowered.com
 @@||stickershop.line-scdn.net
@@ -90,7 +91,9 @@
 @@||www.smartnews.be
 @@||www.topvalu.net
 @@||www.yahoo.co.jp
+@@||www.youtube.com
 @@||www3.nhk.or.jp
 @@||x.com
 @@||yamato-hd.co.jp
 @@||ymobile-store.yahoo.co.jp
+@@||youtubei.googleapis.com
