@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 3 November 2024
+# Last modified: 4 November 2024
 #
 
 # [広告全般]
@@ -87,6 +87,7 @@
 0.0.0.0 alpsoutdoorsummit.jp
 0.0.0.0 amanitadesign.com
 0.0.0.0 ampmedia.jp
+0.0.0.0 amu-kyoto.jp
 0.0.0.0 anajinzai.recruitment.jp
 0.0.0.0 ananti.kr
 0.0.0.0 ananweb.jp
@@ -200,6 +201,7 @@
 0.0.0.0 brand.taisho.co.jp
 0.0.0.0 briil.com
 0.0.0.0 brokerspot.com
+0.0.0.0 bs.doshisha.ac.jp
 0.0.0.0 bs.i-fieldnet.com
 0.0.0.0 buddica.direct
 0.0.0.0 bulk.co.jp
@@ -416,6 +418,7 @@
 0.0.0.0 eneos-cl.com
 0.0.0.0 energy-kyoiku.meti.go.jp
 0.0.0.0 enfant.living.jp
+0.0.0.0 enjoy-osaka-kyoto-kobe.com
 0.0.0.0 enjoy-sidework.com
 0.0.0.0 enjoyhome-fudosan.net
 0.0.0.0 enk.or.jp
@@ -1536,6 +1539,7 @@
 0.0.0.0 shop.kaneko-jewelry.jp
 0.0.0.0 shop.lumieu.jp
 0.0.0.0 shop.nakano-group.co.jp
+0.0.0.0 shop.pdr.co.jp
 0.0.0.0 shop.remozer.com
 0.0.0.0 shop.shoyeido.co.jp
 0.0.0.0 shop.soundfun.co.jp
@@ -1747,6 +1751,7 @@
 0.0.0.0 toyama-ryoushin.info
 0.0.0.0 toyokeizai.net
 0.0.0.0 toyonishi-store.com
+0.0.0.0 toyooka-kaban.jp
 0.0.0.0 toyota.jp
 0.0.0.0 trace.popin.cc
 0.0.0.0 tramsystem.co.jp
@@ -1816,7 +1821,9 @@
 0.0.0.0 walar.co.jp
 0.0.0.0 walife.co.jp
 0.0.0.0 warabimochipompom.com
+0.0.0.0 warm-i.com
 0.0.0.0 washington.jp
+0.0.0.0 watashiplus.shiseidogroup.cn
 0.0.0.0 watch-yoshida.co.jp
 0.0.0.0 watchrepair.com.sg
 0.0.0.0 watchsalon-fukuoka.com
@@ -1994,6 +2001,7 @@
 0.0.0.0 www.benesse.co.jp
 0.0.0.0 www.benscycle.com
 0.0.0.0 www.benzkansai.com
+0.0.0.0 www.beriver.co.jp
 0.0.0.0 www.berlitz.com
 0.0.0.0 www.best1cruise.com
 0.0.0.0 www.besthousing.co.jp
@@ -2761,6 +2769,7 @@
 0.0.0.0 www.ninkatsuka.metro.tokyo.lg.jp
 0.0.0.0 www.nipponham.co.jp
 0.0.0.0 www.nipponmanpower.co.jp
+0.0.0.0 www.nireco.jp
 0.0.0.0 www.nishikawa1566.com
 0.0.0.0 www.nishinippon.co.jp
 0.0.0.0 www.nisiki-kai.com
@@ -2807,6 +2816,7 @@
 0.0.0.0 www.oec.okaya.co.jp
 0.0.0.0 www.office-freelive.com
 0.0.0.0 www.officedeyasai.jp
+0.0.0.0 www.ogu.ac.jp
 0.0.0.0 www.ohkawa-sub.com
 0.0.0.0 www.ohken.co.jp
 0.0.0.0 www.ohkifudosan.co.jp
