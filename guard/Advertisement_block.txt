@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 4 November 2024
+# Last modified: 5 November 2024
 #
 
 # [広告全般]
@@ -94,6 +94,7 @@
 0.0.0.0 anchorbolt.base.shop
 0.0.0.0 and-conote.powergrid.chuden.co.jp
 0.0.0.0 and-english.com
+0.0.0.0 anellohome.com
 0.0.0.0 angelinasweet.com
 0.0.0.0 animefesta.iowl.jp
 0.0.0.0 ankanpou.com
@@ -293,6 +294,7 @@
 0.0.0.0 continental-automotive.com
 0.0.0.0 continentaltire.com
 0.0.0.0 converse.co.jp
+0.0.0.0 coqul.s-re.jp
 0.0.0.0 cores-ec.site
 0.0.0.0 corgi.breeders.jp
 0.0.0.0 corolla-iwate.jp
@@ -362,6 +364,7 @@
 0.0.0.0 dogst.theshop.jp
 0.0.0.0 dongri-manzara.owst.jp
 0.0.0.0 doremi-international.com
+0.0.0.0 dormy-ac.com
 0.0.0.0 dorutyenascita.owst.jp
 0.0.0.0 dosparaplus.com
 0.0.0.0 dotapps.jp
@@ -519,6 +522,7 @@
 0.0.0.0 gaga.ne.jp
 0.0.0.0 gaiheki02.rank12345678.com
 0.0.0.0 gaihekitosou-support.jp
+0.0.0.0 gakouin.com
 0.0.0.0 games.dmm.com
 0.0.0.0 gankenshinkochi.com
 0.0.0.0 gar.mrajkgea.top
@@ -533,7 +537,9 @@
 0.0.0.0 getnews.jp
 0.0.0.0 ghibli-park.jp
 0.0.0.0 gifunavi.jp
+0.0.0.0 gindaco-cpshop.com
 0.0.0.0 gindaco-tsudanuma.owst.jp
+0.0.0.0 ginza-cruise.co.jp
 0.0.0.0 gion-group.jp
 0.0.0.0 gion-museum.com
 0.0.0.0 glampicks.jp
@@ -605,6 +611,7 @@
 0.0.0.0 hands.net
 0.0.0.0 haneda-shopping.jp
 0.0.0.0 happygift2.com
+0.0.0.0 happyhackingkb.com
 0.0.0.0 happysmile3.com
 0.0.0.0 harekuraray.com
 0.0.0.0 hari1.com
@@ -891,6 +898,7 @@
 0.0.0.0 kojyo-kuruma.com
 0.0.0.0 kokokara.tais.ac.jp
 0.0.0.0 kokyo111.owst.jp
+0.0.0.0 komeko-times.jp
 0.0.0.0 konciwa.com
 0.0.0.0 koreabucketlist.com
 0.0.0.0 kosavu.com
@@ -1663,6 +1671,7 @@
 0.0.0.0 sutekinajinsei.jp
 0.0.0.0 suumo.jp
 0.0.0.0 suzuki-ballet-studio.com
+0.0.0.0 svltd.co.jp
 0.0.0.0 syakuchiken.jp
 0.0.0.0 systema.lion.co.jp
 0.0.0.0 tabe-repo.net
@@ -1711,6 +1720,7 @@
 0.0.0.0 the-knitbar.com
 0.0.0.0 the-law-office.jp
 0.0.0.0 the-money777.com
+0.0.0.0 the-shanaiho.com
 0.0.0.0 thefulfiller.com
 0.0.0.0 thegrace.jp
 0.0.0.0 themusiccourt.jp
@@ -1781,6 +1791,7 @@
 0.0.0.0 uchimura.e-kagu.in
 0.0.0.0 uenui.com
 0.0.0.0 uetani-clinic.com
+0.0.0.0 ujijujo-stamprally2024.com
 0.0.0.0 uma-quick.com
 0.0.0.0 uma-rank.net
 0.0.0.0 umaki-items.com
@@ -2114,6 +2125,7 @@
 0.0.0.0 www.colehaan.co.jp
 0.0.0.0 www.collisioncareers.com
 0.0.0.0 www.columbiasports.co.jp
+0.0.0.0 www.combi.co.jp
 0.0.0.0 www.commufa.jp
 0.0.0.0 www.concent-f.jp
 0.0.0.0 www.concur.co.jp
@@ -2347,6 +2359,7 @@
 0.0.0.0 www.happiness-direct.com
 0.0.0.0 www.happy-mealkit.com
 0.0.0.0 www.happy-semi.com
+0.0.0.0 www.happy-soul.net
 0.0.0.0 www.harbourvillehotel.com
 0.0.0.0 www.harikaehonpo.net
 0.0.0.0 www.haseko.co.jp
@@ -2551,6 +2564,7 @@
 0.0.0.0 www.kirizai.jp
 0.0.0.0 www.kitzmf.com
 0.0.0.0 www.kiyobank.co.jp
+0.0.0.0 www.kkr.mlit.go.jp
 0.0.0.0 www.klook.com
 0.0.0.0 www.kmw.ac.jp
 0.0.0.0 www.ko-z.com
@@ -2614,6 +2628,7 @@
 0.0.0.0 www.logicool.co.jp
 0.0.0.0 www.londonmasteringstudio.co.uk
 0.0.0.0 www.loperaio.co.jp
+0.0.0.0 www.losstime.co.jp
 0.0.0.0 www.lpio.jp
 0.0.0.0 www.lululemon.co.jp
 0.0.0.0 www.luxalgo.com
@@ -2936,6 +2951,7 @@
 0.0.0.0 www.proud-web.jp
 0.0.0.0 www.proyang.com.tw
 0.0.0.0 www.psosaka.com
+0.0.0.0 www.ptotjinzaibank.com
 0.0.0.0 www.pure-house.co.jp
 0.0.0.0 www.pwc.com
 0.0.0.0 www.qoo10.jp
@@ -3152,6 +3168,7 @@
 0.0.0.0 www.tannowahouse.jp
 0.0.0.0 www.tanoshii-ie.jp
 0.0.0.0 www.tanzo.jp
+0.0.0.0 www.taos.co.jp
 0.0.0.0 www.tarou.co.jp
 0.0.0.0 www.tashiro-kankyo.com
 0.0.0.0 www.tb-kumano.jp
@@ -3161,6 +3178,7 @@
 0.0.0.0 www.teez.jp
 0.0.0.0 www.tejongde.jp
 0.0.0.0 www.teksystems.com
+0.0.0.0 www.tel-tkl-midcareer.com
 0.0.0.0 www.tele.soumu.go.jp
 0.0.0.0 www.temu.com
 0.0.0.0 www.tenjikan.com
@@ -3280,6 +3298,7 @@
 0.0.0.0 www.w-nexco.co.jp
 0.0.0.0 www.w2gym.jp
 0.0.0.0 www.wa-kukan-life.com
+0.0.0.0 www.wadakohsan.info
 0.0.0.0 www.waf-seminar.de
 0.0.0.0 www.waiper.co.jp
 0.0.0.0 www.wakamatsuya.co.jp
