@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 5 November 2024
+# Last modified: 6 November 2024
 #
 
 # [広告全般]
@@ -154,9 +154,11 @@
 0.0.0.0 backlog.com
 0.0.0.0 balletschool.hp.peraichi.com
 0.0.0.0 bananarepublic.gap.co.jp
+0.0.0.0 bank-loan-ranking.com
 0.0.0.0 basefood.co.jp
 0.0.0.0 bashotoru.com
 0.0.0.0 baycrews.jp
+0.0.0.0 bbq-group.jp
 0.0.0.0 bbq.urban-earth.jp
 0.0.0.0 bcp.sfri.jp
 0.0.0.0 be-epilogue.jp
@@ -323,6 +325,7 @@
 0.0.0.0 dachs.breeders.jp
 0.0.0.0 daiei-corporation.com
 0.0.0.0 danshin-smile.cardif.co.jp
+0.0.0.0 daran-eyebeauty.com
 0.0.0.0 darts-strix.owst.jp
 0.0.0.0 deagostini.jp
 0.0.0.0 dealer.bydauto.co.jp
@@ -723,6 +726,7 @@
 0.0.0.0 invest.takuto-investment.com
 0.0.0.0 investor-a.com
 0.0.0.0 investsspot.com
+0.0.0.0 iot-usecase.com
 0.0.0.0 ippachi-tennoji.owst.jp
 0.0.0.0 iroiro2008.net
 0.0.0.0 irumo.docomo.ne.jp
@@ -1099,6 +1103,7 @@
 0.0.0.0 mlogic.tax
 0.0.0.0 mobazo.jp
 0.0.0.0 mobile-fukugyo.work
+0.0.0.0 mobile.nuro.jp
 0.0.0.0 mokutown.jp
 0.0.0.0 money-college.org
 0.0.0.0 monji.tech
@@ -1547,6 +1552,7 @@
 0.0.0.0 shop.kaneko-jewelry.jp
 0.0.0.0 shop.lumieu.jp
 0.0.0.0 shop.nakano-group.co.jp
+0.0.0.0 shop.noevir.jp
 0.0.0.0 shop.pdr.co.jp
 0.0.0.0 shop.remozer.com
 0.0.0.0 shop.shoyeido.co.jp
@@ -1926,6 +1932,7 @@
 0.0.0.0 www.agentx.so
 0.0.0.0 www.agoda.com
 0.0.0.0 www.ahiruyaminimal.com
+0.0.0.0 www.ai-blogkun.com
 0.0.0.0 www.ai2010.net
 0.0.0.0 www.aidagroup.co.jp
 0.0.0.0 www.aidem.co.jp
@@ -1996,6 +2003,7 @@
 0.0.0.0 www.atlas-web.jp
 0.0.0.0 www.atpress.ne.jp
 0.0.0.0 www.audi-kusunoki.jp
+0.0.0.0 www.audi-nagoyachuo.jp
 0.0.0.0 www.audiotech.jp
 0.0.0.0 www.austria.info
 0.0.0.0 www.autotrace.info
@@ -2010,6 +2018,7 @@
 0.0.0.0 www.bayfm.co.jp
 0.0.0.0 www.be4tech.com
 0.0.0.0 www.benesse.co.jp
+0.0.0.0 www.bennri-da.com
 0.0.0.0 www.benscycle.com
 0.0.0.0 www.benzkansai.com
 0.0.0.0 www.beriver.co.jp
@@ -2247,6 +2256,7 @@
 0.0.0.0 www.feather.co.jp
 0.0.0.0 www.feels-trend.site
 0.0.0.0 www.felicitycontrol.com
+0.0.0.0 www.ferpc.jp
 0.0.0.0 www.ferry-sunflower.co.jp
 0.0.0.0 www.fetnet.net
 0.0.0.0 www.fevertree.jp
@@ -2267,6 +2277,7 @@
 0.0.0.0 www.freedom.co.jp
 0.0.0.0 www.freee.co.jp
 0.0.0.0 www.frewa.jp
+0.0.0.0 www.front-ia.com
 0.0.0.0 www.frontier-direct.jp
 0.0.0.0 www.fudousann.info
 0.0.0.0 www.fujicorporation.com
@@ -2497,6 +2508,7 @@
 0.0.0.0 www.jishin-hoken.jp
 0.0.0.0 www.jitbox.co.jp
 0.0.0.0 www.jka-cycle.jp
+0.0.0.0 www.jkplanet.jp
 0.0.0.0 www.jleague-ticket.jp
 0.0.0.0 www.jleague.jp
 0.0.0.0 www.jmsc.co.jp
@@ -2959,6 +2971,7 @@
 0.0.0.0 www.qtmobile.jp
 0.0.0.0 www.qualita-travel.com
 0.0.0.0 www.r-ac.co.jp
+0.0.0.0 www.r-kg.com
 0.0.0.0 www.r-staffing.co.jp
 0.0.0.0 www.racingmaster.game
 0.0.0.0 www.radishbo-ya.co.jp
@@ -2977,6 +2990,7 @@
 0.0.0.0 www.redbaron.co.jp
 0.0.0.0 www.redstoneonline.jp
 0.0.0.0 www.regina-web.jp
+0.0.0.0 www.remosia.biz
 0.0.0.0 www.remotecall.com
 0.0.0.0 www.rendimento.com.br
 0.0.0.0 www.rengo-aichi.or.jp
@@ -3335,6 +3349,7 @@
 0.0.0.0 www.yamano-music.co.jp
 0.0.0.0 www.yamato-u.ac.jp
 0.0.0.0 www.yane-takumi.net
+0.0.0.0 www.yanmar.com
 0.0.0.0 www.yasuda-u.ac.jp
 0.0.0.0 www.yawata.tv
 0.0.0.0 www.ykkap.co.jp
@@ -3374,6 +3389,7 @@
 0.0.0.0 yakiniku-fc.com
 0.0.0.0 yamadahomes.jp
 0.0.0.0 yamadahomes.resv.jp
+0.0.0.0 yamaguchi-kogyoyosui.jp
 0.0.0.0 yamanaka-kensetsu-lp.com
 0.0.0.0 yamanashi.media
 0.0.0.0 yamashiro-onlinestore.com
@@ -3388,6 +3404,7 @@
 0.0.0.0 yhtop.co
 0.0.0.0 yodomachi-cycling2024.com
 0.0.0.0 yokanavi.com
+0.0.0.0 yonex-kaisyu.co.jp
 0.0.0.0 yoridoko-kanko.co.jp
 0.0.0.0 yorkie.breeders.jp
 0.0.0.0 yorokobishop.com
