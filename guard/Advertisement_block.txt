@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 6 November 2024
+# Last modified: 7 November 2024
 #
 
 # [広告全般]
@@ -146,6 +146,7 @@
 0.0.0.0 audition.photoreco.com
 0.0.0.0 australian-macadamias.jp
 0.0.0.0 awake-support.com
+0.0.0.0 awaraonsenyuraku.jp
 0.0.0.0 axia-expo.nikkan.co.jp
 0.0.0.0 az-art.net
 0.0.0.0 azaleanet.or.jp
@@ -420,6 +421,7 @@
 0.0.0.0 employment.en-japan.com
 0.0.0.0 en-ambi.com
 0.0.0.0 en-gage.net
+0.0.0.0 en.sungrowpower.com
 0.0.0.0 enemacoffeereview.com
 0.0.0.0 eneos-cl.com
 0.0.0.0 energy-kyoiku.meti.go.jp
@@ -704,6 +706,7 @@
 0.0.0.0 ii.tokyu.co.jp
 0.0.0.0 ikedahearinggear.com
 0.0.0.0 iki-online.com
+0.0.0.0 illumina.wella.co.jp
 0.0.0.0 imabarishintoshi-aeonmall.com
 0.0.0.0 imamurasiroari.co.jp
 0.0.0.0 impreme.jp
@@ -977,6 +980,7 @@
 0.0.0.0 linear.jr-central.co.jp
 0.0.0.0 lining-konishi.com
 0.0.0.0 link.springer.com
+0.0.0.0 linktr.ee
 0.0.0.0 liveviewing.jp
 0.0.0.0 loans.life
 0.0.0.0 longterm.kikagaku.ai
@@ -1044,6 +1048,7 @@
 0.0.0.0 matsuyama.citroen-dealer.jp
 0.0.0.0 mayutan.com
 0.0.0.0 mb-hakata.com
+0.0.0.0 mbcc-c.com
 0.0.0.0 mcl.sbk.jp
 0.0.0.0 mcs-ainoie.com
 0.0.0.0 mecha-tok.com
@@ -1087,6 +1092,7 @@
 0.0.0.0 miraiyu-career.com
 0.0.0.0 misawa-chugoku.jp
 0.0.0.0 misawa-kinki.jp
+0.0.0.0 misc-sokei.com
 0.0.0.0 mishima-jrtakatsuki.com
 0.0.0.0 mishima-minase.com
 0.0.0.0 mishimakagu.com
@@ -1307,6 +1313,7 @@
 0.0.0.0 product.kadokawa.co.jp
 0.0.0.0 product.minebeamitsumi.com
 0.0.0.0 promo.acronis.com
+0.0.0.0 promo.manchester.edu.hk
 0.0.0.0 ps-hp.jpn.panasonic.com
 0.0.0.0 ps.nikkei.com
 0.0.0.0 pspo.jp
@@ -1488,6 +1495,7 @@
 0.0.0.0 sealm.jp
 0.0.0.0 sealy-jp.com
 0.0.0.0 search.sbisec.co.jp
+0.0.0.0 sec.pandanet.co.jp
 0.0.0.0 secure.proglab.education
 0.0.0.0 seikatsu-daiji1616.biz
 0.0.0.0 seikatsu-shien.com
@@ -1654,6 +1662,7 @@
 0.0.0.0 studying.jp
 0.0.0.0 studyinternational.com
 0.0.0.0 sub.kinematranslationclub.com
+0.0.0.0 subculbusinesscenter.com
 0.0.0.0 sudachi.support
 0.0.0.0 sugamokai.co.jp
 0.0.0.0 sugo-japan.com
@@ -2029,6 +2038,7 @@
 0.0.0.0 www.bfw.com.tw
 0.0.0.0 www.biblesociety.org.uk
 0.0.0.0 www.biccamera.com
+0.0.0.0 www.bikeboy.jp
 0.0.0.0 www.bikekan.jp
 0.0.0.0 www.biofermin.co.jp
 0.0.0.0 www.bishouen.com
@@ -2099,6 +2109,7 @@
 0.0.0.0 www.chalier.jp
 0.0.0.0 www.challeath.com
 0.0.0.0 www.changiairport.com
+0.0.0.0 www.chayamachi-fitness.jp
 0.0.0.0 www.check-roudou.mhlw.go.jp
 0.0.0.0 www.cheer-sec.co.jp
 0.0.0.0 www.chen-mama.com.tw
@@ -3086,6 +3097,7 @@
 0.0.0.0 www.shitate.net
 0.0.0.0 www.shitennoji.ac.jp
 0.0.0.0 www.shizutetsu-homes.co.jp
+0.0.0.0 www.shochu.or.jp
 0.0.0.0 www.shokochukin.co.jp
 0.0.0.0 www.shopify.com
 0.0.0.0 www.shopowner-support.net
@@ -3103,6 +3115,7 @@
 0.0.0.0 www.skin-c.com
 0.0.0.0 www.sky-career.jp
 0.0.0.0 www.skybldg.co.jp
+0.0.0.0 www.skypce.net
 0.0.0.0 www.skyperfectv.co.jp
 0.0.0.0 www.skyxia.jp
 0.0.0.0 www.slim-couture.com
@@ -3305,6 +3318,7 @@
 0.0.0.0 www.virinamaternity.com
 0.0.0.0 www.visartscenter.org
 0.0.0.0 www.visitjackson.com
+0.0.0.0 www.vivastudiosalon.com
 0.0.0.0 www.voat-voice.com
 0.0.0.0 www.voat.co.jp
 0.0.0.0 www.vocalmaster.jp
@@ -3340,6 +3354,7 @@
 0.0.0.0 www.wrappixel.com
 0.0.0.0 www.xmtrading.com
 0.0.0.0 www.xprice.co.jp
+0.0.0.0 www.xronos-inc.co.jp
 0.0.0.0 www.xtb.com
 0.0.0.0 www.y-yokohama.com
 0.0.0.0 www.yaken.store
