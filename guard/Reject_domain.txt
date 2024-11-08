@@ -1,10 +1,10 @@
 # Reject URL List
-# Reject domain
+# Reject domains related to advertising platforms, trackers, and viruses.
 #
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_domain.txt
 #
-# Last modified: 4 November 2024
+# Last modified: 8 November 2024
 #
 
 # [拒否リクエスト]
@@ -23,24 +23,33 @@
 0.0.0.0 app.adjust.net.in.lan
 0.0.0.0 app.adjust.net.in.tail06b0f8.ts.net
 0.0.0.0 app.adjust.world
+0.0.0.0 b.karte.io
+0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com.lan
 0.0.0.0 c.amazon-adsystem.com.tail06b0f8.ts.net
+0.0.0.0 cadmus.script.ac
 0.0.0.0 cdn-f.adsmoloco.com
 0.0.0.0 cdn.mirrativ.com
+0.0.0.0 cf-native.karte.io
 0.0.0.0 creativecdn.com
 0.0.0.0 doubleclick.net
 0.0.0.0 doubleclick.net.lan
-0.0.0.0 duu7p-szrcy.jp
 0.0.0.0 g.doubleclick.net.lan
 0.0.0.0 g.doubleclick.net.tail06b0f8.ts.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 id5-sync.com
-0.0.0.0 profile.line-scdn.net
+0.0.0.0 in.treasuredata.com
+0.0.0.0 log.radiko.jp
+0.0.0.0 log2.radiko.jp
+0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 sentry.io
 0.0.0.0 socdm.com
 0.0.0.0 static.doubleclick.net
+0.0.0.0 static.karte.io
 0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 sync.intentiq.com
 0.0.0.0 td.doubleclick.net
 0.0.0.0 torimochi.line-apps.com
 0.0.0.0 view.adjust.com
