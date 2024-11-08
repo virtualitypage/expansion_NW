@@ -4,7 +4,7 @@
 # References: https://meiwakumail.jp/
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_link.txt
 #
-# Last modified: 6 November 2024
+# Last modified: 8 November 2024
 #
 
 # [迷惑メールのURLリンク(目的不明)]
@@ -15,6 +15,7 @@
 0.0.0.0 0830.jdh-sy.com
 0.0.0.0 0dcsmbo83.nmhgyt-dfd.com
 0.0.0.0 0dr-zevrdf.jp
+0.0.0.0 0t3b06c.yr4-gderg.com
 0.0.0.0 0xf3l-mhdjt.jp
 0.0.0.0 10sag4r52f.com
 0.0.0.0 10wvo7303o3ah3.fitness-horizon.net
@@ -41,6 +42,7 @@
 0.0.0.0 1c0d.w4tre-tesd.com
 0.0.0.0 1c9-ch-cr.com
 0.0.0.0 1ccy6t-3jki.jp
+0.0.0.0 1czxbx.5tehtiy.com
 0.0.0.0 1d.bqaeira.com
 0.0.0.0 1d0xc.z2-gh-o1j6.com
 0.0.0.0 1dkabl.ngf-6dfg.jp
@@ -136,6 +138,7 @@
 0.0.0.0 3do41.juy6rsd-gfx.jp
 0.0.0.0 3ej.yus-4f-kgwu.com
 0.0.0.0 3hg-lkfp3ws.jp
+0.0.0.0 3i084u3.htr-dfbytrw.com
 0.0.0.0 3iezo.rhtd-gres.jp
 0.0.0.0 3ip41jtdm.drg54edfg-d.jp
 0.0.0.0 3jgwy.cj7v3oqisoo0hdpw4n.com
@@ -222,6 +225,7 @@
 0.0.0.0 542.twilight-wander.com
 0.0.0.0 5454.espionageborage.com
 0.0.0.0 546.m3qf9p6d.com
+0.0.0.0 54c3bs.5e-df-etgd.com
 0.0.0.0 55rcfpj9p.6u45gd-sdg.jp
 0.0.0.0 56.d4mjn58c.com
 0.0.0.0 56d1dgc.69-k3goy1.com
@@ -231,6 +235,7 @@
 0.0.0.0 57dh-nd9n1u.jp
 0.0.0.0 58-l6-xqm.jp
 0.0.0.0 5847.e862aifj.com
+0.0.0.0 593g2.5e-df-etgd.com
 0.0.0.0 5Wx6a1aDfD.confess-company.com
 0.0.0.0 5cSB9UnCko.fatally-college.net
 0.0.0.0 5cp1d.top-wse75f-vsz.com
@@ -283,6 +288,7 @@
 0.0.0.0 6ci.kj-ca6-wfs.com
 0.0.0.0 6dea4.eolw-n8ha.net
 0.0.0.0 6e418.htdfgre-wer.jp
+0.0.0.0 6esrhz1.5e-df-etgd.com
 0.0.0.0 6fsv-0zev.jp
 0.0.0.0 6iY4HQ4oNU.lookout-extreme.net
 0.0.0.0 6je7c.kuyf-656rft.com
@@ -345,6 +351,7 @@
 0.0.0.0 7sl6aj.htdfgre-wer.jp
 0.0.0.0 7sw-tr6f.jp
 0.0.0.0 7swl9e1n.m-2o8-ppxu.com
+0.0.0.0 7vea2g.t5re-fgntr-dfrg.com
 0.0.0.0 7w0.dwb-ajg4h.net
 0.0.0.0 7wn-k9ock.net
 0.0.0.0 7xnp9w.ge455erg.jp
@@ -366,6 +373,7 @@
 0.0.0.0 85893.jfj-ll.com
 0.0.0.0 85peu.rhtd-gres.jp
 0.0.0.0 86.connectionwitnessperception.com
+0.0.0.0 86knn.hderg-dfb.com
 0.0.0.0 86p-0uis.com
 0.0.0.0 8874.robeadministrationfoundation.com
 0.0.0.0 88sb.bqaeira.com
@@ -415,6 +423,7 @@
 0.0.0.0 96.nywlevs.com
 0.0.0.0 96.robeadministrationfoundation.com
 0.0.0.0 97-e716lu.com
+0.0.0.0 97c2.rth-bdre-e4.com
 0.0.0.0 97cpn.95-kt7lk7k.com
 0.0.0.0 97i6y70o.h5d-fge-re.jp
 0.0.0.0 9822.faithearnestmarch.com
@@ -445,6 +454,7 @@
 0.0.0.0 9szwy-kbaxw.jp
 0.0.0.0 9ub0tx9.h5d-fge-re.jp
 0.0.0.0 9v7iwn.nfrt-r6y6d-d.jp
+0.0.0.0 9vodguy87.yr4-gderg.com
 0.0.0.0 9wl-lk25y3a.jp
 0.0.0.0 9wl6IOwtR3.edifice-excited.com
 0.0.0.0 9zax.htdfgre-wer.jp
@@ -570,7 +580,6 @@
 0.0.0.0 ZEwX6GzKBB.despair-conquer.com
 0.0.0.0 ZZWIMUR.baggage-conduct.com
 0.0.0.0 ZllxvJxx.cherish-invoice.com
-0.0.0.0 ebtnqgtqwvqna.jp
 0.0.0.0 a-y7aelj.jp
 0.0.0.0 a2.bag-5ikj.com
 0.0.0.0 a3h-ma8hc.jp
@@ -679,6 +688,7 @@
 0.0.0.0 cg-rhztzo.jp
 0.0.0.0 chEe7998qe.elevate-blunder.com
 0.0.0.0 charlemagne-massey.com
+0.0.0.0 cherry-freddie.com
 0.0.0.0 citly.me
 0.0.0.0 cjwr.gr-ge3-sdf.jp
 0.0.0.0 ck6.juy6rsd-gfx.jp
@@ -766,6 +776,7 @@
 0.0.0.0 ea.h-bl57xq6.jp
 0.0.0.0 eaton-levins.com
 0.0.0.0 ebel-kavanagh.com
+0.0.0.0 ebtnqgtqwvqna.jp
 0.0.0.0 ecxy3.xip-oi.com
 0.0.0.0 edx.htdfgre-wer.jp
 0.0.0.0 eecqzbi.walpole-ferry.com
@@ -900,6 +911,7 @@
 0.0.0.0 hFXhiKTspchAUf.novelty-descend.com
 0.0.0.0 hJN15M8Gl7.disgust-berserk.com
 0.0.0.0 hPFAq9H94Y.content-cursory.org
+0.0.0.0 hatne94.5tehtiy.com
 0.0.0.0 hc68nj.fa-jfuis5.com
 0.0.0.0 hc6lz.h5d-fge-re.jp
 0.0.0.0 hdrkg.kuyf-656rft.com
@@ -924,8 +936,10 @@
 0.0.0.0 hsaz98.ngf-6dfg.jp
 0.0.0.0 htE6Lom6c2.garment-delight.net
 0.0.0.0 htdfgre-wer.jp
+0.0.0.0 hu-4-h7u.com
 0.0.0.0 hubu7tz.kj-ca6-wfs.com
 0.0.0.0 hv0i.lj-7bp51c.net
+0.0.0.0 hx828.yr4-gderg.com
 0.0.0.0 hxrl.ulcrjsd.com
 0.0.0.0 hy-j05l6o.com
 0.0.0.0 hymk370fl.drg54edfg-d.jp
@@ -941,6 +955,7 @@
 0.0.0.0 i26u-awr0.net
 0.0.0.0 i2a64dcn.h5d-fge-re.jp
 0.0.0.0 i6jd24r8r.gr-ge3-sdf.jp
+0.0.0.0 i7-i9o-kgal.com
 0.0.0.0 i7xp2r-qxrn.jp
 0.0.0.0 i91f3j-i1xl.jp
 0.0.0.0 i9XXXcH187.crumble-emperor.com
@@ -1037,6 +1052,7 @@
 0.0.0.0 kWYpHvq.capital-enforce.com
 0.0.0.0 kYIYZRXwTgNv.capital-enforce.com
 0.0.0.0 kamloops-abraham.com
+0.0.0.0 kc-n80y-co.com
 0.0.0.0 kczk5smv.juy6rsd-gfx.jp
 0.0.0.0 kdug1l.w4tre-tesd.com
 0.0.0.0 kdui.d-5ucwhqo.net
@@ -1051,6 +1067,7 @@
 0.0.0.0 kj-bs-r1.com
 0.0.0.0 kldv.drg54edfg-d.jp
 0.0.0.0 kmg5j3.rx-scg8s6.com
+0.0.0.0 kms9e8t.6urd-5ergr.com
 0.0.0.0 knj-3okn-3w.jp
 0.0.0.0 knu8ril4o.drg54edfg-d.jp
 0.0.0.0 kooandsmahkx.rimmell-whittle.com
@@ -1091,6 +1108,7 @@
 0.0.0.0 laird-recorde.com
 0.0.0.0 lale-winnipeg.com
 0.0.0.0 langridge-winfriede.com
+0.0.0.0 laoprmeg.rth-bdre-e4.com
 0.0.0.0 lb6df.e3i68weztgf6jmzk.jp
 0.0.0.0 lbao1-4l9ha.jp
 0.0.0.0 lcng0c.6u45gd-sdg.jp
@@ -1217,6 +1235,7 @@
 0.0.0.0 oblivio-alan.com
 0.0.0.0 ocbr1osw.ngf-6dfg.jp
 0.0.0.0 ocmyp8.dwb-ajg4h.net
+0.0.0.0 ofnet7nr4.ur6-d5-dh.com
 0.0.0.0 oiw-kal-61.com
 0.0.0.0 ok.nj84-u71t.net
 0.0.0.0 okjz.drg54edfg-d.jp
@@ -1228,6 +1247,7 @@
 0.0.0.0 or-nriz-j3.com
 0.0.0.0 or1ebsdm.ge455erg.jp
 0.0.0.0 or6fm.6u45gd-sdg.jp
+0.0.0.0 ores.5tehtiy.com
 0.0.0.0 ori0-m4tnsl.jp
 0.0.0.0 orll.cc
 0.0.0.0 orw-7hkbelt.jp
@@ -1363,6 +1383,7 @@
 0.0.0.0 s68yy78gs.6u45gd-sdg.jp
 0.0.0.0 s7-tx58ks.jp
 0.0.0.0 s7e.6q-uk6-26i.com
+0.0.0.0 s8war4y.hderg-dfb.com
 0.0.0.0 s9sv0lhwu.nmhgyt-dfd.com
 0.0.0.0 sJnTGAAEfiBP.collect-charity.com
 0.0.0.0 sagg-bn7vdz.jp
@@ -1407,6 +1428,7 @@
 0.0.0.0 t2-l28aa9.com
 0.0.0.0 t29-1atbz.jp
 0.0.0.0 t3khnec.nfrt-r6y6d-d.jp
+0.0.0.0 t671mlvu.htr-dfbytrw.com
 0.0.0.0 t6AdZNvQCt.finally-broaden.com
 0.0.0.0 t8tibh9.u1-kyy-k5jf.com
 0.0.0.0 tDvWbwSWge.frantic-digital.com
@@ -1603,6 +1625,7 @@
 0.0.0.0 www.afbpt.y8ifbhd3x.com
 0.0.0.0 www.afore-yowza.com
 0.0.0.0 www.after-blank.com
+0.0.0.0 www.amazon.co.jp
 0.0.0.0 www.aua8j.h5rki4fhn.com
 0.0.0.0 www.bloom-s.co.jp
 0.0.0.0 www.bqfte.eb7xa66ib.com
@@ -1723,6 +1746,7 @@
 0.0.0.0 x6-4z54ox.com
 0.0.0.0 x81bvsa0.hq-77v-aty.com
 0.0.0.0 x8k5bu.m-m4pwdeeiy.jp
+0.0.0.0 x8o8e.hderg-dfb.com
 0.0.0.0 x8tp.1c-ccd-8.com
 0.0.0.0 xaeJwB.frantic-digital.com
 0.0.0.0 xbsXiZYke.novelty-mineral.org
@@ -1742,7 +1766,9 @@
 0.0.0.0 xpm.bqaeira.com
 0.0.0.0 xpuchew00.com
 0.0.0.0 xqm-lzh.com
+0.0.0.0 xrtb.rth-bdre-e4.com
 0.0.0.0 xrwt-kp8.com
+0.0.0.0 xrxk.rth-bdre-e4.com
 0.0.0.0 xs-5m06af.jp
 0.0.0.0 xsebyfgmin.gllkuqgkbt.cksfrjjgqpbvdt.com
 0.0.0.0 xsnvopazozulq.blog
@@ -1752,11 +1778,13 @@
 0.0.0.0 xy-8hsl51.com
 0.0.0.0 xz-990e7d.jp
 0.0.0.0 y.rr-qv6o6.com
+0.0.0.0 y14mhn.5tehtiy.com
 0.0.0.0 y1v62n659.nfrt-r6y6d-d.jp
 0.0.0.0 y3-z85-j87l.jp
 0.0.0.0 y3k4.htdfgre-wer.jp
 0.0.0.0 y4zj6.rhtd-gres.jp
 0.0.0.0 y5c4sJ2Mej.neutral-cherish.net
+0.0.0.0 y6m2csj.rth-bdre-e4.com
 0.0.0.0 y7a3wdaz.h5d-fge-re.jp
 0.0.0.0 y815cj-etyh.jp
 0.0.0.0 yCmp71ko80.ashamed-massive.net
@@ -1834,3 +1862,136 @@
 0.0.0.0 zx3b2h.nmhgyt-dfd.com
 0.0.0.0 zy86emga4.com
 0.0.0.0 zz-l5y-lkvc.jp
+
+# [迷惑メールのURLリンク(au)]
+0.0.0.0 027.plimknit.com
+0.0.0.0 03.splatunk.com
+0.0.0.0 0xf3l-mhdjt.jp
+0.0.0.0 10.zazzfluff.com
+0.0.0.0 116.frozzlet.com
+0.0.0.0 11i4m.br2hm7yg.com
+0.0.0.0 223.connectionwitnessperception.com
+0.0.0.0 325.chubnib.com
+0.0.0.0 39.quirpzig.com
+0.0.0.0 39.zazzfluff.com
+0.0.0.0 42179.frozzlet.com
+0.0.0.0 48-au62f7.jp
+0.0.0.0 4mz8q.br2hm7yg.com
+0.0.0.0 4nvkd.br2hm7yg.com
+0.0.0.0 50.blimdoodle.com
+0.0.0.0 57g.vwopoqtmtjfd.net
+0.0.0.0 675.plooply.com
+0.0.0.0 69415.twangloo.com
+0.0.0.0 6ii4ydds5bfy.com
+0.0.0.0 6u6.czajdwbrhmcqig.net
+0.0.0.0 7sba4.dfz6im3x.com
+0.0.0.0 7scbc.gaxez2js.com
+0.0.0.0 8067.tibberzog.com
+0.0.0.0 8092.zazzfluff.com
+0.0.0.0 83.plooply.com
+0.0.0.0 83c-jlna1.jp
+0.0.0.0 8776.akh-ou.com
+0.0.0.0 88u.vwopoqtmtjfd.net
+0.0.0.0 8rn.comentique.net
+0.0.0.0 9os.comentique.net
+0.0.0.0 9q2be.a9fag8gd.com
+0.0.0.0 a9gcq7sc.com
+0.0.0.0 ac.ebis.ne.jp
+0.0.0.0 ag9.czajdwbrhmcqig.net
+0.0.0.0 astra-victor.com
+0.0.0.0 aurelia-ford.com
+0.0.0.0 b5d.comentique.net
+0.0.0.0 beziers-laval.com
+0.0.0.0 clean-marriage.com
+0.0.0.0 dew5v.wzp9wxp7.com
+0.0.0.0 edeltraud-lottie.com
+0.0.0.0 eeei4.a9fag8gd.com
+0.0.0.0 hbcq7.wzp9wxp7.com
+0.0.0.0 hiea-lq3lp2.jp
+0.0.0.0 hjux8.gaxez2js.com
+0.0.0.0 ht6.czajdwbrhmcqig.net
+0.0.0.0 i4-xyxyqn.jp
+0.0.0.0 im5.vwopoqtmtjfd.net
+0.0.0.0 kddi-l.jp
+0.0.0.0 kreuz-annecy.com
+0.0.0.0 lin.ee
+0.0.0.0 long-foot.com
+0.0.0.0 mear-gauss.com
+0.0.0.0 mj0ih.wzp9wxp7.com
+0.0.0.0 n2.e2h-wtczehdce.com
+0.0.0.0 n34n2.fgzy5dnf.com
+0.0.0.0 nikolaus-aichhorn.com
+0.0.0.0 os7.pptstdjltfc.net
+0.0.0.0 pa74f54aum.com
+0.0.0.0 pbq.czajdwbrhmcqig.net
+0.0.0.0 po5dl.fgzy5dnf.com
+0.0.0.0 ratzel-gauck.com
+0.0.0.0 rauch-lumen.com
+0.0.0.0 reinthaler-theodoric.com
+0.0.0.0 s8a.czajdwbrhmcqig.net
+0.0.0.0 skdmbaplameh.net
+0.0.0.0 t8zz4.dfz6im3x.com
+0.0.0.0 t9tt0.gaxez2js.com
+0.0.0.0 tr52n.bstygds3.com
+0.0.0.0 vjybuykaxz4.com
+0.0.0.0 www.1yevbt.com
+0.0.0.0 www.1ym9io.com
+0.0.0.0 www.3juzev.com
+0.0.0.0 www.3nle3g2.com
+0.0.0.0 www.3nm19.SSDOVGRIACLH.COM
+0.0.0.0 www.4w6fi0.com
+0.0.0.0 www.53seswfg.com
+0.0.0.0 www.6xzwg0vy.com
+0.0.0.0 www.95nxq.DOIATYGOX.COM
+0.0.0.0 www.afore-yowza.com
+0.0.0.0 www.au43sac89.com
+0.0.0.0 www.auirnvpcqkbhl.com
+0.0.0.0 www.bdubrektqc.com
+0.0.0.0 www.bottom-evening.info
+0.0.0.0 www.hiqvoxnbyjt.com
+0.0.0.0 www.hmcmxklcqzuc.com
+0.0.0.0 www.jdeqftucvk.com
+0.0.0.0 www.jibunbank.co.jp
+0.0.0.0 www.kcuwlib9.com
+0.0.0.0 www.kddi-fs.com
+0.0.0.0 www.ktzdrokcjyoh.com
+0.0.0.0 www.lzltq.dzaf6zxan.com
+0.0.0.0 www.mb2kdeb5lf.com
+0.0.0.0 www.myetherwallet.com
+0.0.0.0 www.nqnzvn65.com
+0.0.0.0 www.owerjewmnvsgeu.com
+0.0.0.0 www.phrase-surprise.info
+0.0.0.0 www.piano-mother.com
+0.0.0.0 www.shituwhfhj.com
+0.0.0.0 www.vspcehfrdf.com
+0.0.0.0 www.zhxau.dxg78c9ck.com
+0.0.0.0 xz3.intellectize.com
+0.0.0.0 y5sd3.bstygds3.com
+0.0.0.0 zivtggbzurfmezk.com
+
+# [迷惑メールのURLリンク(KDDI)]
+0.0.0.0 tinyurl.com
+0.0.0.0 www.afdffqngrrdtmd.com
+0.0.0.0 www.auirnvpcqkbhl.com
+0.0.0.0 www.ayuqpoqjho.com
+0.0.0.0 www.bdapmsqtou.com
+0.0.0.0 www.berygkqxrhebtjp.com
+0.0.0.0 www.dvyexwqymal.com
+0.0.0.0 www.eliesfoiev.com
+0.0.0.0 www.fbedldovws.com
+0.0.0.0 www.gtecfqdxkbjd.com
+0.0.0.0 www.inwlytvhecniaqh.com
+0.0.0.0 www.kboikxhhpxkfay.com
+0.0.0.0 www.kpoegkfvle.com
+0.0.0.0 www.nktmcasymng.com
+0.0.0.0 www.ottmrbdvyriajc.com
+0.0.0.0 www.pbuvqcxaxix.com
+0.0.0.0 www.phybredpivkabuy.com
+0.0.0.0 www.plgsiiujmgf.com
+0.0.0.0 www.sgtcmckamq.com
+0.0.0.0 www.tkxmtflscxrl.com
+0.0.0.0 www.uepdugtjvogajp.com
+0.0.0.0 www.wnyjoapamjl.com
+0.0.0.0 www.wtlxamyemkn.com
+0.0.0.0 www.xoglwovxxk.com
+0.0.0.0 www.yibofxqxshflvl.com
