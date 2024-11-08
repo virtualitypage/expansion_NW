@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 7 November 2024
+# Last modified: 8 November 2024
 #
 
 # [広告全般]
@@ -520,6 +520,7 @@
 0.0.0.0 furunavi.jp
 0.0.0.0 furusato-karatsu.com
 0.0.0.0 furusato-yoichi.jp
+0.0.0.0 furyu-hm.com
 0.0.0.0 g-prep.co.jp
 0.0.0.0 g.floorheating-best.net
 0.0.0.0 g123.jp
@@ -642,6 +643,7 @@
 0.0.0.0 hidanosake-hip.com
 0.0.0.0 hijutaku.j-anshin.co.jp
 0.0.0.0 hikaku-rank.net
+0.0.0.0 hikaku.kurashiru.com
 0.0.0.0 himeji-greenfamily.net
 0.0.0.0 hinata.me
 0.0.0.0 hiraiart-gallery.jp
@@ -723,6 +725,7 @@
 0.0.0.0 info.uopochi.jp
 0.0.0.0 infocp.syngenta.co.jp
 0.0.0.0 ing-chojyu.jp
+0.0.0.0 inkjet-maku.com
 0.0.0.0 inline.app
 0.0.0.0 inquiry.renosy.com
 0.0.0.0 insta-beauty.net
@@ -942,6 +945,7 @@
 0.0.0.0 kyoto-hatoya.jp
 0.0.0.0 kyoto-kimonorental.com
 0.0.0.0 kyoto.brightonhotels.co.jp
+0.0.0.0 kyoto.vc-dealer.jp
 0.0.0.0 kyotofu-shoene.jp
 0.0.0.0 kyotomk-recruit.jp
 0.0.0.0 kyotoseika-nara-shaken.com
@@ -1138,6 +1142,7 @@
 0.0.0.0 naganokaitai.net
 0.0.0.0 nagoya-camera.mikawa.ne.jp
 0.0.0.0 nagoya.ace-clinic.com
+0.0.0.0 naka4.com
 0.0.0.0 nakanodental-cl.com
 0.0.0.0 nakka-art.jp
 0.0.0.0 nanatsuya-radical-yasumitsu.sai-soku.jp
@@ -1451,6 +1456,7 @@
 0.0.0.0 sb-newz.musthave-magazine.tokyo
 0.0.0.0 sb-piece-of-cake.discover-news.tokyo
 0.0.0.0 sb-pr2rqnr.discover-news.tokyo
+0.0.0.0 sb-reemo-typex.newsanything.tokyo
 0.0.0.0 sb-seven.service-info.jp
 0.0.0.0 sb-tenal5.ourservice.jp
 0.0.0.0 sb-testosuteron.discover-news.tokyo
@@ -1849,6 +1855,7 @@
 0.0.0.0 warabimochipompom.com
 0.0.0.0 warm-i.com
 0.0.0.0 washington.jp
+0.0.0.0 washoku.site
 0.0.0.0 watashiplus.shiseidogroup.cn
 0.0.0.0 watch-yoshida.co.jp
 0.0.0.0 watchrepair.com.sg
@@ -2119,6 +2126,7 @@
 0.0.0.0 www.chogin-nishi.com
 0.0.0.0 www.chugin.co.jp
 0.0.0.0 www.chuo-u.ac.jp
+0.0.0.0 www.cielia.com
 0.0.0.0 www.cinemasunshine.co.jp
 0.0.0.0 www.citroen.jp
 0.0.0.0 www.citruspark-glamping.com
@@ -2153,6 +2161,7 @@
 0.0.0.0 www.connection.com
 0.0.0.0 www.conoha.jp
 0.0.0.0 www.contactlens.co.jp
+0.0.0.0 www.coopsumai.jp
 0.0.0.0 www.cordlesschime.com
 0.0.0.0 www.corehouse.jp
 0.0.0.0 www.corona.co.jp
@@ -2394,6 +2403,7 @@
 0.0.0.0 www.hellermanntyton.co.jp
 0.0.0.0 www.helpfeel.com
 0.0.0.0 www.hemsleyfraser.com
+0.0.0.0 www.hepa.jp
 0.0.0.0 www.hepfive.jp
 0.0.0.0 www.hero-wars.com
 0.0.0.0 www.herutu.co.jp
