@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Accept_domain.txt
 #
-# Last modified: 4 November 2024
+# Last modified: 8 November 2024
 #
 
 # [許可リクエスト]
@@ -18,6 +18,7 @@
 @@||business.mobile.rakuten.co.jp
 @@||cdn-manga-stf-router-api.line-scdn.net
 @@||ch-news.line-apps.com
+@@||check.gred.jp
 @@||chromewebstore.google.com
 @@||collector.github.com
 @@||connectivitycheck.gstatic.com
@@ -31,6 +32,7 @@
 @@||event.rakuten.co.jp
 @@||event.travel.rakuten.co.jp
 @@||explainshell.com
+@@||fw.gl-inet.com
 @@||gigafile.nu
 @@||i.ytimg.com
 @@||imap01.au.com
@@ -54,6 +56,7 @@
 @@||param-d.data-storage.auone.jp
 @@||play.googleapis.com
 @@||pool.ntp.org
+@@||profile.line-scdn.net
 @@||proxy.safebrowsing.apple
 @@||remotedesktop.google.com
 @@||resource-jp-linemusic.line-scdn.net
@@ -92,6 +95,7 @@
 @@||www.topvalu.net
 @@||www.yahoo.co.jp
 @@||www.youtube.com
+@@||www2.gred.jp
 @@||www3.nhk.or.jp
 @@||x.com
 @@||yamato-hd.co.jp
