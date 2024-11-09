@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_domain.txt
 #
-# Last modified: 8 November 2024
+# Last modified: 9 November 2024
 #
 
 # [拒否リクエスト]
@@ -30,19 +30,29 @@
 0.0.0.0 c.amazon-adsystem.com.tail06b0f8.ts.net
 0.0.0.0 cadmus.script.ac
 0.0.0.0 cdn-f.adsmoloco.com
+0.0.0.0 cdn.doubleverify.com
 0.0.0.0 cdn.mirrativ.com
 0.0.0.0 cf-native.karte.io
+0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 creativecdn.com
 0.0.0.0 doubleclick.net
 0.0.0.0 doubleclick.net.lan
+0.0.0.0 eu.mvconf.50union.com
 0.0.0.0 g.doubleclick.net.lan
 0.0.0.0 g.doubleclick.net.tail06b0f8.ts.net
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 i18n.mclean.50union.com
+0.0.0.0 iadsdk.apple.com
 0.0.0.0 id5-sync.com
+0.0.0.0 imasdk.googleapis.com
 0.0.0.0 in.treasuredata.com
 0.0.0.0 log.radiko.jp
 0.0.0.0 log2.radiko.jp
+0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 pubsub.googleapis.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 sentry.io
 0.0.0.0 socdm.com
@@ -53,66 +63,44 @@
 0.0.0.0 td.doubleclick.net
 0.0.0.0 torimochi.line-apps.com
 0.0.0.0 view.adjust.com
+0.0.0.0 vtrk.dv.tech
+0.0.0.0 www.google-analytics.com
+0.0.0.0 www.googletagmanager.com
 0.0.0.0 yads.c.yimg.jp
 
-# [*.appsflyer.com]
+# [appsflyer.com (mobile analytics and spyware)]
+0.0.0.0 adrevenue.appsflyersdk.com
 0.0.0.0 app.appsflyer.com
-0.0.0.0 aps-webhandler.appsflyer.com
 0.0.0.0 attr.appsflyer.com
-0.0.0.0 engagements.appsflyer.com
+0.0.0.0 cdn-settings.appsflyersdk.com
 0.0.0.0 gcdsdk.appsflyer.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 launches.appsflyer.com
+0.0.0.0 launches.appsflyersdk.com
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 websdk.appsflyer.com
 
-# [*.unity3d.com]
-0.0.0.0 a-adq.mediation.unity3d.com
-0.0.0.0 ae.iads.unity3d.com
-0.0.0.0 aps-attribution.unityads.unity3d.com
-0.0.0.0 auction-load.unityads.unity3d.com
-0.0.0.0 auction-load.unityads.unity3d.com.lan
-0.0.0.0 cdn-creatives-cf-prd.acquire.unity3dusercontent.com
-0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
-0.0.0.0 cdn.iads.unity3d.com
+# [unity3d.com (mobile analytics and spyware)]
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 config.uca.cloud.unity3d.com.lan
-0.0.0.0 configv2.unityads.unity3d.com
-0.0.0.0 configv2.unityads.unity3d.com.lan
-0.0.0.0 content.offerwall.unity3d.com
 0.0.0.0 events.mz.unity3d.com
-0.0.0.0 gateway.unityads.unity3d.com
-0.0.0.0 gw-is.iads.unity3d.com
-0.0.0.0 gw-rv.iads.unity3d.com
-0.0.0.0 gw-rv.iads.unity3d.com.lan
-0.0.0.0 gw.mediation.unity3d.com
-0.0.0.0 hbevents-public.mz.unity3d.com
-0.0.0.0 hbevents-public.mz.unity3d.com.lan
-0.0.0.0 html-uap.iads.unity3d.com
 0.0.0.0 httpkafka.unityads.unity3d.com
-0.0.0.0 i-adq.mediation.unity3d.com
-0.0.0.0 i-sdk.mediation.unity3d.com
-0.0.0.0 i-sdk.mediation.unity3d.com.lan
-0.0.0.0 icon-uap.iads.unity3d.com
-0.0.0.0 img-dyn-uap.iads.unity3d.com
-0.0.0.0 o-adq.mediation.unity3d.com
-0.0.0.0 o-iab.mediation.unity3d.com
-0.0.0.0 o-iab.mediation.unity3d.com.lan
-0.0.0.0 o-pxt.iads.unity3d.com
-0.0.0.0 o-sdk.mediation.unity3d.com
-0.0.0.0 o-sdk.mediation.unity3d.com.lan
-0.0.0.0 o.iads.unity3d.com
-0.0.0.0 o.iads.unity3d.com.lan
-0.0.0.0 o.isx.unity3d.com
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 publisher-event.unityads.unity3d.com
 0.0.0.0 scar.unityads.unity3d.com
 0.0.0.0 thind.unityads.unity3d.com
-0.0.0.0 vid-uap.iads.unity3d.com
-0.0.0.0 w.isx.unity3d.com
 0.0.0.0 webview.unityads.unity3d.com
 
 # [*.swrve.com]
 0.0.0.0 swrve.com
+
+# [xiaomi (mobile analytics and spyware)]
+0.0.0.0 adv.sec.intl.miui.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 authbe.sec.intl.miui.com
+0.0.0.0 authbe.sec.intl.miui.com.lan
+0.0.0.0 flash.sec.intl.miui.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 tracking.intl.miui.com
