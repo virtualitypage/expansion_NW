@@ -1,0 +1,74 @@
+# Restrict URL List
+# Internet access restriction measures for client 192.168.8.117. used in case of emergency!!!
+#
+# References: querylog
+# definition: https://virtualitypage.github.io/expansion_NW/guard/Restricted_domain.txt
+#
+# Last modified: 9 November 2024
+#
+
+# [Restricted Domain]
+@@||acsdk.gameyw.easebar.com
+@@||api.simeji.me^$client='192.168.8.117'
+@@||appdump.nie.easebar.com
+@@||applogsg.matrix.netease.com
+@@||audiostatlog.cc.easebar.com
+@@||cdn.dev.mirrativ.com
+@@||clog.mirrativ.com
+@@||cloud.simeji.me^$client='192.168.8.117'
+@@||data-detect.nie.easebar.com
+@@||dns.update.easebar.com
+@@||drpf-h55na.proxima.nie.easebar.com
+@@||edge-210-129-64-135.mirrativ.com
+@@||edge-210-129-64-140.mirrativ.com
+@@||g0.gsf.easebar.com
+@@||gate.push.x.easebar.com
+@@||h55jp.gmsdk.gameyw.easebar.com
+@@||h55na.appdump.nie.easebar.com
+@@||h55na.gph.easebar.com
+@@||h55na.update.easebar.com
+@@||hls-cdn20.mirrativ.com
+@@||hls-cdn25.mirrativ.com
+@@||hls-cdn26.mirrativ.com
+@@||hls-cdn29.mirrativ.com
+@@||hls-cdn30.mirrativ.com
+@@||hls-cdn36.mirrativ.com
+@@||hls-cdn40.mirrativ.com
+@@||hls-cdn42.mirrativ.com
+@@||hls-cdn46.mirrativ.com
+@@||hls-cdn48.mirrativ.com
+@@||hls-cdn50.mirrativ.com
+@@||hls-cdn52.mirrativ.com
+@@||hls-cdn56.mirrativ.com
+@@||hls-cdn62.mirrativ.com
+@@||idv.fp.ps.easebar.com
+@@||impression.update.easebar.com
+@@||mcount.easebar.com
+@@||mgbsdkjp.matrix.easebar.com
+@@||mirrativ.wraptas.site^$client='192.168.8.117'
+@@||msg.simeji.me^$client='192.168.8.117'
+@@||netlink-sigma.proxima.nie.easebar.com
+@@||nie.res.netease.com
+@@||nos.gameyw.easebar.com
+@@||online.mirrativ.com
+@@||optsdk.gameyw.easebar.com
+@@||pharos.easebar.com
+@@||play.google.com^$client='192.168.8.117'
+@@||sdk-os.mpsdk.easebar.com
+@@||sigma-buriedpoint-opd.proxima.nie.easebar.com
+@@||sigma-pharosv3-pathn.proxima.nie.easebar.com
+@@||sigma-statistics-push.proxima.nie.easebar.com
+@@||statis.simeji.me^$client='192.168.8.117'
+@@||tiktok.com^$client='192.168.8.117'
+@@||tiktokcdn.com^$client='192.168.8.117'
+@@||tiktokv.com^$client='192.168.8.117'
+@@||translate.mpsdk.easebar.com
+@@||twicomi.com^$client='192.168.8.117'
+@@||twiman.net^$client='192.168.8.117'
+@@||unisdk.proxima.nie.easebar.com
+@@||unisdk.update.easebar.com
+@@||who.nie.easebar.com
+@@||whoami.nie.netease.com
+@@||www.identityvgame.com
+@@||www.mirrativ.com
+@@||xyq-service.easebar.com
