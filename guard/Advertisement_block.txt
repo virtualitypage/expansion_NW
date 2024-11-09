@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 8 November 2024
+# Last modified: 9 November 2024
 #
 
 # [広告全般]
@@ -147,6 +147,7 @@
 0.0.0.0 australian-macadamias.jp
 0.0.0.0 awake-support.com
 0.0.0.0 awaraonsenyuraku.jp
+0.0.0.0 axa.a-ehoken.com
 0.0.0.0 axia-expo.nikkan.co.jp
 0.0.0.0 az-art.net
 0.0.0.0 azaleanet.or.jp
@@ -189,6 +190,7 @@
 0.0.0.0 bizreach.biz
 0.0.0.0 biztel.jp
 0.0.0.0 bkan.vbest.jp
+0.0.0.0 blackfriday-iaeon-island2024.com
 0.0.0.0 blessunleashed-dmg.pmang.jp
 0.0.0.0 blog.adregion.co.jp
 0.0.0.0 bmccancer.biomedcentral.com
@@ -405,6 +407,7 @@
 0.0.0.0 ec.petfoods.shop
 0.0.0.0 ec.store.nec.co.jp
 0.0.0.0 echool.tachibana-u.ac.jp
+0.0.0.0 ecield.temona.co.jp
 0.0.0.0 eco-life-smile.com
 0.0.0.0 eco-mon.jp
 0.0.0.0 efex.co.jp
@@ -434,6 +437,7 @@
 0.0.0.0 entrata-chayamachi.com
 0.0.0.0 entrenet.jp
 0.0.0.0 epiphyllum.thebase.in
+0.0.0.0 episodebrick.com
 0.0.0.0 eplan.jp
 0.0.0.0 eplus.jp
 0.0.0.0 es4.easyerin.top
@@ -534,6 +538,7 @@
 0.0.0.0 gar.mrajkgea.top
 0.0.0.0 garage.plus.co.jp
 0.0.0.0 garireo.co.jp
+0.0.0.0 gate02.ne.jp
 0.0.0.0 gcloud.genbasupport.com
 0.0.0.0 gemer.jp
 0.0.0.0 genba-dojo.net
@@ -576,6 +581,7 @@
 0.0.0.0 golfrangeluana.jp
 0.0.0.0 gooda.brangista.com
 0.0.0.0 gooday.nikkei.co.jp
+0.0.0.0 goodlins.com
 0.0.0.0 googirl.jp
 0.0.0.0 goooodhome.gifu.jp
 0.0.0.0 gorillada.automotive.panasonic.com
@@ -1139,6 +1145,7 @@
 0.0.0.0 myscue.com
 0.0.0.0 mystyhub.com
 0.0.0.0 myvketofficial.cloud.vket.com
+0.0.0.0 n3cafe.com
 0.0.0.0 naganokaitai.net
 0.0.0.0 nagoya-camera.mikawa.ne.jp
 0.0.0.0 nagoya.ace-clinic.com
@@ -1180,6 +1187,7 @@
 0.0.0.0 niigata-akiyasoudan.com
 0.0.0.0 niihama-coating.com
 0.0.0.0 niit-oc.com
+0.0.0.0 nijigennomori.com
 0.0.0.0 nikudokoro-mo-shabutantan.owst.jp
 0.0.0.0 nikudokorodebeso.owst.jp
 0.0.0.0 nikunotajimatsuhan.com
@@ -1305,6 +1313,7 @@
 0.0.0.0 povo.jp
 0.0.0.0 pr-lp.net
 0.0.0.0 pr.bashotoru.com
+0.0.0.0 pr.dailywealth.jp
 0.0.0.0 pr.go2senkyo.com
 0.0.0.0 pr.weissratings.jp
 0.0.0.0 pr1.takami-labo.com
@@ -1369,6 +1378,7 @@
 0.0.0.0 relax-job.com
 0.0.0.0 renata-clinic.com
 0.0.0.0 renoman-shinjuku.com
+0.0.0.0 rensim-store.com
 0.0.0.0 rental-coin.com
 0.0.0.0 rental-pallet.net
 0.0.0.0 rescue-suido.com
@@ -1421,6 +1431,7 @@
 0.0.0.0 sale.24028.jp
 0.0.0.0 sales-adventure.jp
 0.0.0.0 salon-de-alfurd.jp
+0.0.0.0 samurai-law.com
 0.0.0.0 sandesica.jp
 0.0.0.0 sanriku-jouban-umeemon.jp
 0.0.0.0 sanwakeigoukin.co.jp
@@ -2319,6 +2330,7 @@
 0.0.0.0 www.furugioroshi.com
 0.0.0.0 www.furusato-tax.jp
 0.0.0.0 www.futakiya.com
+0.0.0.0 www.g-housen.co.jp
 0.0.0.0 www.g-search.or.jp
 0.0.0.0 www.g-shes.com
 0.0.0.0 www.gakuji.co.jp
@@ -2347,6 +2359,7 @@
 0.0.0.0 www.gofuku-kaitori.com
 0.0.0.0 www.gold.org
 0.0.0.0 www.goldwin.co.jp
+0.0.0.0 www.golfzonwave.com
 0.0.0.0 www.goo-net.com
 0.0.0.0 www.good-trip-ex.com
 0.0.0.0 www.goodseeco.com
@@ -2644,6 +2657,7 @@
 0.0.0.0 www.lanps.jp
 0.0.0.0 www.le-trois.jp
 0.0.0.0 www.lebledor.com
+0.0.0.0 www.lectit.com
 0.0.0.0 www.lenovo.com
 0.0.0.0 www.lensstyle.jp
 0.0.0.0 www.leopalace21.com
@@ -2894,6 +2908,7 @@
 0.0.0.0 www.oralb.braun.co.jp
 0.0.0.0 www.orbussoftware.com
 0.0.0.0 www.orchidliveseafood.com.sg
+0.0.0.0 www.ordercurtain.co.jp
 0.0.0.0 www.oreillyauto.com
 0.0.0.0 www.orient-watch.jp
 0.0.0.0 www.oriental-hotels.com
@@ -3095,6 +3110,7 @@
 0.0.0.0 www.shimachu.co.jp
 0.0.0.0 www.shimane-mirai.jp
 0.0.0.0 www.shimonjuku.com
+0.0.0.0 www.shinbi-shika.net
 0.0.0.0 www.shinkyogaoka.jp
 0.0.0.0 www.shinkyokushinkai.co.jp
 0.0.0.0 www.shinmeishin-info.com
@@ -3178,6 +3194,7 @@
 0.0.0.0 www.sunflower.co.jp
 0.0.0.0 www.sunokotan.com
 0.0.0.0 www.sunstar-shop.jp
+0.0.0.0 www.suntory-kenko.com
 0.0.0.0 www.superdramatv.com
 0.0.0.0 www.supermicro.com
 0.0.0.0 www.suwaeru-spray.jp
@@ -3255,6 +3272,7 @@
 0.0.0.0 www.tokyo-aff.or.jp
 0.0.0.0 www.tokyo-dome.co.jp
 0.0.0.0 www.tokyo-kasei.ac.jp
+0.0.0.0 www.tokyo-repair.jp
 0.0.0.0 www.tokyodomecity.anitouch.com
 0.0.0.0 www.tokyointerior.co.jp
 0.0.0.0 www.tokyomk.com
@@ -3302,6 +3320,7 @@
 0.0.0.0 www.u-master.net
 0.0.0.0 www.ube.co.jp
 0.0.0.0 www.ucc.co.jp
+0.0.0.0 www.ucf.jp
 0.0.0.0 www.uehara-shinkyuin.com
 0.0.0.0 www.uhe.ac.jp
 0.0.0.0 www.uipath.com
