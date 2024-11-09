@@ -4,14 +4,18 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Accept_domain.txt
 #
-# Last modified: 8 November 2024
+# Last modified: 9 November 2024
 #
 
 # [許可リクエスト]
+@@||abs.twimg.com
 @@||accounts.google.com
 @@||accuweather.com
+@@||androidattestationvalidation-pa.googleapis.com
 @@||api.au-data-storage.auone.jp
 @@||api.github.com
+@@||api.twitter.com
+@@||api.x.com
 @@||asc.cs1.auone.jp
 @@||brandavenue.rakuten.co.jp
 @@||business.google.com
@@ -19,7 +23,9 @@
 @@||cdn-manga-stf-router-api.line-scdn.net
 @@||ch-news.line-apps.com
 @@||check.gred.jp
+@@||chromesyncpasswords-pa.googleapis.com
 @@||chromewebstore.google.com
+@@||clb.yahooapis.jp
 @@||collector.github.com
 @@||connectivitycheck.gstatic.com
 @@||controlplane.tailscale.com
@@ -27,12 +33,17 @@
 @@||docs.google.com
 @@||donation.yahoo.co.jp
 @@||drive.google.com
+@@||drivefrontend-pa.googleapis.com
 @@||duolingo.com
 @@||ebookjapan.yahoo.co.jp
 @@||event.rakuten.co.jp
 @@||event.travel.rakuten.co.jp
 @@||explainshell.com
+@@||federatedcompute-pa.googleapis.com
+@@||firebaseremoteconfig.googleapis.com
+@@||firebaseremoteconfigrealtime.googleapis.com
 @@||fw.gl-inet.com
+@@||geomobileservices-pa.googleapis.com
 @@||gigafile.nu
 @@||i.ytimg.com
 @@||imap01.au.com
@@ -41,23 +52,38 @@
 @@||kidsmanagement-pa.googleapis.com
 @@||linemanga-obs.line-scdn.net
 @@||linemusic-webapp.landpress.line.me
+@@||location2.kddi.ne.jp
+@@||locationhistoryaggregates-pa.googleapis.com
 @@||log.tailscale.io
 @@||mail.google.com
 @@||manga.line.me
 @@||map.yahoo.co.jp
+@@||media2.kddi.com
 @@||meet.google.com
 @@||mercari-shops.com
 @@||mobile-webview.gmail.com
+@@||mobileconfiguration-pa.googleapis.com
 @@||music.line.me
+@@||myphonenumbers-pa.googleapis.com
+@@||nearbysharing-pa.googleapis.com
 @@||network.mobile.rakuten.co.jp
 @@||news.yahoo.co.jp
+@@||notifications-pa.googleapis.com
 @@||ocsp.digicert.com
 @@||one.one.one.one
+@@||optimizationguide-pa.googleapis.com
 @@||param-d.data-storage.auone.jp
+@@||passwordsleakcheck-pa.googleapis.com
+@@||pbs.twimg.com
+@@||photosdata-pa.googleapis.com
 @@||play.googleapis.com
 @@||pool.ntp.org
+@@||proactivebackend-pa.googleapis.com
+@@||probe.twitter.com
 @@||profile.line-scdn.net
+@@||program-static.cf.radiko.jp
 @@||proxy.safebrowsing.apple
+@@||remotedesktop-pa.googleapis.com
 @@||remotedesktop.google.com
 @@||resource-jp-linemusic.line-scdn.net
 @@||resource.widget.auone.jp
@@ -65,14 +91,20 @@
 @@||safebrowsing.g.applimg.com
 @@||safebrowsing.googleapis.com
 @@||sakura-checker.jp
+@@||searchnotifications-pa.googleapis.com
 @@||securl.nu
+@@||spot-pa.googleapis.com
 @@||static.line-scdn.net
 @@||steampowered.com
 @@||stickershop.line-scdn.net
 @@||t.co
+@@||telephonyspamprotect-pa.googleapis.com
 @@||thumbnail.smartnews.com
 @@||token.safebrowsing.apple
+@@||ton.twimg.com
 @@||use.fontawesome.com
+@@||video-ft.twimg.com
+@@||video.twimg.com
 @@||voom-obs.line-scdn.net
 @@||web.facebook.com
 @@||www.amazon.co.jp
