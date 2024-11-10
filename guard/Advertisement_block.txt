@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 9 November 2024
+# Last modified: 10 November 2024
 #
 
 # [広告全般]
@@ -66,6 +66,7 @@
 0.0.0.0 aibo.sony.jp
 0.0.0.0 aigarden.com
 0.0.0.0 aik-order.com
+0.0.0.0 airregi.jp
 0.0.0.0 aiwakagu.jp
 0.0.0.0 aix-otofuke.owst.jp
 0.0.0.0 aiya-osaka.com
@@ -506,6 +507,7 @@
 0.0.0.0 fugusugata.jp
 0.0.0.0 fujikoumuten.co.jp
 0.0.0.0 fujimedica.com
+0.0.0.0 fujinomiya-gateway.com
 0.0.0.0 fukoku-h.co.jp
 0.0.0.0 fukubekaji.shop-pro.jp
 0.0.0.0 fukui-presentcpn.jp
@@ -622,6 +624,7 @@
 0.0.0.0 hana-home.com
 0.0.0.0 hands.net
 0.0.0.0 haneda-shopping.jp
+0.0.0.0 happy5.site
 0.0.0.0 happygift2.com
 0.0.0.0 happyhackingkb.com
 0.0.0.0 happysmile3.com
@@ -762,6 +765,7 @@
 0.0.0.0 jackrussell.breeders.jp
 0.0.0.0 japan-staff.jp
 0.0.0.0 japanese.visitkorea.or.kr
+0.0.0.0 japantax.tokyo
 0.0.0.0 jcloud.co.jp
 0.0.0.0 jetb.co.jp
 0.0.0.0 jewelry-girls.net
@@ -869,6 +873,7 @@
 0.0.0.0 kazoku-shintaku.org
 0.0.0.0 kddi.smartdrone.co.jp
 0.0.0.0 keihan-smile.com
+0.0.0.0 keiho-recycle.jp
 0.0.0.0 keiji.lawyers-high.jp
 0.0.0.0 keirin.by-onko-chishin.com
 0.0.0.0 keishuku-reha.com
@@ -1131,6 +1136,7 @@
 0.0.0.0 mtm-aoyama.com
 0.0.0.0 muqbel.jp
 0.0.0.0 musashi-kikaiyuso.com
+0.0.0.0 mushinkoku.com
 0.0.0.0 my-career.co.jp
 0.0.0.0 my.royalcanin.jp
 0.0.0.0 mybabiie.com
@@ -1305,6 +1311,7 @@
 0.0.0.0 plus.tobemori.com
 0.0.0.0 point.zensho.co.jp
 0.0.0.0 pokedebi.com
+0.0.0.0 pokeka-kaitori-collectors.jp
 0.0.0.0 polywink.com
 0.0.0.0 pomeranian.breeders.jp
 0.0.0.0 poodle.breeders.jp
@@ -1318,6 +1325,7 @@
 0.0.0.0 pr.weissratings.jp
 0.0.0.0 pr1.takami-labo.com
 0.0.0.0 praise-amagasaki.com
+0.0.0.0 pre.ujoygames.com
 0.0.0.0 premiumstonegallery.com
 0.0.0.0 present-wine-shop.derisomu.com
 0.0.0.0 present.baby-calendar.com
@@ -1896,6 +1904,7 @@
 0.0.0.0 whisper-lagoon.info
 0.0.0.0 widgets.taxel.jp
 0.0.0.0 willcre03.com
+0.0.0.0 wing-group-web.net
 0.0.0.0 wink000.myshopify.com
 0.0.0.0 withonline.jp
 0.0.0.0 wod.wowow.co.jp
@@ -2596,6 +2605,7 @@
 0.0.0.0 www.keiji-pestcontrol.com
 0.0.0.0 www.keiko.josho.ac.jp
 0.0.0.0 www.keikyu-store.com
+0.0.0.0 www.keishow.com
 0.0.0.0 www.keisokuten.jp
 0.0.0.0 www.kenko-webshop.jp
 0.0.0.0 www.kewpie.co.jp
@@ -2751,6 +2761,7 @@
 0.0.0.0 www.mitsubishielectric.co.jp
 0.0.0.0 www.mitsui.com
 0.0.0.0 www.mitsuihome.co.jp
+0.0.0.0 www.mitsukete.mitsui-mall.com
 0.0.0.0 www.mitsuoka-motor.com
 0.0.0.0 www.mitsutake.co.jp
 0.0.0.0 www.mitte.ne.jp
@@ -2896,6 +2907,7 @@
 0.0.0.0 www.oliveoilsfromspain.jp
 0.0.0.0 www.omron.com
 0.0.0.0 www.omu.ac.jp
+0.0.0.0 www.on.com
 0.0.0.0 www.onetop-japan.jp
 0.0.0.0 www.onitsukatiger.com
 0.0.0.0 www.onlinesec-kenkyukai.com
@@ -3782,7 +3794,6 @@
 0.0.0.0 www.x-legend.com
 0.0.0.0 www.yakitori-miyabi.jp
 0.0.0.0 www.yodobashi.com
-0.0.0.0 www.yonden.co.jp
 0.0.0.0 www.yukilabo.co.jp
 0.0.0.0 www.zwei.com
 0.0.0.0 www2.nissan.co.jp
