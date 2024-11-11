@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 10 November 2024
+# Last modified: 11 November 2024
 #
 
 # [広告全般]
@@ -111,6 +111,7 @@
 0.0.0.0 apply.suu.edu
 0.0.0.0 apps.shopify.com
 0.0.0.0 apz-spa.com
+0.0.0.0 aqnet.co.jp
 0.0.0.0 aqua-has.com
 0.0.0.0 aqua-magic.net
 0.0.0.0 arcteryx.jp
@@ -820,6 +821,7 @@
 0.0.0.0 jpstore.msi.com
 0.0.0.0 jra-fun.jp
 0.0.0.0 jsite.mhlw.go.jp
+0.0.0.0 jskeiji.jbplt.jp
 0.0.0.0 jta.or.jp
 0.0.0.0 jts-gr.com
 0.0.0.0 julius.co.jp
@@ -993,6 +995,7 @@
 0.0.0.0 lim-store.jp
 0.0.0.0 limehair.jp
 0.0.0.0 linear.jr-central.co.jp
+0.0.0.0 liniere.jp
 0.0.0.0 lining-konishi.com
 0.0.0.0 link.springer.com
 0.0.0.0 linktr.ee
@@ -1059,6 +1062,7 @@
 0.0.0.0 manulife-gaika.jp
 0.0.0.0 maruhan-lp.net
 0.0.0.0 maruhome.jp
+0.0.0.0 marumugi.shop
 0.0.0.0 matsue.clare.jp
 0.0.0.0 matsuyama.citroen-dealer.jp
 0.0.0.0 mayutan.com
@@ -2409,6 +2413,7 @@
 0.0.0.0 www.hannan-u.ac.jp
 0.0.0.0 www.hanshin-exp.co.jp
 0.0.0.0 www.hanshow.com
+0.0.0.0 www.hanwha-rerise.jp
 0.0.0.0 www.happiness-direct.com
 0.0.0.0 www.happy-mealkit.com
 0.0.0.0 www.happy-semi.com
@@ -2506,6 +2511,7 @@
 0.0.0.0 www.inspirekorea.com
 0.0.0.0 www.intel.co.jp
 0.0.0.0 www.inter-edu.com
+0.0.0.0 www.inui-consulting.com
 0.0.0.0 www.invesco.com
 0.0.0.0 www.io-shin.com
 0.0.0.0 www.ipet-direct.com
@@ -2841,6 +2847,7 @@
 0.0.0.0 www.nilaina-holidays.com
 0.0.0.0 www.ninkatsuka.metro.tokyo.lg.jp
 0.0.0.0 www.nipponham.co.jp
+0.0.0.0 www.nipponkaigishitsu.com
 0.0.0.0 www.nipponmanpower.co.jp
 0.0.0.0 www.nireco.jp
 0.0.0.0 www.nishikawa1566.com
@@ -2887,6 +2894,7 @@
 0.0.0.0 www.ochikochi.co.jp
 0.0.0.0 www.odysissuitesosaka.com
 0.0.0.0 www.oec.okaya.co.jp
+0.0.0.0 www.office-com.jp
 0.0.0.0 www.office-freelive.com
 0.0.0.0 www.officedeyasai.jp
 0.0.0.0 www.ogu.ac.jp
@@ -2951,6 +2959,7 @@
 0.0.0.0 www.pacificgolf.co.jp
 0.0.0.0 www.packstyle.jp
 0.0.0.0 www.padi.co.jp
+0.0.0.0 www.paloma.co.jp
 0.0.0.0 www.panamedia.co.jp
 0.0.0.0 www.panasonic.com
 0.0.0.0 www.paris-miki.co.jp
@@ -3417,6 +3426,7 @@
 0.0.0.0 www.yomiuriland.com
 0.0.0.0 www.yonoton.com
 0.0.0.0 www.yoshinoya.com
+0.0.0.0 www.yosuga-law.net
 0.0.0.0 www.yrl.com
 0.0.0.0 www.ytj.gr.jp
 0.0.0.0 www.yuanta.com.tw
