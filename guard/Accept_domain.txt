@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Accept_domain.txt
 #
-# Last modified: 10 November 2024
+# Last modified: 11 November 2024
 #
 
 # [許可リクエスト]
@@ -125,6 +125,7 @@
 @@||www.rakuten-card.co.jp
 @@||www.rakuten.co.jp
 @@||www.rakuten.ne.jp
+@@||www.recaptcha.net
 @@||www.smartnews.be
 @@||www.topvalu.net
 @@||www.yahoo.co.jp
@@ -184,6 +185,7 @@
 @@||fpinit-apac-s.edge-itunes-apple.com.akadns.net
 @@||fpinit.itunes.apple.com
 @@||friend.gc.apple.com
+@@||gateway.icloud.com
 @@||gdmf.apple.com
 @@||gsa.apple.com
 @@||gsp*ssl.apple.com
@@ -237,7 +239,7 @@
 @@||swscan.apple.com
 @@||sync.itunes.apple.com
 @@||time.apple.com
-@@||token.safebrowsing.apple
+@@||token.safebrowsing.apple.com
 @@||updates.cdn-apple.com
 @@||upp.itunes.apple.com
 @@||uts-api.itunes.apple.com
@@ -259,6 +261,7 @@
 @@||i-dualstack-pinterest-map-fastly-net.pinimg.com
 @@||i-pinimg-com-cdn-cloudflare-net.pinimg.com
 @@||i.pinimg.com.getcacheddhcpresultsforcurrentconfig
+@@||i.pinimg.com.gslb.pinterest.com
 @@||i.pinimg.com.lan^$client=~192.168.8.117
 @@||i.pinimg.com^$client=~192.168.8.117
 @@||i1-pinimg-com-cdn-cloudflare-net.pinimg.com
@@ -278,6 +281,7 @@
 @@||s-pinimg-com-cdn-cloudflare-net.pinimg.com
 @@||s.pinimg.com.lan^$client=~192.168.8.117
 @@||s.pinimg.com^$client=~192.168.8.117
+@@||static.gslb.pinterest.net
 @@||v-dualstack-pinterest-map-fastly-net.pinimg.com
 @@||v-pinimg-com-cdn-cloudflare-net.pinimg.com
 @@||v-pinimg-com-cloudfront-net.pinimg.com
