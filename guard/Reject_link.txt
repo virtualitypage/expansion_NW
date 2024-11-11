@@ -4,7 +4,7 @@
 # References: https://meiwakumail.jp/
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_link.txt
 #
-# Last modified: 8 November 2024
+# Last modified: 11 November 2024
 #
 
 # [迷惑メールのURLリンク(目的不明)]
@@ -745,7 +745,6 @@
 0.0.0.0 dlge-3mthlb.jp
 0.0.0.0 dm2li5gt.331-qrtwl.com
 0.0.0.0 dnlm4a4ya.ngf-6dfg.jp
-0.0.0.0 docs.google.com
 0.0.0.0 dp-xz1vje.jp
 0.0.0.0 dpx-7lmiv.jp
 0.0.0.0 dsUGYdRgXVMqAB.harvest-attempt.com
@@ -883,7 +882,6 @@
 0.0.0.0 gl4yz2p.rhtd-gres.jp
 0.0.0.0 gmqai57485j.dragoon-noxious.com
 0.0.0.0 goanimosity.com
-0.0.0.0 google.com
 0.0.0.0 gotthelff-olim.com
 0.0.0.0 gpaumza5zy21.barrage-express.com
 0.0.0.0 gpr2n.n0-oxl-hqn.com
@@ -1636,7 +1634,6 @@
 0.0.0.0 www.d3itk.w6uxtw5fd.com
 0.0.0.0 www.d7pad.hbyjnj9nd.com
 0.0.0.0 www.das64.tk56bz94e.com
-0.0.0.0 www.docs.google.com
 0.0.0.0 www.eceva.tst59hmfa.com
 0.0.0.0 www.eddowes-mechthild.com
 0.0.0.0 www.emx2000.net
