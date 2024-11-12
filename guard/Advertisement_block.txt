@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 11 November 2024
+# Last modified: 12 November 2024
 #
 
 # [広告全般]
@@ -156,6 +156,7 @@
 0.0.0.0 azu-l.com
 0.0.0.0 b-checker.com
 0.0.0.0 backlog.com
+0.0.0.0 bakuten-personal.com
 0.0.0.0 balletschool.hp.peraichi.com
 0.0.0.0 bananarepublic.gap.co.jp
 0.0.0.0 bank-loan-ranking.com
@@ -1277,6 +1278,7 @@
 0.0.0.0 ost-honeypot-1.oreillyauto.com
 0.0.0.0 otonamuse.jp
 0.0.0.0 otori-hearing.com
+0.0.0.0 oyanozasshi.jp
 0.0.0.0 p-project.jp
 0.0.0.0 p-town.dmm.com
 0.0.0.0 pages.vaio.com
@@ -1592,6 +1594,7 @@
 0.0.0.0 shop.noevir.jp
 0.0.0.0 shop.pdr.co.jp
 0.0.0.0 shop.remozer.com
+0.0.0.0 shop.saraya.com
 0.0.0.0 shop.shoyeido.co.jp
 0.0.0.0 shop.soundfun.co.jp
 0.0.0.0 shop.uyeki.co.jp
@@ -1632,6 +1635,7 @@
 0.0.0.0 socialnews-ai.com
 0.0.0.0 sodaigomi-kaishu.com
 0.0.0.0 sodaigomi-kaishutai.com
+0.0.0.0 sofwave.com
 0.0.0.0 sogokagu-cres.net
 0.0.0.0 solasto-career.com
 0.0.0.0 solize-software.com
@@ -2079,6 +2083,7 @@
 0.0.0.0 www.bk.mufg.jp
 0.0.0.0 www.blue-dolphins.net
 0.0.0.0 www.bmw-motorrad.co.uk
+0.0.0.0 www.boatrace-sp.com
 0.0.0.0 www.bodyfit-mpn.com
 0.0.0.0 www.bondjewelry.net
 0.0.0.0 www.bookoff.co.jp
@@ -2651,6 +2656,7 @@
 0.0.0.0 www.konaka-jp.com
 0.0.0.0 www.konami.com
 0.0.0.0 www.konoike.ac.jp
+0.0.0.0 www.koshin-ltd.jp
 0.0.0.0 www.kosugi-tire.com
 0.0.0.0 www.koushihaken.com
 0.0.0.0 www.koyama.co.jp
