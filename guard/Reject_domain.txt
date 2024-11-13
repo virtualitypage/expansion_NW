@@ -4,10 +4,11 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_domain.txt
 #
-# Last modified: 11 November 2024
+# Last modified: 13 November 2024
 #
 
 # [拒否リクエスト]
+0.0.0.0 *.ingest.sentry.io
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
@@ -49,6 +50,7 @@
 0.0.0.0 in.treasuredata.com
 0.0.0.0 log.radiko.jp
 0.0.0.0 log2.radiko.jp
+0.0.0.0 ly.my.sentry.io
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
@@ -62,6 +64,7 @@
 0.0.0.0 sync.intentiq.com
 0.0.0.0 td.doubleclick.net
 0.0.0.0 torimochi.line-apps.com
+0.0.0.0 v16m-default.akamaized.net
 0.0.0.0 view.adjust.com
 0.0.0.0 vtrk.dv.tech
 0.0.0.0 www.google-analytics.com
@@ -69,21 +72,66 @@
 0.0.0.0 yads.c.yimg.jp
 
 # [appsflyer (mobile analytics and spyware)]
+0.0.0.0 *-cdn-settings.appsflyersdk.com
+0.0.0.0 *-cdn-settings.appsflyersdk.com.lan
+0.0.0.0 *-inapps.appsflyersdk.com
+0.0.0.0 *-launches.appsflyersdk.com
+0.0.0.0 *-launches.appsflyersdk.com.lan
+0.0.0.0 7bjiqs-onelink.appsflyersdk.com
 0.0.0.0 adrevenue.appsflyersdk.com
+0.0.0.0 adrevenue.appsflyersdk.com.lan
 0.0.0.0 app.appsflyer.com
+0.0.0.0 aps-webhandler.appsflyer.com
 0.0.0.0 attr.appsflyer.com
 0.0.0.0 cdn-settings.appsflyersdk.com
+0.0.0.0 end4y2-attr.appsflyersdk.com
+0.0.0.0 end4y2-conversions.appsflyersdk.com
+0.0.0.0 engagements.appsflyer.com
+0.0.0.0 engagements.appsflyer.com.lan
+0.0.0.0 evmapr-conversions.appsflyersdk.com
+0.0.0.0 evmapr-gcdsdk.appsflyersdk.com
 0.0.0.0 gcdsdk.appsflyer.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 launches.appsflyersdk.com
+0.0.0.0 privacy-sandbox.appsflyersdk.com
+0.0.0.0 qbhozv-gcdsdk.appsflyersdk.com
+0.0.0.0 qkjbfq-attr.appsflyersdk.com
+0.0.0.0 qkjbfq-conversions.appsflyersdk.com
+0.0.0.0 qkjbfq-dlsdk.appsflyersdk.com
+0.0.0.0 qkjbfq-gcdsdk.appsflyersdk.com
+0.0.0.0 viap.appsflyersdk.com
 0.0.0.0 wa.appsflyer.com
 0.0.0.0 websdk.appsflyer.com
 
-# [apple (mobile analytics and spyware)]
-0.0.0.0 notes-analytics-events.apple.com
+# [apple (mobile analytics and spyware, telemetry and tracking)]
+0.0.0.0 cds.apple.com
+0.0.0.0 cf.iadsdk.apple.com
+0.0.0.0 cl1-cdn-us.origin-apple.com.akadns.net
+0.0.0.0 cl1-cdn.origin-apple.com.akadns.net
+0.0.0.0 cl1.apple.com
+0.0.0.0 cl2-cdn.origin-apple.com.akadns.net
+0.0.0.0 cl2.apple.com
+0.0.0.0 cl3-cdn.origin-apple.com.akadns.net
+0.0.0.0 cl3.apple.com
+0.0.0.0 cl4-cdn.origin-apple.com.akadns.net
+0.0.0.0 cl4.apple.com
+0.0.0.0 cstat-lb.apple.com.akadns.net
+0.0.0.0 gsas.idms-apple.com.akadns.net
 0.0.0.0 iadsdk.apple.com
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 identity.ess-apple.com.akadns.net
+0.0.0.0 identity.ess.apple.com
+0.0.0.0 internalcheck.apple.com
+0.0.0.0 iphone-ld.apple.com
+0.0.0.0 iphone-ld.origin-apple.com.akadns.net
+0.0.0.0 lcdn-locator-usms11.apple.com.akadns.net
+0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 notes-analytics-events.apple.com
+0.0.0.0 ocsp2-lb.apple.com.akadns.net
+0.0.0.0 pancake.apple.com
+0.0.0.0 sb.music.apple.com
 
 # [ByteDance (tracker)]
 /p[1-9][0-9]-ad.byteoversea.com/
@@ -100,15 +148,64 @@
 0.0.0.0 i.byteoversea.com
 0.0.0.0 log.byteoversea.com
 0.0.0.0 mon-va.byteoversea.com
+0.0.0.0 mon-va.byteoversea.com.ttdns2.com
 0.0.0.0 mssdk-sg.byteoversea.com
 0.0.0.0 sgali-mcs.byteoversea.com
 0.0.0.0 starling-sg.byteoversea.com
+
+# [inneractive(モバイル広告プラットフォーム)]
+0.0.0.0 cdn2.inner-active.mobi
+0.0.0.0 exchange-b-events.inner-active.mobi
+0.0.0.0 sdk-events.inner-active.mobi
+0.0.0.0 sdk-events.inner-active.mobi.lan
+0.0.0.0 vast-events.inner-active.mobi
+0.0.0.0 vast-events.inner-active.mobi.lan
+0.0.0.0 wv.inner-active.mobi
+
+# [inmobi (モバイル広告プラットフォーム)]
+0.0.0.0 api.cmp.inmobi.com
+0.0.0.0 b.de.inmobi.com
+0.0.0.0 c-eus.w.inmobi.com
+0.0.0.0 cmp.inmobi.com
+0.0.0.0 config.inmobi.com
+0.0.0.0 config.inmobi.com.lan
+0.0.0.0 dspbeacons.ihasdsp.inmobi.com
+0.0.0.0 dspbeacons.old.ihasdsp.inmobi.com
+0.0.0.0 e.de.inmobi.com
+0.0.0.0 et-eus.w.inmobi.com
+0.0.0.0 et-l.w.inmobi.com
+0.0.0.0 eus.r.inmobi.com
+0.0.0.0 ic.de.inmobi.com
+0.0.0.0 icjp.de.inmobi.com
+0.0.0.0 log-activity.templates.inmobi.com
+0.0.0.0 mweb.ck.inmobi.com
+0.0.0.0 s.iff.inmobi.com
+0.0.0.0 sync.inmobi.com
+0.0.0.0 telemetry.sdk.inmobi.com
+0.0.0.0 telemetry.sdk.inmobi.com.lan
+0.0.0.0 unif-id.ssp.inmobi.com
+0.0.0.0 unif-id.ssp.inmobi.com.lan
 
 # [netease]
 0.0.0.0 acsdk.gameyw.easebar.com
 0.0.0.0 nos.gameyw.easebar.com
 0.0.0.0 optsdk.gameyw.easebar.com
 0.0.0.0 pay.neteasegames.com
+
+# [pangle (TikTok for Business が運営するアドネットワーク)]
+0.0.0.0 api16-access-sg.pangle.io
+0.0.0.0 api16-access-sg.pangle.io.lan
+0.0.0.0 api16-dual-event-sg2.pangle.io
+0.0.0.0 api16-dual-event-sg2.pangle.io.lan
+0.0.0.0 api16-event-sg2.pangle.io
+0.0.0.0 api16-event-va.pangle.io
+0.0.0.0 api16-log-gcp.pangle.io
+0.0.0.0 api16-log-sg2.pangle.io
+0.0.0.0 api16-log-sg2.pangle.io.lan
+0.0.0.0 ether-pack-sg.pangle.io
+0.0.0.0 mediation.pangle.io
+0.0.0.0 ssdk-sg.pangle.io
+0.0.0.0 ssdk-sg.pangle.io.lan
 
 # [pinterest (mobile analytics and spyware, tracking networks domains)]
 0.0.0.0 ct.pinterest.com
@@ -191,6 +288,7 @@
 /v[1-9][0-9]-cla.tiktokcdn.com/
 /v[1-9][0-9]-coin.tiktokcdn.com/
 /v[1-9][0-9]-p.tiktokcdn.com/
+/v[1-9][0-9]m.tiktokcdn.com/
 /vas-alisg[1-9][0-9].tiktokv.com/
 /webcast[1-9][0-9]-normal-c-alisg.tiktokv.com.lan/
 /webcast[1-9][0-9]-normal-c-alisg.tiktokv.com/
@@ -198,10 +296,13 @@
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 bsync-sg.tiktokv.com
 0.0.0.0 c2pa-cloud-server-sg.tiktokv.com
+0.0.0.0 f-p-va.isnssdk.com
 0.0.0.0 feedback-sg.tiktokv.com
 0.0.0.0 feelgood-api.tiktok.com
 0.0.0.0 frontier.tiktokv.com
 0.0.0.0 gecko-sg.tiktokv.com
+0.0.0.0 i.isnssdk.com
+0.0.0.0 i.isnssdk.com.lan
 0.0.0.0 image-sg.tiktokv.com
 0.0.0.0 jsb-sg.tiktokv.com
 0.0.0.0 lf-main-gecko-source.tiktokcdn.com
@@ -209,12 +310,16 @@
 0.0.0.0 libra-sg.tiktokv.com
 0.0.0.0 location-v6-sg.tiktokv.com
 0.0.0.0 mon-va.tiktokv.com
+0.0.0.0 mon.isnssdk.com
 0.0.0.0 pitaya-sg.tiktokv.com
 0.0.0.0 pitaya-sg.tiktokv.com.lan
 0.0.0.0 pitaya.tiktokv.com
 0.0.0.0 sf-static.tiktokcdn.com
 0.0.0.0 tiktok.adsmeasurement.com
 0.0.0.0 tnc-boot.tiktokv.com
+0.0.0.0 tnc16-alisg.isnssdk.com
+0.0.0.0 tnc16-alisg.isnssdk.com.lan
+0.0.0.0 tnc16-useast1a.isnssdk.com
 0.0.0.0 tos-quic-kix1b.tiktokcdn.com
 0.0.0.0 vcs-sg.tiktokv.com
 0.0.0.0 video-sg.tiktokv.com
@@ -222,22 +327,34 @@
 0.0.0.0 webcast-mp-sg.tiktokv.com
 
 # [unity3d (mobile analytics and spyware)]
-0.0.0.0 cdp.cloud.unity3d.com
-0.0.0.0 config.uca.cloud.unity3d.com
-0.0.0.0 config.uca.cloud.unity3d.com.lan
-0.0.0.0 events.mz.unity3d.com
-0.0.0.0 httpkafka.unityads.unity3d.com
-0.0.0.0 perf-events.cloud.unity3d.com
-0.0.0.0 publisher-event.unityads.unity3d.com
-0.0.0.0 scar.unityads.unity3d.com
-0.0.0.0 thind.unityads.unity3d.com
-0.0.0.0 webview.unityads.unity3d.com
+0.0.0.0 *.cloud.unity3d.com
+0.0.0.0 *.cloud.unity3d.com.lan
+0.0.0.0 *.iads.unity3d.com
+0.0.0.0 *.iads.unity3d.com.lan
+0.0.0.0 *.isx.unity3d.com
+0.0.0.0 *.mediation.unity3d.com
+0.0.0.0 *.mediation.unity3d.com.lan
+0.0.0.0 *.mz.unity3d.com
+0.0.0.0 *.mz.unity3d.com.lan
+0.0.0.0 *.unityads.unity3d.com
+0.0.0.0 *.unityads.unity3d.com.lan
+0.0.0.0 cdn-creatives-cf-prd.acquire.unity3dusercontent.com
+0.0.0.0 content.offerwall.unity3d.com
 
 # [xiaomi (mobile analytics and spyware)]
-0.0.0.0 adv.sec.intl.miui.com
-0.0.0.0 api.ad.intl.xiaomi.com
-0.0.0.0 authbe.sec.intl.miui.com
-0.0.0.0 authbe.sec.intl.miui.com.lan
-0.0.0.0 flash.sec.intl.miui.com
-0.0.0.0 sdkconfig.ad.intl.xiaomi.com
-0.0.0.0 tracking.intl.miui.com
+0.0.0.0 *.intl.xiaomi.com
+0.0.0.0 *.market.xiaomi.com
+0.0.0.0 *.sec.intl.miui.com
+0.0.0.0 *.sec.intl.miui.com.lan
+0.0.0.0 api.account.xiaomi.com
+0.0.0.0 api.aurogon.intl.miui.com
+0.0.0.0 cdn.exp.xiaomi.com
+0.0.0.0 connect.intl.rom.miui.com
+0.0.0.0 find.api.micloud.xiaomi.net
+0.0.0.0 jupiter.intl.sys.miui.com
+0.0.0.0 mcc-intl.inf.miui.com
+0.0.0.0 mcc.intl.inf.miui.com
+0.0.0.0 mqs-log.miui.com
+0.0.0.0 pi.ias.xiaomi.com
+0.0.0.0 resolver.msg.global.xiaomi.net
+0.0.0.0 sec-cdn.static.xiaomi.net
