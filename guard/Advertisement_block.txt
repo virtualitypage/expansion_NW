@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 12 November 2024
+# Last modified: 13 November 2024
 #
 
 # [広告全般]
@@ -127,6 +127,7 @@
 0.0.0.0 artmac.co.jp
 0.0.0.0 artvivant-fantasyart.net
 0.0.0.0 aruyo22.jp
+0.0.0.0 asahidia-jewely.shop
 0.0.0.0 asahikawa-korpokkur.com
 0.0.0.0 asahikawa-nissan.com
 0.0.0.0 asaichuzo.com
@@ -240,6 +241,7 @@
 0.0.0.0 canbadge-arc76.com
 0.0.0.0 canow.tokyo
 0.0.0.0 car-audio.ne.jp
+0.0.0.0 carboncredits.com
 0.0.0.0 card-en-ciel.com
 0.0.0.0 cardshop-kenzo.myshopify.com
 0.0.0.0 career.levtech.jp
@@ -641,6 +643,7 @@
 0.0.0.0 hayatahome.com
 0.0.0.0 hc.kowa.co.jp
 0.0.0.0 hc.kyodoprinting.co.jp
+0.0.0.0 hc.mt-pharma.co.jp
 0.0.0.0 healthcarelife.info
 0.0.0.0 heitenya.com
 0.0.0.0 heki.owst.jp
@@ -674,6 +677,7 @@
 0.0.0.0 hitowafood-recruit.jp
 0.0.0.0 hjabvtsx.life
 0.0.0.0 hkcy.tw
+0.0.0.0 hkinf.hk
 0.0.0.0 hmaru.jp
 0.0.0.0 hobbyshow.co.jp
 0.0.0.0 hoikunosekai.com
@@ -853,6 +857,7 @@
 0.0.0.0 kamata-nikuzushi.owst.jp
 0.0.0.0 kameman.owst.jp
 0.0.0.0 kamenoi-hotels.com
+0.0.0.0 kamome.asia
 0.0.0.0 kamposhop.kracie.co.jp
 0.0.0.0 kamukura-recruit.jp
 0.0.0.0 kan-dora.com
@@ -862,6 +867,7 @@
 0.0.0.0 kankomirai-ouen.jp
 0.0.0.0 kansai-boatshow.jp
 0.0.0.0 kansai-elevator.co.jp
+0.0.0.0 kao-welcia.campar.jp
 0.0.0.0 karadak.com
 0.0.0.0 karakubuy.com
 0.0.0.0 karte.io
@@ -1705,6 +1711,7 @@
 0.0.0.0 sumai.jalux.com
 0.0.0.0 sumai.panasonic.jp
 0.0.0.0 sumai.tokyu-land.co.jp
+0.0.0.0 sumapo.com
 0.0.0.0 sumikalog.bess.jp
 0.0.0.0 sumisho-tatemono-chuukai.net
 0.0.0.0 sumiyaginzo.owst.jp
@@ -1843,6 +1850,7 @@
 0.0.0.0 uma-quick.com
 0.0.0.0 uma-rank.net
 0.0.0.0 umaki-items.com
+0.0.0.0 umamibomb.jp
 0.0.0.0 umiuma.jp
 0.0.0.0 unaginobori-hamamatsu.jp
 0.0.0.0 uncf.org
@@ -2631,6 +2639,7 @@
 0.0.0.0 www.kirizai.jp
 0.0.0.0 www.kitzmf.com
 0.0.0.0 www.kiyobank.co.jp
+0.0.0.0 www.kjtd.co.jp
 0.0.0.0 www.kkr.mlit.go.jp
 0.0.0.0 www.klook.com
 0.0.0.0 www.kmw.ac.jp
@@ -2684,6 +2693,7 @@
 0.0.0.0 www.lensstyle.jp
 0.0.0.0 www.leopalace21.com
 0.0.0.0 www.lettuceclub.net
+0.0.0.0 www.lexisnexis.com
 0.0.0.0 www.lfoita.co.jp
 0.0.0.0 www.lg.com
 0.0.0.0 www.libertynet.jp
@@ -2707,6 +2717,7 @@
 0.0.0.0 www.macaotourism.gov.mo
 0.0.0.0 www.magionet.co.jp
 0.0.0.0 www.magna-tokyo.com
+0.0.0.0 www.magokoro-bento.com
 0.0.0.0 www.makuake.com
 0.0.0.0 www.malverncollegetokyo.jp
 0.0.0.0 www.mandarinoriental.com
@@ -3151,6 +3162,7 @@
 0.0.0.0 www.shitennoji.ac.jp
 0.0.0.0 www.shizutetsu-homes.co.jp
 0.0.0.0 www.shochu.or.jp
+0.0.0.0 www.shohara-dental.com
 0.0.0.0 www.shokochukin.co.jp
 0.0.0.0 www.shopify.com
 0.0.0.0 www.shopowner-support.net
@@ -3459,6 +3471,7 @@
 0.0.0.0 yacnee.co.jp
 0.0.0.0 yaeyama-rentacar.com
 0.0.0.0 yakiniku-fc.com
+0.0.0.0 yakinikunandaimon.owst.jp
 0.0.0.0 yamadahomes.jp
 0.0.0.0 yamadahomes.resv.jp
 0.0.0.0 yamaguchi-kogyoyosui.jp
