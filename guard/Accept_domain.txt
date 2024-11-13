@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Accept_domain.txt
 #
-# Last modified: 11 November 2024
+# Last modified: 13 November 2024
 #
 
 # [許可リクエスト]
@@ -28,6 +28,7 @@
 @@||chromewebstore.google.com
 @@||clb.yahooapis.jp
 @@||collector.github.com
+@@||configserver.platform.hicloud.com
 @@||connectivitycheck.gstatic.com
 @@||controlplane.tailscale.com
 @@||discord.com
@@ -86,6 +87,7 @@
 @@||profile.line-scdn.net
 @@||program-static.cf.radiko.jp
 @@||proxy.safebrowsing.apple
+@@||query.hicloud.com
 @@||remotedesktop-pa.googleapis.com
 @@||remotedesktop.google.com
 @@||resource-jp-linemusic.line-scdn.net
@@ -109,6 +111,7 @@
 @@||video.twimg.com
 @@||voom-obs.line-scdn.net
 @@||web.facebook.com
+@@||whoami.akamai.net
 @@||www.amazon.co.jp
 @@||www.cecile.co.jp
 @@||www.google.co.jp
@@ -136,6 +139,7 @@
 @@||x.com
 @@||yamato-hd.co.jp
 @@||ymobile-store.yahoo.co.jp
+@@||youtu.be
 @@||youtubei.googleapis.com
 
 # [apple]
