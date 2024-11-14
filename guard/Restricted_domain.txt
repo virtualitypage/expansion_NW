@@ -4,7 +4,7 @@
 # References: querylog
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Restricted_domain.txt
 #
-# Last modified: 11 November 2024
+# Last modified: 14 November 2024
 #
 
 # [Restricted Domain]
@@ -14,6 +14,7 @@
 @@/p[1-9][0-9]-sign-useast2a.tiktokcdn.com.lan/^$client=192.168.8.117
 @@/p[1-9][0-9]-sign-useast2a.tiktokcdn.com/^$client=192.168.8.117
 @@/p[1-9][0-9]-sign-va.tiktokcdn.com/^$client=192.168.8.117
+@@/p[1-9][0-9].tiktokcdn.com/^$client=192.168.8.117
 @@/v[1-9][0-9]-jp.tiktokcdn.com.lan/^$client=192.168.8.117
 @@/v[1-9][0-9]-jp.tiktokcdn.com/^$client=192.168.8.117
 @@/v[1-9][0-9].tiktokcdn.com/^$client=192.168.8.117
@@ -103,6 +104,7 @@
 @@||twiman.net^$client=192.168.8.117
 @@||unisdk.proxima.nie.easebar.com^$client=192.168.8.117
 @@||unisdk.update.easebar.com^$client=192.168.8.117
+@@||v16-webapp-prime.tiktok.com^$client=192.168.8.117
 @@||who.nie.easebar.com^$client=192.168.8.117
 @@||whoami.nie.netease.com^$client=192.168.8.117
 @@||ws.speed.mirrativ.com^$client=192.168.8.117
