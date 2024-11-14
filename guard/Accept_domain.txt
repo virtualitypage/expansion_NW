@@ -4,10 +4,13 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Accept_domain.txt
 #
-# Last modified: 13 November 2024
+# Last modified: 14 November 2024
 #
 
 # [許可リクエスト]
+@@/e[5-9].o.lencr.org/
+@@/r1[0-4].i.lencr.org/
+@@/r1[0-4].o.lencr.org/
 @@||abs.twimg.com
 @@||accounts.google.com
 @@||accuweather.com
@@ -142,7 +145,7 @@
 @@||youtu.be
 @@||youtubei.googleapis.com
 
-# [apple]
+# [apple] Reference: https://support.apple.com/ja-jp/101555
 @@||*.courier-push-apple.com.akadns.net
 @@||*.courier-sandbox-push-apple.com.akadns.net
 @@||*courier.push.apple.com
@@ -294,3 +297,48 @@
 @@||www-pinterest-com.gslb.pinterest.com
 @@||www-prod-pinterest-global-map-fastly-net.pinterest.com
 @@||www.pinterest.com^$client=~192.168.8.117
+
+# [yahoo]
+@@||*.g.yimg.jp
+@@||auc-pctr.c.yimg.jp
+@@||auction-assets.c.yimg.jp
+@@||auction-buy.c.yimg.jp
+@@||auctions.c.yimg.jp
+@@||auctions.c.yimg.jp.lan
+@@||auctions.wing.c.yimg.jp
+@@||auctions.wing.c.yimg.jp.lan
+@@||auctions.yahoo.co.jp
+@@||auctions.yahoo.co.jp.lan
+@@||auth.login.yahoo.co.jp
+@@||chie-pctr.c.yimg.jp
+@@||chiebukuro.yahoo.co.jp
+@@||clb.yahooapis.jp
+@@||contact.auctions.yahoo.co.jp
+@@||detail.chiebukuro.yahoo.co.jp
+@@||displayname-pctr.c.yimg.jp
+@@||donation.yahoo.co.jp
+@@||ebookjapan.yahoo.co.jp
+@@||i.ebayimg.com
+@@||item-shopping.c.yimg.jp
+@@||login.yahoo.co.jp
+@@||map.yahoo.co.jp
+@@||mempf.yahoo.co.jp
+@@||mempf.yahooapis.jp
+@@||mhd.yahoo.co.jp
+@@||mitsumame-pctr.c.yimg.jp
+@@||news-pctr.c.yimg.jp
+@@||news.yahoo.co.jp
+@@||newsatcl-pctr.c.yimg.jp
+@@||page.auctions.yahoo.co.jp
+@@||paypayfleamarket.c.yimg.jp
+@@||paypayfleamarket.yahoo.co.jp
+@@||quriosity-pctr.c.yimg.jp
+@@||s.yimg.jp
+@@||s.yimg.jp.lan
+@@||search.yahoo.co.jp
+@@||support.yahoo-net.jp
+@@||templa.yahooapis.jp
+@@||templa.yahooapis.jp.lan
+@@||typhoon.yahoo.co.jp
+@@||www.yahoo.co.jp
+@@||ymobile-store.yahoo.co.jp
