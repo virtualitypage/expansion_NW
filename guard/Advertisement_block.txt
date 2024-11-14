@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 13 November 2024
+# Last modified: 14 November 2024
 #
 
 # [広告全般]
@@ -329,6 +329,7 @@
 0.0.0.0 cw-cl.jp
 0.0.0.0 cybersecurity-100.com
 0.0.0.0 cybozu-office.com
+0.0.0.0 cycling-ehime.com
 0.0.0.0 d-shinkou.com
 0.0.0.0 dachs.breeders.jp
 0.0.0.0 daiei-corporation.com
@@ -405,7 +406,6 @@
 0.0.0.0 earol.co.uk
 0.0.0.0 earthrapport0407.com
 0.0.0.0 easy-simulator.net
-0.0.0.0 ebookjapan.yahoo.co.jp
 0.0.0.0 ec-force.com
 0.0.0.0 ec-myprecious.jp
 0.0.0.0 ec.eternam.co.jp
@@ -1402,6 +1402,7 @@
 0.0.0.0 rental-coin.com
 0.0.0.0 rental-pallet.net
 0.0.0.0 rescue-suido.com
+0.0.0.0 reserve.star7.jp
 0.0.0.0 retail.ksp-sp.com
 0.0.0.0 retailers.landrover.co.jp
 0.0.0.0 reuse-tenshoku.com
@@ -2099,6 +2100,7 @@
 0.0.0.0 www.bousai.pref.fukuoka.jp
 0.0.0.0 www.branchera.com
 0.0.0.0 www.braun.jp
+0.0.0.0 www.braze.co.jp
 0.0.0.0 www.braze.com
 0.0.0.0 www.breeders.jp
 0.0.0.0 www.brilliantearth.com
@@ -2629,6 +2631,7 @@
 0.0.0.0 www.kenko-webshop.jp
 0.0.0.0 www.kewpie.co.jp
 0.0.0.0 www.keyence-foundation.or.jp
+0.0.0.0 www.ki-rin.biz
 0.0.0.0 www.kikyonooka.or.jp
 0.0.0.0 www.kindai.ac.jp
 0.0.0.0 www.kinoshita-koumuten.co.jp
@@ -2718,6 +2721,7 @@
 0.0.0.0 www.magionet.co.jp
 0.0.0.0 www.magna-tokyo.com
 0.0.0.0 www.magokoro-bento.com
+0.0.0.0 www.mainichi-foods.jp
 0.0.0.0 www.makuake.com
 0.0.0.0 www.malverncollegetokyo.jp
 0.0.0.0 www.mandarinoriental.com
@@ -2745,6 +2749,7 @@
 0.0.0.0 www.maybournebeverlyhills.com
 0.0.0.0 www.mblqs.com
 0.0.0.0 www.mdsol.co.jp
+0.0.0.0 www.mecsumai.com
 0.0.0.0 www.medical-aid.co.jp
 0.0.0.0 www.megabank.com.tw
 0.0.0.0 www.meids.co.jp
@@ -2848,6 +2853,7 @@
 0.0.0.0 www.netbk.co.jp
 0.0.0.0 www.netchina.jp
 0.0.0.0 www.netsudan.jp
+0.0.0.0 www.netzchubu.co.jp
 0.0.0.0 www.newart.co.jp
 0.0.0.0 www.nextfactory.jp
 0.0.0.0 www.nfu.ne.jp
