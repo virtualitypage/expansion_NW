@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_domain.txt
 #
-# Last modified: 14 November 2024
+# Last modified: 15 November 2024
 #
 
 # [拒否リクエスト]
@@ -16,6 +16,7 @@
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 adservice.google.com
 0.0.0.0 adx.opera.com
+0.0.0.0 am.yahoo.co.jp
 0.0.0.0 analytics.google.com
 0.0.0.0 apm.yahoo.co.jp
 0.0.0.0 app-measurement.com
@@ -36,12 +37,18 @@
 0.0.0.0 cdn-f.adsmoloco.com
 0.0.0.0 cdn.doubleverify.com
 0.0.0.0 cf-native.karte.io
+0.0.0.0 cksync.yahoo.co.jp
+0.0.0.0 clb.yahoo.co.jp
+0.0.0.0 connectid.analytics.yahoo.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 creativecdn.com
 0.0.0.0 doubleclick.net
 0.0.0.0 doubleclick.net.lan
 0.0.0.0 dsb.yahoo.co.jp
+0.0.0.0 dsb.yahooapis.jp
+0.0.0.0 dsb.yahooapis.jp.lan
 0.0.0.0 dynamic-yda.c.yimg.jp
+0.0.0.0 dynamic2-ydn.c.yimg.jp
 0.0.0.0 eu.mvconf.50union.com
 0.0.0.0 g.doubleclick.net.lan
 0.0.0.0 g.doubleclick.net.tail06b0f8.ts.net
@@ -55,10 +62,14 @@
 0.0.0.0 in.treasuredata.com
 0.0.0.0 log.radiko.jp
 0.0.0.0 log2.radiko.jp
+0.0.0.0 logql.yahoo.co.jp
 0.0.0.0 ly.my.sentry.io
+0.0.0.0 mscedge.g.yimg.jp
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pm.yahoo.co.jp
 0.0.0.0 pm.yahoo.jp
+0.0.0.0 pr-bh.ybp.yahoo.com
+0.0.0.0 pr-bh.ybp.yahoo.com.lan
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pubsub.googleapis.com
@@ -68,9 +79,12 @@
 0.0.0.0 static.doubleclick.net
 0.0.0.0 static.karte.io
 0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 store-visit-to-haas.east.edge.storage-yahoo.jp
+0.0.0.0 store-visit-to-haas.east.edge.storage-yahoo.jp.lan
 0.0.0.0 sync.intentiq.com
 0.0.0.0 td.doubleclick.net
 0.0.0.0 torimochi.line-apps.com
+0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 v16m-default.akamaized.net
 0.0.0.0 view.adjust.com
 0.0.0.0 vtrk.dv.tech
@@ -79,7 +93,6 @@
 0.0.0.0 yads.c.yimg.jp
 0.0.0.0 yads.c.yimg.jp.lan
 0.0.0.0 yads.yjtag.yahoo.co.jp
-0.0.0.0 dynamic2-ydn.c.yimg.jp
 
 # [appsflyer (mobile analytics and spyware)]
 0.0.0.0 *-cdn-settings.appsflyersdk.com
