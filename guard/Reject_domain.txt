@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_domain.txt
 #
-# Last modified: 15 November 2024
+# Last modified: 16 November 2024
 #
 
 # [拒否リクエスト]
@@ -363,6 +363,7 @@
 0.0.0.0 *.unityads.unity3d.com
 0.0.0.0 *.unityads.unity3d.com.lan
 0.0.0.0 cdn-creatives-cf-prd.acquire.unity3dusercontent.com
+0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
 0.0.0.0 content.offerwall.unity3d.com
 
 # [xiaomi (mobile analytics and spyware)]
