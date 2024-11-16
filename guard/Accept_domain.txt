@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Accept_domain.txt
 #
-# Last modified: 15 November 2024
+# Last modified: 16 November 2024
 #
 
 # [許可リクエスト]
@@ -144,6 +144,56 @@
 @@||ymobile-store.yahoo.co.jp
 @@||youtu.be
 @@||youtubei.googleapis.com
+
+# [akamai]
+@@||*.akamaihd.net
+@@||a*.b.akamai.net
+@@||a*.dscapi6.akamai.net
+@@||a*.dscapi9.akamai.net
+@@||a*.dscg4.akamai.net
+@@||a*.dscgi3.akamai.net
+@@||a*.dscq.akamai.net
+@@||a*.dscv.akamai.net
+@@||a*.dscw154.akamai.net
+@@||a*.gi3.akamai.net
+@@||a*.mm2.akamai.net
+@@||a*.r.akamai.net
+@@||a1024.dscg.akamai.net
+@@||a1091.dscapi7.akamai.net
+@@||a1437.dscw45.akamai.net
+@@||a144.v.akamai.net
+@@||a1556.dsct.akamai.net
+@@||a158.d.akamai.net
+@@||a1691.t.akamai.net
+@@||a1962.w155.akamai.net
+@@||a2047.api10.akamai.net
+@@||cdn-guile.akamaized.net
+@@||disk.akamaized.net
+@@||e*.a.akamaiedge.net
+@@||e*.b.akamaiedge.net
+@@||e*.d.akamaiedge.net
+@@||e*.dsca.akamaiedge.net
+@@||e*.dscb.akamaiedge.net
+@@||e*.dscd.akamaiedge.net
+@@||e*.dsce9.akamaiedge.net
+@@||e*.dscg.akamaiedge.net
+@@||e*.dscx.akamaiedge.net
+@@||e*.g.akamaiedge.net
+@@||e*.v.akamaiedge.net
+@@||e17437.dsct.akamaiedge.net
+@@||e35058.api2.akamaiedge.net
+@@||e3811.e9.akamaiedge.net
+@@||e4518.dscapi7.akamaiedge.net
+@@||e5871.dscd.akamaiedge.net
+@@||gameclub-fp.akamaized.net
+@@||kayzencdn.akamaized.net
+@@||ln-cdn.akamaized.net
+@@||melonbooks.akamaized.net
+@@||p16-sg-default.akamaized.net
+@@||p16-tiktokcdn-com.akamaized.net
+@@||speee-ad.akamaized.net
+@@||v16m-default.akamaized.net
+@@||whoami.akamai.net
 
 # [apple] Reference: https://support.apple.com/ja-jp/101555
 @@||*.courier-push-apple.com.akadns.net
