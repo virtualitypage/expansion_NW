@@ -4,7 +4,7 @@
 # References: querylog
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Restricted_domain.txt
 #
-# Last modified: 14 November 2024
+# Last modified: 16 November 2024
 #
 
 # [Restricted Domain]
@@ -64,8 +64,6 @@
 @@||online.mirrativ.com^$client=192.168.8.117
 @@||online2.dev.mirrativ.com^$client=192.168.8.117
 @@||p16-music-useast8.tiktokcdn-us.com^$client=192.168.8.117
-@@||p16-sign-sg.tiktokcdn.com.lan^$client=192.168.8.117
-@@||p16-sign-sg.tiktokcdn.com^$client=192.168.8.117
 @@||pharos.easebar.com^$client=192.168.8.117
 @@||pimg.easebar.com^$client=192.168.8.117
 @@||play.google.com^$client=192.168.8.117
