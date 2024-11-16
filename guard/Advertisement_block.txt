@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 15 November 2024
+# Last modified: 16 November 2024
 #
 
 # [広告全般]
@@ -94,6 +94,7 @@
 0.0.0.0 ananti.kr
 0.0.0.0 ananweb.jp
 0.0.0.0 anchorbolt.base.shop
+0.0.0.0 ancie.jp
 0.0.0.0 and-conote.powergrid.chuden.co.jp
 0.0.0.0 and-english.com
 0.0.0.0 anellohome.com
@@ -836,6 +837,7 @@
 0.0.0.0 jws-c.jp
 0.0.0.0 jyouhoudenshi.jp
 0.0.0.0 k-rm.jp
+0.0.0.0 kaban-campaign.com
 0.0.0.0 kabu.com
 0.0.0.0 kachi-doki.jp
 0.0.0.0 kadenfan.hitachi.co.jp
@@ -848,6 +850,7 @@
 0.0.0.0 kaigo-ma.com
 0.0.0.0 kaigo.benesse-style-care.co.jp
 0.0.0.0 kaigo.nichiigakkan-careerplus.jp
+0.0.0.0 kaigo.taskman.co.jp
 0.0.0.0 kaigojj.com
 0.0.0.0 kaigyoyushi-osaka.jp
 0.0.0.0 kainuma.org
@@ -1405,6 +1408,7 @@
 0.0.0.0 rental-coin.com
 0.0.0.0 rental-pallet.net
 0.0.0.0 rescue-suido.com
+0.0.0.0 reservation.medical-force.com
 0.0.0.0 reserve.star7.jp
 0.0.0.0 retail.ksp-sp.com
 0.0.0.0 retailers.landrover.co.jp
@@ -1742,6 +1746,7 @@
 0.0.0.0 taiheiyou-ireikyoukai.jp
 0.0.0.0 tainenji.net
 0.0.0.0 taishuubistoroharadaya.owst.jp
+0.0.0.0 taiwancyayanana.owst.jp
 0.0.0.0 takadaseed.com
 0.0.0.0 takamatsu-marugame-bankin.com
 0.0.0.0 takamatsu.bess.jp
@@ -1919,6 +1924,7 @@
 0.0.0.0 weddings.westintokyoshop.com
 0.0.0.0 wef.iae-ryugaku.net
 0.0.0.0 wellbeing.kirin.co.jp
+0.0.0.0 wellp-official.jp
 0.0.0.0 wespo.westjr.co.jp
 0.0.0.0 wester.jr-odekake.net
 0.0.0.0 whisper-lagoon.info
@@ -1926,6 +1932,7 @@
 0.0.0.0 willcre03.com
 0.0.0.0 wing-group-web.net
 0.0.0.0 wink000.myshopify.com
+0.0.0.0 wisdom.nec.com
 0.0.0.0 withonline.jp
 0.0.0.0 wod.wowow.co.jp
 0.0.0.0 woman-lifecp.metro.tokyo.lg.jp
@@ -1953,6 +1960,7 @@
 0.0.0.0 www.3m.com
 0.0.0.0 www.3qcut.com
 0.0.0.0 www.47news.jp
+0.0.0.0 www.4green.dental
 0.0.0.0 www.543life.com
 0.0.0.0 www.5academy.com
 0.0.0.0 www.7-7maruka.com
@@ -2018,6 +2026,7 @@
 0.0.0.0 www.anabuki-style.com.lan
 0.0.0.0 www.andkomachi.com
 0.0.0.0 www.ankerjapan.com
+0.0.0.0 www.ankh-jp.com
 0.0.0.0 www.anpic.jp
 0.0.0.0 www.anshindo-grp.co.jp
 0.0.0.0 www.antiques-and.com
@@ -2385,6 +2394,7 @@
 0.0.0.0 www.glamping-chibakamogawa.com
 0.0.0.0 www.gleif.org
 0.0.0.0 www.global-style.jp
+0.0.0.0 www.globalwork.jp
 0.0.0.0 www.gmobile.biz
 0.0.0.0 www.goda-j.co.jp
 0.0.0.0 www.gofuku-kaitori.com
@@ -3513,6 +3523,7 @@
 0.0.0.0 ypa.localab.net
 0.0.0.0 ys-plan.jp.net
 0.0.0.0 ysp-shop.com
+0.0.0.0 yukihira-akashi.owst.jp
 0.0.0.0 yumekitchen.jp
 0.0.0.0 yururi-nikori.owst.jp
 0.0.0.0 yusho-kyoto.owst.jp
