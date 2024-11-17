@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_domain.txt
 #
-# Last modified: 16 November 2024
+# Last modified: 17 November 2024
 #
 
 # [拒否リクエスト]
@@ -334,10 +334,12 @@
 0.0.0.0 location-v6-sg.tiktokv.com
 0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 mon.isnssdk.com
+0.0.0.0 mon.tiktokv.com.ttdns2.com
 0.0.0.0 p16-tiktokcdn-com.akamaized.net
 0.0.0.0 pitaya-sg.tiktokv.com
 0.0.0.0 pitaya-sg.tiktokv.com.lan
 0.0.0.0 pitaya.tiktokv.com
+0.0.0.0 sf-i18n-resources.tiktokcdn.com.ttdns2.com
 0.0.0.0 sf-static.tiktokcdn.com
 0.0.0.0 tiktok.adsmeasurement.com
 0.0.0.0 tnc-boot.tiktokv.com
@@ -349,6 +351,7 @@
 0.0.0.0 video-sg.tiktokv.com
 0.0.0.0 vt.tiktok.com
 0.0.0.0 webcast-mp-sg.tiktokv.com
+0.0.0.0 webcast.tiktok.com.ttdns2.com
 
 # [unity3d (mobile analytics and spyware)]
 0.0.0.0 *.cloud.unity3d.com
