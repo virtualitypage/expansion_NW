@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Accept_domain.txt
 #
-# Last modified: 16 November 2024
+# Last modified: 17 November 2024
 #
 
 # [許可リクエスト]
@@ -29,18 +29,15 @@
 @@||check.gred.jp
 @@||chromesyncpasswords-pa.googleapis.com
 @@||chromewebstore.google.com
-@@||clb.yahooapis.jp
 @@||collector.github.com
 @@||configserver.platform.hicloud.com
 @@||connectivitycheck.gstatic.com
 @@||controlplane.tailscale.com
 @@||discord.com
 @@||docs.google.com
-@@||donation.yahoo.co.jp
 @@||drive.google.com
 @@||drivefrontend-pa.googleapis.com
 @@||duolingo.com
-@@||ebookjapan.yahoo.co.jp
 @@||event.rakuten.co.jp
 @@||event.travel.rakuten.co.jp
 @@||explainshell.com
@@ -63,7 +60,6 @@
 @@||log.tailscale.io
 @@||mail.google.com
 @@||manga.line.me
-@@||map.yahoo.co.jp
 @@||media2.kddi.com
 @@||meet.google.com
 @@||mercari-shops.com
@@ -74,7 +70,6 @@
 @@||myphonenumbers-pa.googleapis.com
 @@||nearbysharing-pa.googleapis.com
 @@||network.mobile.rakuten.co.jp
-@@||news.yahoo.co.jp
 @@||notifications-pa.googleapis.com
 @@||ocsp.digicert.com
 @@||one.one.one.one
@@ -114,7 +109,6 @@
 @@||video.twimg.com
 @@||voom-obs.line-scdn.net
 @@||web.facebook.com
-@@||whoami.akamai.net
 @@||www.amazon.co.jp
 @@||www.cecile.co.jp
 @@||www.google.co.jp
@@ -134,14 +128,12 @@
 @@||www.recaptcha.net
 @@||www.smartnews.be
 @@||www.topvalu.net
-@@||www.yahoo.co.jp
 @@||www.yonden.co.jp
 @@||www.youtube.com
 @@||www2.gred.jp
 @@||www3.nhk.or.jp
 @@||x.com
 @@||yamato-hd.co.jp
-@@||ymobile-store.yahoo.co.jp
 @@||youtu.be
 @@||youtubei.googleapis.com
 
