@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 16 November 2024
+# Last modified: 17 November 2024
 #
 
 # [広告全般]
@@ -55,6 +55,7 @@
 0.0.0.0 admission-info.tokyo-kasei-univ.jp
 0.0.0.0 ads.kaipoke.biz
 0.0.0.0 adt.rokunomiya.jp
+0.0.0.0 affordable-mileage.jp
 0.0.0.0 afi-support.com
 0.0.0.0 afilab.jp
 0.0.0.0 aflart.net
@@ -192,6 +193,7 @@
 0.0.0.0 biryuhyakkaweb.jp
 0.0.0.0 bistria-uotalian.owst.jp
 0.0.0.0 bix.exparo.com
+0.0.0.0 biz.renta-mobile.com
 0.0.0.0 bizhint.jp
 0.0.0.0 bizreach.biz
 0.0.0.0 biztel.jp
@@ -534,6 +536,7 @@
 0.0.0.0 furusato-karatsu.com
 0.0.0.0 furusato-yoichi.jp
 0.0.0.0 furyu-hm.com
+0.0.0.0 fuwarii.com
 0.0.0.0 g-prep.co.jp
 0.0.0.0 g.floorheating-best.net
 0.0.0.0 g123.jp
@@ -772,6 +775,7 @@
 0.0.0.0 ja.couponpac.com
 0.0.0.0 ja.popsilla.com
 0.0.0.0 jackrussell.breeders.jp
+0.0.0.0 japan-food.guide
 0.0.0.0 japan-staff.jp
 0.0.0.0 japanese.visitkorea.or.kr
 0.0.0.0 japantax.tokyo
@@ -1150,6 +1154,7 @@
 0.0.0.0 mozsweden.com
 0.0.0.0 msb.loofen.jp
 0.0.0.0 mtg-campaign.com
+0.0.0.0 mtg-jp.com
 0.0.0.0 mtm-aoyama.com
 0.0.0.0 muqbel.jp
 0.0.0.0 musashi-kikaiyuso.com
@@ -1171,6 +1176,7 @@
 0.0.0.0 n3cafe.com
 0.0.0.0 naganokaitai.net
 0.0.0.0 nagoya-camera.mikawa.ne.jp
+0.0.0.0 nagoya-platen.nikkan.co.jp
 0.0.0.0 nagoya.ace-clinic.com
 0.0.0.0 naka4.com
 0.0.0.0 nakanodental-cl.com
@@ -1318,6 +1324,7 @@
 0.0.0.0 piano.miki.co.jp
 0.0.0.0 pias-recruit-fresh.com
 0.0.0.0 piecebox.jp
+0.0.0.0 pikminbloom.com
 0.0.0.0 pingcap.co.jp
 0.0.0.0 pinklush.jp
 0.0.0.0 pitariko.jp
@@ -2296,6 +2303,7 @@
 0.0.0.0 www.eheya.net
 0.0.0.0 www.ehime-ben.or.jp
 0.0.0.0 www.ehime-shogai.net
+0.0.0.0 www.eines.jp
 0.0.0.0 www.eldenring.jp
 0.0.0.0 www.elder.jeed.go.jp
 0.0.0.0 www.elegance-cosmetics.com
@@ -2343,6 +2351,7 @@
 0.0.0.0 www.forcus.co.jp
 0.0.0.0 www.foreupgolf.com
 0.0.0.0 www.forever-kato.co.jp
+0.0.0.0 www.form2.shop
 0.0.0.0 www.forum8.co.jp
 0.0.0.0 www.france.fr
 0.0.0.0 www.freedom.co.jp
@@ -2414,6 +2423,7 @@
 0.0.0.0 www.grand-seiko.com
 0.0.0.0 www.grandelakes.com
 0.0.0.0 www.grandsoleil.co.jp
+0.0.0.0 www.greenelephantco.com
 0.0.0.0 www.greenynbio.com
 0.0.0.0 www.gregory.jp
 0.0.0.0 www.gressive.jp
@@ -2661,6 +2671,7 @@
 0.0.0.0 www.kkr.mlit.go.jp
 0.0.0.0 www.klook.com
 0.0.0.0 www.kmw.ac.jp
+0.0.0.0 www.kneipp.com
 0.0.0.0 www.ko-z.com
 0.0.0.0 www.kobax.net
 0.0.0.0 www.kobe-souzokuzei.com
