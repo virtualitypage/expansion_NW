@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 17 November 2024
+# Last modified: 18 November 2024
 #
 
 # [広告全般]
@@ -26,6 +26,7 @@
 0.0.0.0 78kanteikyoku.jp
 0.0.0.0 7ticket.jp
 0.0.0.0 88423.co.jp
+0.0.0.0 888-hachimitsu.net
 0.0.0.0 8984.jp
 0.0.0.0 8proud.jp
 0.0.0.0 9000.jp
@@ -55,6 +56,7 @@
 0.0.0.0 admission-info.tokyo-kasei-univ.jp
 0.0.0.0 ads.kaipoke.biz
 0.0.0.0 adt.rokunomiya.jp
+0.0.0.0 af-inoac.jp
 0.0.0.0 affordable-mileage.jp
 0.0.0.0 afi-support.com
 0.0.0.0 afilab.jp
@@ -118,6 +120,7 @@
 0.0.0.0 aqua-has.com
 0.0.0.0 aqua-magic.net
 0.0.0.0 arcteryx.jp
+0.0.0.0 aridamuki.jp
 0.0.0.0 art-logis.com
 0.0.0.0 art-mocha.net
 0.0.0.0 art.nikkei.com
@@ -233,6 +236,7 @@
 0.0.0.0 ca.nihon-trim.co.jp
 0.0.0.0 cafe-inn-hitoiki.com
 0.0.0.0 calendo365.com
+0.0.0.0 campaign.nishigaki-group.com
 0.0.0.0 campaign.whitehouse.co.jp
 0.0.0.0 campaign.wild1.co.jp
 0.0.0.0 campanel.jp
@@ -950,6 +954,7 @@
 0.0.0.0 koukoukojitsu.com
 0.0.0.0 koundou.com
 0.0.0.0 kouseisaiyou.mhlw.go.jp
+0.0.0.0 kouseki-akita.com
 0.0.0.0 koutoku.ac.jp
 0.0.0.0 kritikazero-dmg.pmang.jp
 0.0.0.0 ks-factory.soueisha.net
@@ -1146,6 +1151,7 @@
 0.0.0.0 mobazo.jp
 0.0.0.0 mobile-fukugyo.work
 0.0.0.0 mobile.nuro.jp
+0.0.0.0 mods-clinic.info
 0.0.0.0 mokutown.jp
 0.0.0.0 money-college.org
 0.0.0.0 monji.tech
@@ -1294,6 +1300,7 @@
 0.0.0.0 osakastationcity.com
 0.0.0.0 osho-research.co.jp
 0.0.0.0 ost-honeypot-1.oreillyauto.com
+0.0.0.0 otokujyoho.online
 0.0.0.0 otonamuse.jp
 0.0.0.0 otori-hearing.com
 0.0.0.0 oyanozasshi.jp
@@ -1383,6 +1390,7 @@
 0.0.0.0 r-kaden.site
 0.0.0.0 r-style.eco.coocan.jp
 0.0.0.0 r.casalemedia.com
+0.0.0.0 r.gnavi.co.jp
 0.0.0.0 r1-usc1.zemanta.com
 0.0.0.0 race.nishinippon.co.jp
 0.0.0.0 raichoshrine.owst.jp
@@ -1570,6 +1578,7 @@
 0.0.0.0 sg.steelcase.com
 0.0.0.0 sg.tcacoustic.asia
 0.0.0.0 shaktimat.co.jp
+0.0.0.0 sharecar.muchapp.jp
 0.0.0.0 sharkclean.co.uk
 0.0.0.0 shashinten.info
 0.0.0.0 shelldome.jp
@@ -1774,6 +1783,7 @@
 0.0.0.0 tarezou.com
 0.0.0.0 targety.jp
 0.0.0.0 tasaki-s.co.jp
+0.0.0.0 tatansweets.com
 0.0.0.0 tateyoko-kazuma.com
 0.0.0.0 taxisaiyo.entetsu.co.jp
 0.0.0.0 tcb-beauty.net
@@ -2087,6 +2097,7 @@
 0.0.0.0 www.balbix.com
 0.0.0.0 www.balmuda.com
 0.0.0.0 www.bank-daiwa.co.jp
+0.0.0.0 www.bayflow.jp
 0.0.0.0 www.bayfm.co.jp
 0.0.0.0 www.be4tech.com
 0.0.0.0 www.benesse.co.jp
@@ -2307,6 +2318,7 @@
 0.0.0.0 www.eldenring.jp
 0.0.0.0 www.elder.jeed.go.jp
 0.0.0.0 www.elegance-cosmetics.com
+0.0.0.0 www.elleair.jp
 0.0.0.0 www.emberstoria.jp
 0.0.0.0 www.enecho.meti.go.jp
 0.0.0.0 www.enemaru.com
@@ -2367,6 +2379,7 @@
 0.0.0.0 www.fujisan-climb.jp
 0.0.0.0 www.fujitsu.com
 0.0.0.0 www.fukagawaganka.net
+0.0.0.0 www.fukko-pr.reconstruction.go.jp
 0.0.0.0 www.fukko.com
 0.0.0.0 www.fukoku-life.co.jp
 0.0.0.0 www.fukui-ijunavi.jp
@@ -2376,6 +2389,7 @@
 0.0.0.0 www.funcurrent.com
 0.0.0.0 www.fundex.co.jp
 0.0.0.0 www.fureai-hometown.jp
+0.0.0.0 www.furnituredome.jp
 0.0.0.0 www.furugioroshi.com
 0.0.0.0 www.furusato-tax.jp
 0.0.0.0 www.futakiya.com
@@ -2648,6 +2662,7 @@
 0.0.0.0 www.kawate-shika.site
 0.0.0.0 www.kd-icons.co.jp
 0.0.0.0 www.keiai.net
+0.0.0.0 www.keichomaru.jp
 0.0.0.0 www.keiji-pestcontrol.com
 0.0.0.0 www.keiko.josho.ac.jp
 0.0.0.0 www.keikyu-store.com
@@ -2842,6 +2857,7 @@
 0.0.0.0 www.morinaga.co.jp
 0.0.0.0 www.morinobrand-store.com
 0.0.0.0 www.morrobay.org
+0.0.0.0 www.mos.jp
 0.0.0.0 www.motherfarm.co.jp
 0.0.0.0 www.mouse-jp.co.jp
 0.0.0.0 www.ms-ins.com
@@ -3307,7 +3323,6 @@
 0.0.0.0 www.teksystems.com
 0.0.0.0 www.tel-tkl-midcareer.com
 0.0.0.0 www.tele.soumu.go.jp
-0.0.0.0 www.temu.com
 0.0.0.0 www.tenjikan.com
 0.0.0.0 www.tensyou.com
 0.0.0.0 www.tepco.co.jp
@@ -3436,6 +3451,7 @@
 0.0.0.0 www.wappenya.com
 0.0.0.0 www.wasedajuku.com
 0.0.0.0 www.washingtonhotel.co.jp
+0.0.0.0 www.watabe-wedding.co.jp
 0.0.0.0 www.watami-takushoku-direct.jp
 0.0.0.0 www.watsons.com.tw
 0.0.0.0 www.wayokudan.ed.jp
