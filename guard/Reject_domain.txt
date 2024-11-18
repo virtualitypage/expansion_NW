@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_domain.txt
 #
-# Last modified: 17 November 2024
+# Last modified: 18 November 2024
 #
 
 # [拒否リクエスト]
@@ -70,7 +70,6 @@
 0.0.0.0 pm.yahoo.jp
 0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 pr-bh.ybp.yahoo.com.lan
-0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pubsub.googleapis.com
 0.0.0.0 s.amazon-adsystem.com
@@ -254,12 +253,8 @@
 /gecko[1-9][0-9]-normal-alisg.tiktokv.com/
 /hotapi[1-9][0-9]-normal-alisg.tiktokv.com/
 /jsb[1-9][0-9]-normal-alisg.tiktokv.com/
-/lf[0-9]-geckocdn.tiktokcdn.com/
 /lf[1-9][0-9]-effectcdn-sg.tiktokcdn.com/
 /lf[1-9][0-9]-gecko-source.tiktokcdn.com/
-/lf[1-9][0-9]-pitayacdn.tiktokcdn.com/
-/lf[1-9][0-9]-tiktok-im-scp.tiktokcdn.com/
-/lf[1-9][0-9]-tos-files.tiktokcdn.com/
 /libra[1-9][0-9]-normal-alisg.tiktokv.com/
 /log[1-9][0-9]-normal-alisg.tiktokv.com.lan/
 /log[1-9][0-9]-normal-alisg.tiktokv.com/
@@ -268,21 +263,11 @@
 /mssdk[1-9][0-9]-normal-alisg.tiktokv.com/
 /oec[1-9][0-9]-normal-alisg.tiktokv.com/
 /p[1-9][0-9]-amd-va.tiktokcdn.com/
-/p[1-9][0-9]-music-useast8.tiktokcdn-us.com/
-/p[1-9][0-9]-pu-sign-ie.tiktokcdn-eu.com/
-/p[1-9][0-9]-pu-sign-no.tiktokcdn-eu.com/
-/p[1-9][0-9]-pu-sign-useast8.tiktokcdn-us.com/
 /p[1-9][0-9]-sg.tiktokcdn.com.lan/
 /p[1-9][0-9]-sg.tiktokcdn.com/
 /p[1-9][0-9]-sign.tiktokcdn-us.com/
-/p[1-9][0-9]-tiktok-dm-sticker-euttp-sign-useast2a.ibyteimg.com/
-/p[1-9][0-9]-tiktok-dm-sticker-sign-sg.ibyteimg.com/
-/p[1-9][0-9]-tiktok-dm-sticker-sign-va.ibyteimg.com/
 /p[1-9][0-9]-tiktokcdn-com.akamaized.net/
 /p[1-9][0-9]-tiktokyoyo-va.ibyteimg.com/
-/p[1-9][0-9]-tiktokyoyo-va.tiktokcdn.com/
-/p[1-9][0-9]-ug-incentive-va.tiktokcdn.com.lan/
-/p[1-9][0-9]-ug-incentive-va.tiktokcdn.com/
 /p[1-9][0-9]-useast2a.tiktokcdn.com/
 /p[1-9][0-9]-webcast.tiktokcdn.com/
 /p[1-9][0-9]sign-va.tiktokcdn.com/
@@ -290,16 +275,12 @@
 /rtlog[1-9][0-9]-normal-alisg.tiktokv.com/
 /search[1-9][0-9]-normal-c-alisg.tiktokv.com.lan/
 /search[1-9][0-9]-normal-c-alisg.tiktokv.com/
-/sf[1-9][0-9]-geckocdn.tiktokcdn.com/
 /sf[1-9][0-9]-ies-music-sg.tiktokcdn.com.lan/
 /sf[1-9][0-9]-ies-music-sg.tiktokcdn.com/
 /sf[1-9][0-9]-ies-music-va.tiktokcdn.com/
-/sf[1-9][0-9]-ies-music.tiktokcdn.com/
 /sf[1-9][0-9]-sg.tiktokcdn.com/
 /sf[1-9][0-9]-va.tiktokcdn.com/
 /sf[1-9][0-9]-webcast.tiktokcdn.com/
-/sf[1-9][0-9]m-geckocdn.tiktokcdn.com/
-/tnc[0-9]-normal-my.tiktokv.com/
 /tnc[0-9]-normal-useast1a.tiktokv.com.lan/
 /tnc[0-9]-normal-useast1a.tiktokv.com/
 /tnc[1-9][0-9]-platform-alisg.tiktokv.com/
@@ -308,8 +289,6 @@
 /tos-my[1-9][0-9]-up.tiktokcdn.com/
 /tos-my[1-9][0-9][0-9]-up.tiktokcdn.com/
 /tos-quic-awsjp[1-9][0-9]-up.tiktokcdn.com/
-/v[1-9][0-9]-cla.tiktokcdn.com/
-/v[1-9][0-9]-coin.tiktokcdn.com/
 /v[1-9][0-9]-p.tiktokcdn.com/
 /v[1-9][0-9]m.tiktokcdn.com/
 /vas-alisg[1-9][0-9].tiktokv.com/
@@ -318,9 +297,9 @@
 /webcast[1-9][0-9]-ws-alisg.tiktokv.com/
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 bsync-sg.tiktokv.com
-0.0.0.0 c2pa-cloud-server-sg.tiktokv.com
+0.0.0.0 c2pa-cloud-server-sg.tiktokv.com^$client=~192.168.8.117
 0.0.0.0 f-p-va.isnssdk.com
-0.0.0.0 feedback-sg.tiktokv.com
+0.0.0.0 feedback-sg.tiktokv.com^$client=~192.168.8.117
 0.0.0.0 feelgood-api.tiktok.com
 0.0.0.0 frontier.tiktokv.com
 0.0.0.0 gecko-sg.tiktokv.com
@@ -328,30 +307,52 @@
 0.0.0.0 i.isnssdk.com.lan
 0.0.0.0 image-sg.tiktokv.com
 0.0.0.0 jsb-sg.tiktokv.com
-0.0.0.0 lf-main-gecko-source.tiktokcdn.com
-0.0.0.0 lf-videocut-ug-hybird.tiktokcdn.com
+0.0.0.0 lf-main-gecko-source.tiktokcdn.com^$client=~192.168.8.117
+0.0.0.0 lf-videocut-ug-hybird.tiktokcdn.com^$client=~192.168.8.117
+0.0.0.0 lf*-geckocdn.tiktokcdn.com^$client=~192.168.8.117
+0.0.0.0 lf*-pitayacdn.tiktokcdn.com^$client=~192.168.8.117
+0.0.0.0 lf*-tiktok-im-scp.tiktokcdn.com^$client=~192.168.8.117
+0.0.0.0 lf*-tos-files.tiktokcdn.com^$client=~192.168.8.117
 0.0.0.0 libra-sg.tiktokv.com
 0.0.0.0 location-v6-sg.tiktokv.com
 0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 mon.isnssdk.com
 0.0.0.0 mon.tiktokv.com.ttdns2.com
+0.0.0.0 p*-music-useast8.tiktokcdn-us.com^$client=~192.168.8.117
+0.0.0.0 p*-pu-sign-ie.tiktokcdn-eu.com^$client=~192.168.8.117
+0.0.0.0 p*-pu-sign-no.tiktokcdn-eu.com^$client=~192.168.8.117
+0.0.0.0 p*-pu-sign-useast8.tiktokcdn-us.com^$client=~192.168.8.117
+0.0.0.0 p*-tiktok-dm-sticker-euttp-sign-useast2a.ibyteimg.com^$client=~192.168.8.117
+0.0.0.0 p*-tiktok-dm-sticker-sign-sg.ibyteimg.com^$client=~192.168.8.117
+0.0.0.0 p*-tiktok-dm-sticker-sign-va.ibyteimg.com^$client=~192.168.8.117
+0.0.0.0 p*-tiktokyoyo-va.tiktokcdn.com^$client=~192.168.8.117
+0.0.0.0 p*-ug-incentive-va.tiktokcdn.com.lan^$client=~192.168.8.117
+0.0.0.0 p*-ug-incentive-va.tiktokcdn.com^$client=~192.168.8.117
 0.0.0.0 p16-tiktokcdn-com.akamaized.net
 0.0.0.0 pitaya-sg.tiktokv.com
 0.0.0.0 pitaya-sg.tiktokv.com.lan
 0.0.0.0 pitaya.tiktokv.com
-0.0.0.0 sf-i18n-resources.tiktokcdn.com.ttdns2.com
-0.0.0.0 sf-static.tiktokcdn.com
+0.0.0.0 sf-i18n-resources.tiktokcdn.com.ttdns2.com^$client=~192.168.8.117
+0.0.0.0 sf-static.tiktokcdn.com^$client=~192.168.8.117
+0.0.0.0 sf*-geckocdn.tiktokcdn.com^$client=~192.168.8.117
+0.0.0.0 sf*-ies-music.tiktokcdn.com^$client=~192.168.8.117
+0.0.0.0 sf*m-geckocdn.tiktokcdn.com^$client=~192.168.8.117
 0.0.0.0 tiktok.adsmeasurement.com
-0.0.0.0 tnc-boot.tiktokv.com
+0.0.0.0 tnc-boot.tiktokv.com^$client=~192.168.8.117
+0.0.0.0 tnc*-normal-my.tiktokv.com^$client=~192.168.8.117
 0.0.0.0 tnc16-alisg.isnssdk.com
 0.0.0.0 tnc16-alisg.isnssdk.com.lan
 0.0.0.0 tnc16-useast1a.isnssdk.com
-0.0.0.0 tos-quic-kix1b.tiktokcdn.com
+0.0.0.0 tos-quic-kix1b.tiktokcdn.com^$client=~192.168.8.117
+0.0.0.0 v*-cla.tiktokcdn.com^$client=~192.168.8.117
+0.0.0.0 v*-coin.tiktokcdn.com^$client=~192.168.8.117
+0.0.0.0 v*-jp.tiktokcdn.com
+0.0.0.0 v*.tiktokcdn.com
 0.0.0.0 vcs-sg.tiktokv.com
 0.0.0.0 video-sg.tiktokv.com
 0.0.0.0 vt.tiktok.com
 0.0.0.0 webcast-mp-sg.tiktokv.com
-0.0.0.0 webcast.tiktok.com.ttdns2.com
+0.0.0.0 webcast.tiktok.com.ttdns2.com^$client=~192.168.8.117
 
 # [unity3d (mobile analytics and spyware)]
 0.0.0.0 *.cloud.unity3d.com
