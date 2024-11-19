@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 18 November 2024
+# Last modified: 19 November 2024
 #
 
 # [広告全般]
@@ -87,6 +87,7 @@
 0.0.0.0 alinamin.jp
 0.0.0.0 allie-ai.kao-kirei.com
 0.0.0.0 alohadou.com
+0.0.0.0 alphamarine.co.jp
 0.0.0.0 alphamiki.co.jp
 0.0.0.0 alpsoutdoorsummit.jp
 0.0.0.0 amagasaki-boat.com
@@ -190,6 +191,7 @@
 0.0.0.0 beverageandfood.direct.suntory.co.jp
 0.0.0.0 bianshack.com
 0.0.0.0 biblesforjapan.org
+0.0.0.0 big-campaign.jp
 0.0.0.0 big5-basic.com
 0.0.0.0 bighornlaw.com
 0.0.0.0 bike-news.jp
@@ -698,6 +700,7 @@
 0.0.0.0 hokuriku.c-nexco.co.jp
 0.0.0.0 hokuyu-ryokuti.com
 0.0.0.0 home-design-schmidt.uk
+0.0.0.0 home.tsuku2.jp
 0.0.0.0 hondacars.jp
 0.0.0.0 hondacars.link
 0.0.0.0 honkaku-coco.com
@@ -1033,6 +1036,7 @@
 0.0.0.0 lp.grapeseed.com
 0.0.0.0 lp.groundenergy.co.jp
 0.0.0.0 lp.hairlity.jp
+0.0.0.0 lp.human-dy.co.jp
 0.0.0.0 lp.iibc-global.org
 0.0.0.0 lp.it-trend.jp
 0.0.0.0 lp.kaitekikobo.jp
@@ -1071,6 +1075,7 @@
 0.0.0.0 madakana-edohaku.jp
 0.0.0.0 madama-hada.jp
 0.0.0.0 madream.jp
+0.0.0.0 maekawaah.com
 0.0.0.0 mag.bess.jp
 0.0.0.0 mahope.hair
 0.0.0.0 mainichi.nosh.jp
@@ -1082,6 +1087,7 @@
 0.0.0.0 mangamatsuri.kodansha.co.jp
 0.0.0.0 mangasouko-shop.jp
 0.0.0.0 manulife-gaika.jp
+0.0.0.0 maquia.hpplus.jp
 0.0.0.0 maruhan-lp.net
 0.0.0.0 maruhome.jp
 0.0.0.0 marumugi.shop
@@ -1124,6 +1130,7 @@
 0.0.0.0 minoh-indoorgolf.com
 0.0.0.0 minoh-spa.ooedoonsen.jp
 0.0.0.0 minoh.ooedoonsen.jp
+0.0.0.0 minotti.jp
 0.0.0.0 minsah-ring.com
 0.0.0.0 miokuriteitaku.jp
 0.0.0.0 mirai-compass.net
@@ -1195,6 +1202,7 @@
 0.0.0.0 navi.jobpal.jp
 0.0.0.0 neith.tokyo
 0.0.0.0 nekkoya.shop-pro.jp
+0.0.0.0 nemunokinoshita.com
 0.0.0.0 nesta.click
 0.0.0.0 nesting-hokago.com
 0.0.0.0 nestle.jp
@@ -1252,6 +1260,7 @@
 0.0.0.0 nzzz.airnewzealand.jp
 0.0.0.0 oasishoteles.com
 0.0.0.0 oba-sr.com
+0.0.0.0 oceans.tokyo.jp
 0.0.0.0 ocjs.catholic-okinawa.ed.jp
 0.0.0.0 officeair.co.jp
 0.0.0.0 officee.jp
@@ -1361,6 +1370,7 @@
 0.0.0.0 premiumstonegallery.com
 0.0.0.0 present-wine-shop.derisomu.com
 0.0.0.0 present.baby-calendar.com
+0.0.0.0 price-energy.com
 0.0.0.0 pride-fish.jp
 0.0.0.0 pro.gnavi.co.jp
 0.0.0.0 proaceworks.com
@@ -1485,6 +1495,7 @@
 0.0.0.0 sauna-rezone.com
 0.0.0.0 saunavi.net
 0.0.0.0 sawaraguchi-cl.jp
+0.0.0.0 sawatdii-kha.info
 0.0.0.0 sb-apo-buster3.discover-news.tokyo
 0.0.0.0 sb-beauty-labo.ourpage.jp
 0.0.0.0 sb-beauty-popu.discover-news.tokyo
@@ -2048,6 +2059,7 @@
 0.0.0.0 www.anshindo-grp.co.jp
 0.0.0.0 www.antiques-and.com
 0.0.0.0 www.anytimefitness.co.jp
+0.0.0.0 www.aomist.com
 0.0.0.0 www.apg-aiplan.com
 0.0.0.0 www.apiadome.com
 0.0.0.0 www.apo-mjob.com
@@ -2712,6 +2724,7 @@
 0.0.0.0 www.koshin-ltd.jp
 0.0.0.0 www.kosugi-tire.com
 0.0.0.0 www.koushihaken.com
+0.0.0.0 www.kouya-tofu.com
 0.0.0.0 www.koyama.co.jp
 0.0.0.0 www.ksdh.or.jp
 0.0.0.0 www.ksos-web.jp
@@ -2886,6 +2899,7 @@
 0.0.0.0 www.narisup.com
 0.0.0.0 www.natureworld.jp
 0.0.0.0 www.navit-j.com
+0.0.0.0 www.ne.jp
 0.0.0.0 www.nec-lavie.jp
 0.0.0.0 www.necosuke.jp
 0.0.0.0 www.needs5050.com
