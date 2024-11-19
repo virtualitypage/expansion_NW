@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_domain.txt
 #
-# Last modified: 18 November 2024
+# Last modified: 19 November 2024
 #
 
 # [拒否リクエスト]
@@ -140,11 +140,14 @@
 0.0.0.0 cl4-cdn.origin-apple.com.akadns.net
 0.0.0.0 cl4.apple.com
 0.0.0.0 cstat-lb.apple.com.akadns.net
+0.0.0.0 experiments.apple.com
+0.0.0.0 gsas.apple.com
 0.0.0.0 gsas.idms-apple.com.akadns.net
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 identity.ess-apple.com.akadns.net
 0.0.0.0 identity.ess.apple.com
+0.0.0.0 init-kt.apple.com
 0.0.0.0 internalcheck.apple.com
 0.0.0.0 iphone-ld.apple.com
 0.0.0.0 iphone-ld.origin-apple.com.akadns.net
@@ -153,6 +156,7 @@
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 ocsp2-lb.apple.com.akadns.net
 0.0.0.0 pancake.apple.com
+0.0.0.0 push.apple.com
 0.0.0.0 sb.music.apple.com
 
 # [ByteDance (tracker)]
