@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 19 November 2024
+# Last modified: 20 November 2024
 #
 
 # [広告全般]
@@ -977,6 +977,7 @@
 0.0.0.0 kushio-miyako.owst.jp
 0.0.0.0 kuzira-mizu.com
 0.0.0.0 kyodonewsprwire.jp
+0.0.0.0 kyokuto-boueki.com
 0.0.0.0 kyomachiya-baikyaku.com
 0.0.0.0 kyomono-sampo.jp
 0.0.0.0 kyoto-hatoya.jp
@@ -1115,6 +1116,7 @@
 0.0.0.0 mens-cut.net
 0.0.0.0 mens-rinx.jp
 0.0.0.0 mens.datsumo-hikaku.jp
+0.0.0.0 mercure-hida-takayama.com
 0.0.0.0 meshop-jp.com
 0.0.0.0 metsa-hanno.com
 0.0.0.0 mfrt.rehouse.co.jp
@@ -1868,6 +1870,7 @@
 0.0.0.0 truckland.jp
 0.0.0.0 try-edge.infield95.com
 0.0.0.0 tsugunavi.funaisoken.co.jp
+0.0.0.0 tsuji-ad.jp
 0.0.0.0 tsujimoto-2007.com
 0.0.0.0 tsuna-ag.tsuna-ag.com
 0.0.0.0 tsunagaru-design.co.jp
@@ -2312,6 +2315,7 @@
 0.0.0.0 www.e-hapi.com
 0.0.0.0 www.e-hc.com
 0.0.0.0 www.e-kochoran.com
+0.0.0.0 www.e-mieux.co.jp
 0.0.0.0 www.e-sogi.com
 0.0.0.0 www.e-tix.jp
 0.0.0.0 www.e-ty.co.jp
@@ -3434,6 +3438,7 @@
 0.0.0.0 www.uob.com.sg
 0.0.0.0 www.uqwimax.jp
 0.0.0.0 www.ur-net.go.jp
+0.0.0.0 www.urabe-taikando.co.jp
 0.0.0.0 www.urasenke.or.jp
 0.0.0.0 www.urban-izumiku.co.jp
 0.0.0.0 www.urban-research.jp
