@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Accept_domain.txt
 #
-# Last modified: 17 November 2024
+# Last modified: 20 November 2024
 #
 
 # [許可リクエスト]
@@ -199,6 +199,8 @@
 @@||amp-api-edge.apps.apple.com
 @@||amp-api-updates.apps.apple.com
 @@||amp-api.apps.apple.com
+@@||amp-api.music.apple.com
+@@||apac-asia-courier-4.push-apple.com.akadns.net
 @@||api-glb-aapne1a.smoot.apple.com
 @@||api-glb-aapne1c.smoot.apple.com
 @@||api.smoot.apple.com
@@ -236,29 +238,48 @@
 @@||friend.gc.apple.com
 @@||gateway.icloud.com
 @@||gdmf.apple.com
+@@||gs-loc-new.ls-apple.com.akadns.net
+@@||gs-loc.ls-apple.com.akadns.net
 @@||gsa.apple.com
+@@||gsa.idms-apple.com.akadns.net
 @@||gsp*ssl.apple.com
 @@||gsp*ssl.ls.apple.com
 @@||gsp*ssl.ls.apple.com.akadns.net
+@@||gsp51-ssl-ds.ls-apple.com.akadns.net
+@@||gsp57-ssl-background.ls-apple.com.akadns.net
+@@||gsp57-ssl-background.ls.apple.com
+@@||gsp57-ssl-locus.ls.apple.com
+@@||gsp57-ssl-revgeo.ls.apple.com
 @@||gspe*ssl.ls-apple.com.akadns.net
 @@||gspe*ssl.ls.apple.com
 @@||gspe*ssl.ls.apple.com.edgesuite.net
+@@||guzzoni-apple-com.v.aaplimg.com
 @@||guzzoni.apple.com
 @@||humb.apple.com
 @@||inappcheck-lb.itunes-apple.com.akadns.net
 @@||inappcheck.itunes.apple.com
+@@||init-cdn-lb.ess-apple.com.akadns.net
 @@||init-cdn.itunes-apple.com.akadns.net
 @@||init.gc.apple.com
 @@||init.itunes.apple.com
+@@||init.push-apple.com.akadns.net
+@@||init.push.apple.com
 @@||iosapps.itunes.apple.com
+@@||ipcdn-lb.apple.com.akadns.net
+@@||ipcdn.apple.com
 @@||iphonesubmissions.apple.com
 @@||itunes.apple.com
+@@||js-cdn.music.apple.com
+@@||kt-prod.ess.apple.com
 @@||lcdn-locator.apple.com
+@@||mesu-cdn.apple.com.akadns.net
+@@||mesu-cdn.origin-apple.com.akadns.net
 @@||mesu.apple.com
 @@||ml.cdn-apple.com
 @@||musicstatus-apac-s.edge-itunes-apple.com.akadns.net
 @@||musicstatus.itunes.apple.com
 @@||ocsp2.apple.com
+@@||ontology.health.apple.com
 @@||p17-buy-lb.itunes-apple.com.akadns.net
 @@||p17-buy.itunes.apple.com
 @@||p34-buy-lb.itunes-apple.com.akadns.net
@@ -266,10 +287,16 @@
 @@||p34-buy.itunes.apple.com
 @@||pancake.cdn-apple.com.akadns.net
 @@||partiality.itunes.apple.com
+@@||pba.apple.com
+@@||pba0.apple.com
 @@||pd.itunes.apple.com
+@@||pds-init.ess.apple.com
+@@||pds.ess.apple.com
 @@||play.itunes.apple.com
 @@||profile.gc.apple.com
 @@||publicassets.cdn-apple.com
+@@||query.ess-apple.com.akadns.net
+@@||query.ess.apple.com
 @@||radio.itunes.apple.com
 @@||se-edge.itunes.apple.com
 @@||se.itunes.apple.com
@@ -288,6 +315,7 @@
 @@||swscan.apple.com
 @@||sync.itunes.apple.com
 @@||time.apple.com
+@@||time.asia.apple.com
 @@||token.safebrowsing.apple.com
 @@||updates.cdn-apple.com
 @@||upp.itunes.apple.com
