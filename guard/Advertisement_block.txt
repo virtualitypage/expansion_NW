@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 20 November 2024
+# Last modified: 21 November 2024
 #
 
 # [広告全般]
@@ -631,6 +631,7 @@
 0.0.0.0 hakabanogarou.jp
 0.0.0.0 hakkaexam.hakka.gov.tw
 0.0.0.0 hakoban.com
+0.0.0.0 hakoniwa-medical.com
 0.0.0.0 hal-tanteisya.com
 0.0.0.0 haleo.jp
 0.0.0.0 hamamatudietriseone.site
@@ -767,6 +768,7 @@
 0.0.0.0 iryou-ishi-hatarakikata.mhlw.go.jp
 0.0.0.0 ishi-career.jp
 0.0.0.0 ishikansyu.com
+0.0.0.0 islandjourney-wedding.jp
 0.0.0.0 islewhite.com
 0.0.0.0 issyou-nishinakajima.owst.jp
 0.0.0.0 istanbul.goturkiye.com
@@ -1487,6 +1489,7 @@
 0.0.0.0 sales-adventure.jp
 0.0.0.0 salon-de-alfurd.jp
 0.0.0.0 samurai-law.com
+0.0.0.0 sananacafe.ecforce.superb-hd.com
 0.0.0.0 sandesica.jp
 0.0.0.0 sanriku-jouban-umeemon.jp
 0.0.0.0 sanwakeigoukin.co.jp
@@ -2208,6 +2211,7 @@
 0.0.0.0 www.chipper.jp
 0.0.0.0 www.chitetsu.co.jp
 0.0.0.0 www.chogin-nishi.com
+0.0.0.0 www.choice-hotels.jp
 0.0.0.0 www.chugin.co.jp
 0.0.0.0 www.chuo-u.ac.jp
 0.0.0.0 www.cielia.com
@@ -2224,6 +2228,7 @@
 0.0.0.0 www.city.osaka.lg.jp
 0.0.0.0 www.ck-saikouchiku.go.jp
 0.0.0.0 www.clickkabu365.jp
+0.0.0.0 www.clinicfor.life
 0.0.0.0 www.clipstudio.net
 0.0.0.0 www.club-bs.jp
 0.0.0.0 www.club-t.com
@@ -2319,6 +2324,7 @@
 0.0.0.0 www.e-sogi.com
 0.0.0.0 www.e-tix.jp
 0.0.0.0 www.e-ty.co.jp
+0.0.0.0 www.ec-store.net
 0.0.0.0 www.eclipsetraveler.com
 0.0.0.0 www.ecnex.jp
 0.0.0.0 www.ecocity.jp
@@ -2408,6 +2414,7 @@
 0.0.0.0 www.furnituredome.jp
 0.0.0.0 www.furugioroshi.com
 0.0.0.0 www.furusato-tax.jp
+0.0.0.0 www.furusato-web.jp
 0.0.0.0 www.futakiya.com
 0.0.0.0 www.g-housen.co.jp
 0.0.0.0 www.g-search.or.jp
@@ -3244,6 +3251,7 @@
 0.0.0.0 www.sinfonia-recruit.com
 0.0.0.0 www.singaporeair.com
 0.0.0.0 www.sinto.co.jp
+0.0.0.0 www.sitepublis.net
 0.0.0.0 www.sizenshokken.co.jp
 0.0.0.0 www.skin-c.com
 0.0.0.0 www.sky-career.jp
@@ -3292,6 +3300,7 @@
 0.0.0.0 www.studio-1brood.com
 0.0.0.0 www.studioemu.info
 0.0.0.0 www.studyinkorea.go.kr
+0.0.0.0 www.succ.co.jp
 0.0.0.0 www.sugar.org
 0.0.0.0 www.sugimoto-k.com
 0.0.0.0 www.suiha.co.jp
