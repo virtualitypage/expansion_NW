@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_domain.txt
 #
-# Last modified: 19 November 2024
+# Last modified: 22 November 2024
 #
 
 # [拒否リクエスト]
@@ -128,6 +128,8 @@
 0.0.0.0 websdk.appsflyer.com
 
 # [apple (mobile analytics and spyware, telemetry and tracking)]
+0.0.0.0 aidc.apple.com
+0.0.0.0 aidc.origin-apple.com.akadns.net
 0.0.0.0 cds.apple.com
 0.0.0.0 cf.iadsdk.apple.com
 0.0.0.0 cl1-cdn-us.origin-apple.com.akadns.net
@@ -139,8 +141,12 @@
 0.0.0.0 cl3.apple.com
 0.0.0.0 cl4-cdn.origin-apple.com.akadns.net
 0.0.0.0 cl4.apple.com
+0.0.0.0 comm-cohort.ess.apple.com
+0.0.0.0 comm-main.ess.apple.com
 0.0.0.0 cstat-lb.apple.com.akadns.net
 0.0.0.0 experiments.apple.com
+0.0.0.0 fides-pol.apple.com
+0.0.0.0 gs-loc.apple.com
 0.0.0.0 gsas.apple.com
 0.0.0.0 gsas.idms-apple.com.akadns.net
 0.0.0.0 iadsdk.apple.com
@@ -148,6 +154,9 @@
 0.0.0.0 identity.ess-apple.com.akadns.net
 0.0.0.0 identity.ess.apple.com
 0.0.0.0 init-kt.apple.com
+0.0.0.0 init-p01md-lb.push-apple.com.akadns.net
+0.0.0.0 init-p01md.apple.com
+0.0.0.0 init.ess.apple.com
 0.0.0.0 internalcheck.apple.com
 0.0.0.0 iphone-ld.apple.com
 0.0.0.0 iphone-ld.origin-apple.com.akadns.net
