@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Accept_domain.txt
 #
-# Last modified: 20 November 2024
+# Last modified: 22 November 2024
 #
 
 # [許可リクエスト]
@@ -199,6 +199,8 @@
 @@||amp-api-edge.apps.apple.com
 @@||amp-api-updates.apps.apple.com
 @@||amp-api.apps.apple.com
+@@||amp-api.media-lb.apple.com.akadns.net
+@@||amp-api.media.apple.com
 @@||amp-api.music.apple.com
 @@||apac-asia-courier-4.push-apple.com.akadns.net
 @@||api-glb-aapne1a.smoot.apple.com
@@ -212,6 +214,8 @@
 @@||apps.apple.com
 @@||apptrailers-ssl.itunes.apple.com
 @@||apptrailers.itunes.apple.com
+@@||apse1-wps-prod.apple.com
+@@||background-weighted.ls4-apple.com.akadns.net
 @@||bag-cdn-akam.itunes-apple.com.akadns.net
 @@||bag-cdn-lb.itunes-apple.com.akadns.net
 @@||bag-cdn.itunes-apple.com.akadns.net
@@ -221,11 +225,15 @@
 @@||client-api.itunes.apple.com
 @@||cma.itunes-apple.com.akadns.net
 @@||cma.itunes.apple.com
+@@||config-chr.health.apple.com
 @@||configuration.apple.com
 @@||configuration.apple.com.akadns.net
+@@||configuration.ls.apple.com
+@@||courier-ab-vs.push-apple.com.akadns.net
 @@||courier-ab-vs.push.apple.com
 @@||croissant.cdn-apple.com
 @@||cstat.cdn-apple.com
+@@||device-config.pcms.apple.com
 @@||doh.dns.apple.com
 @@||doh.dns.apple.com.v.aaplimg.com
 @@||downloaddispatch.itunes.apple.com
@@ -298,6 +306,8 @@
 @@||query.ess-apple.com.akadns.net
 @@||query.ess.apple.com
 @@||radio.itunes.apple.com
+@@||sas-as1-pcms.apple.com
+@@||sas.pcms.apple.com
 @@||se-edge.itunes.apple.com
 @@||se.itunes.apple.com
 @@||se2-cdn.itunes-apple.com.akadns.net
@@ -308,23 +318,34 @@
 @@||speedysub-apac-s.edge-itunes-apple.com.akadns.net
 @@||speedysub.itunes.apple.com
 @@||static.cdn-apple.com
+@@||static.ess.apple.com
 @@||static.gc.apple.com
+@@||stocks-data-service.apple.com
+@@||stocks-data-service.lb-apple.com.akadns.net
+@@||stocks-edge.apple.com
 @@||su.itunes.apple.com
+@@||swallow-apple-com.v.aaplimg.com
+@@||swallow.apple.com
 @@||swcdn.apple.com
 @@||swdist.apple.com
+@@||swscan-cdn.apple.com.akadns.net
 @@||swscan.apple.com
 @@||sync.itunes.apple.com
 @@||time.apple.com
 @@||time.asia.apple.com
 @@||token.safebrowsing.apple.com
+@@||unlinkability.apple.com
 @@||updates.cdn-apple.com
 @@||upp.itunes.apple.com
+@@||us-sandbox-courier-4.push-apple.com.akadns.net
 @@||uts-api.itunes.apple.com
 @@||valid.apple.com
+@@||valid.origin-apple.com.akadns.net
 @@||weather-data.apple.com
 @@||weather-data.apple.com.akadns.net
 @@||weather-edge.apple.com
 @@||weatherkit.apple.com
+@@||wps.apple.com
 @@||www.apple.com
 @@||xp.apple.com
 @@||xp.itunes-apple.com
