@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 21 November 2024
+# Last modified: 22 November 2024
 #
 
 # [広告全般]
@@ -776,6 +776,7 @@
 0.0.0.0 itami-hagukumi.work
 0.0.0.0 itb-nanairo.tokyo
 0.0.0.0 ito-ec.jp
+0.0.0.0 iwateya-shop.jp
 0.0.0.0 iyec.itoyokado.co.jp
 0.0.0.0 izumozine.jp
 0.0.0.0 j-prime.jp
@@ -973,6 +974,7 @@
 0.0.0.0 kurashigoto.hokkaido.jp
 0.0.0.0 kurashinobenriyasan.com
 0.0.0.0 kuri.shirokawa.jp
+0.0.0.0 kurono-namba.com
 0.0.0.0 kurubell.com
 0.0.0.0 kurumeshi-regionalcareer.com
 0.0.0.0 kusakariki.com
@@ -1201,6 +1203,7 @@
 0.0.0.0 nanatsuya-radical-yasumitsu.sai-soku.jp
 0.0.0.0 nannyme.love
 0.0.0.0 nara.jr-central.co.jp
+0.0.0.0 natalie.mu
 0.0.0.0 natgeo.nikkeibp.co.jp
 0.0.0.0 naturalchange.jp
 0.0.0.0 navi.jobpal.jp
@@ -1448,6 +1451,7 @@
 0.0.0.0 rinri-project.jp
 0.0.0.0 riseisha.ed.jp
 0.0.0.0 risk.lexisnexis.co.uk
+0.0.0.0 rita-cloud.co.jp
 0.0.0.0 rittosci.com
 0.0.0.0 rivertrain-forest.click
 0.0.0.0 rlx.jp
@@ -1910,6 +1914,7 @@
 0.0.0.0 uridoki.net
 0.0.0.0 urikko.com
 0.0.0.0 urutsuya.toabio.co.jp
+0.0.0.0 usa-hit.com
 0.0.0.0 usagi-online.com
 0.0.0.0 utattemita-collection.jp
 0.0.0.0 vda.afkjourney.com
@@ -2013,6 +2018,7 @@
 0.0.0.0 www.accenture.com
 0.0.0.0 www.aceeatserve.com
 0.0.0.0 www.achilles.jp
+0.0.0.0 www.activpayroll.com
 0.0.0.0 www.actus-tenjin.com
 0.0.0.0 www.aderans.co.jp
 0.0.0.0 www.adgraphy.jp
@@ -2423,6 +2429,7 @@
 0.0.0.0 www.galu-shizuoka.jp
 0.0.0.0 www.gan-kisho.novartis.co.jp
 0.0.0.0 www.gap.co.jp
+0.0.0.0 www.gardenhotels.co.jp
 0.0.0.0 www.garmin.co.jp
 0.0.0.0 www.gassaferegister.co.uk
 0.0.0.0 www.gatsby.jp
