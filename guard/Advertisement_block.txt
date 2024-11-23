@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 22 November 2024
+# Last modified: 23 November 2024
 #
 
 # [広告全般]
@@ -159,6 +159,7 @@
 0.0.0.0 awaraonsenyuraku.jp
 0.0.0.0 axa.a-ehoken.com
 0.0.0.0 axia-expo.nikkan.co.jp
+0.0.0.0 ayame-fudousan.com
 0.0.0.0 az-art.net
 0.0.0.0 azaleanet.or.jp
 0.0.0.0 azu-l.com
@@ -310,6 +311,7 @@
 0.0.0.0 comorebi-camp.jp
 0.0.0.0 company.rpahack.tech
 0.0.0.0 conosur-lovers.jp
+0.0.0.0 consul-data-bank.com
 0.0.0.0 content.rview.com
 0.0.0.0 continental-automotive.com
 0.0.0.0 continentaltire.com
@@ -730,6 +732,7 @@
 0.0.0.0 id.asics.com
 0.0.0.0 id.seikowatches.com
 0.0.0.0 idea.kawahara.ac.jp
+0.0.0.0 ie-van.com
 0.0.0.0 iei.jp
 0.0.0.0 ifdesign.com
 0.0.0.0 igolfstudio.jp
@@ -1051,6 +1054,7 @@
 0.0.0.0 lp.mediacloudtech.com
 0.0.0.0 lp.merpay.com
 0.0.0.0 lp.nuviasmiles.com
+0.0.0.0 lp.resortbaito-dive.com
 0.0.0.0 lp.sokuwork.com
 0.0.0.0 lp.studyinternational.com
 0.0.0.0 lp.zipair.net
@@ -1197,6 +1201,7 @@
 0.0.0.0 nagoya-camera.mikawa.ne.jp
 0.0.0.0 nagoya-platen.nikkan.co.jp
 0.0.0.0 nagoya.ace-clinic.com
+0.0.0.0 naiteikun-corp.com
 0.0.0.0 naka4.com
 0.0.0.0 nakanodental-cl.com
 0.0.0.0 nakka-art.jp
@@ -2229,6 +2234,7 @@
 0.0.0.0 www.city-osaka-kenko.jp
 0.0.0.0 www.city.hachinohe.aomori.jp
 0.0.0.0 www.city.hiratsuka.kanagawa.jp
+0.0.0.0 www.city.kochi.kochi.jp
 0.0.0.0 www.city.matsuyama.ehime.jp
 0.0.0.0 www.city.nagoya.jp
 0.0.0.0 www.city.osaka.lg.jp
@@ -2348,6 +2354,7 @@
 0.0.0.0 www.elegance-cosmetics.com
 0.0.0.0 www.elleair.jp
 0.0.0.0 www.emberstoria.jp
+0.0.0.0 www.emblem-recruit.com
 0.0.0.0 www.enecho.meti.go.jp
 0.0.0.0 www.enemaru.com
 0.0.0.0 www.enhousing.jp
@@ -2624,6 +2631,7 @@
 0.0.0.0 www.jal.co.jp
 0.0.0.0 www.janfusun.com.tw
 0.0.0.0 www.japan-it.jp
+0.0.0.0 www.japandrone-kansai.com
 0.0.0.0 www.japanenergyevent.com
 0.0.0.0 www.jcb.jp
 0.0.0.0 www.jcom.co.jp
@@ -2676,6 +2684,7 @@
 0.0.0.0 www.kaitori-daikichi.jp
 0.0.0.0 www.kaitori-massan.com
 0.0.0.0 www.kaitoritop.jp
+0.0.0.0 www.kamine.co.jp
 0.0.0.0 www.kanagawa-subaru.com
 0.0.0.0 www.kanagawa-u.ac.jp
 0.0.0.0 www.kango-roo.com
@@ -2900,6 +2909,7 @@
 0.0.0.0 www.my9.jp
 0.0.0.0 www.myagentla.com
 0.0.0.0 www.myremi.com
+0.0.0.0 www.myspec.com
 0.0.0.0 www.mystino.jp
 0.0.0.0 www.nagasaki-ichiba.com
 0.0.0.0 www.nagasakistadiumcity.com
