@@ -4,20 +4,40 @@
 # References: querylog
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Restricted_domain.txt
 #
-# Last modified: 16 November 2024
+# Last modified: 18 November 2024
 #
 
 # [Restricted Domain]
-@@/edge-[1-9][0-9][0-9]-[1-9][0-9][0-9]-[1-9][0-9][0-9]-[1-9][0-9][0-9].mirrativ.com/^$client=192.168.8.117
-@@/p[1-9][0-9]-sign-sg.tiktokcdn.com.lan/^$client=192.168.8.117
-@@/p[1-9][0-9]-sign-sg.tiktokcdn.com/^$client=192.168.8.117
-@@/p[1-9][0-9]-sign-useast2a.tiktokcdn.com.lan/^$client=192.168.8.117
-@@/p[1-9][0-9]-sign-useast2a.tiktokcdn.com/^$client=192.168.8.117
-@@/p[1-9][0-9]-sign-va.tiktokcdn.com/^$client=192.168.8.117
-@@/p[1-9][0-9].tiktokcdn.com/^$client=192.168.8.117
-@@/v[1-9][0-9]-jp.tiktokcdn.com.lan/^$client=192.168.8.117
-@@/v[1-9][0-9]-jp.tiktokcdn.com/^$client=192.168.8.117
-@@/v[1-9][0-9].tiktokcdn.com/^$client=192.168.8.117
+@@||edge-*.mirrativ.com^$client=192.168.8.117
+@@||lf*-geckocdn.tiktokcdn.com^$client=192.168.8.117
+@@||lf*-pitayacdn.tiktokcdn.com^$client=192.168.8.117
+@@||lf*-tiktok-im-scp.tiktokcdn.com^$client=192.168.8.117
+@@||lf*-tos-files.tiktokcdn.com^$client=192.168.8.117
+@@||p*-music-useast8.tiktokcdn-us.com^$client=192.168.8.117
+@@||p*-pu-sign-ie.tiktokcdn-eu.com^$client=192.168.8.117
+@@||p*-pu-sign-no.tiktokcdn-eu.com^$client=192.168.8.117
+@@||p*-pu-sign-useast8.tiktokcdn-us.com^$client=192.168.8.117
+@@||p*-sign-sg.tiktokcdn.com.lan^$client=192.168.8.117
+@@||p*-sign-sg.tiktokcdn.com^$client=192.168.8.117
+@@||p*-sign-useast2a.tiktokcdn.com.lan^$client=192.168.8.117
+@@||p*-sign-useast2a.tiktokcdn.com^$client=192.168.8.117
+@@||p*-sign-va.tiktokcdn.com^$client=192.168.8.117
+@@||p*-tiktok-dm-sticker-euttp-sign-useast2a.ibyteimg.com^$client=192.168.8.117
+@@||p*-tiktok-dm-sticker-sign-sg.ibyteimg.com^$client=192.168.8.117
+@@||p*-tiktok-dm-sticker-sign-va.ibyteimg.com^$client=192.168.8.117
+@@||p*-tiktokyoyo-va.tiktokcdn.com^$client=192.168.8.117
+@@||p*-ug-incentive-va.tiktokcdn.com.lan^$client=192.168.8.117
+@@||p*-ug-incentive-va.tiktokcdn.com^$client=192.168.8.117
+@@||p*.tiktokcdn.com^$client=192.168.8.117
+@@||sf*-geckocdn.tiktokcdn.com^$client=192.168.8.117
+@@||sf*-ies-music.tiktokcdn.com^$client=192.168.8.117
+@@||sf*m-geckocdn.tiktokcdn.com^$client=192.168.8.117
+@@||tnc*-normal-my.tiktokv.com^$client=192.168.8.117
+@@||v*-cla.tiktokcdn.com^$client=192.168.8.117
+@@||v*-coin.tiktokcdn.com^$client=192.168.8.117
+@@||v*-jp.tiktokcdn.com.lan^$client=192.168.8.117
+@@||v*-jp.tiktokcdn.com^$client=192.168.8.117
+@@||v*.tiktokcdn.com^$client=192.168.8.117
 @@||ai-api.simeji.me^$client=192.168.8.117
 @@||aityping.simeji.me^$client=192.168.8.117
 @@||api-pinterest-com-eip-akadns-net.pinterest.com^$client=192.168.8.117
@@ -30,6 +50,7 @@
 @@||applogsg.matrix.netease.com^$client=192.168.8.117
 @@||audiostatlog.cc.easebar.com^$client=192.168.8.117
 @@||buddy.simeji.me^$client=192.168.8.117
+@@||c2pa-cloud-server-sg.tiktokv.com^$client=192.168.8.117
 @@||cdn.dev.mirrativ.com^$client=192.168.8.117
 @@||cdn.mirrativ.com^$client=192.168.8.117
 @@||clog.mirrativ.com.lan^$client=192.168.8.117
@@ -38,6 +59,7 @@
 @@||data-detect.nie.easebar.com^$client=192.168.8.117
 @@||dns.update.easebar.com^$client=192.168.8.117
 @@||drpf-h55na.proxima.nie.easebar.com^$client=192.168.8.117
+@@||feedback-sg.tiktokv.com^$client=192.168.8.117
 @@||g0-06.gsf.easebar.com^$client=192.168.8.117
 @@||g0.gsf.easebar.com^$client=192.168.8.117
 @@||gate.push.x.easebar.com^$client=192.168.8.117
@@ -52,6 +74,8 @@
 @@||impression.update.easebar.com^$client=192.168.8.117
 @@||inneraudioms.cc.easebar.com^$client=192.168.8.117
 @@||jp.pinterest.com^$client=192.168.8.117
+@@||lf-main-gecko-source.tiktokcdn.com^$client=192.168.8.117
+@@||lf-videocut-ug-hybird.tiktokcdn.com^$client=192.168.8.117
 @@||mcount.easebar.com^$client=192.168.8.117
 @@||mcs-sg.tiktokv.com^$client=192.168.8.117
 @@||mgbsdkjp.matrix.easebar.com^$client=192.168.8.117
@@ -87,6 +111,8 @@
 @@||s.pinimg.com.lan^$client=192.168.8.117
 @@||s.pinimg.com^$client=192.168.8.117
 @@||sdk-os.mpsdk.easebar.com^$client=192.168.8.117
+@@||sf-i18n-resources.tiktokcdn.com.ttdns2.com^$client=192.168.8.117
+@@||sf-static.tiktokcdn.com^$client=192.168.8.117
 @@||share.easebar.com^$client=192.168.8.117
 @@||sigma-buriedpoint-opd.proxima.nie.easebar.com^$client=192.168.8.117
 @@||sigma-pharosv3-pathn.proxima.nie.easebar.com^$client=192.168.8.117
@@ -97,12 +123,15 @@
 @@||static.easebar.com^$client=192.168.8.117
 @@||statis.simeji.me^$client=192.168.8.117
 @@||survey-ovs.fp.ps.easebar.com^$client=192.168.8.117
+@@||tnc-boot.tiktokv.com^$client=192.168.8.117
+@@||tos-quic-kix1b.tiktokcdn.com^$client=192.168.8.117
 @@||translate.mpsdk.easebar.com^$client=192.168.8.117
 @@||twicomi.com^$client=192.168.8.117
 @@||twiman.net^$client=192.168.8.117
 @@||unisdk.proxima.nie.easebar.com^$client=192.168.8.117
 @@||unisdk.update.easebar.com^$client=192.168.8.117
 @@||v16-webapp-prime.tiktok.com^$client=192.168.8.117
+@@||webcast.tiktok.com.ttdns2.com^$client=192.168.8.117
 @@||who.nie.easebar.com^$client=192.168.8.117
 @@||whoami.nie.netease.com^$client=192.168.8.117
 @@||ws.speed.mirrativ.com^$client=192.168.8.117
