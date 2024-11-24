@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 23 November 2024
+# Last modified: 24 November 2024
 #
 
 # [広告全般]
@@ -62,6 +62,7 @@
 0.0.0.0 afilab.jp
 0.0.0.0 aflart.net
 0.0.0.0 aflart8739.com
+0.0.0.0 agent.chizaijuku.com
 0.0.0.0 agfblendy-campaign.jp
 0.0.0.0 agri.mynavi.jp
 0.0.0.0 ahamo.com
@@ -1097,6 +1098,7 @@
 0.0.0.0 mangasouko-shop.jp
 0.0.0.0 manulife-gaika.jp
 0.0.0.0 maquia.hpplus.jp
+0.0.0.0 marineworld.hiyoriyama.co.jp
 0.0.0.0 maruhan-lp.net
 0.0.0.0 maruhome.jp
 0.0.0.0 marumugi.shop
@@ -1452,6 +1454,7 @@
 0.0.0.0 reuse-tenshoku.com
 0.0.0.0 revecan.com
 0.0.0.0 richeprivatesalon.com
+0.0.0.0 rikon.olive-law.jp
 0.0.0.0 ringraph.weddingpark.net
 0.0.0.0 rinri-project.jp
 0.0.0.0 riseisha.ed.jp
@@ -3399,6 +3402,7 @@
 0.0.0.0 www.tokiomarineam.co.jp
 0.0.0.0 www.tokiwa-electric-fa.com
 0.0.0.0 www.toko-corp.co.jp
+0.0.0.0 www.tokushimaru.jp
 0.0.0.0 www.tokuteigino.work
 0.0.0.0 www.tokuyama-sc.jp
 0.0.0.0 www.tokyo-aff.or.jp
