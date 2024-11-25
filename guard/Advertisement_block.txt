@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 24 November 2024
+# Last modified: 25 November 2024
 #
 
 # [広告全般]
@@ -53,6 +53,7 @@
 0.0.0.0 adacotech.co.jp
 0.0.0.0 adaptermug.com
 0.0.0.0 adebis.basefood.co.jp
+0.0.0.0 adfamworks.com
 0.0.0.0 admission-info.tokyo-kasei-univ.jp
 0.0.0.0 ads.kaipoke.biz
 0.0.0.0 adt.rokunomiya.jp
@@ -181,6 +182,7 @@
 0.0.0.0 beacon.sp.gmossp-sp.jp
 0.0.0.0 beautiful-life-style.com
 0.0.0.0 beavers.co.jp
+0.0.0.0 beira.shop
 0.0.0.0 belinda-clinic.site
 0.0.0.0 belindaclinic-shinjuku.net
 0.0.0.0 bengoshihoken-zero.jp
@@ -458,6 +460,7 @@
 0.0.0.0 episodebrick.com
 0.0.0.0 eplan.jp
 0.0.0.0 eplus.jp
+0.0.0.0 eretz.jp
 0.0.0.0 es4.easyerin.top
 0.0.0.0 esnet-tax.com
 0.0.0.0 estateliquidation-jp.life
@@ -899,6 +902,7 @@
 0.0.0.0 kasuyashika.com
 0.0.0.0 katene.chuden.jp
 0.0.0.0 katsubedc-nanmori.com
+0.0.0.0 katsuo-gamouyonchome.owst.jp
 0.0.0.0 kawanotajimaya.com
 0.0.0.0 kayo-corp.co.jp
 0.0.0.0 kaza-design.com
@@ -993,6 +997,7 @@
 0.0.0.0 kyoto.brightonhotels.co.jp
 0.0.0.0 kyoto.vc-dealer.jp
 0.0.0.0 kyotofu-shoene.jp
+0.0.0.0 kyotoichiyama.shop-pro.jp
 0.0.0.0 kyotomk-recruit.jp
 0.0.0.0 kyotoseika-nara-shaken.com
 0.0.0.0 kyudaigakken-realestate.com
@@ -1035,6 +1040,7 @@
 0.0.0.0 live-plus-do-style.jp
 0.0.0.0 liveviewing.jp
 0.0.0.0 loans.life
+0.0.0.0 lohasplaza.com
 0.0.0.0 longterm.kikagaku.ai
 0.0.0.0 lovelyhall.com
 0.0.0.0 lp-ai.ccreb.jp
@@ -1635,6 +1641,7 @@
 0.0.0.0 shizuclear.jp
 0.0.0.0 shizuoka-norin-u.ac.jp
 0.0.0.0 shizuoka-onpaku.jp
+0.0.0.0 sho.benesse.co.jp
 0.0.0.0 shoesiland.com
 0.0.0.0 shoka-stick.jp
 0.0.0.0 shop-list.com
@@ -1924,6 +1931,7 @@
 0.0.0.0 urutsuya.toabio.co.jp
 0.0.0.0 usa-hit.com
 0.0.0.0 usagi-online.com
+0.0.0.0 ut-studyroom.com
 0.0.0.0 utattemita-collection.jp
 0.0.0.0 vda.afkjourney.com
 0.0.0.0 vegasvegas-recruit.com
@@ -2221,6 +2229,7 @@
 0.0.0.0 www.check-roudou.mhlw.go.jp
 0.0.0.0 www.cheer-sec.co.jp
 0.0.0.0 www.chen-mama.com.tw
+0.0.0.0 www.chidoriya.co.jp
 0.0.0.0 www.chintai-raymond.jp
 0.0.0.0 www.chipper.jp
 0.0.0.0 www.chitetsu.co.jp
@@ -2352,6 +2361,7 @@
 0.0.0.0 www.ehime-ben.or.jp
 0.0.0.0 www.ehime-shogai.net
 0.0.0.0 www.eines.jp
+0.0.0.0 www.eko-pr.com
 0.0.0.0 www.eldenring.jp
 0.0.0.0 www.elder.jeed.go.jp
 0.0.0.0 www.elegance-cosmetics.com
@@ -2883,6 +2893,7 @@
 0.0.0.0 www.mizuho-re.co.jp
 0.0.0.0 www.mobit.ne.jp
 0.0.0.0 www.mochihada.co.jp
+0.0.0.0 www.moco.or.jp
 0.0.0.0 www.mod.go.jp
 0.0.0.0 www.mof.go.jp
 0.0.0.0 www.moj.go.jp
@@ -3396,6 +3407,7 @@
 0.0.0.0 www.toabio.co.jp
 0.0.0.0 www.tobu.co.jp
 0.0.0.0 www.tochigi-daihatsu.co.jp
+0.0.0.0 www.tohnoseikei.com
 0.0.0.0 www.toitsutest-koukou.com
 0.0.0.0 www.tokairadio.co.jp
 0.0.0.0 www.toki-iro.jp
