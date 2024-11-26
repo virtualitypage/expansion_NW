@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 25 November 2024
+# Last modified: 26 November 2024
 #
 
 # [広告全般]
@@ -246,6 +246,7 @@
 0.0.0.0 campaign.whitehouse.co.jp
 0.0.0.0 campaign.wild1.co.jp
 0.0.0.0 campanel.jp
+0.0.0.0 campanola.jp
 0.0.0.0 camparijapan.com
 0.0.0.0 can-yuu.com
 0.0.0.0 canbadge-arc.com
@@ -445,6 +446,7 @@
 0.0.0.0 en-ambi.com
 0.0.0.0 en-gage.net
 0.0.0.0 en.sungrowpower.com
+0.0.0.0 enahome.co.jp
 0.0.0.0 enemacoffeereview.com
 0.0.0.0 eneos-cl.com
 0.0.0.0 energy-kyoiku.meti.go.jp
@@ -569,6 +571,7 @@
 0.0.0.0 gendai.media
 0.0.0.0 gentosha-go.com
 0.0.0.0 geo.8984.jp
+0.0.0.0 gero-present.com
 0.0.0.0 getnews.jp
 0.0.0.0 ghibli-park.jp
 0.0.0.0 gifunavi.jp
@@ -586,6 +589,7 @@
 0.0.0.0 gmobb.jp
 0.0.0.0 gng.thebase.in
 0.0.0.0 go-makesense.com
+0.0.0.0 go-taiwan.net
 0.0.0.0 go.1edisource.com
 0.0.0.0 go.integralads.com
 0.0.0.0 go.persol-group.co.jp
@@ -597,6 +601,7 @@
 0.0.0.0 gofund.co.jp
 0.0.0.0 gojou-lawfirm.com
 0.0.0.0 gol-win.com
+0.0.0.0 gold.tanaka.co.jp
 0.0.0.0 golden.breeders.jp
 0.0.0.0 goldplaza.jp
 0.0.0.0 goldteethusa.com
@@ -1288,6 +1293,7 @@
 0.0.0.0 ohbacorp.com
 0.0.0.0 ohka-kobe.owst.jp
 0.0.0.0 ohnoseijyo.com
+0.0.0.0 ohtani-shotime.com
 0.0.0.0 oishii-izumo.jp
 0.0.0.0 oka-d-art.com
 0.0.0.0 okaido.clare.jp
@@ -1348,6 +1354,7 @@
 0.0.0.0 pc-seven.co.jp
 0.0.0.0 pcareer.m3.com
 0.0.0.0 pcrepair-chiba.com
+0.0.0.0 pengguin.thebase.in
 0.0.0.0 pengy-magic.penguin-colony.net
 0.0.0.0 persol-hrpartners.co.jp
 0.0.0.0 personal.canon.jp
@@ -1392,6 +1399,7 @@
 0.0.0.0 present.baby-calendar.com
 0.0.0.0 price-energy.com
 0.0.0.0 pride-fish.jp
+0.0.0.0 prime-career.jp
 0.0.0.0 pro.gnavi.co.jp
 0.0.0.0 proaceworks.com
 0.0.0.0 product.kadokawa.co.jp
@@ -2047,6 +2055,7 @@
 0.0.0.0 www.aeonsportsclub.jp
 0.0.0.0 www.aero.co.jp
 0.0.0.0 www.afgc.co.jp
+0.0.0.0 www.afj.or.jp
 0.0.0.0 www.aflac.co.jp
 0.0.0.0 www.afr-web.co.jp
 0.0.0.0 www.agentx.so
@@ -2441,6 +2450,7 @@
 0.0.0.0 www.furugioroshi.com
 0.0.0.0 www.furusato-tax.jp
 0.0.0.0 www.furusato-web.jp
+0.0.0.0 www.fushioukaku.co.jp
 0.0.0.0 www.futakiya.com
 0.0.0.0 www.g-housen.co.jp
 0.0.0.0 www.g-search.or.jp
@@ -2569,6 +2579,7 @@
 0.0.0.0 www.honda.co.jp
 0.0.0.0 www.hondaism.com
 0.0.0.0 www.horidashi.jp
+0.0.0.0 www.hoshino-oto.jp
 0.0.0.0 www.hotel-ichii.co.jp
 0.0.0.0 www.hotpepper.jp
 0.0.0.0 www.hotstaff.co.jp
@@ -3362,6 +3373,7 @@
 0.0.0.0 www.takarakuji-official.jp
 0.0.0.0 www.takashimaya-global.com
 0.0.0.0 www.takashimaya.co.jp
+0.0.0.0 www.takeheiro.com
 0.0.0.0 www.takinogawa.ed.jp
 0.0.0.0 www.tanaka-denki.co.jp
 0.0.0.0 www.tanakagakushukai.com
@@ -3499,6 +3511,7 @@
 0.0.0.0 www.vivastudiosalon.com
 0.0.0.0 www.voat-voice.com
 0.0.0.0 www.voat.co.jp
+0.0.0.0 www.voc.ai
 0.0.0.0 www.vocalmaster.jp
 0.0.0.0 www.voyager.co.jp
 0.0.0.0 www.w-nexco.co.jp
