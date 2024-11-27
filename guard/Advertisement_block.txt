@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 26 November 2024
+# Last modified: 27 November 2024
 #
 
 # [広告全般]
@@ -994,6 +994,7 @@
 0.0.0.0 kushio-miyako.owst.jp
 0.0.0.0 kuzira-mizu.com
 0.0.0.0 kyodonewsprwire.jp
+0.0.0.0 kyokamaboko.co.jp
 0.0.0.0 kyokuto-boueki.com
 0.0.0.0 kyomachiya-baikyaku.com
 0.0.0.0 kyomono-sampo.jp
@@ -1114,6 +1115,7 @@
 0.0.0.0 maruhome.jp
 0.0.0.0 marumugi.shop
 0.0.0.0 matsue.clare.jp
+0.0.0.0 matsui-express-job.jp
 0.0.0.0 matsuyama.citroen-dealer.jp
 0.0.0.0 mayutan.com
 0.0.0.0 mb-hakata.com
@@ -2211,6 +2213,7 @@
 0.0.0.0 www.car-byebuy.com
 0.0.0.0 www.carappo-official.com
 0.0.0.0 www.cardrush-bs.jp
+0.0.0.0 www.carecom.jp
 0.0.0.0 www.careerlinkfactory.co.jp
 0.0.0.0 www.caresoku.com
 0.0.0.0 www.carsensor.net
@@ -2667,6 +2670,7 @@
 0.0.0.0 www.jhf.go.jp
 0.0.0.0 www.jhl.co.jp
 0.0.0.0 www.jimotohome.jp
+0.0.0.0 www.jinken-library.jp
 0.0.0.0 www.jinrayworld.com
 0.0.0.0 www.jishin-hoken.jp
 0.0.0.0 www.jitbox.co.jp
