@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 27 November 2024
+# Last modified: 28 November 2024
 #
 
 # [広告全般]
@@ -299,6 +299,7 @@
 0.0.0.0 closet.eiwa-uniform.com
 0.0.0.0 cloud.info.asics.com
 0.0.0.0 clta.jp
+0.0.0.0 clubping.jp
 0.0.0.0 cms.racms.jp
 0.0.0.0 coachtech.site
 0.0.0.0 coatjapan.com
@@ -797,6 +798,7 @@
 0.0.0.0 ja.couponpac.com
 0.0.0.0 ja.popsilla.com
 0.0.0.0 jackrussell.breeders.jp
+0.0.0.0 jafplaza.com
 0.0.0.0 japan-food.guide
 0.0.0.0 japan-staff.jp
 0.0.0.0 japanese.visitkorea.or.kr
@@ -953,6 +955,7 @@
 0.0.0.0 kobe.dsautomobiles-dealer.jp
 0.0.0.0 kobekizuna.hp.peraichi.com
 0.0.0.0 kobetsushido-shibuya.com
+0.0.0.0 kochi-be-farmer.jp
 0.0.0.0 kochi-kenkochallenge.jp
 0.0.0.0 koharubiyoricafe.jimdo.com
 0.0.0.0 kojinsoken.co.jp
@@ -1682,6 +1685,7 @@
 0.0.0.0 shougai-nenkin119.com
 0.0.0.0 shumei.ac.jp
 0.0.0.0 shunsai-tateyama.com
+0.0.0.0 shunsentanbou.pref.miyagi.jp
 0.0.0.0 side-kom.com
 0.0.0.0 sienca.jp
 0.0.0.0 sig-navi.com
@@ -2214,6 +2218,7 @@
 0.0.0.0 www.carappo-official.com
 0.0.0.0 www.cardrush-bs.jp
 0.0.0.0 www.carecom.jp
+0.0.0.0 www.career-adv.jp
 0.0.0.0 www.careerlinkfactory.co.jp
 0.0.0.0 www.caresoku.com
 0.0.0.0 www.carsensor.net
@@ -2744,6 +2749,7 @@
 0.0.0.0 www.kinoshita-koumuten.co.jp
 0.0.0.0 www.kinsoku.ac.jp
 0.0.0.0 www.kintetsu.co.jp
+0.0.0.0 www.kinuami.com
 0.0.0.0 www.kioicho.jp
 0.0.0.0 www.kirishima.co.jp
 0.0.0.0 www.kirizai.jp
@@ -2882,6 +2888,7 @@
 0.0.0.0 www.mignon-eyelash-recruit.com
 0.0.0.0 www.miinhair.com
 0.0.0.0 www.mikahara.com
+0.0.0.0 www.miki-japan.com
 0.0.0.0 www.miki-re.com
 0.0.0.0 www.mikimoto.com
 0.0.0.0 www.milk-soft.com
