@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 28 November 2024
+# Last modified: 29 November 2024
 #
 
 # [広告全般]
@@ -242,6 +242,7 @@
 0.0.0.0 ca.nihon-trim.co.jp
 0.0.0.0 cafe-inn-hitoiki.com
 0.0.0.0 calendo365.com
+0.0.0.0 camp-fire.jp
 0.0.0.0 campaign.nishigaki-group.com
 0.0.0.0 campaign.whitehouse.co.jp
 0.0.0.0 campaign.wild1.co.jp
@@ -903,6 +904,7 @@
 0.0.0.0 kao-welcia.campar.jp
 0.0.0.0 karadak.com
 0.0.0.0 karakubuy.com
+0.0.0.0 karen-kyoto.com
 0.0.0.0 karte.io
 0.0.0.0 kascogolf.com
 0.0.0.0 kashiyama1927.jp
@@ -1079,6 +1081,7 @@
 0.0.0.0 lps.plarium.com
 0.0.0.0 lucuaosaka-recruit.jp
 0.0.0.0 lululun.com
+0.0.0.0 luna-ashiya.com
 0.0.0.0 lussoshioya-lp.sanyo-kaigo.net
 0.0.0.0 luvlit.jp
 0.0.0.0 luxsfront.com
@@ -1267,6 +1270,7 @@
 0.0.0.0 nill.jp
 0.0.0.0 ninja-takayama.com
 0.0.0.0 ninjakitchen.co.uk
+0.0.0.0 nipo-plus-doc.sndbox.jp
 0.0.0.0 nipponham-cp.com
 0.0.0.0 nishispo.nishinippon.co.jp
 0.0.0.0 nittobest-online.net
@@ -1873,6 +1877,7 @@
 0.0.0.0 tokyo-medical.jp
 0.0.0.0 tokyo-seminar-studio.com
 0.0.0.0 tokyoshigoto-young.jp
+0.0.0.0 tom-hair.com
 0.0.0.0 toma-toma.owst.jp
 0.0.0.0 tomei-riso.jp
 0.0.0.0 tomei.c-nexco.co.jp
@@ -3564,6 +3569,7 @@
 0.0.0.0 www.yamada-denkiweb.com
 0.0.0.0 www.yamaha-motor.co.jp
 0.0.0.0 www.yamaha.co.jp
+0.0.0.0 www.yamajitsu.co.jp
 0.0.0.0 www.yamano-music.co.jp
 0.0.0.0 www.yamato-u.ac.jp
 0.0.0.0 www.yane-takumi.net
