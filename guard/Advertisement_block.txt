@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 29 November 2024
+# Last modified: 30 November 2024
 #
 
 # [広告全般]
@@ -743,6 +743,7 @@
 0.0.0.0 id.asics.com
 0.0.0.0 id.seikowatches.com
 0.0.0.0 idea.kawahara.ac.jp
+0.0.0.0 idex.bz
 0.0.0.0 ie-van.com
 0.0.0.0 iei.jp
 0.0.0.0 ifdesign.com
@@ -782,6 +783,7 @@
 0.0.0.0 iryou-ishi-hatarakikata.mhlw.go.jp
 0.0.0.0 ishi-career.jp
 0.0.0.0 ishikansyu.com
+0.0.0.0 isj-enterprise.com
 0.0.0.0 islandjourney-wedding.jp
 0.0.0.0 islewhite.com
 0.0.0.0 issyou-nishinakajima.owst.jp
@@ -897,6 +899,7 @@
 0.0.0.0 kan-dora.com
 0.0.0.0 kanbare.com
 0.0.0.0 kando.tv
+0.0.0.0 kanehachi-soba.stores.jp
 0.0.0.0 kanekaq10pr.com
 0.0.0.0 kankomirai-ouen.jp
 0.0.0.0 kansai-boatshow.jp
@@ -1355,6 +1358,7 @@
 0.0.0.0 paiza.jp
 0.0.0.0 panasonic.jp
 0.0.0.0 papillon.breeders.jp
+0.0.0.0 paramount.jp
 0.0.0.0 parks2.bandainamco-am.co.jp
 0.0.0.0 part2.money-yomiuri.com
 0.0.0.0 party-maker.studio.site
@@ -1367,6 +1371,7 @@
 0.0.0.0 pengy-magic.penguin-colony.net
 0.0.0.0 persol-hrpartners.co.jp
 0.0.0.0 personal.canon.jp
+0.0.0.0 pestalozzi-tech.com
 0.0.0.0 petbakery.jp
 0.0.0.0 petelect.jp
 0.0.0.0 petfoods.shop
@@ -1913,6 +1918,7 @@
 0.0.0.0 tsugunavi.funaisoken.co.jp
 0.0.0.0 tsuji-ad.jp
 0.0.0.0 tsujimoto-2007.com
+0.0.0.0 tsujiyo.jp
 0.0.0.0 tsuna-ag.tsuna-ag.com
 0.0.0.0 tsunagaru-design.co.jp
 0.0.0.0 turboterminaltractors.com
@@ -2395,6 +2401,7 @@
 0.0.0.0 www.enhousing.jp
 0.0.0.0 www.enoteca.co.jp
 0.0.0.0 www.enshu-shinkin.jp
+0.0.0.0 www.env.go.jp
 0.0.0.0 www.epam.com
 0.0.0.0 www.eposcard.co.jp
 0.0.0.0 www.epson.jp
@@ -2696,6 +2703,7 @@
 0.0.0.0 www.johoku.ac.jp
 0.0.0.0 www.jokermovie.com.sg
 0.0.0.0 www.jp-life.japanpost.jp
+0.0.0.0 www.jp.square-enix.com
 0.0.0.0 www.jpcast.japanpost.jp
 0.0.0.0 www.jplum.com
 0.0.0.0 www.jps-pharm.com
