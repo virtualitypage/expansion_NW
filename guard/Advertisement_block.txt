@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 30 November 2024
+# Last modified: 1 December 2024
 #
 
 # [広告全般]
@@ -141,6 +141,7 @@
 0.0.0.0 asahikawa-nissan.com
 0.0.0.0 asaichuzo.com
 0.0.0.0 asbestos-osaka.jp
+0.0.0.0 ascii.jp
 0.0.0.0 ashiba-leasekyokai.com
 0.0.0.0 ashley-furniture-blog.jp
 0.0.0.0 aslead.nri.co.jp
@@ -752,6 +753,7 @@
 0.0.0.0 ii.tokyu.co.jp
 0.0.0.0 ikedahearinggear.com
 0.0.0.0 iki-online.com
+0.0.0.0 ilclinic.or.jp
 0.0.0.0 illumina.wella.co.jp
 0.0.0.0 imabarishintoshi-aeonmall.com
 0.0.0.0 imamurasiroari.co.jp
@@ -868,6 +870,7 @@
 0.0.0.0 jws-c.jp
 0.0.0.0 jyouhoudenshi.jp
 0.0.0.0 k-rm.jp
+0.0.0.0 k-tsukada.com
 0.0.0.0 kaban-campaign.com
 0.0.0.0 kabu.com
 0.0.0.0 kachi-doki.jp
@@ -2660,6 +2663,7 @@
 0.0.0.0 www.itoen.jp
 0.0.0.0 www.itokin.net
 0.0.0.0 www.ivs.events
+0.0.0.0 www.iwaiwa.jp
 0.0.0.0 www.ixol.co.jp
 0.0.0.0 www.iyobank.co.jp
 0.0.0.0 www.izumo-brand.jp
@@ -2715,6 +2719,7 @@
 0.0.0.0 www.jsy.jp
 0.0.0.0 www.jtbcorp.jp
 0.0.0.0 www.julliaolger.jp
+0.0.0.0 www.jurassicworld.jp
 0.0.0.0 www.justanswer.jp
 0.0.0.0 www.jutakuhaku.co.jp
 0.0.0.0 www.jyubako.com
@@ -3059,6 +3064,7 @@
 0.0.0.0 www.ohken.co.jp
 0.0.0.0 www.ohkifudosan.co.jp
 0.0.0.0 www.oil-factory.com
+0.0.0.0 www.oinori-kobo.com
 0.0.0.0 www.oisix.com
 0.0.0.0 www.oit.ac.jp
 0.0.0.0 www.oitabank.co.jp
@@ -3379,6 +3385,7 @@
 0.0.0.0 www.suntory-kenko.com
 0.0.0.0 www.superdramatv.com
 0.0.0.0 www.supermicro.com
+0.0.0.0 www.supersports.com
 0.0.0.0 www.suwaeru-spray.jp
 0.0.0.0 www.suzukacircuit.jp
 0.0.0.0 www.suzuki.co.jp
