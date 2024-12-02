@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 1 December 2024
+# Last modified: 2 December 2024
 #
 
 # [広告全般]
@@ -194,6 +194,7 @@
 0.0.0.0 besv.jp
 0.0.0.0 betterstack.com
 0.0.0.0 beverageandfood.direct.suntory.co.jp
+0.0.0.0 bflat.net
 0.0.0.0 bianshack.com
 0.0.0.0 biblesforjapan.org
 0.0.0.0 big-campaign.jp
@@ -261,6 +262,7 @@
 0.0.0.0 carboncredits.com
 0.0.0.0 card-en-ciel.com
 0.0.0.0 cardshop-kenzo.myshopify.com
+0.0.0.0 career-safari.com
 0.0.0.0 career.levtech.jp
 0.0.0.0 careerjp.work
 0.0.0.0 carioca.owst.jp
@@ -873,6 +875,7 @@
 0.0.0.0 k-tsukada.com
 0.0.0.0 kaban-campaign.com
 0.0.0.0 kabu.com
+0.0.0.0 kabuand.com
 0.0.0.0 kachi-doki.jp
 0.0.0.0 kadenfan.hitachi.co.jp
 0.0.0.0 kadota.biz
@@ -1789,6 +1792,7 @@
 0.0.0.0 subculbusinesscenter.com
 0.0.0.0 sudachi.support
 0.0.0.0 sugamokai.co.jp
+0.0.0.0 sugimoto-shinkyu.com
 0.0.0.0 sugo-japan.com
 0.0.0.0 suguredashicp.jp
 0.0.0.0 sumaho-sousa.com
@@ -2616,6 +2620,7 @@
 0.0.0.0 www.hyundai.com
 0.0.0.0 www.i-koike.jp
 0.0.0.0 www.i-note.jp
+0.0.0.0 www.i-sihousyosi.jp
 0.0.0.0 www.i879.com
 0.0.0.0 www.ibexair.co.jp
 0.0.0.0 www.ice-yoji.com
@@ -2751,6 +2756,7 @@
 0.0.0.0 www.kawai-koumuten.jp
 0.0.0.0 www.kawate-shika.site
 0.0.0.0 www.kd-icons.co.jp
+0.0.0.0 www.kddi-dsec.com
 0.0.0.0 www.keiai.net
 0.0.0.0 www.keichomaru.jp
 0.0.0.0 www.keiji-pestcontrol.com
@@ -2836,6 +2842,7 @@
 0.0.0.0 www.life-n.jp
 0.0.0.0 www.ligne-roset.jp
 0.0.0.0 www.linemo.jp
+0.0.0.0 www.linkpskorea.com
 0.0.0.0 www.links-gunma.net
 0.0.0.0 www.liquors.ne.jp
 0.0.0.0 www.livable.co.jp
@@ -2930,6 +2937,7 @@
 0.0.0.0 www.miyakoda.co.jp
 0.0.0.0 www.miyakoink.co.jp
 0.0.0.0 www.miyanaka.co.jp
+0.0.0.0 www.miyazakicarferry.com
 0.0.0.0 www.mizuho-re.co.jp
 0.0.0.0 www.mobit.ne.jp
 0.0.0.0 www.mochihada.co.jp
@@ -2988,6 +2996,7 @@
 0.0.0.0 www.nees1013.com
 0.0.0.0 www.nekonote-saijo.com
 0.0.0.0 www.nemurishop.jp
+0.0.0.0 www.nenkin.go.jp
 0.0.0.0 www.nerima.co.jp
 0.0.0.0 www.netbk.co.jp
 0.0.0.0 www.netchina.jp
@@ -3100,6 +3109,7 @@
 0.0.0.0 www.orixbank.co.jp
 0.0.0.0 www.orlandokanko.com
 0.0.0.0 www.osaka-kyosai.or.jp
+0.0.0.0 www.osaka-liposuction.com
 0.0.0.0 www.osaka-shoko.co.jp
 0.0.0.0 www.osaka-solid.jp
 0.0.0.0 www.osaka-ti.co.jp
@@ -3210,6 +3220,7 @@
 0.0.0.0 www.redbaron.co.jp
 0.0.0.0 www.redstoneonline.jp
 0.0.0.0 www.regina-web.jp
+0.0.0.0 www.regza.com
 0.0.0.0 www.remosia.biz
 0.0.0.0 www.remotecall.com
 0.0.0.0 www.rendimento.com.br
