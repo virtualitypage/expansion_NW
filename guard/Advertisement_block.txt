@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 2 December 2024
+# Last modified: 3 December 2024
 #
 
 # [広告全般]
@@ -305,6 +305,7 @@
 0.0.0.0 clta.jp
 0.0.0.0 clubping.jp
 0.0.0.0 cms.racms.jp
+0.0.0.0 cn.cape-black.com
 0.0.0.0 coachtech.site
 0.0.0.0 coatjapan.com
 0.0.0.0 coco-store.jp
@@ -326,6 +327,7 @@
 0.0.0.0 continentaltire.com
 0.0.0.0 converse.co.jp
 0.0.0.0 coqul.s-re.jp
+0.0.0.0 coreda.gift
 0.0.0.0 cores-ec.site
 0.0.0.0 corgi.breeders.jp
 0.0.0.0 corolla-iwate.jp
@@ -1021,6 +1023,7 @@
 0.0.0.0 kyotomk-recruit.jp
 0.0.0.0 kyotoseika-nara-shaken.com
 0.0.0.0 kyudaigakken-realestate.com
+0.0.0.0 l-housing.net
 0.0.0.0 l-tike.com
 0.0.0.0 l-works.design
 0.0.0.0 labrador.breeders.jp
@@ -2383,6 +2386,7 @@
 0.0.0.0 www.e-sogi.com
 0.0.0.0 www.e-tix.jp
 0.0.0.0 www.e-ty.co.jp
+0.0.0.0 www.ebara.co.jp
 0.0.0.0 www.ec-store.net
 0.0.0.0 www.eclipsetraveler.com
 0.0.0.0 www.ecnex.jp
@@ -2985,6 +2989,7 @@
 0.0.0.0 www.nantobank.co.jp
 0.0.0.0 www.nanzan-u.ac.jp
 0.0.0.0 www.napolipizza.jp
+0.0.0.0 www.napori.jp
 0.0.0.0 www.narimatsuya.com
 0.0.0.0 www.narisup.com
 0.0.0.0 www.natureworld.jp
@@ -3156,6 +3161,7 @@
 0.0.0.0 www.pitatoku.com
 0.0.0.0 www.pizzahut-job.com
 0.0.0.0 www.pjaowl.com
+0.0.0.0 www.pkobp.pl
 0.0.0.0 www.plan-c.co.jp
 0.0.0.0 www.playstation.com
 0.0.0.0 www.plumsteadvilleinn.com
@@ -3664,6 +3670,7 @@
 0.0.0.0 yotasteshop.com
 0.0.0.0 youin.jp
 0.0.0.0 youngjump.jp
+0.0.0.0 yourkins.com
 0.0.0.0 ypa.localab.net
 0.0.0.0 ys-plan.jp.net
 0.0.0.0 ysp-shop.com
