@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 3 December 2024
+# Last modified: 4 December 2024
 #
 
 # [広告全般]
@@ -798,6 +798,7 @@
 0.0.0.0 itami-hagukumi.work
 0.0.0.0 itb-nanairo.tokyo
 0.0.0.0 ito-ec.jp
+0.0.0.0 itp.ne.jp
 0.0.0.0 iwateya-shop.jp
 0.0.0.0 iyec.itoyokado.co.jp
 0.0.0.0 izumozine.jp
@@ -977,6 +978,7 @@
 0.0.0.0 kokokara.tais.ac.jp
 0.0.0.0 kokyo111.owst.jp
 0.0.0.0 komeko-times.jp
+0.0.0.0 kominami-nouen.co.jp
 0.0.0.0 konciwa.com
 0.0.0.0 koreabucketlist.com
 0.0.0.0 kosavu.com
@@ -1132,6 +1134,7 @@
 0.0.0.0 maruhan-lp.net
 0.0.0.0 maruhome.jp
 0.0.0.0 marumugi.shop
+0.0.0.0 mashiro82x.base.shop
 0.0.0.0 matsue.clare.jp
 0.0.0.0 matsui-express-job.jp
 0.0.0.0 matsuyama.citroen-dealer.jp
@@ -1644,6 +1647,7 @@
 0.0.0.0 sg.tcacoustic.asia
 0.0.0.0 shaktimat.co.jp
 0.0.0.0 sharecar.muchapp.jp
+0.0.0.0 shareway.jp
 0.0.0.0 sharkclean.co.uk
 0.0.0.0 shashinten.info
 0.0.0.0 shelldome.jp
@@ -1748,6 +1752,7 @@
 0.0.0.0 sousou.co.jp
 0.0.0.0 southernlift.com
 0.0.0.0 souzoku.t-bengo.com
+0.0.0.0 souzokuhouki-kizuna.com
 0.0.0.0 soxai.co.jp
 0.0.0.0 sp-newhama.com
 0.0.0.0 sp.otsuka-shokai.co.jp
@@ -1905,6 +1910,7 @@
 0.0.0.0 toriton.owst.jp
 0.0.0.0 torras.co.jp
 0.0.0.0 tosei-hotel.co.jp
+0.0.0.0 toubyo.com
 0.0.0.0 toushi-up.com
 0.0.0.0 tovira.jp
 0.0.0.0 towa-corp.net
@@ -2089,6 +2095,7 @@
 0.0.0.0 www.agoda.com
 0.0.0.0 www.ahiruyaminimal.com
 0.0.0.0 www.ai-blogkun.com
+0.0.0.0 www.ai-work.jp
 0.0.0.0 www.ai2010.net
 0.0.0.0 www.aidagroup.co.jp
 0.0.0.0 www.aidem.co.jp
@@ -2451,6 +2458,7 @@
 0.0.0.0 www.forcus.co.jp
 0.0.0.0 www.foreupgolf.com
 0.0.0.0 www.forever-kato.co.jp
+0.0.0.0 www.forguncy.com
 0.0.0.0 www.form2.shop
 0.0.0.0 www.forum8.co.jp
 0.0.0.0 www.france.fr
@@ -2747,6 +2755,7 @@
 0.0.0.0 www.kamine.co.jp
 0.0.0.0 www.kanagawa-subaru.com
 0.0.0.0 www.kanagawa-u.ac.jp
+0.0.0.0 www.kanebo-cosmetics.jp
 0.0.0.0 www.kango-roo.com
 0.0.0.0 www.kankyo.metro.tokyo.lg.jp
 0.0.0.0 www.kano-kensetsu.com
