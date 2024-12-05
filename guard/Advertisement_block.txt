@@ -4,11 +4,12 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 4 December 2024
+# Last modified: 5 December 2024
 #
 
 # [広告全般]
 0.0.0.0 083083.jp
+0.0.0.0 1cho-me-front.shop-pro.jp
 0.0.0.0 2.homeplusone.com.tw
 0.0.0.0 2110.jp
 0.0.0.0 2ndtable.com
@@ -238,6 +239,7 @@
 0.0.0.0 business.form-mailer.jp
 0.0.0.0 business.google.com
 0.0.0.0 bussaiyo.entetsu.co.jp
+0.0.0.0 butamonsannomiyayokotyou.owst.jp
 0.0.0.0 buy.itreview.jp
 0.0.0.0 byd-ibaraki.co.jp
 0.0.0.0 byd.co.jp
@@ -300,6 +302,7 @@
 0.0.0.0 cl.sozoku-guide.bk.mufg.jp
 0.0.0.0 cl.unisize.makip.co.jp
 0.0.0.0 clean-labo.net
+0.0.0.0 clients.itszai.jp
 0.0.0.0 closet.eiwa-uniform.com
 0.0.0.0 cloud.info.asics.com
 0.0.0.0 clta.jp
@@ -389,6 +392,7 @@
 0.0.0.0 distance.media
 0.0.0.0 dive-oita.com
 0.0.0.0 dl.apparel-web.co.jp
+0.0.0.0 dm-oka.com
 0.0.0.0 dmdepart.jp
 0.0.0.0 do-recruit.info
 0.0.0.0 doax-venusvacation.jp
@@ -914,6 +918,7 @@
 0.0.0.0 kansai-boatshow.jp
 0.0.0.0 kansai-elevator.co.jp
 0.0.0.0 kao-welcia.campar.jp
+0.0.0.0 kappodo.com
 0.0.0.0 karadak.com
 0.0.0.0 karakubuy.com
 0.0.0.0 karen-kyoto.com
@@ -1403,6 +1408,7 @@
 0.0.0.0 planetarium-cafebar-misora.owst.jp
 0.0.0.0 platte.jp
 0.0.0.0 plus.tobemori.com
+0.0.0.0 plustee-golf.com
 0.0.0.0 point.zensho.co.jp
 0.0.0.0 pokedebi.com
 0.0.0.0 pokeka-kaitori-collectors.jp
@@ -1801,6 +1807,7 @@
 0.0.0.0 sudachi.support
 0.0.0.0 sugamokai.co.jp
 0.0.0.0 sugimoto-shinkyu.com
+0.0.0.0 suginoko-people.com
 0.0.0.0 sugo-japan.com
 0.0.0.0 suguredashicp.jp
 0.0.0.0 sumaho-sousa.com
@@ -2059,6 +2066,7 @@
 0.0.0.0 www.4green.dental
 0.0.0.0 www.543life.com
 0.0.0.0 www.5academy.com
+0.0.0.0 www.6nen4kumi.com
 0.0.0.0 www.7-7maruka.com
 0.0.0.0 www.816kinki.com
 0.0.0.0 www.85cafe.com
@@ -2149,6 +2157,7 @@
 0.0.0.0 www.artnature.co.jp
 0.0.0.0 www.arunco.co
 0.0.0.0 www.arystalifescience.jp
+0.0.0.0 www.asahi-biyou.or.jp
 0.0.0.0 www.asahi-kasei.com
 0.0.0.0 www.asahi-netshop.com
 0.0.0.0 www.asahi-shoes.co.jp
@@ -2365,6 +2374,7 @@
 0.0.0.0 www.dinosaur.pref.fukui.jp
 0.0.0.0 www.discoverhongkong.com
 0.0.0.0 www.dlsite.com
+0.0.0.0 www.dnp.co.jp
 0.0.0.0 www.docomo.ne.jp
 0.0.0.0 www.doggysresort-amanohashidate.com
 0.0.0.0 www.dominos.jp
@@ -2560,6 +2570,7 @@
 0.0.0.0 www.hanashinkumi.com
 0.0.0.0 www.hanazonohifuku.com
 0.0.0.0 www.haneda.jalcity.co.jp
+0.0.0.0 www.hankooktire.com
 0.0.0.0 www.hankyu.co.jp
 0.0.0.0 www.hannan-u.ac.jp
 0.0.0.0 www.hanshin-exp.co.jp
@@ -2674,6 +2685,7 @@
 0.0.0.0 www.irisplaza.co.jp
 0.0.0.0 www.ishibashi-mfg.com
 0.0.0.0 www.ishichou.co.jp
+0.0.0.0 www.ishikawa-dental-office.jp
 0.0.0.0 www.ishimaru-sr.jp
 0.0.0.0 www.ishizukakagu.com
 0.0.0.0 www.itmaster.jp
@@ -2748,6 +2760,7 @@
 0.0.0.0 www.kagu-uenoya.com
 0.0.0.0 www.kahm-art.co.jp
 0.0.0.0 www.kaigoagent.com
+0.0.0.0 www.kaishu.info
 0.0.0.0 www.kaitaitochigi.com
 0.0.0.0 www.kaitori-daikichi.jp
 0.0.0.0 www.kaitori-massan.com
@@ -2866,6 +2879,7 @@
 0.0.0.0 www.losstime.co.jp
 0.0.0.0 www.lpio.jp
 0.0.0.0 www.lululemon.co.jp
+0.0.0.0 www.lumran.com
 0.0.0.0 www.luxalgo.com
 0.0.0.0 www.lyft-gym.com
 0.0.0.0 www.m-ams.co.jp
@@ -3151,6 +3165,7 @@
 0.0.0.0 www.panasonic.com
 0.0.0.0 www.paris-miki.co.jp
 0.0.0.0 www.parkhotelgroup.com
+0.0.0.0 www.parkinghosou.com
 0.0.0.0 www.pathtosuccess.global
 0.0.0.0 www.pattolixil-madohonpo.jp
 0.0.0.0 www.pbcruise.jp
@@ -3379,6 +3394,7 @@
 0.0.0.0 www.sougaku-academy.jp
 0.0.0.0 www.sougi-soudan.jp
 0.0.0.0 www.sousou.co.jp
+0.0.0.0 www.sousou.jp
 0.0.0.0 www.southbank.org
 0.0.0.0 www.spf21.net
 0.0.0.0 www.sportsoasis.co.jp
