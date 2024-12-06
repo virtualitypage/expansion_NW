@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 5 December 2024
+# Last modified: 6 December 2024
 #
 
 # [広告全般]
@@ -450,6 +450,7 @@
 0.0.0.0 eightdesign.jp
 0.0.0.0 eikaiwa.kakaku.com
 0.0.0.0 eiko-juken.net
+0.0.0.0 elastinne.alto-star.com
 0.0.0.0 elbe.bmw.jp
 0.0.0.0 elegantevita.co.jp
 0.0.0.0 emifull.jp
@@ -1125,6 +1126,7 @@
 0.0.0.0 maekawaah.com
 0.0.0.0 mag.bess.jp
 0.0.0.0 mahope.hair
+0.0.0.0 main.tsubaki-app.com
 0.0.0.0 mainichi.nosh.jp
 0.0.0.0 make-mastery.com
 0.0.0.0 makinushi-tk.com
@@ -1988,6 +1990,7 @@
 0.0.0.0 video.unext.jp
 0.0.0.0 vieconseils.com
 0.0.0.0 villa-hamanako.jp
+0.0.0.0 vily-pbs.com
 0.0.0.0 violetllama42.sakura.ne.jp
 0.0.0.0 vitalebarberiscanonico.jp
 0.0.0.0 vo-metsoffice.jp
