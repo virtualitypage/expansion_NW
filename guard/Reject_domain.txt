@@ -4,12 +4,14 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_domain.txt
 #
-# Last modified: 1 December 2024
+# Last modified: 6 December 2024
 #
 
 # [拒否リクエスト]
 /b9[0-9].yahoo.co.jp/
 0.0.0.0 *.ingest.sentry.io
+0.0.0.0 aax-fe-sin.amazon-adsystem.com
+0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
@@ -73,6 +75,7 @@
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pubsub.googleapis.com
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 sentry.io
 0.0.0.0 socdm.com
 0.0.0.0 static.doubleclick.net
@@ -214,6 +217,7 @@
 0.0.0.0 mssdk-sg.byteoversea.com
 0.0.0.0 sgali-mcs.byteoversea.com
 0.0.0.0 starling-sg.byteoversea.com
+0.0.0.0 tnc16-useast1a.byteoversea.com
 
 # [inneractive(モバイル広告プラットフォーム)]
 0.0.0.0 cdn2.inner-active.mobi
