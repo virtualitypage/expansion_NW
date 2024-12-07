@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 6 December 2024
+# Last modified: 7 December 2024
 #
 
 # [広告全般]
@@ -530,6 +530,7 @@
 0.0.0.0 fptsoftware.jp
 0.0.0.0 franomista.tohogas.co.jp
 0.0.0.0 freedom.co.jp
+0.0.0.0 freetherock.com
 0.0.0.0 frenchbull.breeders.jp
 0.0.0.0 friday.gold
 0.0.0.0 fringeos.com
@@ -1364,6 +1365,7 @@
 0.0.0.0 osaka.seikatsuclub.coop
 0.0.0.0 osakahaku.ocm.osaka
 0.0.0.0 osakastationcity.com
+0.0.0.0 osh-clinic.jp
 0.0.0.0 osho-research.co.jp
 0.0.0.0 ost-honeypot-1.oreillyauto.com
 0.0.0.0 otokujyoho.online
@@ -1470,6 +1472,7 @@
 0.0.0.0 rakuori.com
 0.0.0.0 rakurakusatei.com
 0.0.0.0 randb.jp
+0.0.0.0 ranmaotome.com
 0.0.0.0 ranzu.jp
 0.0.0.0 rasik.style
 0.0.0.0 re-dia.jp
@@ -1640,6 +1643,7 @@
 0.0.0.0 seirei-junior-high-school-openschool.com
 0.0.0.0 seisukeknifekappabashi.com
 0.0.0.0 sekisuinct.com
+0.0.0.0 sekokan-labo.jp
 0.0.0.0 selcohome.jp
 0.0.0.0 seminar.rakurakuseisan.jp
 0.0.0.0 sen8senjya.jp
@@ -1662,6 +1666,7 @@
 0.0.0.0 shiba.breeders.jp
 0.0.0.0 shibainu-shop.net
 0.0.0.0 shibo-zero.info
+0.0.0.0 shichusuimei.jp
 0.0.0.0 shift-engineer.jp
 0.0.0.0 shigoto-clan.jp
 0.0.0.0 shigoto.amazon.co.jp
@@ -2028,6 +2033,7 @@
 0.0.0.0 webx-asia.com
 0.0.0.0 wedding.mynavi.jp
 0.0.0.0 weddings.westintokyoshop.com
+0.0.0.0 weddingvideowish.com
 0.0.0.0 wef.iae-ryugaku.net
 0.0.0.0 wellbeing.kirin.co.jp
 0.0.0.0 wellp-official.jp
@@ -2480,6 +2486,7 @@
 0.0.0.0 www.frewa.jp
 0.0.0.0 www.front-ia.com
 0.0.0.0 www.frontier-direct.jp
+0.0.0.0 www.fsa.go.jp
 0.0.0.0 www.fudousann.info
 0.0.0.0 www.fujicorporation.com
 0.0.0.0 www.fujiiso.co.jp
@@ -2540,9 +2547,11 @@
 0.0.0.0 www.good-trip-ex.com
 0.0.0.0 www.goodseeco.com
 0.0.0.0 www.goodstory.jp
+0.0.0.0 www.goolip.jp
 0.0.0.0 www.govconnection.com
 0.0.0.0 www.gpn.jp
 0.0.0.0 www.grace-h.jp
+0.0.0.0 www.grace-one.com
 0.0.0.0 www.graff.com
 0.0.0.0 www.grajapa.shueisha.co.jp
 0.0.0.0 www.grand-recruit.jp
@@ -2637,6 +2646,7 @@
 0.0.0.0 www.hotpepper.jp
 0.0.0.0 www.hotstaff.co.jp
 0.0.0.0 www.hotty.co.jp
+0.0.0.0 www.housedo.com
 0.0.0.0 www.housing-messe.com
 0.0.0.0 www.howabank.co.jp
 0.0.0.0 www.hs-orange.com
@@ -3043,6 +3053,7 @@
 0.0.0.0 www.nichias.co.jp
 0.0.0.0 www.nichibenren.or.jp
 0.0.0.0 www.nihonhoeipro.co.jp
+0.0.0.0 www.nihonwaste.co.jp
 0.0.0.0 www.niit.ac.jp
 0.0.0.0 www.nikahome.jp
 0.0.0.0 www.nikon-image.com
@@ -3254,6 +3265,7 @@
 0.0.0.0 www.redstoneonline.jp
 0.0.0.0 www.regina-web.jp
 0.0.0.0 www.regza.com
+0.0.0.0 www.reizan-fusui.jp
 0.0.0.0 www.remosia.biz
 0.0.0.0 www.remotecall.com
 0.0.0.0 www.rendimento.com.br
@@ -3610,6 +3622,7 @@
 0.0.0.0 www.westin-osaka.co.jp
 0.0.0.0 www.white-choco.top
 0.0.0.0 www.wickedthemusical.co.uk
+0.0.0.0 www.wills.co.jp
 0.0.0.0 www.wine-party.jp
 0.0.0.0 www.wing-rev.co.jp
 0.0.0.0 www.wmberg.com
@@ -3627,6 +3640,7 @@
 0.0.0.0 www.y-yokohama.com
 0.0.0.0 www.yaken.store
 0.0.0.0 www.yamada-denkiweb.com
+0.0.0.0 www.yamada-egg.com
 0.0.0.0 www.yamaha-motor.co.jp
 0.0.0.0 www.yamaha.co.jp
 0.0.0.0 www.yamajitsu.co.jp
