@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 7 December 2024
+# Last modified: 8 December 2024
 #
 
 # [広告全般]
@@ -225,6 +225,7 @@
 0.0.0.0 bordercollie.breeders.jp
 0.0.0.0 bostonterrier.breeders.jp
 0.0.0.0 brand.taisho.co.jp
+0.0.0.0 brightage.jp
 0.0.0.0 briil.com
 0.0.0.0 brokerspot.com
 0.0.0.0 bs.doshisha.ac.jp
@@ -893,6 +894,7 @@
 0.0.0.0 kai-z.net
 0.0.0.0 kaifuu.co.jp
 0.0.0.0 kaigitable.shop
+0.0.0.0 kaigo-haigyo.com
 0.0.0.0 kaigo-ma.com
 0.0.0.0 kaigo.benesse-style-care.co.jp
 0.0.0.0 kaigo.nichiigakkan-careerplus.jp
@@ -1139,6 +1141,7 @@
 0.0.0.0 manulife-gaika.jp
 0.0.0.0 maquia.hpplus.jp
 0.0.0.0 marineworld.hiyoriyama.co.jp
+0.0.0.0 marketing-careerlabo.jp
 0.0.0.0 maruhan-lp.net
 0.0.0.0 maruhome.jp
 0.0.0.0 marumugi.shop
@@ -1168,6 +1171,7 @@
 0.0.0.0 mens-cut.net
 0.0.0.0 mens-rinx.jp
 0.0.0.0 mens.datsumo-hikaku.jp
+0.0.0.0 mens.s-nail.info
 0.0.0.0 mercure-hida-takayama.com
 0.0.0.0 meshop-jp.com
 0.0.0.0 metsa-hanno.com
@@ -1872,6 +1876,7 @@
 0.0.0.0 tasaki-s.co.jp
 0.0.0.0 tatansweets.com
 0.0.0.0 tateyoko-kazuma.com
+0.0.0.0 tavopets.com
 0.0.0.0 taxisaiyo.entetsu.co.jp
 0.0.0.0 tcb-beauty.net
 0.0.0.0 tcd.joetsu-dc.com
@@ -1901,6 +1906,7 @@
 0.0.0.0 timesbiz.jp
 0.0.0.0 timume.com
 0.0.0.0 tire.bridgestone.co.jp
+0.0.0.0 tjgreen-gym.com
 0.0.0.0 tkcp-premium-tire-sale-5ab30bb4478c.herokuapp.com
 0.0.0.0 to-hand.com
 0.0.0.0 toho-imazu.jp
@@ -1956,6 +1962,7 @@
 0.0.0.0 tw-img.vpon.com
 0.0.0.0 twoshotmoon.click
 0.0.0.0 twpass.tw
+0.0.0.0 tyre.dunlop.co.jp
 0.0.0.0 tyuju.mabuchi.co.jp
 0.0.0.0 tyunyuken.com
 0.0.0.0 u-adviser.jp
@@ -2256,6 +2263,7 @@
 0.0.0.0 www.cameranonaniwa.co.jp
 0.0.0.0 www.campbayidaho.com
 0.0.0.0 www.canadycanady.com
+0.0.0.0 www.canal-area.com
 0.0.0.0 www.canon-its.co.jp
 0.0.0.0 www.canva.com
 0.0.0.0 www.canvasdiscount.com
@@ -2473,6 +2481,7 @@
 0.0.0.0 www.fk-build.com
 0.0.0.0 www.flat35.com
 0.0.0.0 www.flexispot.jp
+0.0.0.0 www.fmworld.net
 0.0.0.0 www.foodjobselect.com
 0.0.0.0 www.forcus.co.jp
 0.0.0.0 www.foreupgolf.com
@@ -2771,6 +2780,7 @@
 0.0.0.0 www.kagaiboushi.metro.tokyo.lg.jp
 0.0.0.0 www.kagi-gakkou.com
 0.0.0.0 www.kagu-uenoya.com
+0.0.0.0 www.kagusapo.com
 0.0.0.0 www.kahm-art.co.jp
 0.0.0.0 www.kaigoagent.com
 0.0.0.0 www.kaishu.info
@@ -3003,6 +3013,7 @@
 0.0.0.0 www.motherfarm.co.jp
 0.0.0.0 www.mouse-jp.co.jp
 0.0.0.0 www.ms-ins.com
+0.0.0.0 www.mtgec.jp
 0.0.0.0 www.mugenrecruit.com
 0.0.0.0 www.mules.jp
 0.0.0.0 www.musashinomura.co.jp
@@ -3638,6 +3649,7 @@
 0.0.0.0 www.xronos-inc.co.jp
 0.0.0.0 www.xtb.com
 0.0.0.0 www.y-yokohama.com
+0.0.0.0 www.yaezawa.com
 0.0.0.0 www.yaken.store
 0.0.0.0 www.yamada-denkiweb.com
 0.0.0.0 www.yamada-egg.com
