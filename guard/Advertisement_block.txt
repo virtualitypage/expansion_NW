@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 8 December 2024
+# Last modified: 9 December 2024
 #
 
 # [広告全般]
@@ -349,6 +349,7 @@
 0.0.0.0 crcr.asia
 0.0.0.0 creditcard-entry.com
 0.0.0.0 creditcard-news.net
+0.0.0.0 crosroad.com
 0.0.0.0 crosset.onward.co.jp
 0.0.0.0 crowdtech.jp
 0.0.0.0 curama.jp
@@ -1206,6 +1207,7 @@
 0.0.0.0 mitsuboshifarm.jp
 0.0.0.0 mitsui-art.com
 0.0.0.0 mitsui-shopping-park.com
+0.0.0.0 mitsumori.ashibakoji.com
 0.0.0.0 miyagi-aw2024.com
 0.0.0.0 miyagi-daihatsu.co.jp
 0.0.0.0 miyakojima-mobipa.jp
@@ -1367,6 +1369,7 @@
 0.0.0.0 osaka-posting.jp
 0.0.0.0 osaka.letsgojp.com
 0.0.0.0 osaka.seikatsuclub.coop
+0.0.0.0 osakafoodtours.com
 0.0.0.0 osakahaku.ocm.osaka
 0.0.0.0 osakastationcity.com
 0.0.0.0 osh-clinic.jp
@@ -1488,6 +1491,7 @@
 0.0.0.0 recruit.fordays.jp
 0.0.0.0 recruit.meccs.co.jp
 0.0.0.0 recruit.nds-g.co.jp
+0.0.0.0 recruit.oshare-zele.co.jp
 0.0.0.0 recruit.takuichi.okinawa
 0.0.0.0 recruit.tsukui.net
 0.0.0.0 refine-midori.net
@@ -3074,6 +3078,7 @@
 0.0.0.0 www.nipponkaigishitsu.com
 0.0.0.0 www.nipponmanpower.co.jp
 0.0.0.0 www.nireco.jp
+0.0.0.0 www.nirvanastone.jp
 0.0.0.0 www.nishikawa1566.com
 0.0.0.0 www.nishinippon.co.jp
 0.0.0.0 www.nisiki-kai.com
@@ -3307,6 +3312,7 @@
 0.0.0.0 www.s-ge.com
 0.0.0.0 www.s-re.jp
 0.0.0.0 www.saatva.com
+0.0.0.0 www.safejp.net
 0.0.0.0 www.safra.sg
 0.0.0.0 www.saison-am.co.jp
 0.0.0.0 www.salesforce.com
