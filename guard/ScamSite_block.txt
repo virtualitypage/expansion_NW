@@ -4,7 +4,7 @@
 # References: -
 # definition: https://virtualitypage.github.io/expansion_NW/guard/ScamSite_block.txt
 #
-# Last modified: 29 March 2024
+# Last modified: 10 December 2024
 #
 
 # [楽天を装ったWEBサイト]
@@ -600,7 +600,6 @@
 0.0.0.0 btfiu.com
 0.0.0.0 btjkwvk.com
 0.0.0.0 buaqnr.com
-0.0.0.0 buckingtoys
 0.0.0.0 buckingtoys.com
 0.0.0.0 buesnl.com
 0.0.0.0 buhensteli.com
@@ -678,7 +677,6 @@
 0.0.0.0 cheapcoachjp.com
 0.0.0.0 cheapmbtstore.com
 0.0.0.0 cheazanil.com
-0.0.0.0 chelanpin
 0.0.0.0 chelanpin.com
 0.0.0.0 chhclub.com
 0.0.0.0 chicamogo.com
@@ -704,7 +702,6 @@
 0.0.0.0 comicsut.com
 0.0.0.0 complejomontroyal.com
 0.0.0.0 conrtswood.com
-0.0.0.0 cooklilearn
 0.0.0.0 cooklilearn.com
 0.0.0.0 coolaicecream.com
 0.0.0.0 coolbuyma.com
@@ -903,7 +900,6 @@
 0.0.0.0 filipina-lady.net
 0.0.0.0 fine-arc.com
 0.0.0.0 fiolevuru.com
-0.0.0.0 fishtowntor
 0.0.0.0 fishtowntor.com
 0.0.0.0 fitflopshoesjp.com
 0.0.0.0 flyresxlts.com
@@ -988,7 +984,6 @@
 0.0.0.0 hanarei.com
 0.0.0.0 hanasama.jp
 0.0.0.0 haroldcrabtree.com
-0.0.0.0 harpoonhale
 0.0.0.0 harpoonhale.com
 0.0.0.0 hasukoi.com
 0.0.0.0 hatupon.com
@@ -1332,7 +1327,6 @@
 0.0.0.0 newrb-2016.com
 0.0.0.0 newruivuitononsale.com
 0.0.0.0 nexewvily.com
-0.0.0.0 nextcuback
 0.0.0.0 nextcuback.com
 0.0.0.0 nhuzir.com
 0.0.0.0 nihon-e.com
@@ -1426,7 +1420,6 @@
 0.0.0.0 pcvnvzaop.com
 0.0.0.0 pdhtst.com
 0.0.0.0 pdzycm.com
-0.0.0.0 pearsencha
 0.0.0.0 pearsencha.com
 0.0.0.0 pemchr.com
 0.0.0.0 penglassesgo.com
@@ -1440,7 +1433,6 @@
 0.0.0.0 phyfteva.com
 0.0.0.0 pjqeyp.com
 0.0.0.0 pjuikln.com
-0.0.0.0 plarivers
 0.0.0.0 plarivers.com
 0.0.0.0 play2010.com
 0.0.0.0 pldews.com
@@ -1663,7 +1655,6 @@
 0.0.0.0 store-jp.com
 0.0.0.0 storecor.net
 0.0.0.0 storekopi.com
-0.0.0.0 streeplawy
 0.0.0.0 streeplawy.com
 0.0.0.0 strxdzory.com
 0.0.0.0 studiogarden.net
@@ -1702,7 +1693,6 @@
 0.0.0.0 teenhzek.com
 0.0.0.0 teibousao.com
 0.0.0.0 templet1.com
-0.0.0.0 teneaweb
 0.0.0.0 teneaweb.com
 0.0.0.0 tengxinnet.com
 0.0.0.0 terrisinc.com
@@ -1726,7 +1716,6 @@
 0.0.0.0 tolpet.com
 0.0.0.0 toms.cheapsalesjp.com
 0.0.0.0 tonewbalance.com
-0.0.0.0 tonosteve
 0.0.0.0 tonosteve.com
 0.0.0.0 top2mall.com
 0.0.0.0 topbrands-eyewear.com
@@ -1740,10 +1729,8 @@
 0.0.0.0 topshopjp.com
 0.0.0.0 toptradejp.com
 0.0.0.0 topwshzp.com
-0.0.0.0 torqueby
 0.0.0.0 torqueby.com
 0.0.0.0 touch-ballser.com
-0.0.0.0 townelerst
 0.0.0.0 townelerst.com
 0.0.0.0 tpfvrkr.com
 0.0.0.0 tplcase.com
@@ -1841,7 +1828,6 @@
 0.0.0.0 whmdem.com
 0.0.0.0 wholesaletyrejp.com
 0.0.0.0 wileyreiand.com
-0.0.0.0 wisconlifo
 0.0.0.0 wisconlifo.com
 0.0.0.0 witdeals.com
 0.0.0.0 wiupom.com
@@ -1979,7 +1965,6 @@
 0.0.0.0 jennus.com
 0.0.0.0 jilliancamwell.com
 0.0.0.0 jjkopi.com
-0.0.0.0 jp-gucci.com
 0.0.0.0 jpfigure.com
 0.0.0.0 jpshopkopi.com
 0.0.0.0 kikuku.net
