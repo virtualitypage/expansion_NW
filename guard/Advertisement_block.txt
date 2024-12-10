@@ -4,12 +4,13 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 9 December 2024
+# Last modified: 10 December 2024
 #
 
 # [広告全般]
 0.0.0.0 083083.jp
 0.0.0.0 1cho-me-front.shop-pro.jp
+0.0.0.0 1mfigure.com
 0.0.0.0 2.homeplusone.com.tw
 0.0.0.0 2110.jp
 0.0.0.0 2ndtable.com
@@ -376,6 +377,7 @@
 0.0.0.0 dentistjobsjp.club
 0.0.0.0 dentsu-ho.com
 0.0.0.0 denzaibuhin.com
+0.0.0.0 deoxyoil.base.shop
 0.0.0.0 depaco.daimaru-matsuzakaya.jp
 0.0.0.0 designpocket.jp
 0.0.0.0 dfashion.docomo.ne.jp
@@ -987,6 +989,7 @@
 0.0.0.0 kojyo-kuruma.com
 0.0.0.0 kokokara.tais.ac.jp
 0.0.0.0 kokyo111.owst.jp
+0.0.0.0 kom-system.co.jp
 0.0.0.0 komeko-times.jp
 0.0.0.0 kominami-nouen.co.jp
 0.0.0.0 konciwa.com
@@ -1047,6 +1050,7 @@
 0.0.0.0 landingpage.jinjib.co.jp
 0.0.0.0 landscapefurano.jp
 0.0.0.0 lastmemories.io
+0.0.0.0 lauwtokyo.theshop.jp
 0.0.0.0 lawschool.r.chuo-u.ac.jp
 0.0.0.0 le-chic-unjour.official-wedding.jp
 0.0.0.0 leadingtech.co.jp
@@ -1191,6 +1195,7 @@
 0.0.0.0 minoh.ooedoonsen.jp
 0.0.0.0 minotti.jp
 0.0.0.0 minsah-ring.com
+0.0.0.0 mintj.com
 0.0.0.0 miokuriteitaku.jp
 0.0.0.0 mirai-compass.net
 0.0.0.0 mirai-denchi.jp
@@ -1652,6 +1657,7 @@
 0.0.0.0 seisukeknifekappabashi.com
 0.0.0.0 sekisuinct.com
 0.0.0.0 sekokan-labo.jp
+0.0.0.0 sekokan-next.worldcorp-jp.com
 0.0.0.0 selcohome.jp
 0.0.0.0 seminar.rakurakuseisan.jp
 0.0.0.0 sen8senjya.jp
@@ -1715,6 +1721,7 @@
 0.0.0.0 shop.noevir.jp
 0.0.0.0 shop.pdr.co.jp
 0.0.0.0 shop.remozer.com
+0.0.0.0 shop.retro-n.com
 0.0.0.0 shop.saraya.com
 0.0.0.0 shop.shoyeido.co.jp
 0.0.0.0 shop.soundfun.co.jp
@@ -1777,6 +1784,7 @@
 0.0.0.0 soxai.co.jp
 0.0.0.0 sp-newhama.com
 0.0.0.0 sp.otsuka-shokai.co.jp
+0.0.0.0 spianato1618.base.shop
 0.0.0.0 spibrg.jp
 0.0.0.0 spicaglow.jp
 0.0.0.0 spidoor.jp
@@ -1920,6 +1928,7 @@
 0.0.0.0 tokuyuuchin-kyoto.jp
 0.0.0.0 tokyo-medical.jp
 0.0.0.0 tokyo-seminar-studio.com
+0.0.0.0 tokyochopsticks.com
 0.0.0.0 tokyoshigoto-young.jp
 0.0.0.0 tom-hair.com
 0.0.0.0 toma-toma.owst.jp
@@ -2697,6 +2706,7 @@
 0.0.0.0 www.innocalsolutions.com
 0.0.0.0 www.innodisk.com
 0.0.0.0 www.ins-saison.co.jp
+0.0.0.0 www.ins-vision.co.jp
 0.0.0.0 www.insight.com
 0.0.0.0 www.inspirekorea.com
 0.0.0.0 www.intel.co.jp
