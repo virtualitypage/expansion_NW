@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 10 December 2024
+# Last modified: 11 December 2024
 #
 
 # [広告全般]
@@ -655,6 +655,7 @@
 0.0.0.0 haco-renovation.jp
 0.0.0.0 hacochef.cqree.jp
 0.0.0.0 hadanara-trend.com
+0.0.0.0 hagoogi.com
 0.0.0.0 hairvino.com
 0.0.0.0 hakabanogarou.jp
 0.0.0.0 hakkaexam.hakka.gov.tw
@@ -1507,6 +1508,7 @@
 0.0.0.0 relax-job.com
 0.0.0.0 renata-clinic.com
 0.0.0.0 renoman-shinjuku.com
+0.0.0.0 renove.inove.co.jp
 0.0.0.0 rensim-store.com
 0.0.0.0 rental-coin.com
 0.0.0.0 rental-pallet.net
@@ -1664,6 +1666,7 @@
 0.0.0.0 sengokuixa.jp
 0.0.0.0 sennangyosei.jp
 0.0.0.0 senpaku.net
+0.0.0.0 service.1nego.jp
 0.0.0.0 service.homeserve.co.jp
 0.0.0.0 service.ocn.ne.jp
 0.0.0.0 seta-clinic.com
@@ -2314,6 +2317,7 @@
 0.0.0.0 www.cheer-sec.co.jp
 0.0.0.0 www.chen-mama.com.tw
 0.0.0.0 www.chidoriya.co.jp
+0.0.0.0 www.chinaplasonline.com
 0.0.0.0 www.chintai-raymond.jp
 0.0.0.0 www.chipper.jp
 0.0.0.0 www.chitetsu.co.jp
