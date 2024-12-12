@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 11 December 2024
+# Last modified: 12 December 2024
 #
 
 # [広告全般]
@@ -548,6 +548,7 @@
 0.0.0.0 fujikoumuten.co.jp
 0.0.0.0 fujimedica.com
 0.0.0.0 fujinomiya-gateway.com
+0.0.0.0 fujiya-shoyu.com
 0.0.0.0 fukoku-h.co.jp
 0.0.0.0 fukubekaji.shop-pro.jp
 0.0.0.0 fukui-presentcpn.jp
@@ -2382,6 +2383,7 @@
 0.0.0.0 www.cyberblue.co.jp
 0.0.0.0 www.d-cart.jp
 0.0.0.0 www.daigakujuken.com
+0.0.0.0 www.daiichisankyo-hc.co.jp
 0.0.0.0 www.daiichisankyo.co.jp
 0.0.0.0 www.daiichisemi.net
 0.0.0.0 www.daiken.jp
@@ -2614,6 +2616,7 @@
 0.0.0.0 www.hanshin-exp.co.jp
 0.0.0.0 www.hanshow.com
 0.0.0.0 www.hanwha-rerise.jp
+0.0.0.0 www.haotalks.com
 0.0.0.0 www.happiness-direct.com
 0.0.0.0 www.happy-mealkit.com
 0.0.0.0 www.happy-semi.com
@@ -2691,6 +2694,7 @@
 0.0.0.0 www.ichiyanagi-sougu.co.jp
 0.0.0.0 www.icsics.co.jp
 0.0.0.0 www.icturn4.com
+0.0.0.0 www.idaten.ne.jp
 0.0.0.0 www.idc.hinet.net
 0.0.0.0 www.ie-miru.jp
 0.0.0.0 www.ieshil.com
@@ -2835,6 +2839,7 @@
 0.0.0.0 www.kewpie.co.jp
 0.0.0.0 www.keyence-foundation.or.jp
 0.0.0.0 www.ki-rin.biz
+0.0.0.0 www.kikaiboshi.jp
 0.0.0.0 www.kikyonooka.or.jp
 0.0.0.0 www.kindai.ac.jp
 0.0.0.0 www.kinoshita-koumuten.co.jp
@@ -2864,6 +2869,7 @@
 0.0.0.0 www.kodomo-poster2024.metro.tokyo.lg.jp
 0.0.0.0 www.kodomokoho.metro.tokyo.lg.jp
 0.0.0.0 www.kodomoseisaku.metro.tokyo.lg.jp
+0.0.0.0 www.kohs.ed.jp
 0.0.0.0 www.koi-para.net
 0.0.0.0 www.kokokara-care.com
 0.0.0.0 www.kokushikan.ac.jp
@@ -3576,6 +3582,7 @@
 0.0.0.0 www.transgrip.co.jp
 0.0.0.0 www.transnusa.co.id
 0.0.0.0 www.travellerinn.jp
+0.0.0.0 www.trendmicro.com
 0.0.0.0 www.trialfoods.jp
 0.0.0.0 www.tripetonlineshop.com.tw
 0.0.0.0 www.triumphmotorcycles.jp
