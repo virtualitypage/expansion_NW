@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 12 December 2024
+# Last modified: 13 December 2024
 #
 
 # [広告全般]
@@ -1641,6 +1641,7 @@
 0.0.0.0 sb.trend-news.info
 0.0.0.0 sb1.genpeiseiyaku.com
 0.0.0.0 sb2.juku.st
+0.0.0.0 sc-tennoji.jp
 0.0.0.0 sc1.axtos.com
 0.0.0.0 scenery-bi.com
 0.0.0.0 schnauzer.breeders.jp
@@ -2810,6 +2811,7 @@
 0.0.0.0 www.kaitori-daikichi.jp
 0.0.0.0 www.kaitori-massan.com
 0.0.0.0 www.kaitoritop.jp
+0.0.0.0 www.kaji-kawa.jp
 0.0.0.0 www.kamine.co.jp
 0.0.0.0 www.kanagawa-subaru.com
 0.0.0.0 www.kanagawa-u.ac.jp
@@ -3322,6 +3324,7 @@
 0.0.0.0 www.robotplanet.site
 0.0.0.0 www.roland.com
 0.0.0.0 www.roombra.jp
+0.0.0.0 www.roomie.jp
 0.0.0.0 www.rooms-taishodo.co.jp
 0.0.0.0 www.ropepartner.com
 0.0.0.0 www.rosemont-swiss.com
