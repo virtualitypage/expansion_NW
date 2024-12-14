@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 13 December 2024
+# Last modified: 14 December 2024
 #
 
 # [広告全般]
@@ -582,6 +582,7 @@
 0.0.0.0 gar.mrajkgea.top
 0.0.0.0 garage.plus.co.jp
 0.0.0.0 garireo.co.jp
+0.0.0.0 gatch.softplanner.co.jp
 0.0.0.0 gate02.ne.jp
 0.0.0.0 gcloud.genbasupport.com
 0.0.0.0 gemer.jp
@@ -592,6 +593,7 @@
 0.0.0.0 gero-present.com
 0.0.0.0 getnews.jp
 0.0.0.0 ghibli-park.jp
+0.0.0.0 gicjp.com
 0.0.0.0 gifunavi.jp
 0.0.0.0 gindaco-cpshop.com
 0.0.0.0 gindaco-tsudanuma.owst.jp
@@ -682,6 +684,7 @@
 0.0.0.0 haruwari.com
 0.0.0.0 haseko-bp.jp
 0.0.0.0 hashibukuro.com
+0.0.0.0 hashida-giken.com
 0.0.0.0 hatarakujob.com
 0.0.0.0 hayatahome.com
 0.0.0.0 hc.kowa.co.jp
@@ -943,6 +946,7 @@
 0.0.0.0 kaza-design.com
 0.0.0.0 kazoku-shintaku.org
 0.0.0.0 kddi.smartdrone.co.jp
+0.0.0.0 keiei-shinri.or.jp
 0.0.0.0 keihan-smile.com
 0.0.0.0 keiho-recycle.jp
 0.0.0.0 keiji.lawyers-high.jp
@@ -1232,6 +1236,7 @@
 0.0.0.0 mothers-tenshiba.com
 0.0.0.0 movie-marketing.com
 0.0.0.0 mozsweden.com
+0.0.0.0 mps.maruc-group.jp
 0.0.0.0 msb.loofen.jp
 0.0.0.0 mtg-campaign.com
 0.0.0.0 mtg-jp.com
@@ -1444,6 +1449,7 @@
 0.0.0.0 pr1.takami-labo.com
 0.0.0.0 praise-amagasaki.com
 0.0.0.0 pre.ujoygames.com
+0.0.0.0 premiere-jp.com
 0.0.0.0 premiumstonegallery.com
 0.0.0.0 present-wine-shop.derisomu.com
 0.0.0.0 present.baby-calendar.com
@@ -1578,6 +1584,7 @@
 0.0.0.0 sasatto.jp
 0.0.0.0 sauna-rezone.com
 0.0.0.0 saunavi.net
+0.0.0.0 sawamura-architect.jp
 0.0.0.0 sawaraguchi-cl.jp
 0.0.0.0 sawatdii-kha.info
 0.0.0.0 sb-apo-buster3.discover-news.tokyo
@@ -1698,6 +1705,7 @@
 0.0.0.0 shima-corp.com
 0.0.0.0 shimane.dd.daihatsu.co.jp
 0.0.0.0 shimanomi.com
+0.0.0.0 shinagawa-skin.com
 0.0.0.0 shinchiku.homes.co.jp
 0.0.0.0 shingakunet.com
 0.0.0.0 shingon.jp
@@ -1809,6 +1817,7 @@
 0.0.0.0 startup.ftstandard.jp
 0.0.0.0 static.hfm.com
 0.0.0.0 static.locari.jp
+0.0.0.0 step.sekokan-labo.jp
 0.0.0.0 stock-house.jp
 0.0.0.0 stockedges.com
 0.0.0.0 store-jp.nintendo.com
@@ -1899,6 +1908,7 @@
 0.0.0.0 tcd.joetsu-dc.com
 0.0.0.0 tck-racecampaign2024.com
 0.0.0.0 td-holdings.tokyocameraclub.com
+0.0.0.0 tebanashi.mira-ie.co.jp
 0.0.0.0 teknitape.com
 0.0.0.0 teleboat-cp.jp
 0.0.0.0 telling.asahi.com
@@ -1919,6 +1929,7 @@
 0.0.0.0 thisischiffoncake.com
 0.0.0.0 three-v-amenity.co.jp
 0.0.0.0 tib.metro.tokyo.lg.jp
+0.0.0.0 ticket.skyperfectv.co.jp
 0.0.0.0 timee.co.jp
 0.0.0.0 timesbiz.jp
 0.0.0.0 timume.com
@@ -1996,6 +2007,7 @@
 0.0.0.0 umiuma.jp
 0.0.0.0 unaginobori-hamamatsu.jp
 0.0.0.0 uncf.org
+0.0.0.0 underground-group.net
 0.0.0.0 unibag.jp
 0.0.0.0 unicorn-overlord.com
 0.0.0.0 universe-co.com
@@ -2111,6 +2123,7 @@
 0.0.0.0 www.a-hosho.co.jp
 0.0.0.0 www.a-living.jp
 0.0.0.0 www.a-one.co.jp
+0.0.0.0 www.a1-plan.com
 0.0.0.0 www.abarth.jp
 0.0.0.0 www.abc-mart.net
 0.0.0.0 www.able.co.jp
@@ -2268,6 +2281,7 @@
 0.0.0.0 www.budoo-wedding.com
 0.0.0.0 www.buil-repo.com
 0.0.0.0 www.bulksports.com
+0.0.0.0 www.bummeido.com
 0.0.0.0 www.business-crew.co.jp
 0.0.0.0 www.businessweekly.com.tw
 0.0.0.0 www.buysellonline.jp
@@ -2726,6 +2740,7 @@
 0.0.0.0 www.ipet-direct.com
 0.0.0.0 www.ipros.jp
 0.0.0.0 www.iput.ac.jp
+0.0.0.0 www.ire-dc.com
 0.0.0.0 www.irisohyama.co.jp
 0.0.0.0 www.irisplaza.co.jp
 0.0.0.0 www.ishibashi-mfg.com
@@ -2807,6 +2822,7 @@
 0.0.0.0 www.kahm-art.co.jp
 0.0.0.0 www.kaigoagent.com
 0.0.0.0 www.kaishu.info
+0.0.0.0 www.kaisuimaren.co.jp
 0.0.0.0 www.kaitaitochigi.com
 0.0.0.0 www.kaitori-daikichi.jp
 0.0.0.0 www.kaitori-massan.com
@@ -3607,6 +3623,7 @@
 0.0.0.0 www.tymetro.com.tw
 0.0.0.0 www.u-can.co.jp
 0.0.0.0 www.u-master.net
+0.0.0.0 www.u-space.com
 0.0.0.0 www.ube.co.jp
 0.0.0.0 www.ucc.co.jp
 0.0.0.0 www.ucf.jp
