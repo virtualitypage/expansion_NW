@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 14 December 2024
+# Last modified: 15 December 2024
 #
 
 # [広告全般]
@@ -115,6 +115,7 @@
 0.0.0.0 aoba-jb.com
 0.0.0.0 apamanshop-nanba.net
 0.0.0.0 apamanshop-tennoji.net
+0.0.0.0 apc-jp.com
 0.0.0.0 apexgirls.neorigin.com
 0.0.0.0 apollostation-chubu.com
 0.0.0.0 appleone.shop
@@ -685,6 +686,7 @@
 0.0.0.0 haseko-bp.jp
 0.0.0.0 hashibukuro.com
 0.0.0.0 hashida-giken.com
+0.0.0.0 hataraku-search.com
 0.0.0.0 hatarakujob.com
 0.0.0.0 hayatahome.com
 0.0.0.0 hc.kowa.co.jp
@@ -807,6 +809,7 @@
 0.0.0.0 isj-enterprise.com
 0.0.0.0 islandjourney-wedding.jp
 0.0.0.0 islewhite.com
+0.0.0.0 isodashika.com
 0.0.0.0 issyou-nishinakajima.owst.jp
 0.0.0.0 istanbul.goturkiye.com
 0.0.0.0 it-shien.smrj.go.jp
@@ -1233,6 +1236,7 @@
 0.0.0.0 mokutown.jp
 0.0.0.0 money-college.org
 0.0.0.0 monji.tech
+0.0.0.0 moriya-contact.com
 0.0.0.0 mothers-tenshiba.com
 0.0.0.0 movie-marketing.com
 0.0.0.0 mozsweden.com
@@ -1520,6 +1524,7 @@
 0.0.0.0 rental-coin.com
 0.0.0.0 rental-pallet.net
 0.0.0.0 rescue-suido.com
+0.0.0.0 reservation.aetashotels.com
 0.0.0.0 reservation.medical-force.com
 0.0.0.0 reserve.star7.jp
 0.0.0.0 retail.ksp-sp.com
@@ -1541,6 +1546,7 @@
 0.0.0.0 roseoncheeks.com
 0.0.0.0 roundi.us
 0.0.0.0 rousai-zangyou-bengoshi.com
+0.0.0.0 rs-oita.net
 0.0.0.0 runway-webstore.com
 0.0.0.0 rxr.happyelements.co.jp
 0.0.0.0 ryorinin.ihcsa.or.jp
@@ -1574,6 +1580,7 @@
 0.0.0.0 sales-adventure.jp
 0.0.0.0 salon-de-alfurd.jp
 0.0.0.0 samurai-law.com
+0.0.0.0 sanageonsen.p-castle.co.jp
 0.0.0.0 sananacafe.ecforce.superb-hd.com
 0.0.0.0 sandesica.jp
 0.0.0.0 sanriku-jouban-umeemon.jp
@@ -2114,6 +2121,7 @@
 0.0.0.0 www.5academy.com
 0.0.0.0 www.6nen4kumi.com
 0.0.0.0 www.7-7maruka.com
+0.0.0.0 www.7th9lodge.com
 0.0.0.0 www.816kinki.com
 0.0.0.0 www.85cafe.com
 0.0.0.0 www.89waku.com
@@ -3243,6 +3251,7 @@
 0.0.0.0 www.penta-lab.com
 0.0.0.0 www.personalhealth.jp
 0.0.0.0 www.pet-coo.com
+0.0.0.0 www.pet-coo.net
 0.0.0.0 www.peugeot.co.jp
 0.0.0.0 www.pfizer-covid19.jp
 0.0.0.0 www.pgs-home-recruit.jp
@@ -3250,6 +3259,7 @@
 0.0.0.0 www.phoplus.online
 0.0.0.0 www.photoruction.com
 0.0.0.0 www.phys.kanagawa-u.ac.jp
+0.0.0.0 www.piacere-kounanyamate.net
 0.0.0.0 www.pitatoku.com
 0.0.0.0 www.pizzahut-job.com
 0.0.0.0 www.pjaowl.com
@@ -3462,6 +3472,7 @@
 0.0.0.0 www.sony.jp
 0.0.0.0 www.sonysonpo.co.jp
 0.0.0.0 www.sophos.com
+0.0.0.0 www.sorauki.llc
 0.0.0.0 www.sougaku-academy.jp
 0.0.0.0 www.sougi-soudan.jp
 0.0.0.0 www.sousou.co.jp
@@ -3590,6 +3601,7 @@
 0.0.0.0 www.topcard.co.jp
 0.0.0.0 www.toritsuko.metro.tokyo.lg.jp
 0.0.0.0 www.torus.co.jp
+0.0.0.0 www.toshiba-lifestyle.com
 0.0.0.0 www.totalrepair-fukasawa.com
 0.0.0.0 www.town.okuma.fukushima.jp
 0.0.0.0 www.toyama-clean.com
@@ -3625,6 +3637,7 @@
 0.0.0.0 www.u-master.net
 0.0.0.0 www.u-space.com
 0.0.0.0 www.ube.co.jp
+0.0.0.0 www.uberguild.net
 0.0.0.0 www.ucc.co.jp
 0.0.0.0 www.ucf.jp
 0.0.0.0 www.uehara-shinkyuin.com
