@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 16 December 2024
+# Last modified: 17 December 2024
 #
 
 # [広告全般]
@@ -1133,6 +1133,7 @@
 0.0.0.0 m.chitetsu.co.jp
 0.0.0.0 m.momoshop.com.tw
 0.0.0.0 m.qoo10.jp
+0.0.0.0 m.shein.com
 0.0.0.0 m.unove.jp
 0.0.0.0 m001.mljinc.jp
 0.0.0.0 m004.arj7177.jp
@@ -1635,6 +1636,7 @@
 0.0.0.0 sb-seven.service-info.jp
 0.0.0.0 sb-tenal5.ourservice.jp
 0.0.0.0 sb-testosuteron.discover-news.tokyo
+0.0.0.0 sb-topick-news.discover-news.tokyo
 0.0.0.0 sb-used-buyers.service-info.jp
 0.0.0.0 sb-viargyqt.discover-news.tokyo
 0.0.0.0 sb-viazol.newsanything.tokyo
@@ -1678,6 +1680,7 @@
 0.0.0.0 sealy-jp.com
 0.0.0.0 search.sbisec.co.jp
 0.0.0.0 sec.pandanet.co.jp
+0.0.0.0 secev.co.jp
 0.0.0.0 secure.proglab.education
 0.0.0.0 seikatsu-daiji1616.biz
 0.0.0.0 seikatsu-shien.com
@@ -1929,6 +1932,7 @@
 0.0.0.0 tck-racecampaign2024.com
 0.0.0.0 td-holdings.tokyocameraclub.com
 0.0.0.0 tebanashi.mira-ie.co.jp
+0.0.0.0 techgala.jp
 0.0.0.0 teknitape.com
 0.0.0.0 teleboat-cp.jp
 0.0.0.0 telling.asahi.com
