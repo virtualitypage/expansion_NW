@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 17 December 2024
+# Last modified: 18 December 2024
 #
 
 # [広告全般]
@@ -509,6 +509,7 @@
 0.0.0.0 famousbbq.com
 0.0.0.0 fan-blogs.com
 0.0.0.0 fanddf.net
+0.0.0.0 faseminar.com
 0.0.0.0 fashionbox.tkj.jp
 0.0.0.0 fasteasy.io
 0.0.0.0 fc.e-daikoku.com
@@ -599,6 +600,7 @@
 0.0.0.0 ghibli-park.jp
 0.0.0.0 gicjp.com
 0.0.0.0 gifunavi.jp
+0.0.0.0 gigako-esim.com
 0.0.0.0 gindaco-cpshop.com
 0.0.0.0 gindaco-tsudanuma.owst.jp
 0.0.0.0 ginza-cruise.co.jp
@@ -1441,6 +1443,7 @@
 0.0.0.0 pitariko.jp
 0.0.0.0 pitat-house.info
 0.0.0.0 pitathouse-nishinagahori.jp
+0.0.0.0 pl.machibiz.info
 0.0.0.0 plan.117.co.jp
 0.0.0.0 planetarium-cafebar-misora.owst.jp
 0.0.0.0 platte.jp
@@ -1819,6 +1822,7 @@
 0.0.0.0 souzokuhouki-kizuna.com
 0.0.0.0 soxai.co.jp
 0.0.0.0 sp-newhama.com
+0.0.0.0 sp.jra.jp
 0.0.0.0 sp.otsuka-shokai.co.jp
 0.0.0.0 spianato1618.base.shop
 0.0.0.0 spibrg.jp
