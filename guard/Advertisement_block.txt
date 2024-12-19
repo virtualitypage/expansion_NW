@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 18 December 2024
+# Last modified: 19 December 2024
 #
 
 # [広告全般]
@@ -1146,6 +1146,7 @@
 0.0.0.0 m121.mitsuoka-osaka.jp
 0.0.0.0 ma-dodai.daido-life.co.jp
 0.0.0.0 machibiz.jp
+0.0.0.0 mackaikei.jp
 0.0.0.0 madakana-edohaku.jp
 0.0.0.0 madama-hada.jp
 0.0.0.0 madream.jp
@@ -1756,6 +1757,7 @@
 0.0.0.0 shop.joshin.co.jp
 0.0.0.0 shop.kaneko-jewelry.jp
 0.0.0.0 shop.lumieu.jp
+0.0.0.0 shop.mahoroba-inter.com
 0.0.0.0 shop.nakano-group.co.jp
 0.0.0.0 shop.noevir.jp
 0.0.0.0 shop.pdr.co.jp
@@ -1926,6 +1928,7 @@
 0.0.0.0 tansei-legaloffice.jp
 0.0.0.0 tarezou.com
 0.0.0.0 targety.jp
+0.0.0.0 tarspay.com
 0.0.0.0 tasaki-s.co.jp
 0.0.0.0 tatansweets.com
 0.0.0.0 tateyoko-kazuma.com
@@ -2071,6 +2074,7 @@
 0.0.0.0 vrcon.forum8.co.jp
 0.0.0.0 vti-glovebox.com
 0.0.0.0 wadainohon.com
+0.0.0.0 wakayama.vc-dealer.jp
 0.0.0.0 wakurino.work
 0.0.0.0 walar.co.jp
 0.0.0.0 walife.co.jp
@@ -3294,6 +3298,7 @@
 0.0.0.0 www.pizzahut-job.com
 0.0.0.0 www.pjaowl.com
 0.0.0.0 www.pkobp.pl
+0.0.0.0 www.plage-bb.co.jp
 0.0.0.0 www.plan-c.co.jp
 0.0.0.0 www.playstation.com
 0.0.0.0 www.plumsteadvilleinn.com
