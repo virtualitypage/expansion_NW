@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 19 December 2024
+# Last modified: 20 December 2024
 #
 
 # [広告全般]
@@ -140,6 +140,7 @@
 0.0.0.0 artmac.co.jp
 0.0.0.0 artvivant-fantasyart.net
 0.0.0.0 aruyo22.jp
+0.0.0.0 asahi-biyou.or.jp
 0.0.0.0 asahidia-jewely.shop
 0.0.0.0 asahikawa-korpokkur.com
 0.0.0.0 asahikawa-nissan.com
@@ -565,6 +566,7 @@
 0.0.0.0 fukutoku.ed.jp
 0.0.0.0 fukutujishiki.com
 0.0.0.0 fun.asahi-gf.co.jp
+0.0.0.0 funbuy-shop.com
 0.0.0.0 funeralsjp.club
 0.0.0.0 funplay.hinet.net
 0.0.0.0 furnituremaker.co.jp
@@ -789,6 +791,7 @@
 0.0.0.0 in.fujii-worldforecast.jp
 0.0.0.0 in.weissratings.jp
 0.0.0.0 indonoaji2024.campar.jp
+0.0.0.0 infini-home.jp
 0.0.0.0 info-boatrace.jp
 0.0.0.0 info.fishernantucket.com
 0.0.0.0 info.km-group.co.jp
@@ -864,6 +867,7 @@
 0.0.0.0 jp.appisfree.com
 0.0.0.0 jp.bonaventura.shop
 0.0.0.0 jp.cryptolessnft.com
+0.0.0.0 jp.danner.com
 0.0.0.0 jp.discovericl.com
 0.0.0.0 jp.drmartens.com
 0.0.0.0 jp.ext.hp.com
@@ -995,6 +999,7 @@
 0.0.0.0 kobe-u-clinic.jp
 0.0.0.0 kobe.dsautomobiles-dealer.jp
 0.0.0.0 kobekizuna.hp.peraichi.com
+0.0.0.0 kobesoudan.jp.net
 0.0.0.0 kobetsushido-shibuya.com
 0.0.0.0 kochi-be-farmer.jp
 0.0.0.0 kochi-kenkochallenge.jp
@@ -1158,6 +1163,7 @@
 0.0.0.0 make-mastery.com
 0.0.0.0 makinushi-tk.com
 0.0.0.0 makita-craft.co.jp
+0.0.0.0 mall.humanhealth.com.hk
 0.0.0.0 maltese.breeders.jp
 0.0.0.0 manabi-naoshi.mhlw.go.jp
 0.0.0.0 mangamatsuri.kodansha.co.jp
@@ -1508,6 +1514,7 @@
 0.0.0.0 r1-usc1.zemanta.com
 0.0.0.0 race.nishinippon.co.jp
 0.0.0.0 raichoshrine.owst.jp
+0.0.0.0 railway.jr-central.co.jp
 0.0.0.0 rakugo-zanmai.pia.co.jp
 0.0.0.0 rakuori.com
 0.0.0.0 rakurakusatei.com
@@ -2393,6 +2400,7 @@
 0.0.0.0 www.city.nagoya.jp
 0.0.0.0 www.city.osaka.lg.jp
 0.0.0.0 www.ck-saikouchiku.go.jp
+0.0.0.0 www.ckkdining.com
 0.0.0.0 www.clickkabu365.jp
 0.0.0.0 www.clinicfor.life
 0.0.0.0 www.clipstudio.net
@@ -2629,6 +2637,7 @@
 0.0.0.0 www.goo-net.com
 0.0.0.0 www.good-trip-ex.com
 0.0.0.0 www.goodseeco.com
+0.0.0.0 www.goodsmile.com
 0.0.0.0 www.goodstory.jp
 0.0.0.0 www.goolip.jp
 0.0.0.0 www.govconnection.com
@@ -2736,6 +2745,7 @@
 0.0.0.0 www.hs-orange.com
 0.0.0.0 www.hs.bgu.ac.jp
 0.0.0.0 www.htv.ne.jp
+0.0.0.0 www.hutchgo.com.hk
 0.0.0.0 www.hyo-med.ac.jp
 0.0.0.0 www.hyundai.com
 0.0.0.0 www.i-koike.jp
@@ -2853,6 +2863,7 @@
 0.0.0.0 www.jutakuhaku.co.jp
 0.0.0.0 www.jyubako.com
 0.0.0.0 www.k-idea.jp
+0.0.0.0 www.k-wam.jp
 0.0.0.0 www.kabu-nagasaka.co.jp
 0.0.0.0 www.kadokawa.co.jp
 0.0.0.0 www.kagaiboushi.metro.tokyo.lg.jp
@@ -2971,6 +2982,7 @@
 0.0.0.0 www.lfoita.co.jp
 0.0.0.0 www.lg.com
 0.0.0.0 www.libertynet.jp
+0.0.0.0 www.liebherr.com
 0.0.0.0 www.life-n.jp
 0.0.0.0 www.ligne-roset.jp
 0.0.0.0 www.linemo.jp
@@ -3156,6 +3168,7 @@
 0.0.0.0 www.nipponham.co.jp
 0.0.0.0 www.nipponkaigishitsu.com
 0.0.0.0 www.nipponmanpower.co.jp
+0.0.0.0 www.nipponpaint.com.hk
 0.0.0.0 www.nireco.jp
 0.0.0.0 www.nirvanastone.jp
 0.0.0.0 www.nishikawa1566.com
@@ -3731,6 +3744,7 @@
 0.0.0.0 www.wills.co.jp
 0.0.0.0 www.wine-party.jp
 0.0.0.0 www.wing-rev.co.jp
+0.0.0.0 www.wingontravel.com
 0.0.0.0 www.wmberg.com
 0.0.0.0 www.wonnesscompany.com
 0.0.0.0 www.woodtec.co.jp
