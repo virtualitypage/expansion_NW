@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 20 December 2024
+# Last modified: 21 December 2024
 #
 
 # [広告全般]
@@ -384,6 +384,7 @@
 0.0.0.0 deoxyoil.base.shop
 0.0.0.0 depaco.daimaru-matsuzakaya.jp
 0.0.0.0 designpocket.jp
+0.0.0.0 developer.android.com
 0.0.0.0 dfashion.docomo.ne.jp
 0.0.0.0 dg-at.fg-games.co.jp
 0.0.0.0 didoritei-hankyutsukaguchi.owst.jp
@@ -858,6 +859,7 @@
 0.0.0.0 jobs1.jp
 0.0.0.0 jod.jsports.co.jp
 0.0.0.0 join.biglobe.ne.jp
+0.0.0.0 jolism.com
 0.0.0.0 josaigakuen.ac.jp
 0.0.0.0 joshinweb.jp
 0.0.0.0 joyfit-west.jp
@@ -1123,6 +1125,7 @@
 0.0.0.0 lp.merpay.com
 0.0.0.0 lp.nuviasmiles.com
 0.0.0.0 lp.resortbaito-dive.com
+0.0.0.0 lp.scala-com.jp
 0.0.0.0 lp.sokuwork.com
 0.0.0.0 lp.studyinternational.com
 0.0.0.0 lp.zipair.net
@@ -1613,6 +1616,7 @@
 0.0.0.0 sapporotoyota-northernbox.jp
 0.0.0.0 sasaki-kougyo.com
 0.0.0.0 sasatto.jp
+0.0.0.0 sassa-shop.com
 0.0.0.0 sauna-rezone.com
 0.0.0.0 saunavi.net
 0.0.0.0 sawamura-architect.jp
@@ -1711,6 +1715,7 @@
 0.0.0.0 senpaku.net
 0.0.0.0 service.1nego.jp
 0.0.0.0 service.homeserve.co.jp
+0.0.0.0 service.itcenex.com
 0.0.0.0 service.ocn.ne.jp
 0.0.0.0 seta-clinic.com
 0.0.0.0 setupnext-project.com
@@ -1945,6 +1950,7 @@
 0.0.0.0 tcd.joetsu-dc.com
 0.0.0.0 tck-racecampaign2024.com
 0.0.0.0 td-holdings.tokyocameraclub.com
+0.0.0.0 teamix.click
 0.0.0.0 tebanashi.mira-ie.co.jp
 0.0.0.0 techgala.jp
 0.0.0.0 teknitape.com
@@ -2025,6 +2031,7 @@
 0.0.0.0 tsujiyo.jp
 0.0.0.0 tsuna-ag.tsuna-ag.com
 0.0.0.0 tsunagaru-design.co.jp
+0.0.0.0 tsutaya.tsite.jp
 0.0.0.0 turboterminaltractors.com
 0.0.0.0 tver.jp
 0.0.0.0 tw-img.vpon.com
@@ -3563,6 +3570,7 @@
 0.0.0.0 www.suzuki.co.jp
 0.0.0.0 www.swan-kg.com
 0.0.0.0 www.sy32.jp
+0.0.0.0 www.symphonyhall.jp
 0.0.0.0 www.t-fal.co.jp
 0.0.0.0 www.t-rough.jp
 0.0.0.0 www.tac-school.co.jp
@@ -3636,6 +3644,7 @@
 0.0.0.0 www.tokyo-dome.co.jp
 0.0.0.0 www.tokyo-kasei.ac.jp
 0.0.0.0 www.tokyo-repair.jp
+0.0.0.0 www.tokyo-skytree.jp
 0.0.0.0 www.tokyodomecity.anitouch.com
 0.0.0.0 www.tokyointerior.co.jp
 0.0.0.0 www.tokyomk.com
@@ -3695,6 +3704,7 @@
 0.0.0.0 www.unicontrols.co.jp
 0.0.0.0 www.uniqloichiropost.com
 0.0.0.0 www.universal-robots.com
+0.0.0.0 www.uno-dental.net
 0.0.0.0 www.unzen-mikado.net
 0.0.0.0 www.uob.com.sg
 0.0.0.0 www.uqwimax.jp
