@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 21 December 2024
+# Last modified: 22 December 2024
 #
 
 # [広告全般]
@@ -1005,6 +1005,7 @@
 0.0.0.0 kobetsushido-shibuya.com
 0.0.0.0 kochi-be-farmer.jp
 0.0.0.0 kochi-kenkochallenge.jp
+0.0.0.0 kochi02.kyoukaikenpo.or.jp
 0.0.0.0 koharubiyoricafe.jimdo.com
 0.0.0.0 kojinsoken.co.jp
 0.0.0.0 kojosoko-koniken.com
@@ -2497,6 +2498,7 @@
 0.0.0.0 www.dusit.com
 0.0.0.0 www.duskin-hozumi.com
 0.0.0.0 www.dynacjapan.com
+0.0.0.0 www.dynam.jp
 0.0.0.0 www.e-defi.com
 0.0.0.0 www.e-fitpro.jp
 0.0.0.0 www.e-furutani.com
