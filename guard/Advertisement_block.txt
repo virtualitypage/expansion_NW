@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 22 December 2024
+# Last modified: 23 December 2024
 #
 
 # [広告全般]
@@ -508,6 +508,7 @@
 0.0.0.0 fa.toray-enter.co.jp
 0.0.0.0 fairfield-michinoeki-japan.com
 0.0.0.0 fam-8.net
+0.0.0.0 family.saraya.com
 0.0.0.0 famousbbq.com
 0.0.0.0 fan-blogs.com
 0.0.0.0 fanddf.net
@@ -1539,6 +1540,7 @@
 0.0.0.0 recruit.takuichi.okinawa
 0.0.0.0 recruit.tsukui.net
 0.0.0.0 refine-midori.net
+0.0.0.0 refobell.com
 0.0.0.0 regimentvalkyrie.com
 0.0.0.0 register-form.movabletype.io
 0.0.0.0 register.hfm.com
@@ -1793,6 +1795,7 @@
 0.0.0.0 side-kom.com
 0.0.0.0 sienca.jp
 0.0.0.0 sig-navi.com
+0.0.0.0 signup.sparta.app
 0.0.0.0 simple-h.com
 0.0.0.0 sirok.jp
 0.0.0.0 sites.google.com
@@ -1848,6 +1851,7 @@
 0.0.0.0 spopita.jp
 0.0.0.0 sportskart.com
 0.0.0.0 spur.hpplus.jp
+0.0.0.0 spyera.com
 0.0.0.0 sq.morinaga.co.jp
 0.0.0.0 squareup.com
 0.0.0.0 ssl-system7.com
@@ -2969,6 +2973,7 @@
 0.0.0.0 www.ktv.jp
 0.0.0.0 www.kucho-houei.com
 0.0.0.0 www.kuchou-fuku.com
+0.0.0.0 www.kumada-sr.com
 0.0.0.0 www.kumamoto-hsu.ac.jp
 0.0.0.0 www.kungfuds.l4t.biz
 0.0.0.0 www.kyjlaw.com
@@ -3285,6 +3290,7 @@
 0.0.0.0 www.otv.co.jp
 0.0.0.0 www.ouchiku.com
 0.0.0.0 www.ouj.ac.jp
+0.0.0.0 www.ous.ac.jp
 0.0.0.0 www.outlethome.jp
 0.0.0.0 www.ozekihibachi2u.com
 0.0.0.0 www.p-minerva.com
@@ -3577,6 +3583,7 @@
 0.0.0.0 www.t-rough.jp
 0.0.0.0 www.tac-school.co.jp
 0.0.0.0 www.taiho.co.jp
+0.0.0.0 www.taiseihome.net
 0.0.0.0 www.taishu.co.jp
 0.0.0.0 www.taiwan-panorama.com
 0.0.0.0 www.taiyakan.co.jp
@@ -3587,6 +3594,7 @@
 0.0.0.0 www.takashimaya-global.com
 0.0.0.0 www.takashimaya.co.jp
 0.0.0.0 www.takeheiro.com
+0.0.0.0 www.takiishi.co.jp
 0.0.0.0 www.takinogawa.ed.jp
 0.0.0.0 www.tanaka-denki.co.jp
 0.0.0.0 www.tanakagakushukai.com
