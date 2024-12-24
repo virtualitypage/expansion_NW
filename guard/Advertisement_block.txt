@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 23 December 2024
+# Last modified: 24 December 2024
 #
 
 # [広告全般]
@@ -431,6 +431,7 @@
 0.0.0.0 dsp.logly.co.jp
 0.0.0.0 duskin-cashlesscp.com
 0.0.0.0 duskin-sm-business.com
+0.0.0.0 dwmall.westjr.co.jp
 0.0.0.0 dwqrkt.xyz
 0.0.0.0 dxnavi.com
 0.0.0.0 dynabook.com
@@ -451,6 +452,7 @@
 0.0.0.0 ecield.temona.co.jp
 0.0.0.0 eco-life-smile.com
 0.0.0.0 eco-mon.jp
+0.0.0.0 ecoloquia.co.jp
 0.0.0.0 efex.co.jp
 0.0.0.0 egolf.jp
 0.0.0.0 ehime-hanakaido.com
@@ -697,6 +699,7 @@
 0.0.0.0 hashida-giken.com
 0.0.0.0 hataraku-search.com
 0.0.0.0 hatarakujob.com
+0.0.0.0 hayabusa-kk.com
 0.0.0.0 hayatahome.com
 0.0.0.0 hc.kowa.co.jp
 0.0.0.0 hc.kyodoprinting.co.jp
@@ -2758,6 +2761,7 @@
 0.0.0.0 www.hs-orange.com
 0.0.0.0 www.hs.bgu.ac.jp
 0.0.0.0 www.htv.ne.jp
+0.0.0.0 www.huiaiqingganvip.com
 0.0.0.0 www.hutchgo.com.hk
 0.0.0.0 www.hyo-med.ac.jp
 0.0.0.0 www.hyundai.com
@@ -3190,6 +3194,7 @@
 0.0.0.0 www.nisiki-kai.com
 0.0.0.0 www.nisikido.net
 0.0.0.0 www.nissan.co.jp
+0.0.0.0 www.nisshin-seifun-welna.com
 0.0.0.0 www.nisshin.com
 0.0.0.0 www.nisshinfire.co.jp
 0.0.0.0 www.nissin-shoji.net
@@ -3510,6 +3515,7 @@
 0.0.0.0 www.sinto.co.jp
 0.0.0.0 www.sitepublis.net
 0.0.0.0 www.sizenshokken.co.jp
+0.0.0.0 www.sjmresorts.com
 0.0.0.0 www.skin-c.com
 0.0.0.0 www.sky-career.jp
 0.0.0.0 www.skybldg.co.jp
@@ -3614,6 +3620,7 @@
 0.0.0.0 www.teksystems.com
 0.0.0.0 www.tel-tkl-midcareer.com
 0.0.0.0 www.tele.soumu.go.jp
+0.0.0.0 www.tenant-kyoto.jp
 0.0.0.0 www.tenjikan.com
 0.0.0.0 www.tensyou.com
 0.0.0.0 www.tepco.co.jp
@@ -3843,6 +3850,7 @@
 0.0.0.0 yappari-hawaii.jp
 0.0.0.0 yg-tax.net
 0.0.0.0 yhtop.co
+0.0.0.0 yobito.net
 0.0.0.0 yodomachi-cycling2024.com
 0.0.0.0 yokanavi.com
 0.0.0.0 yonex-kaisyu.co.jp
