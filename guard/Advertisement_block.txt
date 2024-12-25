@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 24 December 2024
+# Last modified: 25 December 2024
 #
 
 # [広告全般]
@@ -328,6 +328,7 @@
 0.0.0.0 common3.pref.akita.lg.jp
 0.0.0.0 comorebi-camp.jp
 0.0.0.0 company.rpahack.tech
+0.0.0.0 compet.jp
 0.0.0.0 conosur-lovers.jp
 0.0.0.0 consul-data-bank.com
 0.0.0.0 content.rview.com
@@ -1837,6 +1838,7 @@
 0.0.0.0 sosokan-shop.net
 0.0.0.0 sotokoto-online.jp
 0.0.0.0 souda-kyoto.jp
+0.0.0.0 soudan.osakaben.or.jp
 0.0.0.0 sousou.co.jp
 0.0.0.0 southernlift.com
 0.0.0.0 souzoku.t-bengo.com
@@ -2908,6 +2910,7 @@
 0.0.0.0 www.kaptax.jp
 0.0.0.0 www.karatshop.com.tw
 0.0.0.0 www.kasamart.jp
+0.0.0.0 www.kassel.co.jp
 0.0.0.0 www.kasuga-ds.co.jp
 0.0.0.0 www.katafune.jp
 0.0.0.0 www.kawai-koumuten.jp
@@ -3633,6 +3636,7 @@
 0.0.0.0 www.thepiel.com
 0.0.0.0 www.thermofisher.com
 0.0.0.0 www.thermondo.de
+0.0.0.0 www.things-aoyama.com
 0.0.0.0 www.ticketlife.jp
 0.0.0.0 www.tiger-corporation.com
 0.0.0.0 www.tigerairtw.com
