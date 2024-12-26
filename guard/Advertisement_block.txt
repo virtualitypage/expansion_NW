@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 25 December 2024
+# Last modified: 26 December 2024
 #
 
 # [広告全般]
@@ -98,6 +98,7 @@
 0.0.0.0 amanitadesign.com
 0.0.0.0 ampmedia.jp
 0.0.0.0 amu-kyoto.jp
+0.0.0.0 anaheim20.jp
 0.0.0.0 anajinzai.recruitment.jp
 0.0.0.0 ananti.kr
 0.0.0.0 ananweb.jp
@@ -283,6 +284,7 @@
 0.0.0.0 cdp-japan.jp
 0.0.0.0 cell-diagnostics.co.jp
 0.0.0.0 celvoke.com
+0.0.0.0 cemexuniversity.com
 0.0.0.0 ceremony-kokoro.jp
 0.0.0.0 cguardian-japan.netlify.app
 0.0.0.0 chapup-sc.click
@@ -706,6 +708,7 @@
 0.0.0.0 hc.kyodoprinting.co.jp
 0.0.0.0 hc.mt-pharma.co.jp
 0.0.0.0 healthcarelife.info
+0.0.0.0 heartland-ise.com
 0.0.0.0 heitenya.com
 0.0.0.0 heki.owst.jp
 0.0.0.0 hello-bbq.tokyo
@@ -764,6 +767,7 @@
 0.0.0.0 housing.hicbc.com
 0.0.0.0 howdyplus.com
 0.0.0.0 hoyeon.plaync.com
+0.0.0.0 htd.kaikaikiki.com
 0.0.0.0 htm.sf-express.com
 0.0.0.0 hubble-ban-yan-tree-terrace.owst.jp
 0.0.0.0 hugkum.sho.jp
@@ -852,6 +856,7 @@
 0.0.0.0 jh.shijonawate-gakuen.ac.jp
 0.0.0.0 jibunmakura.com
 0.0.0.0 jicamagazine.jica.go.jp
+0.0.0.0 jinennjo.com
 0.0.0.0 jinentai.com
 0.0.0.0 jireidb.shougaisha-sabetukaishou.go.jp
 0.0.0.0 jishanoen.jp
@@ -889,6 +894,7 @@
 0.0.0.0 jp.myfirst.tech
 0.0.0.0 jp.omsystem.com
 0.0.0.0 jp.puma.com
+0.0.0.0 jp.rigol.com
 0.0.0.0 jp.shein.com
 0.0.0.0 jp.shokz.com
 0.0.0.0 jp.stanby.com
@@ -1251,6 +1257,7 @@
 0.0.0.0 miyagi-aw2024.com
 0.0.0.0 miyagi-daihatsu.co.jp
 0.0.0.0 miyakojima-mobipa.jp
+0.0.0.0 miyazaki-base.jp
 0.0.0.0 mizoguchi-saiten.co.jp
 0.0.0.0 mizunopack.com
 0.0.0.0 mizusympo2024.sakura.ne.jp
@@ -1976,6 +1983,7 @@
 0.0.0.0 the-money777.com
 0.0.0.0 the-shanaiho.com
 0.0.0.0 thefulfiller.com
+0.0.0.0 thegoldenthread.gold.org
 0.0.0.0 thegrace.jp
 0.0.0.0 themusiccourt.jp
 0.0.0.0 theplustokyo.jp
@@ -2902,6 +2910,7 @@
 0.0.0.0 www.kanagawa-subaru.com
 0.0.0.0 www.kanagawa-u.ac.jp
 0.0.0.0 www.kanebo-cosmetics.jp
+0.0.0.0 www.kaneyo.com
 0.0.0.0 www.kango-roo.com
 0.0.0.0 www.kankyo.metro.tokyo.lg.jp
 0.0.0.0 www.kano-kensetsu.com
@@ -3048,6 +3057,7 @@
 0.0.0.0 www.matsujiro.shop
 0.0.0.0 www.matsuoka-motars.co.jp
 0.0.0.0 www.matsuoka-setsuritsu.com
+0.0.0.0 www.matsuyama-air-int.jp
 0.0.0.0 www.matsuyama-satei.com
 0.0.0.0 www.matsuzakaya.co.jp
 0.0.0.0 www.maxplanckschools.org
@@ -3835,6 +3845,8 @@
 0.0.0.0 www3.nissan.co.jp
 0.0.0.0 wwwsp.himawari-life.co.jp
 0.0.0.0 xn--pckua2a7gp15o89zb.com
+0.0.0.0 xylophone-rain.space
+0.0.0.0 yab.yomiuri.co.jp
 0.0.0.0 yacnee.co.jp
 0.0.0.0 yaeyama-rentacar.com
 0.0.0.0 yakiniku-fc.com
