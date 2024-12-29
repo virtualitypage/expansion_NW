@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 28 December 2024
+# Last modified: 29 December 2024
 #
 
 # [広告全般]
@@ -217,6 +217,7 @@
 0.0.0.0 bizhint.jp
 0.0.0.0 bizreach.biz
 0.0.0.0 biztel.jp
+0.0.0.0 bkan-media.com
 0.0.0.0 bkan.vbest.jp
 0.0.0.0 blackfriday-iaeon-island2024.com
 0.0.0.0 blessunleashed-dmg.pmang.jp
@@ -346,6 +347,7 @@
 0.0.0.0 cores-ec.site
 0.0.0.0 corgi.breeders.jp
 0.0.0.0 corolla-iwate.jp
+0.0.0.0 corp.w-nexco.co.jp
 0.0.0.0 corporate.epson
 0.0.0.0 corporate.ofsji.org
 0.0.0.0 correct-event.jp
@@ -1247,6 +1249,7 @@
 0.0.0.0 minotti.jp
 0.0.0.0 minsah-ring.com
 0.0.0.0 mintj.com
+0.0.0.0 mintoku.work
 0.0.0.0 miokuriteitaku.jp
 0.0.0.0 mirai-compass.net
 0.0.0.0 mirai-denchi.jp
@@ -1552,6 +1555,7 @@
 0.0.0.0 re-katsu.jp
 0.0.0.0 re-model.jp
 0.0.0.0 realplace-net.com
+0.0.0.0 reaoth-pre.com
 0.0.0.0 rebgil.funyoursjapan.pink
 0.0.0.0 reccet-gym.com
 0.0.0.0 recruit.fordays.jp
@@ -2152,6 +2156,7 @@
 0.0.0.0 wellbeing.kirin.co.jp
 0.0.0.0 wellp-official.jp
 0.0.0.0 wespo.westjr.co.jp
+0.0.0.0 wester-mall.westjr.co.jp
 0.0.0.0 wester.jr-odekake.net
 0.0.0.0 whisper-lagoon.info
 0.0.0.0 widgets.taxel.jp
@@ -3575,6 +3580,7 @@
 0.0.0.0 www.sousou.co.jp
 0.0.0.0 www.sousou.jp
 0.0.0.0 www.southbank.org
+0.0.0.0 www.souzoku-rescue.net
 0.0.0.0 www.spf21.net
 0.0.0.0 www.sportsoasis.co.jp
 0.0.0.0 www.ss-beta.co.jp
@@ -3667,6 +3673,7 @@
 0.0.0.0 www.tigerairtw.com
 0.0.0.0 www.tileshop-tamagawa.com
 0.0.0.0 www.tirepit.jp
+0.0.0.0 www.tirewheel-ec.com
 0.0.0.0 www.tis.co.jp
 0.0.0.0 www.tissotwatches.com
 0.0.0.0 www.titleist.co.jp
