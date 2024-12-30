@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 29 December 2024
+# Last modified: 30 December 2024
 #
 
 # [広告全般]
@@ -488,6 +488,7 @@
 0.0.0.0 enjoyhome-fudosan.net
 0.0.0.0 enk.or.jp
 0.0.0.0 entamega.com
+0.0.0.0 entori.jp
 0.0.0.0 entrata-chayamachi.com
 0.0.0.0 entrenet.jp
 0.0.0.0 epiphyllum.thebase.in
@@ -536,6 +537,7 @@
 0.0.0.0 firmbond.co.jp
 0.0.0.0 firstairlines.jp
 0.0.0.0 firstgolf.world
+0.0.0.0 flare.network
 0.0.0.0 flasharkracing.com
 0.0.0.0 flex.amazon.co.jp
 0.0.0.0 flowerjob.net
@@ -921,6 +923,7 @@
 0.0.0.0 jta.or.jp
 0.0.0.0 jts-gr.com
 0.0.0.0 julius.co.jp
+0.0.0.0 juno-e.com
 0.0.0.0 jw-clear.com
 0.0.0.0 jws-c.jp
 0.0.0.0 jyouhoudenshi.jp
@@ -1364,6 +1367,7 @@
 0.0.0.0 ninjakitchen.co.uk
 0.0.0.0 nipo-plus-doc.sndbox.jp
 0.0.0.0 nipponham-cp.com
+0.0.0.0 nishinomiya-gardens.com
 0.0.0.0 nishispo.nishinippon.co.jp
 0.0.0.0 nittobest-online.net
 0.0.0.0 nix-water.jp
@@ -1424,9 +1428,11 @@
 0.0.0.0 orientstar-watch.com
 0.0.0.0 original-champagne.net
 0.0.0.0 oripa.clove.jp
+0.0.0.0 oripaone.jp
 0.0.0.0 ortho-mouthpiece-jp.life
 0.0.0.0 os-insourcring.bluememe.jp
 0.0.0.0 os.sinto.co.jp
+0.0.0.0 osaka-daihatsu.co.jp
 0.0.0.0 osaka-hanalangue.com
 0.0.0.0 osaka-jakunen-chiki.mhlw.go.jp
 0.0.0.0 osaka-pleats-amido.com
@@ -1582,6 +1588,7 @@
 0.0.0.0 reservation.aetashotels.com
 0.0.0.0 reservation.medical-force.com
 0.0.0.0 reserve.star7.jp
+0.0.0.0 resus.jp
 0.0.0.0 retail.ksp-sp.com
 0.0.0.0 retailers.landrover.co.jp
 0.0.0.0 reuse-tenshoku.com
@@ -1748,6 +1755,7 @@
 0.0.0.0 seta-clinic.com
 0.0.0.0 setupnext-project.com
 0.0.0.0 sev-tsuhan.com
+0.0.0.0 sg.rtb.vestomedia.com
 0.0.0.0 sg.steelcase.com
 0.0.0.0 sg.tcacoustic.asia
 0.0.0.0 shaktimat.co.jp
@@ -2088,6 +2096,7 @@
 0.0.0.0 underground-group.net
 0.0.0.0 unibag.jp
 0.0.0.0 unicorn-overlord.com
+0.0.0.0 united-clinic.com
 0.0.0.0 universe-co.com
 0.0.0.0 uno-hotel.com
 0.0.0.0 unove.jp
@@ -2277,6 +2286,7 @@
 0.0.0.0 www.aprica.jp
 0.0.0.0 www.aqa.org.uk
 0.0.0.0 www.aquaclara.co.jp
+0.0.0.0 www.aquaworld-oarai.com
 0.0.0.0 www.aqura.co.jp
 0.0.0.0 www.arc-web.com
 0.0.0.0 www.ark-shop.com
@@ -2302,6 +2312,7 @@
 0.0.0.0 www.at-contact.jp
 0.0.0.0 www.at-hyogo.jp
 0.0.0.0 www.at-raku.com
+0.0.0.0 www.at-yokohama.net
 0.0.0.0 www.atc-ihpc.com
 0.0.0.0 www.ateliermarriage.com
 0.0.0.0 www.athome.co.jp
@@ -2479,6 +2490,7 @@
 0.0.0.0 www.cross-m.co.jp
 0.0.0.0 www.crosslinktax.com
 0.0.0.0 www.ctbcinvestments.com
+0.0.0.0 www.cunard.com
 0.0.0.0 www.cw-x.jp
 0.0.0.0 www.cw.com.tw
 0.0.0.0 www.cyberblue.co.jp
@@ -2697,6 +2709,7 @@
 0.0.0.0 www.gregory.jp
 0.0.0.0 www.gressive.jp
 0.0.0.0 www.gs-vanlife.com
+0.0.0.0 www.gtasu.com
 0.0.0.0 www.gulfnet.co.jp
 0.0.0.0 www.gunmabank.co.jp
 0.0.0.0 www.guska.jp
@@ -3008,6 +3021,7 @@
 0.0.0.0 www.kumada-sr.com
 0.0.0.0 www.kumamoto-hsu.ac.jp
 0.0.0.0 www.kungfuds.l4t.biz
+0.0.0.0 www.kushals.com
 0.0.0.0 www.kyjlaw.com
 0.0.0.0 www.kyodoyokohama.com
 0.0.0.0 www.kyosai-cc.or.jp
@@ -3057,6 +3071,7 @@
 0.0.0.0 www.makuake.com
 0.0.0.0 www.malverncollegetokyo.jp
 0.0.0.0 www.mandarinoriental.com
+0.0.0.0 www.manegy.com
 0.0.0.0 www.manga1.jp
 0.0.0.0 www.markandlona.com
 0.0.0.0 www.marriott.com
@@ -3400,12 +3415,14 @@
 0.0.0.0 www.prkcps.com
 0.0.0.0 www.propertyagent.co.jp
 0.0.0.0 www.proud-web.jp
+0.0.0.0 www.proxy-cheap.com
 0.0.0.0 www.proyang.com.tw
 0.0.0.0 www.psosaka.com
 0.0.0.0 www.ptotjinzaibank.com
 0.0.0.0 www.pure-house.co.jp
 0.0.0.0 www.pwc.com
 0.0.0.0 www.qoo10.jp
+0.0.0.0 www.qropsdirect.in
 0.0.0.0 www.qsquare.com.tw
 0.0.0.0 www.qtmobile.jp
 0.0.0.0 www.qualita-travel.com
@@ -3548,6 +3565,7 @@
 0.0.0.0 www.sinto.co.jp
 0.0.0.0 www.sitepublis.net
 0.0.0.0 www.sizenshokken.co.jp
+0.0.0.0 www.sjc.ne.jp
 0.0.0.0 www.sjmresorts.com
 0.0.0.0 www.skin-c.com
 0.0.0.0 www.sky-career.jp
@@ -3845,6 +3863,7 @@
 0.0.0.0 www.yonoton.com
 0.0.0.0 www.yoshinoya.com
 0.0.0.0 www.yosuga-law.net
+0.0.0.0 www.yotsuba-shop.com
 0.0.0.0 www.yrl.com
 0.0.0.0 www.ytj.gr.jp
 0.0.0.0 www.yuanta.com.tw
