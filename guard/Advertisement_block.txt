@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 30 December 2024
+# Last modified: 31 December 2024
 #
 
 # [広告全般]
@@ -410,6 +410,7 @@
 0.0.0.0 distance.media
 0.0.0.0 dive-oita.com
 0.0.0.0 dl.apparel-web.co.jp
+0.0.0.0 dm-lp-sevice.com
 0.0.0.0 dm-oka.com
 0.0.0.0 dmdepart.jp
 0.0.0.0 do-recruit.info
@@ -646,6 +647,7 @@
 0.0.0.0 gofund.co.jp
 0.0.0.0 gojou-lawfirm.com
 0.0.0.0 gol-win.com
+0.0.0.0 gold-card-mania.com
 0.0.0.0 gold.tanaka.co.jp
 0.0.0.0 golden.breeders.jp
 0.0.0.0 goldplaza.jp
@@ -2322,6 +2324,7 @@
 0.0.0.0 www.audi-nagoyachuo.jp
 0.0.0.0 www.audiotech.jp
 0.0.0.0 www.austria.info
+0.0.0.0 www.automesse.jp
 0.0.0.0 www.autotrace.info
 0.0.0.0 www.aws-pairring.jp
 0.0.0.0 www.axa.co.jp
@@ -2790,6 +2793,7 @@
 0.0.0.0 www.hondaism.com
 0.0.0.0 www.horidashi.jp
 0.0.0.0 www.hoshino-oto.jp
+0.0.0.0 www.hostmeapp.com
 0.0.0.0 www.hotel-ichii.co.jp
 0.0.0.0 www.hotpepper.jp
 0.0.0.0 www.hotstaff.co.jp
@@ -3007,6 +3011,7 @@
 0.0.0.0 www.konaka-jp.com
 0.0.0.0 www.konami.com
 0.0.0.0 www.konoike.ac.jp
+0.0.0.0 www.koshida-suisan.com
 0.0.0.0 www.koshin-ltd.jp
 0.0.0.0 www.kosugi-tire.com
 0.0.0.0 www.koushihaken.com
@@ -3616,6 +3621,7 @@
 0.0.0.0 www.strawberrycones.com
 0.0.0.0 www.studio-1brood.com
 0.0.0.0 www.studioemu.info
+0.0.0.0 www.studioglory.jp
 0.0.0.0 www.studyinkorea.go.kr
 0.0.0.0 www.succ.co.jp
 0.0.0.0 www.sugar.org
@@ -3732,6 +3738,7 @@
 0.0.0.0 www.toshiba-lifestyle.com
 0.0.0.0 www.totalrepair-fukasawa.com
 0.0.0.0 www.town.okuma.fukushima.jp
+0.0.0.0 www.town.togitsu.nagasaki.jp
 0.0.0.0 www.toyama-clean.com
 0.0.0.0 www.toyo.ac.jp
 0.0.0.0 www.toyota-cn-gifu.co.jp
@@ -3826,6 +3833,7 @@
 0.0.0.0 www.wine-party.jp
 0.0.0.0 www.wing-rev.co.jp
 0.0.0.0 www.wingontravel.com
+0.0.0.0 www.wintechjapan.com
 0.0.0.0 www.wmberg.com
 0.0.0.0 www.wonnesscompany.com
 0.0.0.0 www.woodboxkochi.net
