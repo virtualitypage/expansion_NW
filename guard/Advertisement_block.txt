@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 31 December 2024
+# Last modified: 1 January 2025
 #
 
 # [広告全般]
@@ -177,6 +177,7 @@
 0.0.0.0 backlog.com
 0.0.0.0 bakuten-personal.com
 0.0.0.0 balletschool.hp.peraichi.com
+0.0.0.0 banana-paper.jp
 0.0.0.0 bananarepublic.gap.co.jp
 0.0.0.0 bank-loan-ranking.com
 0.0.0.0 basefood.co.jp
@@ -314,6 +315,7 @@
 0.0.0.0 cl.unisize.makip.co.jp
 0.0.0.0 clean-labo.net
 0.0.0.0 cleanapovn.com
+0.0.0.0 cleverly-kochi.com
 0.0.0.0 clients.itszai.jp
 0.0.0.0 closet.eiwa-uniform.com
 0.0.0.0 cloud.info.asics.com
@@ -916,6 +918,7 @@
 0.0.0.0 jp.toto.com
 0.0.0.0 jp.vicoimaging.com
 0.0.0.0 jp.yiose.com
+0.0.0.0 jpca-education.org
 0.0.0.0 jpn.nec.com
 0.0.0.0 jpn.pioneer
 0.0.0.0 jpstore.msi.com
@@ -999,6 +1002,7 @@
 0.0.0.0 kensetsutenshokunavi.jp
 0.0.0.0 kentei.tokyo-cci.or.jp
 0.0.0.0 kenzai-kaitori.net
+0.0.0.0 kenzenuk.com
 0.0.0.0 key-security.jp
 0.0.0.0 kgg-nanporo4.hp.peraichi.com
 0.0.0.0 khiang-osaka.owst.jp
@@ -1198,6 +1202,7 @@
 0.0.0.0 manabi-naoshi.mhlw.go.jp
 0.0.0.0 mangamatsuri.kodansha.co.jp
 0.0.0.0 mangasouko-shop.jp
+0.0.0.0 manoamano87.jp
 0.0.0.0 manulife-gaika.jp
 0.0.0.0 maquia.hpplus.jp
 0.0.0.0 marineworld.hiyoriyama.co.jp
@@ -2240,6 +2245,7 @@
 0.0.0.0 www.afj.or.jp
 0.0.0.0 www.aflac.co.jp
 0.0.0.0 www.afr-web.co.jp
+0.0.0.0 www.agent.realtyjapan.com
 0.0.0.0 www.agentx.so
 0.0.0.0 www.agoda.com
 0.0.0.0 www.ahiruyaminimal.com
@@ -2435,6 +2441,7 @@
 0.0.0.0 www.chinaplasonline.com
 0.0.0.0 www.chintai-raymond.jp
 0.0.0.0 www.chipper.jp
+0.0.0.0 www.chiropractic-life.xyz
 0.0.0.0 www.chitetsu.co.jp
 0.0.0.0 www.chogin-nishi.com
 0.0.0.0 www.choice-hotels.jp
@@ -3337,6 +3344,7 @@
 0.0.0.0 www.osaka-solid.jp
 0.0.0.0 www.osaka-ti.co.jp
 0.0.0.0 www.osaka-toyopet.jp
+0.0.0.0 www.osakac.ac.jp
 0.0.0.0 www.osakahome.jp
 0.0.0.0 www.oscd.jp
 0.0.0.0 www.osg.co.jp
