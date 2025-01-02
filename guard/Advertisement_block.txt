@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 1 January 2025
+# Last modified: 2 January 2025
 #
 
 # [広告全般]
@@ -517,6 +517,7 @@
 0.0.0.0 explore.arenasolutions.com
 0.0.0.0 explore.komatsu
 0.0.0.0 expo.bus-gear.com
+0.0.0.0 expo2025.nikkei.co.jp
 0.0.0.0 exzeal.co.jp
 0.0.0.0 ezyremit.com
 0.0.0.0 f-cre.com
@@ -3811,6 +3812,7 @@
 0.0.0.0 www.virinamaternity.com
 0.0.0.0 www.visartscenter.org
 0.0.0.0 www.visitjackson.com
+0.0.0.0 www.vita-laverdura.net
 0.0.0.0 www.vivastudiosalon.com
 0.0.0.0 www.voat-voice.com
 0.0.0.0 www.voat.co.jp
