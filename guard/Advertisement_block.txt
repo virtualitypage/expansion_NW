@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 2 January 2025
+# Last modified: 3 January 2025
 #
 
 # [広告全般]
@@ -57,6 +57,7 @@
 0.0.0.0 adebis.basefood.co.jp
 0.0.0.0 adfamworks.com
 0.0.0.0 admission-info.tokyo-kasei-univ.jp
+0.0.0.0 adn.caprofitx.com
 0.0.0.0 ads.kaipoke.biz
 0.0.0.0 adt.rokunomiya.jp
 0.0.0.0 af-inoac.jp
@@ -69,10 +70,12 @@
 0.0.0.0 agfblendy-campaign.jp
 0.0.0.0 agri.mynavi.jp
 0.0.0.0 ahamo.com
+0.0.0.0 ahokuds.com
 0.0.0.0 ai-koumuten.info
 0.0.0.0 aibo.sony.jp
 0.0.0.0 aigarden.com
 0.0.0.0 aik-order.com
+0.0.0.0 aionacademy.com
 0.0.0.0 airregi.jp
 0.0.0.0 aiwakagu.jp
 0.0.0.0 aix-otofuke.owst.jp
@@ -449,6 +452,7 @@
 0.0.0.0 dynabook.com
 0.0.0.0 e-actionlearning.jp
 0.0.0.0 e-coding.net
+0.0.0.0 e-disposer.com
 0.0.0.0 e-finit.net
 0.0.0.0 e-gakkou.jp
 0.0.0.0 e4510.jp
@@ -707,11 +711,13 @@
 0.0.0.0 happygift2.com
 0.0.0.0 happyhackingkb.com
 0.0.0.0 happysmile3.com
+0.0.0.0 hara-koushu.com
 0.0.0.0 harekuraray.com
 0.0.0.0 hari1.com
 0.0.0.0 harmonies.kumon.ne.jp
 0.0.0.0 harmotec.com
 0.0.0.0 haruwari.com
+0.0.0.0 harvestwalk.com
 0.0.0.0 haseko-bp.jp
 0.0.0.0 hashibukuro.com
 0.0.0.0 hashida-giken.com
@@ -902,6 +908,7 @@
 0.0.0.0 jp.fujitsu.com
 0.0.0.0 jp.gorgonzola.com
 0.0.0.0 jp.indeed.com
+0.0.0.0 jp.jeinjena.com
 0.0.0.0 jp.jobrapido.com
 0.0.0.0 jp.kpop-artschool.com
 0.0.0.0 jp.loccitane.com
@@ -1009,6 +1016,7 @@
 0.0.0.0 khiang-osaka.owst.jp
 0.0.0.0 kichi.bar
 0.0.0.0 kids.tipness.co.jp
+0.0.0.0 kidsdesignaward.jp
 0.0.0.0 kigkt.cersi.jp
 0.0.0.0 kimono-ice.com
 0.0.0.0 kimono-yamato-furisode.com
@@ -1056,7 +1064,6 @@
 0.0.0.0 kouju.mabuchi.co.jp
 0.0.0.0 koukoukojitsu.com
 0.0.0.0 koundou.com
-0.0.0.0 kouryakutsushin.com
 0.0.0.0 kouseisaiyou.mhlw.go.jp
 0.0.0.0 kouseki-akita.com
 0.0.0.0 koutoku.ac.jp
@@ -1119,6 +1126,7 @@
 0.0.0.0 lemino.docomo.ne.jp
 0.0.0.0 lemonhome.co.jp
 0.0.0.0 leopalace-fine2005.com
+0.0.0.0 lets-boatrace.jp
 0.0.0.0 lidea.today
 0.0.0.0 life.miele.co.jp
 0.0.0.0 life.oricon.co.jp
@@ -1172,6 +1180,7 @@
 0.0.0.0 luxsfront.com
 0.0.0.0 m-ihinseiri.jp
 0.0.0.0 m-ikimonogatari.com
+0.0.0.0 m.blog.naver.com
 0.0.0.0 m.chitetsu.co.jp
 0.0.0.0 m.momoshop.com.tw
 0.0.0.0 m.qoo10.jp
@@ -1208,6 +1217,7 @@
 0.0.0.0 maquia.hpplus.jp
 0.0.0.0 marineworld.hiyoriyama.co.jp
 0.0.0.0 marketing-careerlabo.jp
+0.0.0.0 marketing.apexcapitaldubai.com
 0.0.0.0 maruhan-lp.net
 0.0.0.0 maruhome.jp
 0.0.0.0 marumugi.shop
@@ -1235,6 +1245,7 @@
 0.0.0.0 meganestore.co.jp
 0.0.0.0 megaten5.jp
 0.0.0.0 mei-ten.com
+0.0.0.0 mellobaby.net
 0.0.0.0 mens-cut.net
 0.0.0.0 mens-rinx.jp
 0.0.0.0 mens.datsumo-hikaku.jp
@@ -1375,10 +1386,12 @@
 0.0.0.0 ninjakitchen.co.uk
 0.0.0.0 nipo-plus-doc.sndbox.jp
 0.0.0.0 nipponham-cp.com
+0.0.0.0 nishi-shikoku-mazda.co.jp
 0.0.0.0 nishinomiya-gardens.com
 0.0.0.0 nishispo.nishinippon.co.jp
 0.0.0.0 nittobest-online.net
 0.0.0.0 nix-water.jp
+0.0.0.0 nizima.com
 0.0.0.0 nnr-h.com
 0.0.0.0 no1-creditcard.com
 0.0.0.0 noj-kawanishi.com
@@ -1416,6 +1429,7 @@
 0.0.0.0 oldisroad.com
 0.0.0.0 omedeto.hp.peraichi.com
 0.0.0.0 omurakyotei.jp
+0.0.0.0 omutsuclub.com
 0.0.0.0 ondemand-trump.com
 0.0.0.0 ondemand.meluon.com
 0.0.0.0 one-up-life.com
@@ -1530,6 +1544,7 @@
 0.0.0.0 product.minebeamitsumi.com
 0.0.0.0 promo.acronis.com
 0.0.0.0 promo.manchester.edu.hk
+0.0.0.0 protectwborcn.com
 0.0.0.0 ps-hp.jpn.panasonic.com
 0.0.0.0 ps.nikkei.com
 0.0.0.0 pspo.jp
@@ -1616,6 +1631,7 @@
 0.0.0.0 roseoncheeks.com
 0.0.0.0 roundi.us
 0.0.0.0 rousai-zangyou-bengoshi.com
+0.0.0.0 rs-mie.net
 0.0.0.0 rs-oita.net
 0.0.0.0 runway-webstore.com
 0.0.0.0 rxr.happyelements.co.jp
@@ -2462,6 +2478,7 @@
 0.0.0.0 www.city.nagoya.jp
 0.0.0.0 www.city.osaka.lg.jp
 0.0.0.0 www.ck-saikouchiku.go.jp
+0.0.0.0 www.ck-toyota.co.jp
 0.0.0.0 www.ckkdining.com
 0.0.0.0 www.clickkabu365.jp
 0.0.0.0 www.clinicfor.life
@@ -3427,6 +3444,7 @@
 0.0.0.0 www.princehotels.co.jp
 0.0.0.0 www.printfesta.com
 0.0.0.0 www.prkcps.com
+0.0.0.0 www.pro-bank.co.jp
 0.0.0.0 www.propertyagent.co.jp
 0.0.0.0 www.proud-web.jp
 0.0.0.0 www.proxy-cheap.com
@@ -3435,6 +3453,7 @@
 0.0.0.0 www.ptotjinzaibank.com
 0.0.0.0 www.pure-house.co.jp
 0.0.0.0 www.pwc.com
+0.0.0.0 www.qol-inc.com
 0.0.0.0 www.qoo10.jp
 0.0.0.0 www.qropsdirect.in
 0.0.0.0 www.qsquare.com.tw
@@ -3582,6 +3601,7 @@
 0.0.0.0 www.sjc.ne.jp
 0.0.0.0 www.sjmresorts.com
 0.0.0.0 www.skin-c.com
+0.0.0.0 www.skr.mlit.go.jp
 0.0.0.0 www.sky-career.jp
 0.0.0.0 www.skybldg.co.jp
 0.0.0.0 www.skypce.net
@@ -3652,6 +3672,7 @@
 0.0.0.0 www.swan-kg.com
 0.0.0.0 www.sy32.jp
 0.0.0.0 www.symphonyhall.jp
+0.0.0.0 www.t-celeb.net
 0.0.0.0 www.t-fal.co.jp
 0.0.0.0 www.t-rough.jp
 0.0.0.0 www.tac-school.co.jp
@@ -3777,6 +3798,7 @@
 0.0.0.0 www.twellv.co.jp
 0.0.0.0 www.twintreesphotography.com
 0.0.0.0 www.tymetro.com.tw
+0.0.0.0 www.u-academy.jp
 0.0.0.0 www.u-can.co.jp
 0.0.0.0 www.u-master.net
 0.0.0.0 www.u-space.com
@@ -3822,6 +3844,7 @@
 0.0.0.0 www.w-nexco.co.jp
 0.0.0.0 www.w2gym.jp
 0.0.0.0 www.wa-kukan-life.com
+0.0.0.0 www.wabitas.com
 0.0.0.0 www.wadakohsan.info
 0.0.0.0 www.waf-seminar.de
 0.0.0.0 www.waiper.co.jp
