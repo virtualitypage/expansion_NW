@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 3 January 2025
+# Last modified: 4 January 2025
 #
 
 # [広告全般]
@@ -203,6 +203,7 @@
 0.0.0.0 beperch.com
 0.0.0.0 bering.jp
 0.0.0.0 best-ai-forecasta.online
+0.0.0.0 best1best.best
 0.0.0.0 besv.jp
 0.0.0.0 betterstack.com
 0.0.0.0 beverageandfood.direct.suntory.co.jp
@@ -744,6 +745,7 @@
 0.0.0.0 hijutaku.j-anshin.co.jp
 0.0.0.0 hikaku-rank.net
 0.0.0.0 hikaku.kurashiru.com
+0.0.0.0 himedai.net
 0.0.0.0 himeji-greenfamily.net
 0.0.0.0 hinata.me
 0.0.0.0 hiraiart-gallery.jp
@@ -1017,6 +1019,7 @@
 0.0.0.0 kichi.bar
 0.0.0.0 kids.tipness.co.jp
 0.0.0.0 kidsdesignaward.jp
+0.0.0.0 kidsna.com
 0.0.0.0 kigkt.cersi.jp
 0.0.0.0 kimono-ice.com
 0.0.0.0 kimono-yamato-furisode.com
@@ -1304,6 +1307,7 @@
 0.0.0.0 mokucolle.com
 0.0.0.0 mokutown.jp
 0.0.0.0 money-college.org
+0.0.0.0 moneykit.net
 0.0.0.0 monji.tech
 0.0.0.0 moriya-contact.com
 0.0.0.0 mothers-tenshiba.com
@@ -1626,6 +1630,7 @@
 0.0.0.0 rittosci.com
 0.0.0.0 rivertrain-forest.click
 0.0.0.0 rlx.jp
+0.0.0.0 rocbankglobal.com
 0.0.0.0 rokkomeetsart.jp
 0.0.0.0 rokon.click
 0.0.0.0 roseoncheeks.com
@@ -1691,6 +1696,7 @@
 0.0.0.0 sb-danidaidanidanidanidanidanidanidanidanidanidani.discover-news.tokyo
 0.0.0.0 sb-drcula-white.service-info.jp
 0.0.0.0 sb-fukugyou.discover-news.tokyo
+0.0.0.0 sb-h89aoudihsilgk12.discover-news.tokyo
 0.0.0.0 sb-hasu.myown-page.com
 0.0.0.0 sb-hip-happy.ourservice.jp
 0.0.0.0 sb-hizakosi-kenko.myown-page.com
@@ -1782,6 +1788,7 @@
 0.0.0.0 sg.rtb.vestomedia.com
 0.0.0.0 sg.steelcase.com
 0.0.0.0 sg.tcacoustic.asia
+0.0.0.0 shakenkobac.com
 0.0.0.0 shaktimat.co.jp
 0.0.0.0 sharecar.muchapp.jp
 0.0.0.0 shareway.jp
@@ -2089,6 +2096,7 @@
 0.0.0.0 trubridge.com
 0.0.0.0 truckland.jp
 0.0.0.0 try-edge.infield95.com
+0.0.0.0 tsplus.asahi.co.jp
 0.0.0.0 tsugunavi.funaisoken.co.jp
 0.0.0.0 tsuji-ad.jp
 0.0.0.0 tsujimoto-2007.com
@@ -2303,6 +2311,7 @@
 0.0.0.0 www.anshindo-grp.co.jp
 0.0.0.0 www.antiques-and.com
 0.0.0.0 www.anytimefitness.co.jp
+0.0.0.0 www.aoki-style.com
 0.0.0.0 www.aomist.com
 0.0.0.0 www.apg-aiplan.com
 0.0.0.0 www.apiadome.com
@@ -2367,6 +2376,7 @@
 0.0.0.0 www.benzkansai.com
 0.0.0.0 www.beriver.co.jp
 0.0.0.0 www.berlitz.com
+0.0.0.0 www.bess.jp
 0.0.0.0 www.best1cruise.com
 0.0.0.0 www.besthousing.co.jp
 0.0.0.0 www.betteisenkyu.jp
@@ -2636,6 +2646,7 @@
 0.0.0.0 www.fetnet.net
 0.0.0.0 www.fevertree.jp
 0.0.0.0 www.fiat-jp.com
+0.0.0.0 www.finbourne.com
 0.0.0.0 www.finetrack.com
 0.0.0.0 www.firsttechfed.com
 0.0.0.0 www.fismec.co.jp
@@ -3395,6 +3406,7 @@
 0.0.0.0 www.pc4353.net
 0.0.0.0 www.pccs.co.jp
 0.0.0.0 www.penta-lab.com
+0.0.0.0 www.pentasecurity.co.jp
 0.0.0.0 www.personalhealth.jp
 0.0.0.0 www.pet-coo.com
 0.0.0.0 www.pet-coo.net
