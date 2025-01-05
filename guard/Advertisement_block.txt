@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 4 January 2025
+# Last modified: 5 January 2025
 #
 
 # [広告全般]
@@ -200,6 +200,7 @@
 0.0.0.0 belindaclinic-shinjuku.net
 0.0.0.0 bengoshihoken-zero.jp
 0.0.0.0 benitorado.com
+0.0.0.0 benrishi-k.sakura.ne.jp
 0.0.0.0 beperch.com
 0.0.0.0 bering.jp
 0.0.0.0 best-ai-forecasta.online
@@ -383,6 +384,7 @@
 0.0.0.0 danshin-smile.cardif.co.jp
 0.0.0.0 daran-eyebeauty.com
 0.0.0.0 darts-strix.owst.jp
+0.0.0.0 daybaskesoccar.com
 0.0.0.0 deagostini.jp
 0.0.0.0 dealer.bydauto.co.jp
 0.0.0.0 deep2031.com
@@ -1232,6 +1234,7 @@
 0.0.0.0 mayutan.com
 0.0.0.0 mb-hakata.com
 0.0.0.0 mbcc-c.com
+0.0.0.0 mcafee-cb.campaign-pr.jp
 0.0.0.0 mcl.sbk.jp
 0.0.0.0 mcs-ainoie.com
 0.0.0.0 mecha-tok.com
@@ -1471,6 +1474,7 @@
 0.0.0.0 osh-clinic.jp
 0.0.0.0 osho-research.co.jp
 0.0.0.0 ost-honeypot-1.oreillyauto.com
+0.0.0.0 otameshi-agri.com
 0.0.0.0 otokujyoho.online
 0.0.0.0 otonamuse.jp
 0.0.0.0 otori-hearing.com
@@ -1565,6 +1569,7 @@
 0.0.0.0 qb-recruit.com
 0.0.0.0 qjin7.com
 0.0.0.0 quanshuiwetmarket.com
+0.0.0.0 questant.jp
 0.0.0.0 questetra.com
 0.0.0.0 quick-royal.misseyedor.jp
 0.0.0.0 quick-sidejob.com
@@ -2101,6 +2106,7 @@
 0.0.0.0 tsuji-ad.jp
 0.0.0.0 tsujimoto-2007.com
 0.0.0.0 tsujiyo.jp
+0.0.0.0 tsuna-ag.com
 0.0.0.0 tsuna-ag.tsuna-ag.com
 0.0.0.0 tsunagaru-design.co.jp
 0.0.0.0 tsutaya.tsite.jp
@@ -3037,6 +3043,7 @@
 0.0.0.0 www.kodomo-poster2024.metro.tokyo.lg.jp
 0.0.0.0 www.kodomokoho.metro.tokyo.lg.jp
 0.0.0.0 www.kodomoseisaku.metro.tokyo.lg.jp
+0.0.0.0 www.kohno-factory.com
 0.0.0.0 www.kohs.ed.jp
 0.0.0.0 www.koi-para.net
 0.0.0.0 www.kokokara-care.com
