@@ -4,7 +4,7 @@
 # References: https://meiwakumail.jp/
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_link.txt
 #
-# Last modified: 20 December 2024
+# Last modified: 7 January 2025
 #
 
 # [迷惑メールのURLリンク(目的不明)]
@@ -1381,7 +1381,6 @@
 0.0.0.0 lie.5peb-xpw3.net
 0.0.0.0 lil.ge
 0.0.0.0 liliencron-sorby.com
-0.0.0.0 line.me
 0.0.0.0 lines.ctftxtbsfwjxxsfiifza.com
 0.0.0.0 lines.kiumwbeuyhdwpdpxafid.com
 0.0.0.0 lines.wtrtfgavnmkndnvjjf.com
