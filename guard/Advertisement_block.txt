@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 7 January 2025
+# Last modified: 8 January 2025
 #
 
 # [広告全般]
@@ -473,6 +473,7 @@
 0.0.0.0 eco-life-smile.com
 0.0.0.0 eco-mon.jp
 0.0.0.0 ecoloquia.co.jp
+0.0.0.0 edu.watch.impress.co.jp
 0.0.0.0 efex.co.jp
 0.0.0.0 egolf.jp
 0.0.0.0 ehime-hanakaido.com
@@ -881,11 +882,13 @@
 0.0.0.0 jcloud.co.jp
 0.0.0.0 jetb.co.jp
 0.0.0.0 jewelry-girls.net
+0.0.0.0 jey.lpro-chat.com
 0.0.0.0 jh.shijonawate-gakuen.ac.jp
 0.0.0.0 jibunmakura.com
 0.0.0.0 jicamagazine.jica.go.jp
 0.0.0.0 jinennjo.com
 0.0.0.0 jinentai.com
+0.0.0.0 jirei.r-rental.co.jp
 0.0.0.0 jireidb.shougaisha-sabetukaishou.go.jp
 0.0.0.0 jishanoen.jp
 0.0.0.0 jnet-store.com
@@ -1602,6 +1605,7 @@
 0.0.0.0 rebgil.funyoursjapan.pink
 0.0.0.0 reccet-gym.com
 0.0.0.0 recruit.fordays.jp
+0.0.0.0 recruit.hakuhodo-technologies.co.jp
 0.0.0.0 recruit.meccs.co.jp
 0.0.0.0 recruit.nds-g.co.jp
 0.0.0.0 recruit.oshare-zele.co.jp
@@ -3051,6 +3055,7 @@
 0.0.0.0 www.kobetsu.co.jp
 0.0.0.0 www.kobo-shinshu.com
 0.0.0.0 www.kochi-daimaru.co.jp
+0.0.0.0 www.kochiken-shakyo.or.jp
 0.0.0.0 www.kodomo-poster2024.metro.tokyo.lg.jp
 0.0.0.0 www.kodomokoho.metro.tokyo.lg.jp
 0.0.0.0 www.kodomoseisaku.metro.tokyo.lg.jp
@@ -3540,6 +3545,7 @@
 0.0.0.0 www.roudousaigai.jp
 0.0.0.0 www.rtyfghgroup.com
 0.0.0.0 www.ruxur.net
+0.0.0.0 www.ryugei.co.jp
 0.0.0.0 www.ryukakusan.co.jp
 0.0.0.0 www.s-ge.com
 0.0.0.0 www.s-re.jp
