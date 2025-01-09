@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 8 January 2025
+# Last modified: 9 January 2025
 #
 
 # [広告全般]
@@ -2308,6 +2308,7 @@
 0.0.0.0 www.alpha-note.co.jp
 0.0.0.0 www.alphamap.com
 0.0.0.0 www.alsi.co.jp
+0.0.0.0 www.althi.co.jp
 0.0.0.0 www.amafair.com
 0.0.0.0 www.amanofd.jp
 0.0.0.0 www.amd.com
