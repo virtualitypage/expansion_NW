@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 9 January 2025
+# Last modified: 10 January 2025
 #
 
 # [広告全般]
@@ -111,6 +111,7 @@
 0.0.0.0 and-conote.powergrid.chuden.co.jp
 0.0.0.0 and-english.com
 0.0.0.0 anellohome.com
+0.0.0.0 angelica-lp.com
 0.0.0.0 angelinasweet.com
 0.0.0.0 animefesta.iowl.jp
 0.0.0.0 ankanpou.com
@@ -156,6 +157,7 @@
 0.0.0.0 ashiba-leasekyokai.com
 0.0.0.0 ashley-furniture-blog.jp
 0.0.0.0 aslead.nri.co.jp
+0.0.0.0 asm.asahi.com
 0.0.0.0 asnavi.cersi.jp
 0.0.0.0 asobibar-shinjuku.net
 0.0.0.0 asp.hotel-story.ne.jp
@@ -556,6 +558,7 @@
 0.0.0.0 flowerjob.net
 0.0.0.0 fod.fujitv.co.jp
 0.0.0.0 food-match-japan.campaign.europa.eu
+0.0.0.0 food-platform.pref.kochi.lg.jp
 0.0.0.0 foodingjournal.com
 0.0.0.0 form.jotform.com
 0.0.0.0 form.run
@@ -712,6 +715,7 @@
 0.0.0.0 hana-home.com
 0.0.0.0 hands.net
 0.0.0.0 haneda-shopping.jp
+0.0.0.0 hapi-hapi-style.com
 0.0.0.0 happy5.site
 0.0.0.0 happygift2.com
 0.0.0.0 happyhackingkb.com
@@ -1987,6 +1991,7 @@
 0.0.0.0 supi.owned.media
 0.0.0.0 survey.qlifeweb.jp
 0.0.0.0 sus-recruit.com
+0.0.0.0 sushi-hasegawa.owst.jp
 0.0.0.0 sushitech-real.metro.tokyo.lg.jp
 0.0.0.0 sustineri.co.jp
 0.0.0.0 sutekinajinsei.jp
@@ -2687,6 +2692,7 @@
 0.0.0.0 www.france.fr
 0.0.0.0 www.freedom.co.jp
 0.0.0.0 www.freee.co.jp
+0.0.0.0 www.fresco-hc.com
 0.0.0.0 www.frewa.jp
 0.0.0.0 www.front-ia.com
 0.0.0.0 www.frontier-direct.jp
