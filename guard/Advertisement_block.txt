@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 10 January 2025
+# Last modified: 11 January 2025
 #
 
 # [広告全般]
@@ -1223,6 +1223,7 @@
 0.0.0.0 make-mastery.com
 0.0.0.0 makinushi-tk.com
 0.0.0.0 makita-craft.co.jp
+0.0.0.0 makuring.jp
 0.0.0.0 mall.humanhealth.com.hk
 0.0.0.0 maltese.breeders.jp
 0.0.0.0 manabi-naoshi.mhlw.go.jp
