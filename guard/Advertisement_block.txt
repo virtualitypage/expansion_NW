@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 5 January 2025
+# Last modified: 12 January 2025
 #
 
 # [広告全般]
@@ -111,6 +111,7 @@
 0.0.0.0 and-conote.powergrid.chuden.co.jp
 0.0.0.0 and-english.com
 0.0.0.0 anellohome.com
+0.0.0.0 angelica-lp.com
 0.0.0.0 angelinasweet.com
 0.0.0.0 animefesta.iowl.jp
 0.0.0.0 ankanpou.com
@@ -122,6 +123,7 @@
 0.0.0.0 apamanshop-tennoji.net
 0.0.0.0 apc-jp.com
 0.0.0.0 apexgirls.neorigin.com
+0.0.0.0 api.affiliations.site
 0.0.0.0 apollostation-chubu.com
 0.0.0.0 app.pixverse.ai
 0.0.0.0 appleone.shop
@@ -155,6 +157,7 @@
 0.0.0.0 ashiba-leasekyokai.com
 0.0.0.0 ashley-furniture-blog.jp
 0.0.0.0 aslead.nri.co.jp
+0.0.0.0 asm.asahi.com
 0.0.0.0 asnavi.cersi.jp
 0.0.0.0 asobibar-shinjuku.net
 0.0.0.0 asp.hotel-story.ne.jp
@@ -472,6 +475,7 @@
 0.0.0.0 eco-life-smile.com
 0.0.0.0 eco-mon.jp
 0.0.0.0 ecoloquia.co.jp
+0.0.0.0 edu.watch.impress.co.jp
 0.0.0.0 efex.co.jp
 0.0.0.0 egolf.jp
 0.0.0.0 ehime-hanakaido.com
@@ -554,6 +558,7 @@
 0.0.0.0 flowerjob.net
 0.0.0.0 fod.fujitv.co.jp
 0.0.0.0 food-match-japan.campaign.europa.eu
+0.0.0.0 food-platform.pref.kochi.lg.jp
 0.0.0.0 foodingjournal.com
 0.0.0.0 form.jotform.com
 0.0.0.0 form.run
@@ -710,6 +715,7 @@
 0.0.0.0 hana-home.com
 0.0.0.0 hands.net
 0.0.0.0 haneda-shopping.jp
+0.0.0.0 hapi-hapi-style.com
 0.0.0.0 happy5.site
 0.0.0.0 happygift2.com
 0.0.0.0 happyhackingkb.com
@@ -833,6 +839,7 @@
 0.0.0.0 info.km-group.co.jp
 0.0.0.0 info.nikkei.com
 0.0.0.0 info.nikkeibp.co.jp
+0.0.0.0 info.renishaw.com
 0.0.0.0 info.slimstock.com
 0.0.0.0 info.uopochi.jp
 0.0.0.0 infocp.syngenta.co.jp
@@ -879,11 +886,13 @@
 0.0.0.0 jcloud.co.jp
 0.0.0.0 jetb.co.jp
 0.0.0.0 jewelry-girls.net
+0.0.0.0 jey.lpro-chat.com
 0.0.0.0 jh.shijonawate-gakuen.ac.jp
 0.0.0.0 jibunmakura.com
 0.0.0.0 jicamagazine.jica.go.jp
 0.0.0.0 jinennjo.com
 0.0.0.0 jinentai.com
+0.0.0.0 jirei.r-rental.co.jp
 0.0.0.0 jireidb.shougaisha-sabetukaishou.go.jp
 0.0.0.0 jishanoen.jp
 0.0.0.0 jnet-store.com
@@ -944,6 +953,7 @@
 0.0.0.0 jw-clear.com
 0.0.0.0 jws-c.jp
 0.0.0.0 jyouhoudenshi.jp
+0.0.0.0 jyuhun-chord.com
 0.0.0.0 k-rm.jp
 0.0.0.0 k-tsukada.com
 0.0.0.0 kaban-campaign.com
@@ -1133,6 +1143,7 @@
 0.0.0.0 leopalace-fine2005.com
 0.0.0.0 lets-boatrace.jp
 0.0.0.0 lidea.today
+0.0.0.0 life-shop.info
 0.0.0.0 life.miele.co.jp
 0.0.0.0 life.oricon.co.jp
 0.0.0.0 lifestyle-habit.com
@@ -1212,6 +1223,7 @@
 0.0.0.0 make-mastery.com
 0.0.0.0 makinushi-tk.com
 0.0.0.0 makita-craft.co.jp
+0.0.0.0 makuring.jp
 0.0.0.0 mall.humanhealth.com.hk
 0.0.0.0 maltese.breeders.jp
 0.0.0.0 manabi-naoshi.mhlw.go.jp
@@ -1481,6 +1493,7 @@
 0.0.0.0 oyanozasshi.jp
 0.0.0.0 p-project.jp
 0.0.0.0 p-town.dmm.com
+0.0.0.0 pachinko.cen.co.jp
 0.0.0.0 pages.vaio.com
 0.0.0.0 pair-loan.com
 0.0.0.0 paiza.jp
@@ -1597,6 +1610,7 @@
 0.0.0.0 rebgil.funyoursjapan.pink
 0.0.0.0 reccet-gym.com
 0.0.0.0 recruit.fordays.jp
+0.0.0.0 recruit.hakuhodo-technologies.co.jp
 0.0.0.0 recruit.meccs.co.jp
 0.0.0.0 recruit.nds-g.co.jp
 0.0.0.0 recruit.oshare-zele.co.jp
@@ -1978,6 +1992,7 @@
 0.0.0.0 supi.owned.media
 0.0.0.0 survey.qlifeweb.jp
 0.0.0.0 sus-recruit.com
+0.0.0.0 sushi-hasegawa.owst.jp
 0.0.0.0 sushitech-real.metro.tokyo.lg.jp
 0.0.0.0 sustineri.co.jp
 0.0.0.0 sutekinajinsei.jp
@@ -2257,6 +2272,7 @@
 0.0.0.0 www.abarth.jp
 0.0.0.0 www.abc-mart.net
 0.0.0.0 www.able.co.jp
+0.0.0.0 www.ac-oktec.com
 0.0.0.0 www.accenture.com
 0.0.0.0 www.aceeatserve.com
 0.0.0.0 www.achilles.jp
@@ -2298,6 +2314,7 @@
 0.0.0.0 www.alpha-note.co.jp
 0.0.0.0 www.alphamap.com
 0.0.0.0 www.alsi.co.jp
+0.0.0.0 www.althi.co.jp
 0.0.0.0 www.amafair.com
 0.0.0.0 www.amanofd.jp
 0.0.0.0 www.amd.com
@@ -2330,6 +2347,7 @@
 0.0.0.0 www.aqura.co.jp
 0.0.0.0 www.arc-web.com
 0.0.0.0 www.ark-shop.com
+0.0.0.0 www.arkfarm.net
 0.0.0.0 www.armonia.jp
 0.0.0.0 www.aronkasei.co.jp
 0.0.0.0 www.arrow-school.com
@@ -2362,6 +2380,7 @@
 0.0.0.0 www.audi-nagoyachuo.jp
 0.0.0.0 www.audiotech.jp
 0.0.0.0 www.austria.info
+0.0.0.0 www.autobacs-weblp.com
 0.0.0.0 www.automesse.jp
 0.0.0.0 www.autotrace.info
 0.0.0.0 www.aws-pairring.jp
@@ -2525,6 +2544,7 @@
 0.0.0.0 www.corona.co.jp
 0.0.0.0 www.corp-m-rental.com
 0.0.0.0 www.cosme.com
+0.0.0.0 www.cosmo-energy.co.jp
 0.0.0.0 www.cosmo-mycar.com
 0.0.0.0 www.cospa-wellness.co.jp
 0.0.0.0 www.couleur-harima.com
@@ -2664,6 +2684,7 @@
 0.0.0.0 www.fmworld.net
 0.0.0.0 www.foodjobselect.com
 0.0.0.0 www.forcus.co.jp
+0.0.0.0 www.forestblue.jp
 0.0.0.0 www.foreupgolf.com
 0.0.0.0 www.forever-kato.co.jp
 0.0.0.0 www.forguncy.com
@@ -2672,6 +2693,7 @@
 0.0.0.0 www.france.fr
 0.0.0.0 www.freedom.co.jp
 0.0.0.0 www.freee.co.jp
+0.0.0.0 www.fresco-hc.com
 0.0.0.0 www.frewa.jp
 0.0.0.0 www.front-ia.com
 0.0.0.0 www.frontier-direct.jp
@@ -2963,6 +2985,7 @@
 0.0.0.0 www.jurassicworld.jp
 0.0.0.0 www.justanswer.jp
 0.0.0.0 www.jutakuhaku.co.jp
+0.0.0.0 www.jwtc.org
 0.0.0.0 www.jyubako.com
 0.0.0.0 www.k-idea.jp
 0.0.0.0 www.k-wam.jp
@@ -3039,7 +3062,9 @@
 0.0.0.0 www.kobeseika.ac.jp
 0.0.0.0 www.kobetsu.co.jp
 0.0.0.0 www.kobo-shinshu.com
+0.0.0.0 www.kochi-daihatsu.co.jp
 0.0.0.0 www.kochi-daimaru.co.jp
+0.0.0.0 www.kochiken-shakyo.or.jp
 0.0.0.0 www.kodomo-poster2024.metro.tokyo.lg.jp
 0.0.0.0 www.kodomokoho.metro.tokyo.lg.jp
 0.0.0.0 www.kodomoseisaku.metro.tokyo.lg.jp
@@ -3094,6 +3119,7 @@
 0.0.0.0 www.liebherr.com
 0.0.0.0 www.life-n.jp
 0.0.0.0 www.ligne-roset.jp
+0.0.0.0 www.lim-kochi.com
 0.0.0.0 www.linemo.jp
 0.0.0.0 www.linkpskorea.com
 0.0.0.0 www.links-gunma.net
@@ -3152,6 +3178,7 @@
 0.0.0.0 www.meijigakuin.ac.jp
 0.0.0.0 www.meikuri.co.jp
 0.0.0.0 www.meimonkai.co.jp
+0.0.0.0 www.meiservice.com
 0.0.0.0 www.mekarijinja.com
 0.0.0.0 www.menard.co.jp
 0.0.0.0 www.menicon.co.jp
@@ -3166,6 +3193,7 @@
 0.0.0.0 www.mhlw.go.jp
 0.0.0.0 www.micconsulting.jp
 0.0.0.0 www.michiluno.jp
+0.0.0.0 www.michitabi.com
 0.0.0.0 www.mignon-eyelash-recruit.com
 0.0.0.0 www.miinhair.com
 0.0.0.0 www.mikahara.com
@@ -3527,6 +3555,7 @@
 0.0.0.0 www.roudousaigai.jp
 0.0.0.0 www.rtyfghgroup.com
 0.0.0.0 www.ruxur.net
+0.0.0.0 www.ryugei.co.jp
 0.0.0.0 www.ryukakusan.co.jp
 0.0.0.0 www.s-ge.com
 0.0.0.0 www.s-re.jp
@@ -3543,6 +3572,7 @@
 0.0.0.0 www.sanco.co.jp
 0.0.0.0 www.sangitan.ac.jp
 0.0.0.0 www.sankeilink.com
+0.0.0.0 www.sankyofrontier.com
 0.0.0.0 www.sanoya.co.jp
 0.0.0.0 www.sanpou-s.net
 0.0.0.0 www.sansei-l.co.jp
@@ -3849,6 +3879,7 @@
 0.0.0.0 www.valt-japan.com
 0.0.0.0 www.video.unext.jp
 0.0.0.0 www.vietnamairlines.com
+0.0.0.0 www.vikingcruisesjapan.com
 0.0.0.0 www.vintagewatch.jp
 0.0.0.0 www.virinamaternity.com
 0.0.0.0 www.visartscenter.org
@@ -3994,6 +4025,7 @@
 0.0.0.0 zero.gift
 0.0.0.0 zerosumu.com
 0.0.0.0 zexy.net
+0.0.0.0 zidoma.com
 0.0.0.0 zigen-inc.stores.jp
 0.0.0.0 zona-kobe.com
 0.0.0.0 zumi-kobo.com
