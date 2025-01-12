@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 11 January 2025
+# Last modified: 12 January 2025
 #
 
 # [広告全般]
@@ -3062,6 +3062,7 @@
 0.0.0.0 www.kobeseika.ac.jp
 0.0.0.0 www.kobetsu.co.jp
 0.0.0.0 www.kobo-shinshu.com
+0.0.0.0 www.kochi-daihatsu.co.jp
 0.0.0.0 www.kochi-daimaru.co.jp
 0.0.0.0 www.kochiken-shakyo.or.jp
 0.0.0.0 www.kodomo-poster2024.metro.tokyo.lg.jp
@@ -3192,6 +3193,7 @@
 0.0.0.0 www.mhlw.go.jp
 0.0.0.0 www.micconsulting.jp
 0.0.0.0 www.michiluno.jp
+0.0.0.0 www.michitabi.com
 0.0.0.0 www.mignon-eyelash-recruit.com
 0.0.0.0 www.miinhair.com
 0.0.0.0 www.mikahara.com
