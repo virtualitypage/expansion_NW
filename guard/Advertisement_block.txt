@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 12 January 2025
+# Last modified: 13 January 2025
 #
 
 # [広告全般]
@@ -286,6 +286,7 @@
 0.0.0.0 career-safari.com
 0.0.0.0 career.levtech.jp
 0.0.0.0 careerjp.work
+0.0.0.0 careers.fromsoftware.jp
 0.0.0.0 carioca.owst.jp
 0.0.0.0 casadangela-anhuit.com
 0.0.0.0 casge-town.jp
@@ -1252,6 +1253,7 @@
 0.0.0.0 mecha-tok.com
 0.0.0.0 mechacomic.jp
 0.0.0.0 media-hakase.com
+0.0.0.0 media123.info
 0.0.0.0 mediaworld.co.jp
 0.0.0.0 medical-kokokara.com
 0.0.0.0 medical-shinjuku.com
@@ -2303,6 +2305,7 @@
 0.0.0.0 www.aidem.co.jp
 0.0.0.0 www.aiful.co.jp
 0.0.0.0 www.aiimi.com
+0.0.0.0 www.aikou-foodlogi.jp
 0.0.0.0 www.airasia.com
 0.0.0.0 www.airnewzealand.jp
 0.0.0.0 www.alba.co.jp
@@ -2570,6 +2573,7 @@
 0.0.0.0 www.daisenham.com
 0.0.0.0 www.daito.ac.jp
 0.0.0.0 www.daiwa-am.co.jp
+0.0.0.0 www.daiwa-ele.com
 0.0.0.0 www.daiwa.com
 0.0.0.0 www.daiwahouse.co.jp
 0.0.0.0 www.daiyuu.com
@@ -2944,6 +2948,7 @@
 0.0.0.0 www.japan-it.jp
 0.0.0.0 www.japandrone-kansai.com
 0.0.0.0 www.japanenergyevent.com
+0.0.0.0 www.jbcchd.co.jp
 0.0.0.0 www.jcb.jp
 0.0.0.0 www.jcom.co.jp
 0.0.0.0 www.jeed.go.jp
@@ -3608,6 +3613,7 @@
 0.0.0.0 www.shabu-yuzuan.jp
 0.0.0.0 www.shadow-garden-mog.jp
 0.0.0.0 www.shakker.ai
+0.0.0.0 www.sharecoto.co.jp
 0.0.0.0 www.sharkninja.jp
 0.0.0.0 www.shc.co.jp
 0.0.0.0 www.shigotoarimasu.com
@@ -3833,9 +3839,11 @@
 0.0.0.0 www.triumphmotorcycles.jp
 0.0.0.0 www.trivago.jp
 0.0.0.0 www.trust-technology.co.jp
+0.0.0.0 www.try-gakuin.com
 0.0.0.0 www.trygroup.co.jp
 0.0.0.0 www.tsit.com.tw
 0.0.0.0 www.tsubame-saiyou.com
+0.0.0.0 www.tsubusuguri.com
 0.0.0.0 www.tsugaike.gr.jp
 0.0.0.0 www.tsume.co.jp
 0.0.0.0 www.tsumibukakikuri.jp
