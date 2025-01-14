@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 13 January 2025
+# Last modified: 14 January 2025
 #
 
 # [広告全般]
@@ -326,6 +326,7 @@
 0.0.0.0 cleanapovn.com
 0.0.0.0 cleverly-kochi.com
 0.0.0.0 clients.itszai.jp
+0.0.0.0 clinlife.jp
 0.0.0.0 closet.eiwa-uniform.com
 0.0.0.0 cloud.info.asics.com
 0.0.0.0 clta.jp
@@ -1083,6 +1084,7 @@
 0.0.0.0 kouseisaiyou.mhlw.go.jp
 0.0.0.0 kouseki-akita.com
 0.0.0.0 koutoku.ac.jp
+0.0.0.0 kpmg.com
 0.0.0.0 kritikazero-dmg.pmang.jp
 0.0.0.0 ks-factory.soueisha.net
 0.0.0.0 ktv-housing.com
@@ -1141,6 +1143,7 @@
 0.0.0.0 leisure-japan.jp
 0.0.0.0 lemino.docomo.ne.jp
 0.0.0.0 lemonhome.co.jp
+0.0.0.0 lens-me.jp
 0.0.0.0 leopalace-fine2005.com
 0.0.0.0 lets-boatrace.jp
 0.0.0.0 lidea.today
@@ -1270,6 +1273,7 @@
 0.0.0.0 mens-rinx.jp
 0.0.0.0 mens.datsumo-hikaku.jp
 0.0.0.0 mens.s-nail.info
+0.0.0.0 merci-info1.xyz
 0.0.0.0 mercure-hida-takayama.com
 0.0.0.0 meshop-jp.com
 0.0.0.0 metsa-hanno.com
@@ -1430,6 +1434,7 @@
 0.0.0.0 nyushi.otemon.ac.jp
 0.0.0.0 nyusinavi.nagoya-wu.ac.jp
 0.0.0.0 nzzz.airnewzealand.jp
+0.0.0.0 o-wen.jp
 0.0.0.0 oasishoteles.com
 0.0.0.0 oba-sr.com
 0.0.0.0 oceans.tokyo.jp
@@ -1742,6 +1747,7 @@
 0.0.0.0 sb-viargyqt.discover-news.tokyo
 0.0.0.0 sb-viazol.newsanything.tokyo
 0.0.0.0 sb-wanwanwanwananwawanwa.discover-news.tokyo
+0.0.0.0 sb-yhaiuwlgebhbjnklaewjnk.discover-news.tokyo
 0.0.0.0 sb-yoshinagasiki.discover-news.tokyo
 0.0.0.0 sb-youhouhouyou.discover-news.tokyo
 0.0.0.0 sb.app-joy.info
@@ -2668,6 +2674,7 @@
 0.0.0.0 www.fancrew.jp
 0.0.0.0 www.fanstyle.co.jp
 0.0.0.0 www.fashion-tokyo.jp
+0.0.0.0 www.fav-lux.com
 0.0.0.0 www.feather.co.jp
 0.0.0.0 www.feels-trend.site
 0.0.0.0 www.felicitycontrol.com
@@ -3038,6 +3045,7 @@
 0.0.0.0 www.keishow.com
 0.0.0.0 www.keisokuten.jp
 0.0.0.0 www.kenko-webshop.jp
+0.0.0.0 www.kensanpin.org
 0.0.0.0 www.kewpie.co.jp
 0.0.0.0 www.keyence-foundation.or.jp
 0.0.0.0 www.ki-rin.biz
@@ -3985,6 +3993,7 @@
 0.0.0.0 www3.kawasaki-motors.com
 0.0.0.0 www3.nissan.co.jp
 0.0.0.0 wwwsp.himawari-life.co.jp
+0.0.0.0 xmf.jp
 0.0.0.0 xn--pckua2a7gp15o89zb.com
 0.0.0.0 xylophone-rain.space
 0.0.0.0 yab.yomiuri.co.jp
