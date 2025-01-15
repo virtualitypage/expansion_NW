@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 14 January 2025
+# Last modified: 15 January 2025
 #
 
 # [広告全般]
@@ -119,6 +119,7 @@
 0.0.0.0 answerbox.jp
 0.0.0.0 anytool.jp
 0.0.0.0 aoba-jb.com
+0.0.0.0 aomorimai-cp2025.com
 0.0.0.0 apamanshop-nanba.net
 0.0.0.0 apamanshop-tennoji.net
 0.0.0.0 apc-jp.com
@@ -1222,6 +1223,7 @@
 0.0.0.0 maekawaah.com
 0.0.0.0 mag.bess.jp
 0.0.0.0 mahope.hair
+0.0.0.0 mailcoupletime.net
 0.0.0.0 main.tsubaki-app.com
 0.0.0.0 mainichi.nosh.jp
 0.0.0.0 make-mastery.com
