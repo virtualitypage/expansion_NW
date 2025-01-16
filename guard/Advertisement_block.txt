@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 15 January 2025
+# Last modified: 16 January 2025
 #
 
 # [広告全般]
@@ -692,6 +692,7 @@
 0.0.0.0 graychat.net
 0.0.0.0 greenkankyo.com
 0.0.0.0 gron.co.jp
+0.0.0.0 groverdesign.jp
 0.0.0.0 growi.cloud
 0.0.0.0 gtoyota.com
 0.0.0.0 guestlist-tokyo.com
@@ -1449,6 +1450,7 @@
 0.0.0.0 ohka-kobe.owst.jp
 0.0.0.0 ohnoseijyo.com
 0.0.0.0 ohtani-shotime.com
+0.0.0.0 oishi-kenko.com
 0.0.0.0 oishii-izumo.jp
 0.0.0.0 oka-d-art.com
 0.0.0.0 okaido.clare.jp
@@ -2523,6 +2525,7 @@
 0.0.0.0 www.city.matsuyama.ehime.jp
 0.0.0.0 www.city.nagoya.jp
 0.0.0.0 www.city.osaka.lg.jp
+0.0.0.0 www.city.takatsuki.osaka.jp
 0.0.0.0 www.ck-saikouchiku.go.jp
 0.0.0.0 www.ck-toyota.co.jp
 0.0.0.0 www.ckkdining.com
@@ -3876,6 +3879,7 @@
 0.0.0.0 www.uehara-shinkyuin.com
 0.0.0.0 www.uhe.ac.jp
 0.0.0.0 www.uipath.com
+0.0.0.0 www.umiwellness.com
 0.0.0.0 www.unicef.or.jp
 0.0.0.0 www.unicontrols.co.jp
 0.0.0.0 www.uniqloichiropost.com
