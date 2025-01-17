@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 16 January 2025
+# Last modified: 17 January 2025
 #
 
 # [広告全般]
@@ -84,6 +84,7 @@
 0.0.0.0 akoakostudio.com
 0.0.0.0 akr0674735414.owst.jp
 0.0.0.0 akr4061480779.owst.jp
+0.0.0.0 akr7827636977.owst.jp
 0.0.0.0 akr9636581561.owst.jp
 0.0.0.0 al-mare.irodori-inc-okj.co.jp
 0.0.0.0 alc.talkingmarathon.com
@@ -397,6 +398,7 @@
 0.0.0.0 delivery-shizuoka-sakuraan.com
 0.0.0.0 demo.buruburu.app
 0.0.0.0 dengekibunko.jp
+0.0.0.0 denka-agri.jp
 0.0.0.0 denkiworks.com
 0.0.0.0 dent-kaneko-invisalign.com
 0.0.0.0 dental-implant-1946922.fyi
@@ -559,6 +561,7 @@
 0.0.0.0 flasharkracing.com
 0.0.0.0 flex.amazon.co.jp
 0.0.0.0 flowerjob.net
+0.0.0.0 fm.nikkeibp.co.jp
 0.0.0.0 fod.fujitv.co.jp
 0.0.0.0 food-match-japan.campaign.europa.eu
 0.0.0.0 food-platform.pref.kochi.lg.jp
@@ -2001,6 +2004,7 @@
 0.0.0.0 sumusite.sekisuihouse.co.jp
 0.0.0.0 sunks-rentacar.com
 0.0.0.0 super-copy-brand.com
+0.0.0.0 superfunded.com
 0.0.0.0 supi.owned.media
 0.0.0.0 survey.qlifeweb.jp
 0.0.0.0 sus-recruit.com
@@ -2144,6 +2148,7 @@
 0.0.0.0 twpass.tw
 0.0.0.0 tyre.dunlop.co.jp
 0.0.0.0 tyuju.mabuchi.co.jp
+0.0.0.0 tyuko.kyoshin.co.jp
 0.0.0.0 tyunyuken.com
 0.0.0.0 u-adviser.jp
 0.0.0.0 u-treasure.jp
@@ -2178,6 +2183,7 @@
 0.0.0.0 usagi-online.com
 0.0.0.0 ut-studyroom.com
 0.0.0.0 utattemita-collection.jp
+0.0.0.0 uzusado.jp
 0.0.0.0 vda.afkjourney.com
 0.0.0.0 vegasvegas-recruit.com
 0.0.0.0 verde8-18-28-24.com
@@ -3156,6 +3162,7 @@
 0.0.0.0 www.m-ams.co.jp
 0.0.0.0 www.m-keiei.jp
 0.0.0.0 www.macaotourism.gov.mo
+0.0.0.0 www.maetanien.com
 0.0.0.0 www.magionet.co.jp
 0.0.0.0 www.magna-tokyo.com
 0.0.0.0 www.magokoro-bento.com
@@ -3393,6 +3400,7 @@
 0.0.0.0 www.okawasanki.co.jp
 0.0.0.0 www.okeihan.net
 0.0.0.0 www.oki.com
+0.0.0.0 www.okinawastory.jp
 0.0.0.0 www.okinawatimes.co.jp
 0.0.0.0 www.oligo.jp
 0.0.0.0 www.oliveoilsfromspain.jp
@@ -3687,6 +3695,7 @@
 0.0.0.0 www.sodastream.jp
 0.0.0.0 www.softbank.jp
 0.0.0.0 www.sogo-seibu.jp
+0.0.0.0 www.soka.ac.jp
 0.0.0.0 www.sola-resort.com
 0.0.0.0 www.solaseedair.jp
 0.0.0.0 www.songdream-blog.jp
@@ -3879,6 +3888,7 @@
 0.0.0.0 www.uehara-shinkyuin.com
 0.0.0.0 www.uhe.ac.jp
 0.0.0.0 www.uipath.com
+0.0.0.0 www.uminokyoto.jp
 0.0.0.0 www.umiwellness.com
 0.0.0.0 www.unicef.or.jp
 0.0.0.0 www.unicontrols.co.jp
