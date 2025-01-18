@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 17 January 2025
+# Last modified: 18 January 2025
 #
 
 # [広告全般]
@@ -307,6 +307,7 @@
 0.0.0.0 chemeon.com
 0.0.0.0 chester-tax.com
 0.0.0.0 chihuahua.breeders.jp
+0.0.0.0 chikaramoti-kochi.com
 0.0.0.0 chikudenchi-asahi.com
 0.0.0.0 chirashi.akachan.jp
 0.0.0.0 chouwasha.jp
@@ -612,6 +613,7 @@
 0.0.0.0 furusato-yoichi.jp
 0.0.0.0 furyu-hm.com
 0.0.0.0 futon-tsuyuki-ec.com
+0.0.0.0 futoukou-sien.com
 0.0.0.0 fuwarii.com
 0.0.0.0 g-house.osaka.jp
 0.0.0.0 g-prep.co.jp
@@ -1504,6 +1506,7 @@
 0.0.0.0 otokujyoho.online
 0.0.0.0 otonamuse.jp
 0.0.0.0 otori-hearing.com
+0.0.0.0 owl-airplane.space
 0.0.0.0 oyanozasshi.jp
 0.0.0.0 p-project.jp
 0.0.0.0 p-town.dmm.com
@@ -1802,6 +1805,7 @@
 0.0.0.0 seiko-engineering.co.jp
 0.0.0.0 seirei-junior-high-school-openschool.com
 0.0.0.0 seisukeknifekappabashi.com
+0.0.0.0 seiwa-kindergarten.jp
 0.0.0.0 sekisuinct.com
 0.0.0.0 sekokan-labo.jp
 0.0.0.0 sekokan-next.worldcorp-jp.com
@@ -2059,6 +2063,7 @@
 0.0.0.0 teamix.click
 0.0.0.0 tebanashi.mira-ie.co.jp
 0.0.0.0 techgala.jp
+0.0.0.0 teian-enh.com
 0.0.0.0 teknitape.com
 0.0.0.0 teleboat-cp.jp
 0.0.0.0 telling.asahi.com
@@ -2407,6 +2412,7 @@
 0.0.0.0 www.ayano-craft.co.jp
 0.0.0.0 www.az-art.net
 0.0.0.0 www.b-conplaza.jp
+0.0.0.0 www.backyardhealers.com
 0.0.0.0 www.balbix.com
 0.0.0.0 www.balmuda.com
 0.0.0.0 www.bank-daiwa.co.jp
@@ -3619,6 +3625,7 @@
 0.0.0.0 www.sc.ouj.ac.jp
 0.0.0.0 www.scan.co.uk
 0.0.0.0 www.scholarly.sg
+0.0.0.0 www.sciencewood.co.jp
 0.0.0.0 www.sears.jp
 0.0.0.0 www.seed.co.jp
 0.0.0.0 www.seibuprince.com
