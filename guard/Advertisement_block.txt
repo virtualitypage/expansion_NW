@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 18 January 2025
+# Last modified: 19 January 2025
 #
 
 # [広告全般]
@@ -309,6 +309,7 @@
 0.0.0.0 chihuahua.breeders.jp
 0.0.0.0 chikaramoti-kochi.com
 0.0.0.0 chikudenchi-asahi.com
+0.0.0.0 chill-cam.com
 0.0.0.0 chirashi.akachan.jp
 0.0.0.0 chouwasha.jp
 0.0.0.0 chuchubaby.jp
@@ -605,6 +606,7 @@
 0.0.0.0 fukutujishiki.com
 0.0.0.0 fun.asahi-gf.co.jp
 0.0.0.0 funbuy-shop.com
+0.0.0.0 fundsearch.jp
 0.0.0.0 funeralsjp.club
 0.0.0.0 funplay.hinet.net
 0.0.0.0 furnituremaker.co.jp
@@ -709,6 +711,7 @@
 0.0.0.0 haco-renovation.jp
 0.0.0.0 hacochef.cqree.jp
 0.0.0.0 hadanara-trend.com
+0.0.0.0 hagamen.jp
 0.0.0.0 hagoogi.com
 0.0.0.0 hairvino.com
 0.0.0.0 hakabanogarou.jp
@@ -1250,6 +1253,7 @@
 0.0.0.0 maruhan-lp.net
 0.0.0.0 maruhome.jp
 0.0.0.0 marumugi.shop
+0.0.0.0 masaomi-jyuku.masaomi-takao.com
 0.0.0.0 masaya-pawnshop.com
 0.0.0.0 mashiro82x.base.shop
 0.0.0.0 matsue.clare.jp
@@ -1263,6 +1267,7 @@
 0.0.0.0 mcs-ainoie.com
 0.0.0.0 mecha-tok.com
 0.0.0.0 mechacomic.jp
+0.0.0.0 med-english.net
 0.0.0.0 media-hakase.com
 0.0.0.0 media123.info
 0.0.0.0 mediaworld.co.jp
@@ -1373,6 +1378,7 @@
 0.0.0.0 naka4.com
 0.0.0.0 nakanodental-cl.com
 0.0.0.0 nakka-art.jp
+0.0.0.0 nakosa.theshop.jp
 0.0.0.0 nanatsuya-radical-yasumitsu.sai-soku.jp
 0.0.0.0 nannyme.love
 0.0.0.0 nara.jr-central.co.jp
@@ -1609,6 +1615,7 @@
 0.0.0.0 r.casalemedia.com
 0.0.0.0 r.gnavi.co.jp
 0.0.0.0 r1-usc1.zemanta.com
+0.0.0.0 r25.jp
 0.0.0.0 race.nishinippon.co.jp
 0.0.0.0 raichoshrine.owst.jp
 0.0.0.0 railway.jr-central.co.jp
@@ -1769,6 +1776,7 @@
 0.0.0.0 sb.claudia.co.jp
 0.0.0.0 sb.dioclinic-diet.com
 0.0.0.0 sb.ecnokamisama.com
+0.0.0.0 sb.healthy-meee.net
 0.0.0.0 sb.hoconico.com
 0.0.0.0 sb.jewel-dysneh.com
 0.0.0.0 sb.kindle-esxzg.com
@@ -1866,6 +1874,7 @@
 0.0.0.0 shop-list.com
 0.0.0.0 shop.bancdor-saitama.com
 0.0.0.0 shop.basefood.co.jp
+0.0.0.0 shop.delca.jp
 0.0.0.0 shop.fumakilla.jp
 0.0.0.0 shop.g9trainer.com
 0.0.0.0 shop.ginzatanaka.co.jp
@@ -2045,6 +2054,7 @@
 0.0.0.0 tamatani-tenroku.com
 0.0.0.0 tamayakk.com
 0.0.0.0 tanaka501.com
+0.0.0.0 tanbaya.net
 0.0.0.0 tanebo.click
 0.0.0.0 tanoshiiosake.jp
 0.0.0.0 tansei-legaloffice.jp
@@ -2094,6 +2104,7 @@
 0.0.0.0 tjgreen-gym.com
 0.0.0.0 tkcp-premium-tire-sale-5ab30bb4478c.herokuapp.com
 0.0.0.0 to-hand.com
+0.0.0.0 tohei-ya.com
 0.0.0.0 toho-imazu.jp
 0.0.0.0 tohoku-kizunamatsuri.jp
 0.0.0.0 tohshin.net
@@ -2108,6 +2119,7 @@
 0.0.0.0 tomei-riso.jp
 0.0.0.0 tomei.c-nexco.co.jp
 0.0.0.0 tomishiyaku.net
+0.0.0.0 tomitarashi.com
 0.0.0.0 tomohirokai.or.jp
 0.0.0.0 tomotaqu.com
 0.0.0.0 topgunairtx.com
@@ -2326,6 +2338,7 @@
 0.0.0.0 www.aidem.co.jp
 0.0.0.0 www.aiful.co.jp
 0.0.0.0 www.aiimi.com
+0.0.0.0 www.aikou-corp.co.jp
 0.0.0.0 www.aikou-foodlogi.jp
 0.0.0.0 www.airasia.com
 0.0.0.0 www.airnewzealand.jp
@@ -2623,6 +2636,7 @@
 0.0.0.0 www.dr-navip.jp
 0.0.0.0 www.dream-stage.net
 0.0.0.0 www.dreammail.jp
+0.0.0.0 www.drgc.jp
 0.0.0.0 www.driver-haken.com
 0.0.0.0 www.drscholl.jp
 0.0.0.0 www.drumgarage.net
@@ -2710,6 +2724,7 @@
 0.0.0.0 www.flexispot.jp
 0.0.0.0 www.flyscoot.com
 0.0.0.0 www.fmworld.net
+0.0.0.0 www.foamlite.jp
 0.0.0.0 www.foodjobselect.com
 0.0.0.0 www.forcus.co.jp
 0.0.0.0 www.forestblue.jp
@@ -3292,6 +3307,7 @@
 0.0.0.0 www.mystino.jp
 0.0.0.0 www.nagasaki-ichiba.com
 0.0.0.0 www.nagasakistadiumcity.com
+0.0.0.0 www.nagasakisyogai.jp
 0.0.0.0 www.nagoya-bengoshi.info
 0.0.0.0 www.nagoyatokyuhotel-wedding.com
 0.0.0.0 www.nakae-bussan.shop
@@ -3756,10 +3772,12 @@
 0.0.0.0 www.swan-kg.com
 0.0.0.0 www.sy32.jp
 0.0.0.0 www.symphonyhall.jp
+0.0.0.0 www.syokunomori.com
 0.0.0.0 www.t-celeb.net
 0.0.0.0 www.t-fal.co.jp
 0.0.0.0 www.t-rough.jp
 0.0.0.0 www.tac-school.co.jp
+0.0.0.0 www.tagamioyatsuimo.com
 0.0.0.0 www.taiho.co.jp
 0.0.0.0 www.taiseihome.net
 0.0.0.0 www.taishu.co.jp
@@ -3998,6 +4016,7 @@
 0.0.0.0 www.ytj.gr.jp
 0.0.0.0 www.yuanta.com.tw
 0.0.0.0 www.yuifactory.co.jp
+0.0.0.0 www.yumexia-job.com
 0.0.0.0 www.yunker.jp
 0.0.0.0 www.yunohanaso.co.jp
 0.0.0.0 www.zaitakucare.co.jp
