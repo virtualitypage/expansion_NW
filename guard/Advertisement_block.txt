@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 19 January 2025
+# Last modified: 20 January 2025
 #
 
 # [広告全般]
@@ -342,6 +342,7 @@
 0.0.0.0 coco-store.jp
 0.0.0.0 cocochicosme.com
 0.0.0.0 cocofull.net
+0.0.0.0 cocolis.caa.go.jp
 0.0.0.0 colorful.futabanet.jp
 0.0.0.0 coloso.jp
 0.0.0.0 comic-walker.com
@@ -754,6 +755,7 @@
 0.0.0.0 heitenya.com
 0.0.0.0 heki.owst.jp
 0.0.0.0 hello-bbq.tokyo
+0.0.0.0 hello-renovation.jp
 0.0.0.0 henna.assemblage-hd.com
 0.0.0.0 hennge.com
 0.0.0.0 hey-choshikun.com
@@ -910,6 +912,7 @@
 0.0.0.0 jnet-store.com
 0.0.0.0 job-gear.net
 0.0.0.0 job.axol.jp
+0.0.0.0 job.kiracare.jp
 0.0.0.0 job.mynavi.jp
 0.0.0.0 job.rikunabi.com
 0.0.0.0 job.yamaha-motorbiz.co.jp
@@ -1134,6 +1137,7 @@
 0.0.0.0 lagemayo.com
 0.0.0.0 lagged.com
 0.0.0.0 lalacrush-snoopy.makers-pts.net
+0.0.0.0 landing.happytuk.co.jp
 0.0.0.0 landing.mangot5.com
 0.0.0.0 landing.worksap.co.jp
 0.0.0.0 landingpage.jinjib.co.jp
@@ -1871,6 +1875,7 @@
 0.0.0.0 sho.benesse.co.jp
 0.0.0.0 shoesiland.com
 0.0.0.0 shoka-stick.jp
+0.0.0.0 shokumitennka.owst.jp
 0.0.0.0 shop-list.com
 0.0.0.0 shop.bancdor-saitama.com
 0.0.0.0 shop.basefood.co.jp
@@ -2218,6 +2223,7 @@
 0.0.0.0 vti-glovebox.com
 0.0.0.0 wadainohon.com
 0.0.0.0 wakayama.vc-dealer.jp
+0.0.0.0 wakegai.jp
 0.0.0.0 wakurino.work
 0.0.0.0 walar.co.jp
 0.0.0.0 walife.co.jp
@@ -2669,6 +2675,7 @@
 0.0.0.0 www.edic.jp
 0.0.0.0 www.edion.com
 0.0.0.0 www.edix-expo.jp
+0.0.0.0 www.ega.ae
 0.0.0.0 www.eheya.net
 0.0.0.0 www.ehime-ben.or.jp
 0.0.0.0 www.ehime-shogai.net
@@ -2769,6 +2776,7 @@
 0.0.0.0 www.g-housen.co.jp
 0.0.0.0 www.g-search.or.jp
 0.0.0.0 www.g-shes.com
+0.0.0.0 www.gaikaex.com
 0.0.0.0 www.gakuji.co.jp
 0.0.0.0 www.galu-shizuoka.jp
 0.0.0.0 www.gan-kisho.novartis.co.jp
@@ -2972,6 +2980,7 @@
 0.0.0.0 www.iwaiwa.jp
 0.0.0.0 www.ixol.co.jp
 0.0.0.0 www.iyobank.co.jp
+0.0.0.0 www.iyotetsu-takashimaya.co.jp
 0.0.0.0 www.izumo-brand.jp
 0.0.0.0 www.j-flec.go.jp
 0.0.0.0 www.j-urban.jp
@@ -2983,6 +2992,7 @@
 0.0.0.0 www.jaguar.co.jp
 0.0.0.0 www.jaist.ac.jp
 0.0.0.0 www.jal.co.jp
+0.0.0.0 www.jamp.jiji.com
 0.0.0.0 www.janfusun.com.tw
 0.0.0.0 www.japan-it.jp
 0.0.0.0 www.japandrone-kansai.com
