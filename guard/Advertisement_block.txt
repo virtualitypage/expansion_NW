@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 20 January 2025
+# Last modified: 21 January 2025
 #
 
 # [広告全般]
@@ -1508,6 +1508,7 @@
 0.0.0.0 osaka.seikatsuclub.coop
 0.0.0.0 osakafoodtours.com
 0.0.0.0 osakahaku.ocm.osaka
+0.0.0.0 osakamania.jp
 0.0.0.0 osakastationcity.com
 0.0.0.0 osh-clinic.jp
 0.0.0.0 osho-research.co.jp
@@ -1592,6 +1593,7 @@
 0.0.0.0 product.minebeamitsumi.com
 0.0.0.0 promo.acronis.com
 0.0.0.0 promo.manchester.edu.hk
+0.0.0.0 propeciabuyonlinenm.com
 0.0.0.0 protectwborcn.com
 0.0.0.0 ps-hp.jpn.panasonic.com
 0.0.0.0 ps.nikkei.com
@@ -2671,6 +2673,7 @@
 0.0.0.0 www.ecnex.jp
 0.0.0.0 www.ecocity.jp
 0.0.0.0 www.ecoflow.com
+0.0.0.0 www.ecomo-life.com
 0.0.0.0 www.ecosmile-e.co.jp
 0.0.0.0 www.edic.jp
 0.0.0.0 www.edion.com
