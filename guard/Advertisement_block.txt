@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 21 January 2025
+# Last modified: 22 January 2025
 #
 
 # [広告全般]
@@ -388,6 +388,7 @@
 0.0.0.0 cybersecurity-100.com
 0.0.0.0 cybozu-office.com
 0.0.0.0 cycling-ehime.com
+0.0.0.0 cyurajima-miyako.com
 0.0.0.0 d-shinkou.com
 0.0.0.0 dachs.breeders.jp
 0.0.0.0 daiei-corporation.com
@@ -566,6 +567,7 @@
 0.0.0.0 flowerjob.net
 0.0.0.0 fm.nikkeibp.co.jp
 0.0.0.0 fod.fujitv.co.jp
+0.0.0.0 folegolf.jp
 0.0.0.0 food-match-japan.campaign.europa.eu
 0.0.0.0 food-platform.pref.kochi.lg.jp
 0.0.0.0 foodingjournal.com
@@ -2464,6 +2466,7 @@
 0.0.0.0 www.bk.mufg.jp
 0.0.0.0 www.blue-dolphins.net
 0.0.0.0 www.bmw-motorrad.co.uk
+0.0.0.0 www.boatrace-amagasaki.jp
 0.0.0.0 www.boatrace-sp.com
 0.0.0.0 www.bodyfit-mpn.com
 0.0.0.0 www.bondjewelry.net
@@ -2683,6 +2686,7 @@
 0.0.0.0 www.ehime-ben.or.jp
 0.0.0.0 www.ehime-shogai.net
 0.0.0.0 www.eines.jp
+0.0.0.0 www.eiwa-shinkin.co.jp
 0.0.0.0 www.eko-pr.com
 0.0.0.0 www.eldenring.jp
 0.0.0.0 www.elder.jeed.go.jp
@@ -3802,6 +3806,7 @@
 0.0.0.0 www.takarakuji-official.jp
 0.0.0.0 www.takashimaya-global.com
 0.0.0.0 www.takashimaya.co.jp
+0.0.0.0 www.takeda.tv
 0.0.0.0 www.takeheiro.com
 0.0.0.0 www.takiishi.co.jp
 0.0.0.0 www.takinogawa.ed.jp
