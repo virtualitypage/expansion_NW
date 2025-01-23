@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 22 January 2025
+# Last modified: 23 January 2025
 #
 
 # [広告全般]
@@ -2780,6 +2780,7 @@
 0.0.0.0 www.furusato-web.jp
 0.0.0.0 www.fushioukaku.co.jp
 0.0.0.0 www.futakiya.com
+0.0.0.0 www.fxpro.investments
 0.0.0.0 www.g-housen.co.jp
 0.0.0.0 www.g-search.or.jp
 0.0.0.0 www.g-shes.com
@@ -2929,6 +2930,7 @@
 0.0.0.0 www.huiaiqingganvip.com
 0.0.0.0 www.hutchgo.com.hk
 0.0.0.0 www.hyo-med.ac.jp
+0.0.0.0 www.hyogotoyota.co.jp
 0.0.0.0 www.hyundai.com
 0.0.0.0 www.i-koike.jp
 0.0.0.0 www.i-note.jp
@@ -3180,6 +3182,7 @@
 0.0.0.0 www.libertynet.jp
 0.0.0.0 www.liebherr.com
 0.0.0.0 www.life-n.jp
+0.0.0.0 www.life8739.co.jp
 0.0.0.0 www.ligne-roset.jp
 0.0.0.0 www.lim-kochi.com
 0.0.0.0 www.linemo.jp
@@ -3201,6 +3204,7 @@
 0.0.0.0 www.m-keiei.jp
 0.0.0.0 www.macaotourism.gov.mo
 0.0.0.0 www.maetanien.com
+0.0.0.0 www.maff.go.jp
 0.0.0.0 www.magionet.co.jp
 0.0.0.0 www.magna-tokyo.com
 0.0.0.0 www.magokoro-bento.com
@@ -3391,6 +3395,7 @@
 0.0.0.0 www.noa-yoga.com
 0.0.0.0 www.noaonline.jp
 0.0.0.0 www.noapilates.jp
+0.0.0.0 www.noblehome.co.jp
 0.0.0.0 www.nobunaga-funding.jp
 0.0.0.0 www.noce.co.jp
 0.0.0.0 www.nomura-am.co.jp
