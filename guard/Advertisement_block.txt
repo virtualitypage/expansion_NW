@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 23 January 2025
+# Last modified: 24 January 2025
 #
 
 # [広告全般]
@@ -766,6 +766,7 @@
 0.0.0.0 hi-door.jp
 0.0.0.0 hibikoku.tokyo
 0.0.0.0 hidanosake-hip.com
+0.0.0.0 hifivecity-kobe.com
 0.0.0.0 hijutaku.j-anshin.co.jp
 0.0.0.0 hikaku-rank.net
 0.0.0.0 hikaku.kurashiru.com
@@ -1231,6 +1232,7 @@
 0.0.0.0 m121.mitsuoka-osaka.jp
 0.0.0.0 ma-dodai.daido-life.co.jp
 0.0.0.0 machibiz.jp
+0.0.0.0 machino-akari.jp
 0.0.0.0 mackaikei.jp
 0.0.0.0 madakana-edohaku.jp
 0.0.0.0 madama-hada.jp
@@ -1482,6 +1484,7 @@
 0.0.0.0 one-up-life.com
 0.0.0.0 oneit.co.jp
 0.0.0.0 onesho.com
+0.0.0.0 online-mental-clinic.com
 0.0.0.0 online.cosmo-space.jp
 0.0.0.0 online.uc.edu
 0.0.0.0 onlineshop.est-online.com
