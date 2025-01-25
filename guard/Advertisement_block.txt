@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 24 January 2025
+# Last modified: 25 January 2025
 #
 
 # [広告全般]
@@ -510,6 +510,7 @@
 0.0.0.0 enjoy-sidework.com
 0.0.0.0 enjoyhome-fudosan.net
 0.0.0.0 enk.or.jp
+0.0.0.0 ensuiko.campaigns.jp
 0.0.0.0 entamega.com
 0.0.0.0 entori.jp
 0.0.0.0 entrata-chayamachi.com
@@ -745,6 +746,7 @@
 0.0.0.0 haseko-bp.jp
 0.0.0.0 hashibukuro.com
 0.0.0.0 hashida-giken.com
+0.0.0.0 hata.support
 0.0.0.0 hataraku-search.com
 0.0.0.0 hatarakujob.com
 0.0.0.0 hayabusa-kk.com
@@ -1132,6 +1134,7 @@
 0.0.0.0 kyotoichiyama.shop-pro.jp
 0.0.0.0 kyotomk-recruit.jp
 0.0.0.0 kyotoseika-nara-shaken.com
+0.0.0.0 kyowa-jyutaku.com
 0.0.0.0 kyudaigakken-realestate.com
 0.0.0.0 l-housing.net
 0.0.0.0 l-tike.com
@@ -2148,6 +2151,7 @@
 0.0.0.0 toyokeizai.net
 0.0.0.0 toyonishi-store.com
 0.0.0.0 toyooka-kaban.jp
+0.0.0.0 toyookakaban.com
 0.0.0.0 toyota.jp
 0.0.0.0 trace.popin.cc
 0.0.0.0 tramsystem.co.jp
@@ -2396,6 +2400,7 @@
 0.0.0.0 www.aquaworld-oarai.com
 0.0.0.0 www.aqura.co.jp
 0.0.0.0 www.arc-web.com
+0.0.0.0 www.ark-pc.co.jp
 0.0.0.0 www.ark-shop.com
 0.0.0.0 www.arkfarm.net
 0.0.0.0 www.armonia.jp
@@ -2710,6 +2715,7 @@
 0.0.0.0 www.eslead.co.jp
 0.0.0.0 www.esplanade.com
 0.0.0.0 www.etungo.com.tw
+0.0.0.0 www.ex-agent.co.jp
 0.0.0.0 www.ex-anpi.com
 0.0.0.0 www.eyecity.jp
 0.0.0.0 www.ezsoft.co.jp
@@ -2825,6 +2831,7 @@
 0.0.0.0 www.goolip.jp
 0.0.0.0 www.govconnection.com
 0.0.0.0 www.gpn.jp
+0.0.0.0 www.gptkiller.jp
 0.0.0.0 www.grace-h.jp
 0.0.0.0 www.grace-one.com
 0.0.0.0 www.graff.com
@@ -2980,6 +2987,7 @@
 0.0.0.0 www.ire-dc.com
 0.0.0.0 www.irisohyama.co.jp
 0.0.0.0 www.irisplaza.co.jp
+0.0.0.0 www.iroha-koumuten.com
 0.0.0.0 www.ishibashi-mfg.com
 0.0.0.0 www.ishichou.co.jp
 0.0.0.0 www.ishikawa-dental-office.jp
@@ -3515,6 +3523,7 @@
 0.0.0.0 www.pccs.co.jp
 0.0.0.0 www.penta-lab.com
 0.0.0.0 www.pentasecurity.co.jp
+0.0.0.0 www.perfectglobe.net
 0.0.0.0 www.personalhealth.jp
 0.0.0.0 www.pet-coo.com
 0.0.0.0 www.pet-coo.net
