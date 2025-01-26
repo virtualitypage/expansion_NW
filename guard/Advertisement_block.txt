@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 25 January 2025
+# Last modified: 26 January 2025
 #
 
 # [広告全般]
@@ -485,6 +485,7 @@
 0.0.0.0 eco-mon.jp
 0.0.0.0 ecoloquia.co.jp
 0.0.0.0 edu.watch.impress.co.jp
+0.0.0.0 eeko-ju.com
 0.0.0.0 efex.co.jp
 0.0.0.0 egolf.jp
 0.0.0.0 ehime-hanakaido.com
@@ -1204,6 +1205,7 @@
 0.0.0.0 lp.mediacloudtech.com
 0.0.0.0 lp.merpay.com
 0.0.0.0 lp.nuviasmiles.com
+0.0.0.0 lp.raksul.com
 0.0.0.0 lp.resortbaito-dive.com
 0.0.0.0 lp.scala-com.jp
 0.0.0.0 lp.sokuwork.com
@@ -2369,6 +2371,7 @@
 0.0.0.0 www.alphamap.com
 0.0.0.0 www.alsi.co.jp
 0.0.0.0 www.althi.co.jp
+0.0.0.0 www.altium.com
 0.0.0.0 www.amafair.com
 0.0.0.0 www.amanofd.jp
 0.0.0.0 www.amd.com
@@ -2573,6 +2576,7 @@
 0.0.0.0 www.ck-saikouchiku.go.jp
 0.0.0.0 www.ck-toyota.co.jp
 0.0.0.0 www.ckkdining.com
+0.0.0.0 www.clearth-partners.co.jp
 0.0.0.0 www.clickkabu365.jp
 0.0.0.0 www.clinicfor.life
 0.0.0.0 www.clipstudio.net
@@ -2844,6 +2848,7 @@
 0.0.0.0 www.greenynbio.com
 0.0.0.0 www.gregory.jp
 0.0.0.0 www.gressive.jp
+0.0.0.0 www.growwwing.jp
 0.0.0.0 www.gs-vanlife.com
 0.0.0.0 www.gtasu.com
 0.0.0.0 www.gulfnet.co.jp
@@ -3768,6 +3773,7 @@
 0.0.0.0 www.southbank.org
 0.0.0.0 www.souzoku-rescue.net
 0.0.0.0 www.spf21.net
+0.0.0.0 www.spglobal.com
 0.0.0.0 www.sportsoasis.co.jp
 0.0.0.0 www.ss-beta.co.jp
 0.0.0.0 www.st-andrews.ac.uk
