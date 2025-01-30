@@ -4,13 +4,14 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 30 January 2025
+# Last modified: 31 January 2025
 #
 
 # [広告全般]
 0.0.0.0 083083.jp
 0.0.0.0 1cho-me-front.shop-pro.jp
 0.0.0.0 1mfigure.com
+0.0.0.0 1st-range-golf.com
 0.0.0.0 2.homeplusone.com.tw
 0.0.0.0 2110.jp
 0.0.0.0 2ndtable.com
@@ -1707,6 +1708,7 @@
 0.0.0.0 riseisha.ed.jp
 0.0.0.0 risk.lexisnexis.co.uk
 0.0.0.0 rita-cloud.co.jp
+0.0.0.0 ritoremo.com
 0.0.0.0 rittosci.com
 0.0.0.0 rivertrain-forest.click
 0.0.0.0 rlx.jp
@@ -2011,6 +2013,7 @@
 0.0.0.0 ssw.jac-skill.or.jp
 0.0.0.0 stacia.jp
 0.0.0.0 staff-lines.com
+0.0.0.0 staff.persol-xtech.co.jp
 0.0.0.0 stagioneootemachi.owst.jp
 0.0.0.0 startup.ftstandard.jp
 0.0.0.0 static.hfm.com
@@ -2233,6 +2236,7 @@
 0.0.0.0 uonuma20.com
 0.0.0.0 update-inc.jp
 0.0.0.0 uptofficial.jp
+0.0.0.0 uramurakaki-yamayasu.jp
 0.0.0.0 urayasu.brightonhotels.co.jp
 0.0.0.0 urbancherry.jp
 0.0.0.0 uridoki.net
@@ -2688,6 +2692,7 @@
 0.0.0.0 www.dream-stage.net
 0.0.0.0 www.dreammail.jp
 0.0.0.0 www.drgc.jp
+0.0.0.0 www.drinkkohodo.com
 0.0.0.0 www.driver-haken.com
 0.0.0.0 www.drscholl.jp
 0.0.0.0 www.drumgarage.net
@@ -2830,6 +2835,7 @@
 0.0.0.0 www.gakuji.co.jp
 0.0.0.0 www.galu-shizuoka.jp
 0.0.0.0 www.gan-kisho.novartis.co.jp
+0.0.0.0 www.gaora.co.jp
 0.0.0.0 www.gap.co.jp
 0.0.0.0 www.gardenhotels.co.jp
 0.0.0.0 www.garmin.co.jp
@@ -4129,6 +4135,7 @@
 0.0.0.0 yamadahomes.jp
 0.0.0.0 yamadahomes.resv.jp
 0.0.0.0 yamaguchi-kogyoyosui.jp
+0.0.0.0 yamaguchifarm.co.jp
 0.0.0.0 yamanaka-kensetsu-lp.com
 0.0.0.0 yamanashi.media
 0.0.0.0 yamashiro-onlinestore.com
