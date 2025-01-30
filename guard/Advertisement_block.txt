@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 29 January 2025
+# Last modified: 30 January 2025
 #
 
 # [広告全般]
@@ -24,6 +24,7 @@
 0.0.0.0 47095986.form.kintoneapp.com
 0.0.0.0 4years.asahi.com
 0.0.0.0 50ban-shop.com
+0.0.0.0 659naoso.com
 0.0.0.0 6699.jp
 0.0.0.0 78kanteikyoku.jp
 0.0.0.0 7ticket.jp
@@ -528,6 +529,7 @@
 0.0.0.0 eretz.jp
 0.0.0.0 es4.easyerin.top
 0.0.0.0 esnet-tax.com
+0.0.0.0 esse-animal-cl.com
 0.0.0.0 estateliquidation-jp.life
 0.0.0.0 estore.wacom.jp
 0.0.0.0 etc.kmg-cloud.com
@@ -694,6 +696,7 @@
 0.0.0.0 gooda.brangista.com
 0.0.0.0 gooday.nikkei.co.jp
 0.0.0.0 goodlins.com
+0.0.0.0 goodshub.jp
 0.0.0.0 googirl.jp
 0.0.0.0 goooodhome.gifu.jp
 0.0.0.0 gorillada.automotive.panasonic.com
@@ -1009,6 +1012,7 @@
 0.0.0.0 kaitori24h.com
 0.0.0.0 kaitoribuyer.com
 0.0.0.0 kajima-kyoren.com
+0.0.0.0 kakushelter.com
 0.0.0.0 kakuteishinkoku-zeirishi.jp
 0.0.0.0 kakuyomu.jp
 0.0.0.0 kamata-nikuzushi.owst.jp
@@ -3025,6 +3029,7 @@
 0.0.0.0 www.ishikawa-dental-office.jp
 0.0.0.0 www.ishimaru-sr.jp
 0.0.0.0 www.ishizukakagu.com
+0.0.0.0 www.it-ex.com
 0.0.0.0 www.itmaster.jp
 0.0.0.0 www.itoen.jp
 0.0.0.0 www.itokin.net
@@ -3236,6 +3241,7 @@
 0.0.0.0 www.liquors.ne.jp
 0.0.0.0 www.livable.co.jp
 0.0.0.0 www.lixil.co.jp
+0.0.0.0 www.logi-co.co.jp
 0.0.0.0 www.logicool.co.jp
 0.0.0.0 www.londonmasteringstudio.co.uk
 0.0.0.0 www.loperaio.co.jp
@@ -3245,6 +3251,7 @@
 0.0.0.0 www.lumran.com
 0.0.0.0 www.luxalgo.com
 0.0.0.0 www.lyft-gym.com
+0.0.0.0 www.lyngskroa.no
 0.0.0.0 www.m-ams.co.jp
 0.0.0.0 www.m-keiei.jp
 0.0.0.0 www.macaotourism.gov.mo
@@ -3818,6 +3825,7 @@
 0.0.0.0 www.stepup-school.net
 0.0.0.0 www.stevenstone.co.uk
 0.0.0.0 www.stgjapan.jp
+0.0.0.0 www.stonebeat.co.jp
 0.0.0.0 www.strausfamilycreamery.com
 0.0.0.0 www.strawberrycones.com
 0.0.0.0 www.studio-1brood.com
@@ -4069,6 +4077,7 @@
 0.0.0.0 www.yamaha-motor.co.jp
 0.0.0.0 www.yamaha.co.jp
 0.0.0.0 www.yamajitsu.co.jp
+0.0.0.0 www.yamamoto-kuwaen.jp
 0.0.0.0 www.yamano-music.co.jp
 0.0.0.0 www.yamato-u.ac.jp
 0.0.0.0 www.yane-takumi.net
