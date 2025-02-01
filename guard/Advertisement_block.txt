@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 31 January 2025
+# Last modified: 1 February 2025
 #
 
 # [広告全般]
@@ -824,6 +824,7 @@
 0.0.0.0 hoshi.cocoloni.jp
 0.0.0.0 hottoke.jp
 0.0.0.0 hougaku.kanto-gakuin.ac.jp
+0.0.0.0 house-cp.jp
 0.0.0.0 house-kiya.co.jp
 0.0.0.0 house-yokubari.com
 0.0.0.0 housefreedom-fujiidera.com
@@ -1941,6 +1942,7 @@
 0.0.0.0 shopping.tbs.co.jp
 0.0.0.0 shosoin-ten.jp
 0.0.0.0 shougai-nenkin119.com
+0.0.0.0 shoushutsuryoku-saiene-hoan.go.jp
 0.0.0.0 shumei.ac.jp
 0.0.0.0 shunsai-tateyama.com
 0.0.0.0 shunsentanbou.pref.miyagi.jp
@@ -2146,6 +2148,7 @@
 0.0.0.0 timume.com
 0.0.0.0 tire.bridgestone.co.jp
 0.0.0.0 tjgreen-gym.com
+0.0.0.0 tjniigata.jp
 0.0.0.0 tkcp-premium-tire-sale-5ab30bb4478c.herokuapp.com
 0.0.0.0 to-hand.com
 0.0.0.0 tohei-ya.com
@@ -3035,6 +3038,7 @@
 0.0.0.0 www.ishikawa-dental-office.jp
 0.0.0.0 www.ishimaru-sr.jp
 0.0.0.0 www.ishizukakagu.com
+0.0.0.0 www.isuzu.co.jp
 0.0.0.0 www.it-ex.com
 0.0.0.0 www.itmaster.jp
 0.0.0.0 www.itoen.jp
@@ -3281,6 +3285,7 @@
 0.0.0.0 www.marusan-union.com
 0.0.0.0 www.marusho-1819.com
 0.0.0.0 www.maruten-print.jp
+0.0.0.0 www.maruyone.co.jp
 0.0.0.0 www.masayoshifujishima.com
 0.0.0.0 www.maserati.com
 0.0.0.0 www.masuda-shika.net
@@ -4101,6 +4106,7 @@
 0.0.0.0 www.yoshinoya.com
 0.0.0.0 www.yosuga-law.net
 0.0.0.0 www.yotsuba-shop.com
+0.0.0.0 www.youtubeonlineschool.com
 0.0.0.0 www.yrl.com
 0.0.0.0 www.ytj.gr.jp
 0.0.0.0 www.yuanta.com.tw
