@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 1 February 2025
+# Last modified: 2 February 2025
 #
 
 # [広告全般]
@@ -86,6 +86,7 @@
 0.0.0.0 akiya-oita.com
 0.0.0.0 akoakostudio.com
 0.0.0.0 akr0674735414.owst.jp
+0.0.0.0 akr3886447014.owst.jp
 0.0.0.0 akr4061480779.owst.jp
 0.0.0.0 akr7827636977.owst.jp
 0.0.0.0 akr9636581561.owst.jp
@@ -115,6 +116,7 @@
 0.0.0.0 and-conote.powergrid.chuden.co.jp
 0.0.0.0 and-english.com
 0.0.0.0 anellohome.com
+0.0.0.0 anestheplus.jp
 0.0.0.0 angelica-lp.com
 0.0.0.0 angelinasweet.com
 0.0.0.0 animefesta.iowl.jp
@@ -1040,6 +1042,7 @@
 0.0.0.0 kascogolf.com
 0.0.0.0 kashiyama1927.jp
 0.0.0.0 kasuyashika.com
+0.0.0.0 katatiya.owst.jp
 0.0.0.0 katene.chuden.jp
 0.0.0.0 katsubedc-nanmori.com
 0.0.0.0 katsuo-gamouyonchome.owst.jp
@@ -1485,6 +1488,7 @@
 0.0.0.0 oba-sr.com
 0.0.0.0 oceans.tokyo.jp
 0.0.0.0 ocjs.catholic-okinawa.ed.jp
+0.0.0.0 odennya-sanntokurokumi.owst.jp
 0.0.0.0 oem.shichifuku-towel.co.jp
 0.0.0.0 officeair.co.jp
 0.0.0.0 officee.jp
@@ -1990,6 +1994,7 @@
 0.0.0.0 sotokoto-online.jp
 0.0.0.0 souda-kyoto.jp
 0.0.0.0 soudan.osakaben.or.jp
+0.0.0.0 sousakuryouri-yorunotobari.owst.jp
 0.0.0.0 sousou.co.jp
 0.0.0.0 southernlift.com
 0.0.0.0 souzoku.t-bengo.com
@@ -2237,6 +2242,7 @@
 0.0.0.0 unove.jp
 0.0.0.0 uodon-fukushima.com
 0.0.0.0 uonuma20.com
+0.0.0.0 uoya-saburo-sannomiya.owst.jp
 0.0.0.0 update-inc.jp
 0.0.0.0 uptofficial.jp
 0.0.0.0 uramurakaki-yamayasu.jp
@@ -2249,6 +2255,7 @@
 0.0.0.0 usagi-online.com
 0.0.0.0 ut-studyroom.com
 0.0.0.0 utattemita-collection.jp
+0.0.0.0 uwaki-pro.com
 0.0.0.0 uzusado.jp
 0.0.0.0 vda.afkjourney.com
 0.0.0.0 vegasvegas-recruit.com
@@ -2628,6 +2635,7 @@
 0.0.0.0 www.collisioncareers.com
 0.0.0.0 www.columbiasports.co.jp
 0.0.0.0 www.combi.co.jp
+0.0.0.0 www.comic-valkyrie.com
 0.0.0.0 www.commufa.jp
 0.0.0.0 www.concent-f.jp
 0.0.0.0 www.concur.co.jp
@@ -3378,6 +3386,7 @@
 0.0.0.0 www.motherfarm.co.jp
 0.0.0.0 www.mouse-jp.co.jp
 0.0.0.0 www.ms-ins.com
+0.0.0.0 www.ms-j.jp
 0.0.0.0 www.mtgec.jp
 0.0.0.0 www.mugenrecruit.com
 0.0.0.0 www.mules.jp
@@ -3622,6 +3631,7 @@
 0.0.0.0 www.pressance-arge.com
 0.0.0.0 www.pressance-group.jp
 0.0.0.0 www.pressance.co.jp
+0.0.0.0 www.pretty-online.jp
 0.0.0.0 www.pride-fish.jp
 0.0.0.0 www.princehotels.co.jp
 0.0.0.0 www.printfesta.com
@@ -3715,6 +3725,7 @@
 0.0.0.0 www.sansei-l.co.jp
 0.0.0.0 www.sansinzemi.co.jp
 0.0.0.0 www.sanspo-boat.online
+0.0.0.0 www.santen.com
 0.0.0.0 www.sanwatec.net
 0.0.0.0 www.sanzenin.jp
 0.0.0.0 www.sap.com
@@ -3850,6 +3861,7 @@
 0.0.0.0 www.sumida-aquarium.com
 0.0.0.0 www.suminodou.jp
 0.0.0.0 www.sumirin-residential.co.jp
+0.0.0.0 www.suncl.com
 0.0.0.0 www.sunflower.co.jp
 0.0.0.0 www.sunokotan.com
 0.0.0.0 www.sunstar-shop.jp
@@ -3882,6 +3894,7 @@
 0.0.0.0 www.takashimaya.co.jp
 0.0.0.0 www.takeda.tv
 0.0.0.0 www.takeheiro.com
+0.0.0.0 www.takemuratosou.jp
 0.0.0.0 www.takiishi.co.jp
 0.0.0.0 www.takinogawa.ed.jp
 0.0.0.0 www.tanaka-denki.co.jp
