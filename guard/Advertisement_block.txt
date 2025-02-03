@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 2 February 2025
+# Last modified: 3 February 2025
 #
 
 # [広告全般]
@@ -397,6 +397,7 @@
 0.0.0.0 cycling-ehime.com
 0.0.0.0 cyurajima-miyako.com
 0.0.0.0 d-shinkou.com
+0.0.0.0 d-starjob.com
 0.0.0.0 dachs.breeders.jp
 0.0.0.0 daiei-corporation.com
 0.0.0.0 daishoren.org
@@ -440,6 +441,7 @@
 0.0.0.0 dl.apparel-web.co.jp
 0.0.0.0 dm-lp-sevice.com
 0.0.0.0 dm-oka.com
+0.0.0.0 dm1221.com
 0.0.0.0 dmdepart.jp
 0.0.0.0 do-recruit.info
 0.0.0.0 doax-venusvacation.jp
@@ -573,6 +575,7 @@
 0.0.0.0 firmbond.co.jp
 0.0.0.0 firstairlines.jp
 0.0.0.0 firstgolf.world
+0.0.0.0 flag-ads.fun
 0.0.0.0 flare.network
 0.0.0.0 flasharkracing.com
 0.0.0.0 flex.amazon.co.jp
@@ -1405,6 +1408,7 @@
 0.0.0.0 myvketofficial.cloud.vket.com
 0.0.0.0 n3cafe.com
 0.0.0.0 naganokaitai.net
+0.0.0.0 nagawa.co.jp
 0.0.0.0 nagoya-camera.mikawa.ne.jp
 0.0.0.0 nagoya-platen.nikkan.co.jp
 0.0.0.0 nagoya.ace-clinic.com
@@ -1444,6 +1448,7 @@
 0.0.0.0 ngdl.jp
 0.0.0.0 ni-deau.jp
 0.0.0.0 niche-strategy.co.jp
+0.0.0.0 nichicomi.com
 0.0.0.0 nico-d.net
 0.0.0.0 nihonjyuutaku.co.jp
 0.0.0.0 nihonkeizaishindoi.com
@@ -2142,6 +2147,7 @@
 0.0.0.0 thegrace.jp
 0.0.0.0 themusiccourt.jp
 0.0.0.0 theplustokyo.jp
+0.0.0.0 thermal-plant.co.jp
 0.0.0.0 theshopyohjiyamamoto.jp
 0.0.0.0 thisischiffoncake.com
 0.0.0.0 three-match.com
@@ -2268,6 +2274,7 @@
 0.0.0.0 violetllama42.sakura.ne.jp
 0.0.0.0 vitalebarberiscanonico.jp
 0.0.0.0 vo-metsoffice.jp
+0.0.0.0 volumetric.jp
 0.0.0.0 vook.vc
 0.0.0.0 voyage.asukacruise.co.jp
 0.0.0.0 vrcon.forum8.co.jp
@@ -2366,6 +2373,7 @@
 0.0.0.0 www.abc-mart.net
 0.0.0.0 www.able.co.jp
 0.0.0.0 www.ac-oktec.com
+0.0.0.0 www.accent-aigu.com
 0.0.0.0 www.accenture.com
 0.0.0.0 www.aceeatserve.com
 0.0.0.0 www.achilles.jp
@@ -2405,6 +2413,7 @@
 0.0.0.0 www.allergy-i.jp
 0.0.0.0 www.allied-telesis.co.jp
 0.0.0.0 www.allsaints.jp
+0.0.0.0 www.alltech.com
 0.0.0.0 www.alpen-route.com
 0.0.0.0 www.alpha-note.co.jp
 0.0.0.0 www.alphamap.com
@@ -2799,6 +2808,7 @@
 0.0.0.0 www.foamlite.jp
 0.0.0.0 www.foodjobselect.com
 0.0.0.0 www.forcus.co.jp
+0.0.0.0 www.forec-shop.com
 0.0.0.0 www.forestblue.jp
 0.0.0.0 www.foreupgolf.com
 0.0.0.0 www.forever-kato.co.jp
@@ -3654,6 +3664,7 @@
 0.0.0.0 www.r-ac.co.jp
 0.0.0.0 www.r-kg.com
 0.0.0.0 www.r-staffing.co.jp
+0.0.0.0 www.raccion.net
 0.0.0.0 www.racingmaster.game
 0.0.0.0 www.radishbo-ya.co.jp
 0.0.0.0 www.rakudaya-furudougu.com
