@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 3 February 2025
+# Last modified: 4 February 2025
 #
 
 # [広告全般]
@@ -1520,6 +1520,7 @@
 0.0.0.0 online-mental-clinic.com
 0.0.0.0 online.cosmo-space.jp
 0.0.0.0 online.uc.edu
+0.0.0.0 onlineshop.cafe-ohzan.com
 0.0.0.0 onlineshop.est-online.com
 0.0.0.0 onlinestore.maxvalu.co.jp
 0.0.0.0 onlinezemi.nokai.jp
@@ -1688,6 +1689,7 @@
 0.0.0.0 recruit.oshare-zele.co.jp
 0.0.0.0 recruit.takuichi.okinawa
 0.0.0.0 recruit.tsukui.net
+0.0.0.0 reeing.co.jp
 0.0.0.0 refine-midori.net
 0.0.0.0 refobell.com
 0.0.0.0 regimentvalkyrie.com
@@ -3173,6 +3175,7 @@
 0.0.0.0 www.keisokuten.jp
 0.0.0.0 www.kenko-webshop.jp
 0.0.0.0 www.kensanpin.org
+0.0.0.0 www.kentaku.co.jp
 0.0.0.0 www.kewpie.co.jp
 0.0.0.0 www.keyence-foundation.or.jp
 0.0.0.0 www.ki-rin.biz
