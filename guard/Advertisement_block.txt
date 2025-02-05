@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 4 February 2025
+# Last modified: 5 February 2025
 #
 
 # [広告全般]
@@ -1992,6 +1992,7 @@
 0.0.0.0 solasto-career.com
 0.0.0.0 solize-software.com
 0.0.0.0 songdream.jp
+0.0.0.0 soo-happy.net
 0.0.0.0 sophiadental.or.jp
 0.0.0.0 sora-cam.com
 0.0.0.0 soracom.jp
@@ -2626,6 +2627,7 @@
 0.0.0.0 www.city.nagoya.jp
 0.0.0.0 www.city.osaka.lg.jp
 0.0.0.0 www.city.takatsuki.osaka.jp
+0.0.0.0 www.city.tosa.lg.jp
 0.0.0.0 www.ck-saikouchiku.go.jp
 0.0.0.0 www.ck-toyota.co.jp
 0.0.0.0 www.ckkdining.com
@@ -2704,6 +2706,7 @@
 0.0.0.0 www.dinosaur.pref.fukui.jp
 0.0.0.0 www.discoverhongkong.com
 0.0.0.0 www.dlsite.com
+0.0.0.0 www.dlsyoukai.com
 0.0.0.0 www.dnp.co.jp
 0.0.0.0 www.docomo.ne.jp
 0.0.0.0 www.doggysresort-amanohashidate.com
@@ -2924,6 +2927,7 @@
 0.0.0.0 www.hamada-juku.com
 0.0.0.0 www.hamigaki.gr.jp
 0.0.0.0 www.han-ei.jp
+0.0.0.0 www.hana-intelligence.com
 0.0.0.0 www.hana-intelligence.jp
 0.0.0.0 www.hanashinkumi.com
 0.0.0.0 www.hanazonohifuku.com
@@ -3250,6 +3254,7 @@
 0.0.0.0 www.lancome.jp
 0.0.0.0 www.landrover.co.jp
 0.0.0.0 www.lanps.jp
+0.0.0.0 www.lasana.net
 0.0.0.0 www.le-trois.jp
 0.0.0.0 www.lebledor.com
 0.0.0.0 www.lectit.com
@@ -4162,6 +4167,7 @@
 0.0.0.0 xylophone-rain.space
 0.0.0.0 yab.yomiuri.co.jp
 0.0.0.0 yacnee.co.jp
+0.0.0.0 yadorigilab.com
 0.0.0.0 yaeyama-rentacar.com
 0.0.0.0 yakiniku-fc.com
 0.0.0.0 yakinikunandaimon.owst.jp
@@ -4174,6 +4180,7 @@
 0.0.0.0 yamashiro-onlinestore.com
 0.0.0.0 yamatane-museum.com
 0.0.0.0 yamato-signage.com
+0.0.0.0 yamatsujiiin.com
 0.0.0.0 yamawake-estate.jp
 0.0.0.0 yamawarau.owst.jp
 0.0.0.0 yametaraeenen.com
