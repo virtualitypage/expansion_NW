@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 6 February 2025
+# Last modified: 7 February 2025
 #
 
 # [広告全般]
@@ -502,6 +502,7 @@
 0.0.0.0 ehime-hanakaido.com
 0.0.0.0 ehime-sancyoku-premium.com
 0.0.0.0 ehime.dd.daihatsu.co.jp
+0.0.0.0 ehokenstore.com
 0.0.0.0 eightdesign.jp
 0.0.0.0 eikaiwa.kakaku.com
 0.0.0.0 eiko-juken.net
@@ -1027,6 +1028,7 @@
 0.0.0.0 kamata-nikuzushi.owst.jp
 0.0.0.0 kameman.owst.jp
 0.0.0.0 kamenoi-hotels.com
+0.0.0.0 kameoka-organicschool.jp
 0.0.0.0 kamome.asia
 0.0.0.0 kamposhop.kracie.co.jp
 0.0.0.0 kamukura-recruit.jp
@@ -1880,6 +1882,7 @@
 0.0.0.0 sengokuixa.jp
 0.0.0.0 sennangyosei.jp
 0.0.0.0 senpaku.net
+0.0.0.0 september5movie.jp
 0.0.0.0 service.1nego.jp
 0.0.0.0 service.homeserve.co.jp
 0.0.0.0 service.itcenex.com
@@ -2380,6 +2383,7 @@
 0.0.0.0 www.abarth.jp
 0.0.0.0 www.abc-mart.net
 0.0.0.0 www.able.co.jp
+0.0.0.0 www.aburi-bokujyou.com
 0.0.0.0 www.ac-oktec.com
 0.0.0.0 www.accent-aigu.com
 0.0.0.0 www.accenture.com
@@ -2810,6 +2814,7 @@
 0.0.0.0 www.firsttechfed.com
 0.0.0.0 www.fismec.co.jp
 0.0.0.0 www.fiverr.com
+0.0.0.0 www.fivestars-markets.com
 0.0.0.0 www.fk-build.com
 0.0.0.0 www.flat35.com
 0.0.0.0 www.flexispot.jp
@@ -3758,6 +3763,7 @@
 0.0.0.0 www.sat-corp.jp
 0.0.0.0 www.sat.co.jp
 0.0.0.0 www.sateraito.jp
+0.0.0.0 www.satofull.jp
 0.0.0.0 www.sbc-marketing.co.jp
 0.0.0.0 www.sbifxt.co.jp
 0.0.0.0 www.sbisec.co.jp
@@ -4192,6 +4198,7 @@
 0.0.0.0 yamawarau.owst.jp
 0.0.0.0 yametaraeenen.com
 0.0.0.0 yanase-audi.com
+0.0.0.0 yanba-rikimaru.com
 0.0.0.0 yappari-hawaii.jp
 0.0.0.0 yg-tax.net
 0.0.0.0 yhtop.co
