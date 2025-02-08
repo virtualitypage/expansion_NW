@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 7 February 2025
+# Last modified: 8 February 2025
 #
 
 # [広告全般]
@@ -276,6 +276,7 @@
 0.0.0.0 cafe-inn-hitoiki.com
 0.0.0.0 calendo365.com
 0.0.0.0 camp-fire.jp
+0.0.0.0 camp.toilet-now.com
 0.0.0.0 campaign.nishigaki-group.com
 0.0.0.0 campaign.whitehouse.co.jp
 0.0.0.0 campaign.wild1.co.jp
@@ -1195,6 +1196,7 @@
 0.0.0.0 lens-me.jp
 0.0.0.0 leopalace-fine2005.com
 0.0.0.0 lets-boatrace.jp
+0.0.0.0 library.techinsights.com
 0.0.0.0 lidea.today
 0.0.0.0 life-shop.info
 0.0.0.0 life.miele.co.jp
@@ -1275,6 +1277,7 @@
 0.0.0.0 maekawaah.com
 0.0.0.0 mag.bess.jp
 0.0.0.0 mahope.hair
+0.0.0.0 mai-sen.com
 0.0.0.0 mailcoupletime.net
 0.0.0.0 main.tsubaki-app.com
 0.0.0.0 mainichi.nosh.jp
@@ -1530,6 +1533,7 @@
 0.0.0.0 onlineshop.est-online.com
 0.0.0.0 onlinestore.maxvalu.co.jp
 0.0.0.0 onlinezemi.nokai.jp
+0.0.0.0 onlyone.travel
 0.0.0.0 onlyoneafrica.com
 0.0.0.0 onlystory.co.jp
 0.0.0.0 open-oita.jp
@@ -1752,6 +1756,7 @@
 0.0.0.0 s.shamaison.com
 0.0.0.0 s.shufoo.net
 0.0.0.0 s.weddingpark.net
+0.0.0.0 sa-mobility.com
 0.0.0.0 sablelabs.co
 0.0.0.0 safarilounge.jp
 0.0.0.0 safe.tr.mufg.jp
@@ -3057,6 +3062,7 @@
 0.0.0.0 www.inspirekorea.com
 0.0.0.0 www.intel.co.jp
 0.0.0.0 www.inter-edu.com
+0.0.0.0 www.interschool.jp
 0.0.0.0 www.inui-consulting.com
 0.0.0.0 www.invesco.com
 0.0.0.0 www.io-shin.com
@@ -3147,6 +3153,7 @@
 0.0.0.0 www.k-wam.jp
 0.0.0.0 www.kabu-nagasaka.co.jp
 0.0.0.0 www.kadokawa.co.jp
+0.0.0.0 www.kadokura.org
 0.0.0.0 www.kagaiboushi.metro.tokyo.lg.jp
 0.0.0.0 www.kagi-gakkou.com
 0.0.0.0 www.kagu-uenoya.com
@@ -4031,6 +4038,7 @@
 0.0.0.0 www.tsugaike.gr.jp
 0.0.0.0 www.tsume.co.jp
 0.0.0.0 www.tsumibukakikuri.jp
+0.0.0.0 www.tsumura.co.jp
 0.0.0.0 www.tsunagaru-office.com
 0.0.0.0 www.tsurumi-ryokuchi.jp
 0.0.0.0 www.tsuruya-kimono.jp
@@ -4071,6 +4079,7 @@
 0.0.0.0 www.usaycompare.co.uk
 0.0.0.0 www.uscloud.com
 0.0.0.0 www.utsuwayayuuyuu.com
+0.0.0.0 www.vakenelli.com
 0.0.0.0 www.valt-japan.com
 0.0.0.0 www.video.unext.jp
 0.0.0.0 www.vietnamairlines.com
