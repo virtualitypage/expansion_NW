@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 8 February 2025
+# Last modified: 9 February 2025
 #
 
 # [広告全般]
@@ -155,6 +155,7 @@
 0.0.0.0 artmac.co.jp
 0.0.0.0 artvivant-fantasyart.net
 0.0.0.0 aruyo22.jp
+0.0.0.0 arwrk.net
 0.0.0.0 asahi-biyou.or.jp
 0.0.0.0 asahidia-jewely.shop
 0.0.0.0 asahikawa-korpokkur.com
@@ -338,6 +339,7 @@
 0.0.0.0 clean-labo.net
 0.0.0.0 cleanapovn.com
 0.0.0.0 cleverly-kochi.com
+0.0.0.0 click.upsmobi.com
 0.0.0.0 clients.itszai.jp
 0.0.0.0 clinlife.jp
 0.0.0.0 closet.eiwa-uniform.com
@@ -1065,6 +1067,7 @@
 0.0.0.0 keiji.lawyers-high.jp
 0.0.0.0 keirin.by-onko-chishin.com
 0.0.0.0 keishuku-reha.com
+0.0.0.0 kenjin-recruit.info
 0.0.0.0 kenkoudo.darm.co.jp
 0.0.0.0 kenminforum-aomori.com
 0.0.0.0 kens-smile.com
@@ -1858,6 +1861,7 @@
 0.0.0.0 sb1.genpeiseiyaku.com
 0.0.0.0 sb2.juku.st
 0.0.0.0 sc-tennoji.jp
+0.0.0.0 sc-tsurumiryokuchi.jp
 0.0.0.0 sc1.axtos.com
 0.0.0.0 scenery-bi.com
 0.0.0.0 schnauzer.breeders.jp
@@ -2710,6 +2714,7 @@
 0.0.0.0 www.deaf-tryout24.para-athlete.tokyo
 0.0.0.0 www.decorte.com
 0.0.0.0 www.delonghi.com
+0.0.0.0 www.demarsfukuoka.com
 0.0.0.0 www.denray.com
 0.0.0.0 www.dentsu.ed.jp
 0.0.0.0 www.dezao-reform.com
@@ -2990,6 +2995,7 @@
 0.0.0.0 www.hisense.co.jp
 0.0.0.0 www.hitachi-solutions-create.co.jp
 0.0.0.0 www.hitachi-solutions.co.jp
+0.0.0.0 www.hitachi-systems-ps.co.jp
 0.0.0.0 www.hitachi.co.jp
 0.0.0.0 www.hkexpress.com
 0.0.0.0 www.hokende.com
@@ -3210,6 +3216,7 @@
 0.0.0.0 www.kintetsu.co.jp
 0.0.0.0 www.kinuami.com
 0.0.0.0 www.kioicho.jp
+0.0.0.0 www.kireca-ec.shop
 0.0.0.0 www.kirishima.co.jp
 0.0.0.0 www.kirizai.jp
 0.0.0.0 www.kitzmf.com
@@ -3217,6 +3224,7 @@
 0.0.0.0 www.kjtd.co.jp
 0.0.0.0 www.kkr.mlit.go.jp
 0.0.0.0 www.klook.com
+0.0.0.0 www.kmtinnovation.com
 0.0.0.0 www.kmw.ac.jp
 0.0.0.0 www.kneipp.com
 0.0.0.0 www.ko-z.com
@@ -4241,6 +4249,7 @@
 0.0.0.0 zidoma.com
 0.0.0.0 zigen-inc.stores.jp
 0.0.0.0 zona-kobe.com
+0.0.0.0 zqn8sc2.com
 0.0.0.0 zumi-kobo.com
 
 # [Youtubeの広告]
