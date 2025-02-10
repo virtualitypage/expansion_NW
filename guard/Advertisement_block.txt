@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 9 February 2025
+# Last modified: 10 February 2025
 #
 
 # [広告全般]
@@ -1841,6 +1841,8 @@
 0.0.0.0 sb.best-fudosan-satei.com
 0.0.0.0 sb.claudia.co.jp
 0.0.0.0 sb.dioclinic-diet.com
+0.0.0.0 sb.easily-beauty.com
+0.0.0.0 sb.easy-diet-life.com
 0.0.0.0 sb.ecnokamisama.com
 0.0.0.0 sb.healthy-meee.net
 0.0.0.0 sb.hoconico.com
@@ -1951,6 +1953,7 @@
 0.0.0.0 shop.importparts-zeroone.com
 0.0.0.0 shop.joshin.co.jp
 0.0.0.0 shop.kaneko-jewelry.jp
+0.0.0.0 shop.lasagna.jp
 0.0.0.0 shop.lumieu.jp
 0.0.0.0 shop.mahoroba-inter.com
 0.0.0.0 shop.nakano-group.co.jp
@@ -2067,6 +2070,7 @@
 0.0.0.0 store.zita.life
 0.0.0.0 stories-hyperballad.com
 0.0.0.0 stressless-pr.jp
+0.0.0.0 strong-beauty.tokyo
 0.0.0.0 strux.oner.jp
 0.0.0.0 studio-kingyo.com
 0.0.0.0 studying.jp
@@ -3387,6 +3391,7 @@
 0.0.0.0 www.mimasaka-no-kuni.jp
 0.0.0.0 www.mind.co.jp
 0.0.0.0 www.mini.jp
+0.0.0.0 www.mino.cc
 0.0.0.0 www.miolaw.jp
 0.0.0.0 www.miraiboueki.jp
 0.0.0.0 www.miraihd.jp
@@ -3853,6 +3858,7 @@
 0.0.0.0 www.skyperfectv.co.jp
 0.0.0.0 www.skyxia.jp
 0.0.0.0 www.slim-couture.com
+0.0.0.0 www.smartcross.jp
 0.0.0.0 www.smauto.co.jp
 0.0.0.0 www.smbc-card.com
 0.0.0.0 www.smbc.co.jp
