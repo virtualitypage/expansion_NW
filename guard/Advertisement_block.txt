@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 10 February 2025
+# Last modified: 11 February 2025
 #
 
 # [広告全般]
@@ -143,6 +143,7 @@
 0.0.0.0 aqua-magic.net
 0.0.0.0 arcteryx.jp
 0.0.0.0 aridamuki.jp
+0.0.0.0 aroma.aromakankyo.or.jp
 0.0.0.0 art-logis.com
 0.0.0.0 art-mocha.net
 0.0.0.0 art.nikkei.com
@@ -868,6 +869,7 @@
 0.0.0.0 ii.tokyu.co.jp
 0.0.0.0 ikedahearinggear.com
 0.0.0.0 iki-online.com
+0.0.0.0 ilandtower-clinic.jp
 0.0.0.0 ilclinic.or.jp
 0.0.0.0 illumina.wella.co.jp
 0.0.0.0 imabarishintoshi-aeonmall.com
@@ -887,6 +889,7 @@
 0.0.0.0 info.slimstock.com
 0.0.0.0 info.uopochi.jp
 0.0.0.0 infocp.syngenta.co.jp
+0.0.0.0 informatix.co.jp
 0.0.0.0 ing-chojyu.jp
 0.0.0.0 inkjet-maku.com
 0.0.0.0 inline.app
@@ -1308,6 +1311,7 @@
 0.0.0.0 matsue.clare.jp
 0.0.0.0 matsui-express-job.jp
 0.0.0.0 matsuyama.citroen-dealer.jp
+0.0.0.0 maunakealiving.com
 0.0.0.0 mayutan.com
 0.0.0.0 mb-hakata.com
 0.0.0.0 mbcc-c.com
@@ -2877,6 +2881,7 @@
 0.0.0.0 www.furusato-web.jp
 0.0.0.0 www.fushioukaku.co.jp
 0.0.0.0 www.futakiya.com
+0.0.0.0 www.futuremarketinsights.com
 0.0.0.0 www.fxpro.investments
 0.0.0.0 www.g-housen.co.jp
 0.0.0.0 www.g-search.or.jp
@@ -3276,6 +3281,7 @@
 0.0.0.0 www.kyjlaw.com
 0.0.0.0 www.kyodoyokohama.com
 0.0.0.0 www.kyosai-cc.or.jp
+0.0.0.0 www.kyoto-aquarium.com
 0.0.0.0 www.kyousei-shika.net
 0.0.0.0 www.kyukaru.com
 0.0.0.0 www.kyusanko.co.jp
@@ -4237,6 +4243,7 @@
 0.0.0.0 youin.jp
 0.0.0.0 youngjump.jp
 0.0.0.0 yourkins.com
+0.0.0.0 youtakuji.net
 0.0.0.0 ypa.localab.net
 0.0.0.0 ys-plan.jp.net
 0.0.0.0 ysp-shop.com
