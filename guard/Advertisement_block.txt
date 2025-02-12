@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 11 February 2025
+# Last modified: 12 February 2025
 #
 
 # [広告全般]
@@ -1053,6 +1053,7 @@
 0.0.0.0 karen-kyoto.com
 0.0.0.0 karte.io
 0.0.0.0 kascogolf.com
+0.0.0.0 kasetani-kagu.co.jp
 0.0.0.0 kashiyama1927.jp
 0.0.0.0 kasuyashika.com
 0.0.0.0 katatiya.owst.jp
@@ -2207,6 +2208,7 @@
 0.0.0.0 tomitarashi.com
 0.0.0.0 tomohirokai.or.jp
 0.0.0.0 tomotaqu.com
+0.0.0.0 top-generator.com
 0.0.0.0 topgunairtx.com
 0.0.0.0 toptoon.jp
 0.0.0.0 torcroftlodges.com
@@ -2769,6 +2771,7 @@
 0.0.0.0 www.e-ty.co.jp
 0.0.0.0 www.ebara.co.jp
 0.0.0.0 www.ec-store.net
+0.0.0.0 www.ecc.jp
 0.0.0.0 www.eclipsetraveler.com
 0.0.0.0 www.ecnex.jp
 0.0.0.0 www.ecocity.jp
@@ -3210,6 +3213,7 @@
 0.0.0.0 www.keikyu-store.com
 0.0.0.0 www.keishow.com
 0.0.0.0 www.keisokuten.jp
+0.0.0.0 www.keiun-scissors.jp
 0.0.0.0 www.kenko-webshop.jp
 0.0.0.0 www.kensanpin.org
 0.0.0.0 www.kentaku.co.jp
@@ -3638,6 +3642,7 @@
 0.0.0.0 www.pc-webzine.com
 0.0.0.0 www.pc4353.net
 0.0.0.0 www.pccs.co.jp
+0.0.0.0 www.pcollp.com
 0.0.0.0 www.penta-lab.com
 0.0.0.0 www.pentasecurity.co.jp
 0.0.0.0 www.perfectglobe.net
