@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 12 February 2025
+# Last modified: 13 February 2025
 #
 
 # [広告全般]
@@ -874,6 +874,7 @@
 0.0.0.0 illumina.wella.co.jp
 0.0.0.0 imabarishintoshi-aeonmall.com
 0.0.0.0 imamurasiroari.co.jp
+0.0.0.0 imari-cci.or.jp
 0.0.0.0 impreme.jp
 0.0.0.0 in-market.net
 0.0.0.0 in.fujii-worldforecast.jp
@@ -1512,6 +1513,7 @@
 0.0.0.0 ocjs.catholic-okinawa.ed.jp
 0.0.0.0 odennya-sanntokurokumi.owst.jp
 0.0.0.0 oem.shichifuku-towel.co.jp
+0.0.0.0 office-premiumfrozen.jp
 0.0.0.0 officeair.co.jp
 0.0.0.0 officee.jp
 0.0.0.0 official-mall.com
@@ -1539,6 +1541,7 @@
 0.0.0.0 online.uc.edu
 0.0.0.0 onlineshop.cafe-ohzan.com
 0.0.0.0 onlineshop.est-online.com
+0.0.0.0 onlineshop.yamachu.net
 0.0.0.0 onlinestore.maxvalu.co.jp
 0.0.0.0 onlinezemi.nokai.jp
 0.0.0.0 onlyone.travel
@@ -2247,7 +2250,6 @@
 0.0.0.0 tsunagaru-design.co.jp
 0.0.0.0 tsutaya.tsite.jp
 0.0.0.0 turboterminaltractors.com
-0.0.0.0 tver.jp
 0.0.0.0 tw-img.vpon.com
 0.0.0.0 twoshotmoon.click
 0.0.0.0 twpass.tw
@@ -2373,11 +2375,13 @@
 0.0.0.0 www.0120058139.com
 0.0.0.0 www.0551353133.com
 0.0.0.0 www.114154.com
+0.0.0.0 www.11i.co.jp
 0.0.0.0 www.1memoria.com
 0.0.0.0 www.1stwise.com
 0.0.0.0 www.240.takeda.com
 0.0.0.0 www.2ndstreet.jp
 0.0.0.0 www.303select.com
+0.0.0.0 www.34insatsu.com
 0.0.0.0 www.39asset.co.jp
 0.0.0.0 www.3ei.co.jp
 0.0.0.0 www.3m.com
@@ -2483,6 +2487,7 @@
 0.0.0.0 www.aquaworld-oarai.com
 0.0.0.0 www.aqura.co.jp
 0.0.0.0 www.arc-web.com
+0.0.0.0 www.arigato-homonribiyo.com
 0.0.0.0 www.ark-pc.co.jp
 0.0.0.0 www.ark-shop.com
 0.0.0.0 www.arkfarm.net
@@ -2535,6 +2540,7 @@
 0.0.0.0 www.bayfm.co.jp
 0.0.0.0 www.be4tech.com
 0.0.0.0 www.beams.co.jp
+0.0.0.0 www.beautiful-world.store
 0.0.0.0 www.benesse.co.jp
 0.0.0.0 www.bennri-da.com
 0.0.0.0 www.benscycle.com
@@ -2570,6 +2576,7 @@
 0.0.0.0 www.braze.co.jp
 0.0.0.0 www.braze.com
 0.0.0.0 www.breeders.jp
+0.0.0.0 www.bridge-and-brothers.com
 0.0.0.0 www.brilliantearth.com
 0.0.0.0 www.brita.co.jp
 0.0.0.0 www.brother.co.jp
@@ -3802,6 +3809,7 @@
 0.0.0.0 www.sbs-toshibalogistics.co.jp
 0.0.0.0 www.sc.ouj.ac.jp
 0.0.0.0 www.scan.co.uk
+0.0.0.0 www.scenario.co.jp
 0.0.0.0 www.scholarly.sg
 0.0.0.0 www.sciencewood.co.jp
 0.0.0.0 www.sears.jp
