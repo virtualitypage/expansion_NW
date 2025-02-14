@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 13 February 2025
+# Last modified: 14 February 2025
 #
 
 # [広告全般]
@@ -860,6 +860,7 @@
 0.0.0.0 id.asics.com
 0.0.0.0 id.seikowatches.com
 0.0.0.0 idea.kawahara.ac.jp
+0.0.0.0 idec-fs.com
 0.0.0.0 idex.bz
 0.0.0.0 ie-van.com
 0.0.0.0 iei.jp
@@ -1876,6 +1877,7 @@
 0.0.0.0 scenery-bi.com
 0.0.0.0 schnauzer.breeders.jp
 0.0.0.0 school.dhw.co.jp
+0.0.0.0 scout.lapras.com
 0.0.0.0 screen-spe-introduction.com
 0.0.0.0 sdt.inc
 0.0.0.0 sealm.jp
@@ -2408,6 +2410,7 @@
 0.0.0.0 www.able.co.jp
 0.0.0.0 www.aburi-bokujyou.com
 0.0.0.0 www.ac-oktec.com
+0.0.0.0 www.accendo.co.jp
 0.0.0.0 www.accent-aigu.com
 0.0.0.0 www.accenture.com
 0.0.0.0 www.aceeatserve.com
