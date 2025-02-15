@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 14 February 2025
+# Last modified: 15 February 2025
 #
 
 # [広告全般]
@@ -282,6 +282,7 @@
 0.0.0.0 campaign.nishigaki-group.com
 0.0.0.0 campaign.whitehouse.co.jp
 0.0.0.0 campaign.wild1.co.jp
+0.0.0.0 campaign2405.bijoupiko.com
 0.0.0.0 campanel.jp
 0.0.0.0 campanola.jp
 0.0.0.0 camparijapan.com
@@ -1385,6 +1386,7 @@
 0.0.0.0 miyagi-aw2024.com
 0.0.0.0 miyagi-daihatsu.co.jp
 0.0.0.0 miyakojima-mobipa.jp
+0.0.0.0 miyanokenchiku.co.jp
 0.0.0.0 miyazaki-base.jp
 0.0.0.0 mizoguchi-saiten.co.jp
 0.0.0.0 mizunopack.com
@@ -1493,6 +1495,7 @@
 0.0.0.0 no1-creditcard.com
 0.0.0.0 noenavi.com
 0.0.0.0 noj-kawanishi.com
+0.0.0.0 nomie.jp
 0.0.0.0 northernterritory.com
 0.0.0.0 norudake-kyoto.com
 0.0.0.0 note-infomart.jp
@@ -2047,6 +2050,7 @@
 0.0.0.0 spikomi.net
 0.0.0.0 splus.website
 0.0.0.0 spopita.jp
+0.0.0.0 sports.dunlop.co.jp
 0.0.0.0 sportskart.com
 0.0.0.0 spur.hpplus.jp
 0.0.0.0 spyera.com
@@ -2059,6 +2063,7 @@
 0.0.0.0 staff-lines.com
 0.0.0.0 staff.persol-xtech.co.jp
 0.0.0.0 stagioneootemachi.owst.jp
+0.0.0.0 stamproad.shop-pro.jp
 0.0.0.0 startup.ftstandard.jp
 0.0.0.0 static.hfm.com
 0.0.0.0 static.locari.jp
@@ -2714,6 +2719,7 @@
 0.0.0.0 www.cw-x.jp
 0.0.0.0 www.cw.com.tw
 0.0.0.0 www.cyberblue.co.jp
+0.0.0.0 www.cycling-oita.jp
 0.0.0.0 www.d-cart.jp
 0.0.0.0 www.daigakujuken.com
 0.0.0.0 www.daiichisankyo-hc.co.jp
@@ -2931,6 +2937,7 @@
 0.0.0.0 www.goldwin.co.jp
 0.0.0.0 www.golfzonwave.com
 0.0.0.0 www.goo-net.com
+0.0.0.0 www.good-care.jp
 0.0.0.0 www.good-trip-ex.com
 0.0.0.0 www.goodseeco.com
 0.0.0.0 www.goodsmile.com
@@ -3247,6 +3254,7 @@
 0.0.0.0 www.kjtd.co.jp
 0.0.0.0 www.kkr.mlit.go.jp
 0.0.0.0 www.klook.com
+0.0.0.0 www.kmew.co.jp
 0.0.0.0 www.kmtinnovation.com
 0.0.0.0 www.kmw.ac.jp
 0.0.0.0 www.kneipp.com
