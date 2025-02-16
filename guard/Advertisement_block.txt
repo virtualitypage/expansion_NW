@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 15 February 2025
+# Last modified: 16 February 2025
 #
 
 # [広告全般]
@@ -830,6 +830,7 @@
 0.0.0.0 hokuyu-ryokuti.com
 0.0.0.0 home-design-schmidt.uk
 0.0.0.0 home.tsuku2.jp
+0.0.0.0 homme.reginaclinic.jp
 0.0.0.0 hondacars.jp
 0.0.0.0 hondacars.link
 0.0.0.0 honkaku-coco.com
@@ -1306,6 +1307,7 @@
 0.0.0.0 marineworld.hiyoriyama.co.jp
 0.0.0.0 marketing-careerlabo.jp
 0.0.0.0 marketing.apexcapitaldubai.com
+0.0.0.0 martim.systeme.io
 0.0.0.0 maruhan-lp.net
 0.0.0.0 maruhome.jp
 0.0.0.0 marumugi.shop
@@ -1406,6 +1408,7 @@
 0.0.0.0 movie-marketing.com
 0.0.0.0 mozsweden.com
 0.0.0.0 mps.maruc-group.jp
+0.0.0.0 mrs.living.jp
 0.0.0.0 msb.loofen.jp
 0.0.0.0 mtg-campaign.com
 0.0.0.0 mtg-jp.com
@@ -2090,6 +2093,7 @@
 0.0.0.0 studio-kingyo.com
 0.0.0.0 studying.jp
 0.0.0.0 studyinternational.com
+0.0.0.0 sub.astroline.today
 0.0.0.0 sub.kinematranslationclub.com
 0.0.0.0 subculbusinesscenter.com
 0.0.0.0 sudachi.support
@@ -3893,6 +3897,7 @@
 0.0.0.0 www.smbc-card.com
 0.0.0.0 www.smbc.co.jp
 0.0.0.0 www.smfg.co.jp
+0.0.0.0 www.smilecare.co.jp
 0.0.0.0 www.snk-corp.co.jp
 0.0.0.0 www.snowflake.com
 0.0.0.0 www.snowrecords.jp
@@ -4199,6 +4204,7 @@
 0.0.0.0 www.yodobashi.com
 0.0.0.0 www.yoka-mall.com
 0.0.0.0 www.yokdee.com
+0.0.0.0 www.yokota-ks.jp
 0.0.0.0 www.yomiuriland.com
 0.0.0.0 www.yonoton.com
 0.0.0.0 www.yoshinoya.com
