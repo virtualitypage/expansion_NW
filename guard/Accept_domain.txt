@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Accept_domain.txt
 #
-# Last modified: 22 November 2024
+# Last modified: 13 February 2025
 #
 
 # [許可リクエスト]
@@ -104,6 +104,7 @@
 @@||telephonyspamprotect-pa.googleapis.com
 @@||thumbnail.smartnews.com
 @@||ton.twimg.com
+@@||tver.jp
 @@||use.fontawesome.com
 @@||video-ft.twimg.com
 @@||video.twimg.com
