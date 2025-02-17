@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 16 February 2025
+# Last modified: 17 February 2025
 #
 
 # [広告全般]
@@ -986,6 +986,7 @@
 0.0.0.0 jp.rigol.com
 0.0.0.0 jp.shein.com
 0.0.0.0 jp.shokz.com
+0.0.0.0 jp.shop.usm.com
 0.0.0.0 jp.stanby.com
 0.0.0.0 jp.steelcase.com
 0.0.0.0 jp.store.bambulab.com
@@ -1287,6 +1288,7 @@
 0.0.0.0 madream.jp
 0.0.0.0 maekawaah.com
 0.0.0.0 mag.bess.jp
+0.0.0.0 magicsupple.com
 0.0.0.0 mahope.hair
 0.0.0.0 mai-sen.com
 0.0.0.0 mailcoupletime.net
@@ -1993,6 +1995,7 @@
 0.0.0.0 shunsai-tateyama.com
 0.0.0.0 shunsentanbou.pref.miyagi.jp
 0.0.0.0 side-kom.com
+0.0.0.0 sidejob-review.net
 0.0.0.0 sienca.jp
 0.0.0.0 sig-navi.com
 0.0.0.0 signup.sparta.app
@@ -3106,6 +3109,7 @@
 0.0.0.0 www.invesco.com
 0.0.0.0 www.io-shin.com
 0.0.0.0 www.ipet-direct.com
+0.0.0.0 www.iprimo.jp
 0.0.0.0 www.ipros.jp
 0.0.0.0 www.iput.ac.jp
 0.0.0.0 www.ire-dc.com
@@ -3956,6 +3960,7 @@
 0.0.0.0 www.superdramatv.com
 0.0.0.0 www.supermicro.com
 0.0.0.0 www.supersports.com
+0.0.0.0 www.surfabudhabi.com
 0.0.0.0 www.suwaeru-spray.jp
 0.0.0.0 www.suzukacircuit.jp
 0.0.0.0 www.suzuki.co.jp
@@ -4178,6 +4183,7 @@
 0.0.0.0 www.worksap.co.jp
 0.0.0.0 www.worldvision.jp
 0.0.0.0 www.wowbao.com
+0.0.0.0 www.wrapi.jp
 0.0.0.0 www.wrappixel.com
 0.0.0.0 www.xmtrading.com
 0.0.0.0 www.xprice.co.jp
