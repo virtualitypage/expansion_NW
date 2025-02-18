@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 17 February 2025
+# Last modified: 18 February 2025
 #
 
 # [広告全般]
@@ -275,6 +275,7 @@
 0.0.0.0 byd-ibaraki.co.jp
 0.0.0.0 byd.co.jp
 0.0.0.0 ca.nihon-trim.co.jp
+0.0.0.0 cacaosampaka-kitashinchi.com
 0.0.0.0 cafe-inn-hitoiki.com
 0.0.0.0 calendo365.com
 0.0.0.0 camp-fire.jp
@@ -931,6 +932,7 @@
 0.0.0.0 ja.popsilla.com
 0.0.0.0 jackrussell.breeders.jp
 0.0.0.0 jafplaza.com
+0.0.0.0 jagoo.co.jp
 0.0.0.0 japan-food.guide
 0.0.0.0 japan-staff.jp
 0.0.0.0 japanese.visitkorea.or.kr
@@ -1707,6 +1709,7 @@
 0.0.0.0 re-dia.jp
 0.0.0.0 re-katsu.jp
 0.0.0.0 re-model.jp
+0.0.0.0 real-estate.co.jp
 0.0.0.0 realplace-net.com
 0.0.0.0 reaoth-pre.com
 0.0.0.0 rebgil.funyoursjapan.pink
@@ -2489,6 +2492,7 @@
 0.0.0.0 www.anshindo-grp.co.jp
 0.0.0.0 www.antique-coin.jp
 0.0.0.0 www.antiques-and.com
+0.0.0.0 www.antoninopani.it
 0.0.0.0 www.anytimefitness.co.jp
 0.0.0.0 www.aoki-style.com
 0.0.0.0 www.aomist.com
@@ -3068,6 +3072,7 @@
 0.0.0.0 www.hyogotoyota.co.jp
 0.0.0.0 www.hyundai.com
 0.0.0.0 www.i-koike.jp
+0.0.0.0 www.i-nac.ac.jp
 0.0.0.0 www.i-note.jp
 0.0.0.0 www.i-sihousyosi.jp
 0.0.0.0 www.i879.com
@@ -3123,6 +3128,7 @@
 0.0.0.0 www.ishizukakagu.com
 0.0.0.0 www.isuzu.co.jp
 0.0.0.0 www.it-ex.com
+0.0.0.0 www.itaccess.co.jp
 0.0.0.0 www.itmaster.jp
 0.0.0.0 www.itoen.jp
 0.0.0.0 www.itokin.net
@@ -3907,6 +3913,7 @@
 0.0.0.0 www.snowrecords.jp
 0.0.0.0 www.soai.ed.jp
 0.0.0.0 www.sodastream.jp
+0.0.0.0 www.sodatetsu.jp
 0.0.0.0 www.softbank.jp
 0.0.0.0 www.sogo-seibu.jp
 0.0.0.0 www.soka.ac.jp
