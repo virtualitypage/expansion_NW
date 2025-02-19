@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 18 February 2025
+# Last modified: 19 February 2025
 #
 
 # [広告全般]
@@ -211,6 +211,7 @@
 0.0.0.0 beira.shop
 0.0.0.0 belinda-clinic.site
 0.0.0.0 belindaclinic-shinjuku.net
+0.0.0.0 belt.guardner.jp
 0.0.0.0 bengoshihoken-zero.jp
 0.0.0.0 benitorado.com
 0.0.0.0 benoitnihant.jp
@@ -253,6 +254,7 @@
 0.0.0.0 books.bunshun.jp
 0.0.0.0 bookwalker.jp
 0.0.0.0 bordercollie.breeders.jp
+0.0.0.0 borth.shop
 0.0.0.0 bostonterrier.breeders.jp
 0.0.0.0 brand.taisho.co.jp
 0.0.0.0 brightage.jp
@@ -2011,6 +2013,7 @@
 0.0.0.0 sky-joker.tech
 0.0.0.0 skycreation.net
 0.0.0.0 skyle.jp
+0.0.0.0 skylinecpia.cc
 0.0.0.0 slash-fishing.jp
 0.0.0.0 sleepytofu.co.jp
 0.0.0.0 smapano2.com
@@ -2560,6 +2563,7 @@
 0.0.0.0 www.be4tech.com
 0.0.0.0 www.beams.co.jp
 0.0.0.0 www.beautiful-world.store
+0.0.0.0 www.bebab.kr
 0.0.0.0 www.benesse.co.jp
 0.0.0.0 www.bennri-da.com
 0.0.0.0 www.benscycle.com
