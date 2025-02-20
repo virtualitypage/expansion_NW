@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 19 February 2025
+# Last modified: 20 February 2025
 #
 
 # [広告全般]
@@ -331,6 +331,7 @@
 0.0.0.0 chugakujuken-kokugo.jp
 0.0.0.0 chuko-noki.com
 0.0.0.0 chuko.gakushukai.jp
+0.0.0.0 chunshappy.com
 0.0.0.0 churashima.org
 0.0.0.0 chusho-invoice.go.jp
 0.0.0.0 chuwincle.co.jp
@@ -1627,6 +1628,7 @@
 0.0.0.0 pias-recruit-fresh.com
 0.0.0.0 piecebox.jp
 0.0.0.0 pikminbloom.com
+0.0.0.0 pilache.jp
 0.0.0.0 pingcap.co.jp
 0.0.0.0 pinklush.jp
 0.0.0.0 pitariko.jp
@@ -1731,6 +1733,7 @@
 0.0.0.0 register-form.movabletype.io
 0.0.0.0 register.hfm.com
 0.0.0.0 rekisiru.com
+0.0.0.0 rekitabi.jp
 0.0.0.0 relax-job.com
 0.0.0.0 relegate-sprout.work
 0.0.0.0 renata-clinic.com
@@ -2155,10 +2158,12 @@
 0.0.0.0 takasaki.mitsuoka-dealer.com
 0.0.0.0 takayamado.shop
 0.0.0.0 takuhai.daichi-m.co.jp
+0.0.0.0 takuminocaviar.com
 0.0.0.0 takutoproperty-members.com
 0.0.0.0 takuya-kimura.jp
 0.0.0.0 talia-campaign.square.site
 0.0.0.0 tamatani-tenroku.com
+0.0.0.0 tamaya1950.shop-pro.jp
 0.0.0.0 tamayakk.com
 0.0.0.0 tanaka501.com
 0.0.0.0 tanbaya.net
@@ -2374,6 +2379,7 @@
 0.0.0.0 wester.jr-odekake.net
 0.0.0.0 whisper-lagoon.info
 0.0.0.0 widgets.taxel.jp
+0.0.0.0 willcorp.net
 0.0.0.0 willcre03.com
 0.0.0.0 wing-group-web.net
 0.0.0.0 wink000.myshopify.com
@@ -3042,6 +3048,7 @@
 0.0.0.0 www.hitachi-systems-ps.co.jp
 0.0.0.0 www.hitachi.co.jp
 0.0.0.0 www.hkexpress.com
+0.0.0.0 www.hoholine.com
 0.0.0.0 www.hokende.com
 0.0.0.0 www.hokeniryo.metro.tokyo.lg.jp
 0.0.0.0 www.hokkaido-np.co.jp
@@ -3134,6 +3141,7 @@
 0.0.0.0 www.it-ex.com
 0.0.0.0 www.itaccess.co.jp
 0.0.0.0 www.itmaster.jp
+0.0.0.0 www.itoden.org
 0.0.0.0 www.itoen.jp
 0.0.0.0 www.itokin.net
 0.0.0.0 www.itsuki-sangyo.co.jp
@@ -4279,6 +4287,7 @@
 0.0.0.0 yg-tax.net
 0.0.0.0 yhtop.co
 0.0.0.0 yobito.net
+0.0.0.0 yobouiryoukai.com
 0.0.0.0 yodomachi-cycling2024.com
 0.0.0.0 yokanavi.com
 0.0.0.0 yonex-kaisyu.co.jp
@@ -4298,12 +4307,14 @@
 0.0.0.0 yumekitchen.jp
 0.0.0.0 yururi-nikori.owst.jp
 0.0.0.0 yusho-kyoto.owst.jp
+0.0.0.0 yushoku.co.jp
 0.0.0.0 yuskin.co.jp
 0.0.0.0 yutaka-tomonokai.jp
 0.0.0.0 zaimani.com
 0.0.0.0 zen.one
 0.0.0.0 zenbivy.com
 0.0.0.0 zero.gift
+0.0.0.0 zerohome.jp
 0.0.0.0 zerosumu.com
 0.0.0.0 zexy.net
 0.0.0.0 zidoma.com
