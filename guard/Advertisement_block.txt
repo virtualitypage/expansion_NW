@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 20 February 2025
+# Last modified: 21 February 2025
 #
 
 # [広告全般]
@@ -550,6 +550,7 @@
 0.0.0.0 estore.wacom.jp
 0.0.0.0 etc.kmg-cloud.com
 0.0.0.0 eubeeflamb.eu
+0.0.0.0 european-dairy.eu
 0.0.0.0 ev2.nissan.co.jp
 0.0.0.0 event.gvm.com.tw
 0.0.0.0 event.hncb.com.tw
@@ -1320,6 +1321,7 @@
 0.0.0.0 marumugi.shop
 0.0.0.0 masaomi-jyuku.masaomi-takao.com
 0.0.0.0 masaya-pawnshop.com
+0.0.0.0 mash-c.jp
 0.0.0.0 mashiro82x.base.shop
 0.0.0.0 matsue.clare.jp
 0.0.0.0 matsui-express-job.jp
@@ -1732,6 +1734,7 @@
 0.0.0.0 regimentvalkyrie.com
 0.0.0.0 register-form.movabletype.io
 0.0.0.0 register.hfm.com
+0.0.0.0 reglas.base.shop
 0.0.0.0 rekisiru.com
 0.0.0.0 rekitabi.jp
 0.0.0.0 relax-job.com
@@ -1755,6 +1758,7 @@
 0.0.0.0 rikon.olive-law.jp
 0.0.0.0 ringraph.weddingpark.net
 0.0.0.0 rinri-project.jp
+0.0.0.0 risdom.benesse.co.jp
 0.0.0.0 riseisha.ed.jp
 0.0.0.0 risk.lexisnexis.co.uk
 0.0.0.0 rita-cloud.co.jp
@@ -3374,6 +3378,7 @@
 0.0.0.0 www.lyngskroa.no
 0.0.0.0 www.m-ams.co.jp
 0.0.0.0 www.m-keiei.jp
+0.0.0.0 www.ma20.co.jp
 0.0.0.0 www.macaotourism.gov.mo
 0.0.0.0 www.maetanien.com
 0.0.0.0 www.maff.go.jp
@@ -3927,6 +3932,7 @@
 0.0.0.0 www.sodastream.jp
 0.0.0.0 www.sodatetsu.jp
 0.0.0.0 www.softbank.jp
+0.0.0.0 www.softroad.co.jp
 0.0.0.0 www.sogo-seibu.jp
 0.0.0.0 www.soka.ac.jp
 0.0.0.0 www.sola-resort.com
