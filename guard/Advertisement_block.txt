@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 21 February 2025
+# Last modified: 22 February 2025
 #
 
 # [広告全般]
@@ -198,6 +198,7 @@
 0.0.0.0 bank-loan-ranking.com
 0.0.0.0 basefood.co.jp
 0.0.0.0 bashotoru.com
+0.0.0.0 bath.tagaya.co.jp
 0.0.0.0 baycrews.jp
 0.0.0.0 bbq-group.jp
 0.0.0.0 bbq.urban-earth.jp
@@ -494,6 +495,7 @@
 0.0.0.0 earol.co.uk
 0.0.0.0 earthrapport0407.com
 0.0.0.0 easy-simulator.net
+0.0.0.0 eat7.co.il
 0.0.0.0 ec-force.com
 0.0.0.0 ec-myprecious.jp
 0.0.0.0 ec.eternam.co.jp
@@ -755,6 +757,7 @@
 0.0.0.0 hal-tanteisya.com
 0.0.0.0 haleo.jp
 0.0.0.0 hamamatudietriseone.site
+0.0.0.0 hamanakaiin.com
 0.0.0.0 hamanocontact-multifocal.com
 0.0.0.0 hamanocontact-nanbacity.com
 0.0.0.0 hamieru.co.jp
@@ -777,6 +780,7 @@
 0.0.0.0 haseko-bp.jp
 0.0.0.0 hashibukuro.com
 0.0.0.0 hashida-giken.com
+0.0.0.0 hashizume-dc.jp
 0.0.0.0 hata.support
 0.0.0.0 hataraku-search.com
 0.0.0.0 hatarakujob.com
@@ -1649,6 +1653,7 @@
 0.0.0.0 pomeranian.breeders.jp
 0.0.0.0 poodle.breeders.jp
 0.0.0.0 portal.bizrisk.iij.jp
+0.0.0.0 portal.jamp.jiji.com
 0.0.0.0 porte.sport-school.com
 0.0.0.0 povo.jp
 0.0.0.0 pr-lp.net
@@ -1666,6 +1671,7 @@
 0.0.0.0 price-energy.com
 0.0.0.0 pride-fish.jp
 0.0.0.0 prime-career.jp
+0.0.0.0 primo-reform.com
 0.0.0.0 pritynews.com
 0.0.0.0 pro.gnavi.co.jp
 0.0.0.0 proaceworks.com
@@ -2709,6 +2715,7 @@
 0.0.0.0 www.cm.life8739.co.jp
 0.0.0.0 www.coca-cola.com
 0.0.0.0 www.cockpit.co.jp
+0.0.0.0 www.cocomarke.com
 0.0.0.0 www.cocotas.shop
 0.0.0.0 www.cog.inc
 0.0.0.0 www.coinpalace.jp
@@ -3584,6 +3591,7 @@
 0.0.0.0 www.nondact89.com
 0.0.0.0 www.nordsonmedical.com
 0.0.0.0 www.notalone-cao.go.jp
+0.0.0.0 www.notokaitai.com
 0.0.0.0 www.nrj.ac.jp
 0.0.0.0 www.nsc.org
 0.0.0.0 www.nseg.co.jp
@@ -4300,6 +4308,7 @@
 0.0.0.0 yoridoko-kanko.co.jp
 0.0.0.0 yorkie.breeders.jp
 0.0.0.0 yorokobishop.com
+0.0.0.0 yoshida.co.th
 0.0.0.0 yoshino-gypsum.com
 0.0.0.0 yotasteshop.com
 0.0.0.0 youin.jp
