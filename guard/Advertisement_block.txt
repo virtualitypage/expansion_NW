@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 22 February 2025
+# Last modified: 23 February 2025
 #
 
 # [広告全般]
@@ -328,6 +328,7 @@
 0.0.0.0 chill-cam.com
 0.0.0.0 chirashi.akachan.jp
 0.0.0.0 chouwasha.jp
+0.0.0.0 chrysler-jeep.jp
 0.0.0.0 chuchubaby.jp
 0.0.0.0 chugakujuken-kokugo.jp
 0.0.0.0 chuko-noki.com
@@ -739,6 +740,7 @@
 0.0.0.0 gtoyota.com
 0.0.0.0 guestlist-tokyo.com
 0.0.0.0 guidance-recruit.visioncon.co.jp
+0.0.0.0 gururi360.net
 0.0.0.0 gym.copin.co.jp
 0.0.0.0 gyutte.jp
 0.0.0.0 h-felice.com
@@ -845,6 +847,7 @@
 0.0.0.0 honkaku-coco.com
 0.0.0.0 horseracing-tipsters.biz
 0.0.0.0 hoshi.cocoloni.jp
+0.0.0.0 hotelmonterey-grasmereosaka.jp
 0.0.0.0 hottoke.jp
 0.0.0.0 hougaku.kanto-gakuin.ac.jp
 0.0.0.0 house-cp.jp
@@ -861,6 +864,7 @@
 0.0.0.0 hugkum.sho.jp
 0.0.0.0 hyogo-lifepartner.co.jp
 0.0.0.0 hyogo-quality.jp
+0.0.0.0 hypnosismic-movie.com
 0.0.0.0 i-voce.jp
 0.0.0.0 i.kirei.today
 0.0.0.0 iatss.or.jp
@@ -1546,6 +1550,7 @@
 0.0.0.0 oka-d-art.com
 0.0.0.0 okaido.clare.jp
 0.0.0.0 okamoto-dental.clinic
+0.0.0.0 okayama-life.jp
 0.0.0.0 okayama.coop
 0.0.0.0 oldisroad.com
 0.0.0.0 omedeto.hp.peraichi.com
@@ -1852,6 +1857,7 @@
 0.0.0.0 sb-locomopro.service-info.jp
 0.0.0.0 sb-loveavav.discover-news.tokyo
 0.0.0.0 sb-lucky-life.discover-news.tokyo
+0.0.0.0 sb-maio-typex.newsanything.tokyo
 0.0.0.0 sb-nanoporon.discover-news.tokyo
 0.0.0.0 sb-newz.musthave-magazine.tokyo
 0.0.0.0 sb-piece-of-cake.discover-news.tokyo
@@ -2861,6 +2867,7 @@
 0.0.0.0 www.eyecity.jp
 0.0.0.0 www.ezsoft.co.jp
 0.0.0.0 www.eztravel.com.tw
+0.0.0.0 www.f-inochi.org
 0.0.0.0 www.f-kenmin.jp
 0.0.0.0 www.f-marinos.com
 0.0.0.0 www.fabric-homes.co.jp
@@ -3078,6 +3085,7 @@
 0.0.0.0 www.hoshino-oto.jp
 0.0.0.0 www.hostmeapp.com
 0.0.0.0 www.hotel-ichii.co.jp
+0.0.0.0 www.hotelforetpremier.com
 0.0.0.0 www.hotpepper.jp
 0.0.0.0 www.hotstaff.co.jp
 0.0.0.0 www.hotty.co.jp
@@ -3762,6 +3770,7 @@
 0.0.0.0 www.ptotjinzaibank.com
 0.0.0.0 www.pure-house.co.jp
 0.0.0.0 www.pwc.com
+0.0.0.0 www.qfox-japan.com
 0.0.0.0 www.qol-inc.com
 0.0.0.0 www.qoo10.jp
 0.0.0.0 www.qropsdirect.in
