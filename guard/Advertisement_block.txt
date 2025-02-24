@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 23 February 2025
+# Last modified: 24 February 2025
 #
 
 # [広告全般]
@@ -232,6 +232,7 @@
 0.0.0.0 bighornlaw.com
 0.0.0.0 bike-news.jp
 0.0.0.0 biryuhyakkaweb.jp
+0.0.0.0 bisha-ema.com
 0.0.0.0 bistria-uotalian.owst.jp
 0.0.0.0 bix.exparo.com
 0.0.0.0 biz.renta-mobile.com
@@ -470,6 +471,7 @@
 0.0.0.0 dotapps.jp
 0.0.0.0 dotgames.info
 0.0.0.0 doutaikanri.com
+0.0.0.0 douzoufigure.com
 0.0.0.0 dpoint.docomo.ne.jp
 0.0.0.0 dpt-e-school.w.waseda.jp
 0.0.0.0 dr-fish.net
@@ -625,6 +627,7 @@
 0.0.0.0 fujikoumuten.co.jp
 0.0.0.0 fujimedica.com
 0.0.0.0 fujinomiya-gateway.com
+0.0.0.0 fujitadougu.com
 0.0.0.0 fujiya-shoyu.com
 0.0.0.0 fukoku-h.co.jp
 0.0.0.0 fukubekaji.shop-pro.jp
@@ -895,6 +898,7 @@
 0.0.0.0 in-market.net
 0.0.0.0 in.fujii-worldforecast.jp
 0.0.0.0 in.weissratings.jp
+0.0.0.0 incentive-corp.jp
 0.0.0.0 indonoaji2024.campar.jp
 0.0.0.0 infini-home.jp
 0.0.0.0 info-boatrace.jp
@@ -1612,6 +1616,7 @@
 0.0.0.0 pages.vaio.com
 0.0.0.0 pair-loan.com
 0.0.0.0 paiza.jp
+0.0.0.0 palcoop.saiyo-job.jp
 0.0.0.0 panasonic.jp
 0.0.0.0 papillon.breeders.jp
 0.0.0.0 paramount.jp
@@ -2004,6 +2009,7 @@
 0.0.0.0 shop.remozer.com
 0.0.0.0 shop.retro-n.com
 0.0.0.0 shop.saraya.com
+0.0.0.0 shop.shimogamosaryo.co.jp
 0.0.0.0 shop.shoyeido.co.jp
 0.0.0.0 shop.soundfun.co.jp
 0.0.0.0 shop.uyeki.co.jp
@@ -2201,6 +2207,7 @@
 0.0.0.0 teamix.click
 0.0.0.0 tebanashi.mira-ie.co.jp
 0.0.0.0 techgala.jp
+0.0.0.0 teclock.co.jp
 0.0.0.0 teian-enh.com
 0.0.0.0 teknitape.com
 0.0.0.0 teleboat-cp.jp
@@ -3527,6 +3534,7 @@
 0.0.0.0 www.nagasakisyogai.jp
 0.0.0.0 www.nagoya-bengoshi.info
 0.0.0.0 www.nagoyatokyuhotel-wedding.com
+0.0.0.0 www.naito-sec.co.jp
 0.0.0.0 www.nakae-bussan.shop
 0.0.0.0 www.nakamura-u.ac.jp
 0.0.0.0 www.nakanoya-harukas.com
@@ -3770,6 +3778,7 @@
 0.0.0.0 www.ptotjinzaibank.com
 0.0.0.0 www.pure-house.co.jp
 0.0.0.0 www.pwc.com
+0.0.0.0 www.qac.co.jp
 0.0.0.0 www.qfox-japan.com
 0.0.0.0 www.qol-inc.com
 0.0.0.0 www.qoo10.jp
@@ -4040,6 +4049,7 @@
 0.0.0.0 www.taos.co.jp
 0.0.0.0 www.tarou.co.jp
 0.0.0.0 www.tashiro-kankyo.com
+0.0.0.0 www.tateyama-kou.net
 0.0.0.0 www.tb-kumano.jp
 0.0.0.0 www.tdk.com
 0.0.0.0 www.teamlab.art
@@ -4109,6 +4119,7 @@
 0.0.0.0 www.torus.co.jp
 0.0.0.0 www.toshiba-lifestyle.com
 0.0.0.0 www.totalrepair-fukasawa.com
+0.0.0.0 www.tourboxtech.com
 0.0.0.0 www.town.okuma.fukushima.jp
 0.0.0.0 www.town.togitsu.nagasaki.jp
 0.0.0.0 www.toyama-clean.com
