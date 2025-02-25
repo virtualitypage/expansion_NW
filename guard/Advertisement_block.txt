@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 24 February 2025
+# Last modified: 25 February 2025
 #
 
 # [広告全般]
@@ -399,6 +399,7 @@
 0.0.0.0 crcr.asia
 0.0.0.0 creditcard-entry.com
 0.0.0.0 creditcard-news.net
+0.0.0.0 crestrich.net
 0.0.0.0 crosroad.com
 0.0.0.0 crosset.onward.co.jp
 0.0.0.0 crowdtech.jp
@@ -678,6 +679,7 @@
 0.0.0.0 geo.8984.jp
 0.0.0.0 gero-present.com
 0.0.0.0 getnews.jp
+0.0.0.0 gghouse.co.jp
 0.0.0.0 ghibli-park.jp
 0.0.0.0 gicjp.com
 0.0.0.0 gifunavi.jp
@@ -2158,6 +2160,7 @@
 0.0.0.0 sutekinajinsei.jp
 0.0.0.0 suumo.jp
 0.0.0.0 suzuki-ballet-studio.com
+0.0.0.0 svenson-recruit.com
 0.0.0.0 svltd.co.jp
 0.0.0.0 syakuchiken.jp
 0.0.0.0 systema.lion.co.jp
@@ -2789,6 +2792,7 @@
 0.0.0.0 www.denray.com
 0.0.0.0 www.dentsu.ed.jp
 0.0.0.0 www.dezao-reform.com
+0.0.0.0 www.dfs.com
 0.0.0.0 www.difstory.com
 0.0.0.0 www.digiraku.com
 0.0.0.0 www.digital.go.jp
@@ -2929,6 +2933,7 @@
 0.0.0.0 www.fujioh.shop
 0.0.0.0 www.fujisan-climb.jp
 0.0.0.0 www.fujitsu.com
+0.0.0.0 www.fujiyama-international.com
 0.0.0.0 www.fukagawaganka.net
 0.0.0.0 www.fukko-pr.reconstruction.go.jp
 0.0.0.0 www.fukko.com
@@ -3971,6 +3976,7 @@
 0.0.0.0 www.sorauki.llc
 0.0.0.0 www.sougaku-academy.jp
 0.0.0.0 www.sougi-soudan.jp
+0.0.0.0 www.soumu.go.jp
 0.0.0.0 www.sousou.co.jp
 0.0.0.0 www.sousou.jp
 0.0.0.0 www.southbank.org
@@ -4221,6 +4227,7 @@
 0.0.0.0 www.wb-ookura.com
 0.0.0.0 www.weltec.jp
 0.0.0.0 www.westin-osaka.co.jp
+0.0.0.0 www.westjr.co.jp
 0.0.0.0 www.white-choco.top
 0.0.0.0 www.wickedthemusical.co.uk
 0.0.0.0 www.wills.co.jp
