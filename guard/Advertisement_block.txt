@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 25 February 2025
+# Last modified: 26 February 2025
 #
 
 # [広告全般]
@@ -85,6 +85,7 @@
 0.0.0.0 aiya-osaka.com
 0.0.0.0 akiya-oita.com
 0.0.0.0 akoakostudio.com
+0.0.0.0 akool.com
 0.0.0.0 akr0674735414.owst.jp
 0.0.0.0 akr3886447014.owst.jp
 0.0.0.0 akr4061480779.owst.jp
@@ -126,6 +127,7 @@
 0.0.0.0 answerbox.jp
 0.0.0.0 anytool.jp
 0.0.0.0 aoba-jb.com
+0.0.0.0 aoki-hamono.co.jp
 0.0.0.0 aomorimai-cp2025.com
 0.0.0.0 apamanshop-nanba.net
 0.0.0.0 apamanshop-tennoji.net
@@ -292,6 +294,7 @@
 0.0.0.0 campanola.jp
 0.0.0.0 camparijapan.com
 0.0.0.0 can-yuu.com
+0.0.0.0 canalworks.jp
 0.0.0.0 canbadge-arc.com
 0.0.0.0 canbadge-arc32.com
 0.0.0.0 canbadge-arc38.com
@@ -450,6 +453,8 @@
 0.0.0.0 direct-teleshop.jp
 0.0.0.0 direct.ajinomoto.co.jp
 0.0.0.0 direct.eizo.co.jp
+0.0.0.0 discover-akashi.jp
+0.0.0.0 discoveryschool.or.jp
 0.0.0.0 distance.media
 0.0.0.0 dive-oita.com
 0.0.0.0 dl.apparel-web.co.jp
@@ -613,6 +618,7 @@
 0.0.0.0 fp-professional.com
 0.0.0.0 fptsoftware.jp
 0.0.0.0 franomista.tohogas.co.jp
+0.0.0.0 freeb-fis.co.jp
 0.0.0.0 freedom.co.jp
 0.0.0.0 freetherock.com
 0.0.0.0 frenchbull.breeders.jp
@@ -1464,6 +1470,7 @@
 0.0.0.0 nakanodental-cl.com
 0.0.0.0 nakka-art.jp
 0.0.0.0 nakosa.theshop.jp
+0.0.0.0 nana-company.vercel.app
 0.0.0.0 nanatsuya-radical-yasumitsu.sai-soku.jp
 0.0.0.0 nannyme.love
 0.0.0.0 nara.jr-central.co.jp
@@ -1821,6 +1828,7 @@
 0.0.0.0 saitokikaku.co.jp
 0.0.0.0 saiyo-shoten.com
 0.0.0.0 sakai.jeep-dealer.jp
+0.0.0.0 sakancoubou.com
 0.0.0.0 sakedininglit.owst.jp
 0.0.0.0 sakura-ju.co.jp
 0.0.0.0 sale.24028.jp
@@ -2171,6 +2179,7 @@
 0.0.0.0 tahititourisme.travel
 0.0.0.0 taicca.tw
 0.0.0.0 taiheiyou-ireikyoukai.jp
+0.0.0.0 taijouhoushin-yobou.jp
 0.0.0.0 tainenji.net
 0.0.0.0 taishuubistoroharadaya.owst.jp
 0.0.0.0 taiwancyayanana.owst.jp
@@ -2421,6 +2430,7 @@
 0.0.0.0 world.hello-gesher.com
 0.0.0.0 wowclassic.blizzard.com
 0.0.0.0 wp.i-voce.jp
+0.0.0.0 www.0003.co.jp
 0.0.0.0 www.0038.co.jp
 0.0.0.0 www.0101.co.jp
 0.0.0.0 www.0120-70-7777.jp
@@ -3847,6 +3857,7 @@
 0.0.0.0 www.ryukoku.ac.jp
 0.0.0.0 www.s-ge.com
 0.0.0.0 www.s-re.jp
+0.0.0.0 www.s-summerjazzcamp.jp
 0.0.0.0 www.saatva.com
 0.0.0.0 www.safejp.net
 0.0.0.0 www.safra.sg
@@ -3988,6 +3999,7 @@
 0.0.0.0 www.st-andrews.ac.uk
 0.0.0.0 www.st-mary.ac.jp
 0.0.0.0 www.st.com
+0.0.0.0 www.starkeyjp.com
 0.0.0.0 www.startup-roudou.mhlw.go.jp
 0.0.0.0 www.stat.go.jp
 0.0.0.0 www.stellarplace.net
@@ -4113,6 +4125,7 @@
 0.0.0.0 www.tokyodomecity.anitouch.com
 0.0.0.0 www.tokyointerior.co.jp
 0.0.0.0 www.tokyomk.com
+0.0.0.0 www.tokyoreha-cl.com
 0.0.0.0 www.tokyoshigoto.jp
 0.0.0.0 www.tokyosoundbox.com
 0.0.0.0 www.tokyoupdates.metro.tokyo.lg.jp
