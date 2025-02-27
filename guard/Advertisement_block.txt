@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 26 February 2025
+# Last modified: 27 February 2025
 #
 
 # [広告全般]
@@ -488,6 +488,7 @@
 0.0.0.0 drone-procrew.com
 0.0.0.0 drplus-japan.com
 0.0.0.0 ds.uncn.jp
+0.0.0.0 ds.yahoo.co.jp
 0.0.0.0 dsp.logly.co.jp
 0.0.0.0 duskin-cashlesscp.com
 0.0.0.0 duskin-sm-business.com
@@ -757,6 +758,7 @@
 0.0.0.0 h-felice.com
 0.0.0.0 h-jp.fujifilm.com
 0.0.0.0 h.cgg4game.com
+0.0.0.0 hachiemon.net
 0.0.0.0 haco-renovation.jp
 0.0.0.0 hacochef.cqree.jp
 0.0.0.0 hadanara-trend.com
@@ -948,6 +950,7 @@
 0.0.0.0 itp.ne.jp
 0.0.0.0 iwateya-shop.jp
 0.0.0.0 iyec.itoyokado.co.jp
+0.0.0.0 izumi-posting.com
 0.0.0.0 izumozine.jp
 0.0.0.0 j-prime.jp
 0.0.0.0 ja-aichi-hearthome.net
@@ -1257,6 +1260,7 @@
 0.0.0.0 lovelyhall.com
 0.0.0.0 lp-ai.ccreb.jp
 0.0.0.0 lp-mk-2.makuake.com
+0.0.0.0 lp.alc-non.com
 0.0.0.0 lp.chocozap.jp
 0.0.0.0 lp.cloudydrive.net
 0.0.0.0 lp.ec-cube.net
@@ -1473,11 +1477,13 @@
 0.0.0.0 nana-company.vercel.app
 0.0.0.0 nanatsuya-radical-yasumitsu.sai-soku.jp
 0.0.0.0 nannyme.love
+0.0.0.0 nara-nagomiseimenjo.com
 0.0.0.0 nara.jr-central.co.jp
 0.0.0.0 natalie.mu
 0.0.0.0 natgeo.nikkeibp.co.jp
 0.0.0.0 naturalchange.jp
 0.0.0.0 navi.jobpal.jp
+0.0.0.0 navi.kankou-matsue.jp
 0.0.0.0 neith.tokyo
 0.0.0.0 nekkoya.shop-pro.jp
 0.0.0.0 nemunokinoshita.com
@@ -1566,6 +1572,7 @@
 0.0.0.0 okayama-life.jp
 0.0.0.0 okayama.coop
 0.0.0.0 oldisroad.com
+0.0.0.0 olubie.jp
 0.0.0.0 omedeto.hp.peraichi.com
 0.0.0.0 omurakyotei.jp
 0.0.0.0 omutsuclub.com
@@ -1737,6 +1744,7 @@
 0.0.0.0 ranmaotome.com
 0.0.0.0 ranzu.jp
 0.0.0.0 rasik.style
+0.0.0.0 ray-fitness-studio.co.jp
 0.0.0.0 re-dia.jp
 0.0.0.0 re-katsu.jp
 0.0.0.0 re-model.jp
@@ -2114,6 +2122,7 @@
 0.0.0.0 startup.ftstandard.jp
 0.0.0.0 static.hfm.com
 0.0.0.0 static.locari.jp
+0.0.0.0 stelaq.co.jp
 0.0.0.0 step.sekokan-labo.jp
 0.0.0.0 stock-house.jp
 0.0.0.0 stockedges.com
@@ -2202,6 +2211,7 @@
 0.0.0.0 tanaka501.com
 0.0.0.0 tanbaya.net
 0.0.0.0 tanebo.click
+0.0.0.0 tanimachi.chiryou-in.biz
 0.0.0.0 tanoshiiosake.jp
 0.0.0.0 tansei-legaloffice.jp
 0.0.0.0 tarezou.com
@@ -2329,6 +2339,7 @@
 0.0.0.0 umaki-items.com
 0.0.0.0 umamibomb.jp
 0.0.0.0 umiuma.jp
+0.0.0.0 umiumart.jp
 0.0.0.0 unaginobori-hamamatsu.jp
 0.0.0.0 uncf.org
 0.0.0.0 underground-group.net
@@ -2457,6 +2468,7 @@
 0.0.0.0 www.7th9lodge.com
 0.0.0.0 www.816kinki.com
 0.0.0.0 www.85cafe.com
+0.0.0.0 www.894651.com
 0.0.0.0 www.89waku.com
 0.0.0.0 www.968.co.jp
 0.0.0.0 www.a-audition.jp
@@ -2526,6 +2538,7 @@
 0.0.0.0 www.americantourister.jp
 0.0.0.0 www.amh.clinic
 0.0.0.0 www.amiami.jp
+0.0.0.0 www.amity.co.jp
 0.0.0.0 www.ana.co.jp
 0.0.0.0 www.anabuki-style.com
 0.0.0.0 www.anabuki-style.com.lan
@@ -2621,6 +2634,7 @@
 0.0.0.0 www.biccamera.com
 0.0.0.0 www.bikeboy.jp
 0.0.0.0 www.bikekan.jp
+0.0.0.0 www.billion-home.jp
 0.0.0.0 www.biofermin.co.jp
 0.0.0.0 www.bishouen.com
 0.0.0.0 www.bitecglobal.com
@@ -3353,6 +3367,7 @@
 0.0.0.0 www.konoike.ac.jp
 0.0.0.0 www.koshida-suisan.com
 0.0.0.0 www.koshin-ltd.jp
+0.0.0.0 www.kossetsucare.com
 0.0.0.0 www.kosugi-tire.com
 0.0.0.0 www.koushihaken.com
 0.0.0.0 www.kouya-tofu.com
@@ -3382,6 +3397,7 @@
 0.0.0.0 www.lasana.net
 0.0.0.0 www.le-trois.jp
 0.0.0.0 www.lebledor.com
+0.0.0.0 www.lecreuset.co.jp
 0.0.0.0 www.lectit.com
 0.0.0.0 www.lenovo.com
 0.0.0.0 www.lensstyle.jp
@@ -3674,6 +3690,7 @@
 0.0.0.0 www.onetop-japan.jp
 0.0.0.0 www.onitsukatiger.com
 0.0.0.0 www.onlinesec-kenkyukai.com
+0.0.0.0 www.onoe-furniture.co.jp
 0.0.0.0 www.onrei.jp
 0.0.0.0 www.ooedoonsen.jp
 0.0.0.0 www.ooita-ijuushuunou.com
