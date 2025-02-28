@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 27 February 2025
+# Last modified: 28 February 2025
 #
 
 # [広告全般]
@@ -174,6 +174,7 @@
 0.0.0.0 asobibar-shinjuku.net
 0.0.0.0 asp.hotel-story.ne.jp
 0.0.0.0 astmaxenergy.co.jp
+0.0.0.0 astrex8-yamikin.xyz
 0.0.0.0 at-living.press
 0.0.0.0 atbex.attokyo.co.jp
 0.0.0.0 atelier-eijitsu.com
@@ -893,6 +894,7 @@
 0.0.0.0 ie-van.com
 0.0.0.0 iei.jp
 0.0.0.0 ifdesign.com
+0.0.0.0 iges-global.jp
 0.0.0.0 igolfstudio.jp
 0.0.0.0 ihin-asul.com
 0.0.0.0 ii.tokyu.co.jp
@@ -1179,6 +1181,7 @@
 0.0.0.0 ktv-housing.com
 0.0.0.0 kudan-tokyo.jp
 0.0.0.0 kumajob.jp
+0.0.0.0 kumamoto-south.com
 0.0.0.0 kumashirofarm.stores.jp
 0.0.0.0 kumonfranchise.sg
 0.0.0.0 kuradashi.jp
@@ -1778,6 +1781,7 @@
 0.0.0.0 rensim-store.com
 0.0.0.0 rental-coin.com
 0.0.0.0 rental-pallet.net
+0.0.0.0 rerenty.com
 0.0.0.0 rescue-suido.com
 0.0.0.0 reservation.aetashotels.com
 0.0.0.0 reservation.medical-force.com
@@ -1802,6 +1806,7 @@
 0.0.0.0 rocbankglobal.com
 0.0.0.0 rokkomeetsart.jp
 0.0.0.0 rokon.click
+0.0.0.0 roppongi-yamikin.ad-web.click
 0.0.0.0 roseoncheeks.com
 0.0.0.0 roundi.us
 0.0.0.0 rousai-zangyou-bengoshi.com
@@ -2161,6 +2166,7 @@
 0.0.0.0 sumai.panasonic.jp
 0.0.0.0 sumai.tokyu-land.co.jp
 0.0.0.0 sumapo.com
+0.0.0.0 sumika.link
 0.0.0.0 sumikalog.bess.jp
 0.0.0.0 sumisho-tatemono-chuukai.net
 0.0.0.0 sumiyaginzo.owst.jp
@@ -3074,6 +3080,7 @@
 0.0.0.0 www.hatasapo.jp
 0.0.0.0 www.hawaiianairlines.co.jp
 0.0.0.0 www.hda.or.jp
+0.0.0.0 www.headout.com
 0.0.0.0 www.hebel-haus.com
 0.0.0.0 www.heisei-u.ac.jp
 0.0.0.0 www.hellermanntyton.co.jp
@@ -3435,6 +3442,7 @@
 0.0.0.0 www.macaotourism.gov.mo
 0.0.0.0 www.maetanien.com
 0.0.0.0 www.maff.go.jp
+0.0.0.0 www.magazine.mlit.go.jp
 0.0.0.0 www.magionet.co.jp
 0.0.0.0 www.magna-tokyo.com
 0.0.0.0 www.magokoro-bento.com
