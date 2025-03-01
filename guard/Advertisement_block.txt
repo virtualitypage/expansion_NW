@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 28 February 2025
+# Last modified: 1 March 2025
 #
 
 # [広告全般]
@@ -69,6 +69,7 @@
 0.0.0.0 afilab.jp
 0.0.0.0 aflart.net
 0.0.0.0 aflart8739.com
+0.0.0.0 afs.hakuhodody-media.co.jp
 0.0.0.0 agent.chizaijuku.com
 0.0.0.0 agfblendy-campaign.jp
 0.0.0.0 agri.mynavi.jp
@@ -129,6 +130,7 @@
 0.0.0.0 aoba-jb.com
 0.0.0.0 aoki-hamono.co.jp
 0.0.0.0 aomorimai-cp2025.com
+0.0.0.0 aoramama.com
 0.0.0.0 apamanshop-nanba.net
 0.0.0.0 apamanshop-tennoji.net
 0.0.0.0 apc-jp.com
@@ -1339,6 +1341,7 @@
 0.0.0.0 manoamano87.jp
 0.0.0.0 manulife-gaika.jp
 0.0.0.0 maquia.hpplus.jp
+0.0.0.0 maremi.biz
 0.0.0.0 marineworld.hiyoriyama.co.jp
 0.0.0.0 marketing-careerlabo.jp
 0.0.0.0 marketing.apexcapitaldubai.com
@@ -1747,6 +1750,7 @@
 0.0.0.0 ranmaotome.com
 0.0.0.0 ranzu.jp
 0.0.0.0 rasik.style
+0.0.0.0 rasisa-wedding.com
 0.0.0.0 ray-fitness-studio.co.jp
 0.0.0.0 re-dia.jp
 0.0.0.0 re-katsu.jp
@@ -2141,6 +2145,7 @@
 0.0.0.0 store.united-arrows.co.jp
 0.0.0.0 store.vaio.com
 0.0.0.0 store.venex-j.co.jp
+0.0.0.0 store.vixion.jp
 0.0.0.0 store.wacoal.jp
 0.0.0.0 store.world.co.jp
 0.0.0.0 store.zita.life
@@ -2605,6 +2610,7 @@
 0.0.0.0 www.atpress.ne.jp
 0.0.0.0 www.audi-kusunoki.jp
 0.0.0.0 www.audi-nagoyachuo.jp
+0.0.0.0 www.audi.jp
 0.0.0.0 www.audiotech.jp
 0.0.0.0 www.austria.info
 0.0.0.0 www.autobacs-weblp.com
@@ -2903,6 +2909,7 @@
 0.0.0.0 www.eslead.co.jp
 0.0.0.0 www.esplanade.com
 0.0.0.0 www.etungo.com.tw
+0.0.0.0 www.evat.cz
 0.0.0.0 www.ex-agent.co.jp
 0.0.0.0 www.ex-anpi.com
 0.0.0.0 www.eyecity.jp
@@ -3075,6 +3082,7 @@
 0.0.0.0 www.happy-soul.net
 0.0.0.0 www.harbourvillehotel.com
 0.0.0.0 www.harikaehonpo.net
+0.0.0.0 www.harpercollins.co.jp
 0.0.0.0 www.haseko.co.jp
 0.0.0.0 www.hatarako.net
 0.0.0.0 www.hatasapo.jp
@@ -3325,6 +3333,7 @@
 0.0.0.0 www.kewpie.co.jp
 0.0.0.0 www.keyence-foundation.or.jp
 0.0.0.0 www.ki-rin.biz
+0.0.0.0 www.kiitti.net
 0.0.0.0 www.kikaiboshi.jp
 0.0.0.0 www.kikyonooka.or.jp
 0.0.0.0 www.kimurajuku.co.jp
@@ -3776,6 +3785,7 @@
 0.0.0.0 www.pkobp.pl
 0.0.0.0 www.plage-bb.co.jp
 0.0.0.0 www.plan-c.co.jp
+0.0.0.0 www.playon.rodansnap.com
 0.0.0.0 www.playstation.com
 0.0.0.0 www.plumsteadvilleinn.com
 0.0.0.0 www.pluscasa.com
@@ -4302,6 +4312,7 @@
 0.0.0.0 www.yanmar.com
 0.0.0.0 www.yasuda-u.ac.jp
 0.0.0.0 www.yawata.tv
+0.0.0.0 www.yeuxclairs.com
 0.0.0.0 www.ykkap.co.jp
 0.0.0.0 www.ymd-ssi.jp
 0.0.0.0 www.ymobile.jp
@@ -4340,6 +4351,7 @@
 0.0.0.0 wwwsp.himawari-life.co.jp
 0.0.0.0 xmf.jp
 0.0.0.0 xn--pckua2a7gp15o89zb.com
+0.0.0.0 xsurvey.nikkeibp.co.jp
 0.0.0.0 xylophone-rain.space
 0.0.0.0 yab.yomiuri.co.jp
 0.0.0.0 yacnee.co.jp
