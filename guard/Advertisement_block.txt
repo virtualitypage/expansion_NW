@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 1 March 2025
+# Last modified: 2 March 2025
 #
 
 # [広告全般]
@@ -1653,6 +1653,7 @@
 0.0.0.0 pengguin.thebase.in
 0.0.0.0 penguin-spice.store
 0.0.0.0 pengy-magic.penguin-colony.net
+0.0.0.0 pension-cruise.com
 0.0.0.0 persol-hrpartners.co.jp
 0.0.0.0 personal.canon.jp
 0.0.0.0 pestalozzi-tech.com
