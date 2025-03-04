@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 3 March 2025
+# Last modified: 4 March 2025
 #
 
 # [広告全般]
@@ -1483,6 +1483,7 @@
 0.0.0.0 naia-astena.jp
 0.0.0.0 naiteikun-corp.com
 0.0.0.0 naka4.com
+0.0.0.0 nakagawa-mishin.com
 0.0.0.0 nakanodental-cl.com
 0.0.0.0 nakka-art.jp
 0.0.0.0 nakosa.theshop.jp
@@ -1787,6 +1788,7 @@
 0.0.0.0 rekitabi.jp
 0.0.0.0 relax-job.com
 0.0.0.0 relegate-sprout.work
+0.0.0.0 remax-japan.jp
 0.0.0.0 renata-clinic.com
 0.0.0.0 renoman-shinjuku.com
 0.0.0.0 renove.inove.co.jp
@@ -2009,6 +2011,7 @@
 0.0.0.0 shima-corp.com
 0.0.0.0 shimane.dd.daihatsu.co.jp
 0.0.0.0 shimanomi.com
+0.0.0.0 shimotsuke-pr.jp
 0.0.0.0 shinagawa-skin.com
 0.0.0.0 shinchiku.homes.co.jp
 0.0.0.0 shingakunet.com
@@ -2032,6 +2035,7 @@
 0.0.0.0 shop.g9trainer.com
 0.0.0.0 shop.ginzatanaka.co.jp
 0.0.0.0 shop.greenpark.co.jp
+0.0.0.0 shop.housemate-navi.jp
 0.0.0.0 shop.importparts-zeroone.com
 0.0.0.0 shop.joshin.co.jp
 0.0.0.0 shop.kaneko-jewelry.jp
@@ -2248,6 +2252,7 @@
 0.0.0.0 td-holdings.tokyocameraclub.com
 0.0.0.0 teamix.click
 0.0.0.0 tebanashi.mira-ie.co.jp
+0.0.0.0 tech-drone.co.jp
 0.0.0.0 techgala.jp
 0.0.0.0 teclock.co.jp
 0.0.0.0 teian-enh.com
@@ -2481,6 +2486,7 @@
 0.0.0.0 www.3ei.co.jp
 0.0.0.0 www.3m.com
 0.0.0.0 www.3qcut.com
+0.0.0.0 www.47club.jp
 0.0.0.0 www.47news.jp
 0.0.0.0 www.4green.dental
 0.0.0.0 www.543life.com
@@ -2632,6 +2638,7 @@
 0.0.0.0 www.ayano-craft.co.jp
 0.0.0.0 www.az-art.net
 0.0.0.0 www.b-conplaza.jp
+0.0.0.0 www.b-race.jp
 0.0.0.0 www.backyardhealers.com
 0.0.0.0 www.balbix.com
 0.0.0.0 www.balmuda.com
@@ -2992,6 +2999,7 @@
 0.0.0.0 www.fukuoka-tenjin-naishikyo.com
 0.0.0.0 www.fukushi.metro.tokyo.lg.jp
 0.0.0.0 www.fulloutsourcing.jp
+0.0.0.0 www.fulltech1963.com
 0.0.0.0 www.funcurrent.com
 0.0.0.0 www.fundex.co.jp
 0.0.0.0 www.fureai-hometown.jp
@@ -4036,6 +4044,7 @@
 0.0.0.0 www.songdream-blog.jp
 0.0.0.0 www.sonpo.or.jp
 0.0.0.0 www.sony.jp
+0.0.0.0 www.sonyged.com
 0.0.0.0 www.sonysonpo.co.jp
 0.0.0.0 www.sophos.com
 0.0.0.0 www.sorauki.llc
