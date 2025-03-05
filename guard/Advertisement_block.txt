@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 4 March 2025
+# Last modified: 5 March 2025
 #
 
 # [広告全般]
@@ -238,6 +238,7 @@
 0.0.0.0 big5-basic.com
 0.0.0.0 bighornlaw.com
 0.0.0.0 bike-news.jp
+0.0.0.0 bikin-online-pt-lp.com
 0.0.0.0 biryuhyakkaweb.jp
 0.0.0.0 bisha-ema.com
 0.0.0.0 bistria-uotalian.owst.jp
@@ -1163,6 +1164,7 @@
 0.0.0.0 kojosoko-koniken.com
 0.0.0.0 kojyo-kuruma.com
 0.0.0.0 kokokara.tais.ac.jp
+0.0.0.0 kokorocare-with.jp
 0.0.0.0 kokyo111.owst.jp
 0.0.0.0 kom-system.co.jp
 0.0.0.0 komeko-times.jp
@@ -1263,6 +1265,7 @@
 0.0.0.0 link.springer.com
 0.0.0.0 linktr.ee
 0.0.0.0 live-plus-do-style.jp
+0.0.0.0 livejapan.com
 0.0.0.0 liveviewing.jp
 0.0.0.0 living-revolution.onlinekyoto.com
 0.0.0.0 loans.life
@@ -1755,6 +1758,7 @@
 0.0.0.0 rakugo-zanmai.pia.co.jp
 0.0.0.0 rakuori.com
 0.0.0.0 rakurakusatei.com
+0.0.0.0 rakushifu.jp
 0.0.0.0 randb.jp
 0.0.0.0 ranmaotome.com
 0.0.0.0 ranzu.jp
@@ -2000,6 +2004,7 @@
 0.0.0.0 shibo-zero.info
 0.0.0.0 shichusuimei.jp
 0.0.0.0 shift-engineer.jp
+0.0.0.0 shiga.sirius-b3i.jp
 0.0.0.0 shigoto-clan.jp
 0.0.0.0 shigoto.amazon.co.jp
 0.0.0.0 shihtzu.breeders.jp
@@ -2083,6 +2088,7 @@
 0.0.0.0 smapano2.com
 0.0.0.0 smart-supply.org
 0.0.0.0 smartcool-rinku.shop
+0.0.0.0 smarthome-100.co.jp
 0.0.0.0 smarthr.jp
 0.0.0.0 smartmeal.co.jp
 0.0.0.0 smartvision1999.com
@@ -3512,6 +3518,7 @@
 0.0.0.0 www.maybournebeverlyhills.com
 0.0.0.0 www.mblqs.com
 0.0.0.0 www.mdsol.co.jp
+0.0.0.0 www.mealzeropay.com
 0.0.0.0 www.mecsumai.com
 0.0.0.0 www.medical-aid.co.jp
 0.0.0.0 www.megabank.com.tw
@@ -3710,6 +3717,7 @@
 0.0.0.0 www.office-freelive.com
 0.0.0.0 www.officedeyasai.jp
 0.0.0.0 www.ogu.ac.jp
+0.0.0.0 www.ogurakonbu.co.jp
 0.0.0.0 www.ohkawa-sub.com
 0.0.0.0 www.ohken.co.jp
 0.0.0.0 www.ohkifudosan.co.jp
