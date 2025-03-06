@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 5 March 2025
+# Last modified: 6 March 2025
 #
 
 # [広告全般]
@@ -1295,6 +1295,7 @@
 0.0.0.0 lp.raksul.com
 0.0.0.0 lp.resortbaito-dive.com
 0.0.0.0 lp.scala-com.jp
+0.0.0.0 lp.sienarose.jp
 0.0.0.0 lp.sokuwork.com
 0.0.0.0 lp.studyinternational.com
 0.0.0.0 lp.zipair.net
@@ -1398,6 +1399,7 @@
 0.0.0.0 metsa-hanno.com
 0.0.0.0 mfrt.rehouse.co.jp
 0.0.0.0 mi-mollet.com
+0.0.0.0 micekc.com
 0.0.0.0 micromagazine.co.jp
 0.0.0.0 midnight-keirin.com
 0.0.0.0 miechuo.bmw.jp
@@ -2838,6 +2840,7 @@
 0.0.0.0 www.dainiti.co.jp
 0.0.0.0 www.daioshop.jp
 0.0.0.0 www.daisenham.com
+0.0.0.0 www.daito-gakki.co.jp
 0.0.0.0 www.daito.ac.jp
 0.0.0.0 www.daiwa-am.co.jp
 0.0.0.0 www.daiwa-ele.com
@@ -3562,6 +3565,7 @@
 0.0.0.0 www.misawa.co.jp
 0.0.0.0 www.mitsubishi-motors.co.jp
 0.0.0.0 www.mitsubishielectric.co.jp
+0.0.0.0 www.mitsui-sanshi.co.jp
 0.0.0.0 www.mitsui.com
 0.0.0.0 www.mitsuihome.co.jp
 0.0.0.0 www.mitsukete.mitsui-mall.com
@@ -3969,6 +3973,7 @@
 0.0.0.0 www.sears.jp
 0.0.0.0 www.seed.co.jp
 0.0.0.0 www.seibuprince.com
+0.0.0.0 www.seiko-sol.co.jp
 0.0.0.0 www.seikowatches.com
 0.0.0.0 www.seiss.co.jp
 0.0.0.0 www.seito-jp.com
@@ -4138,6 +4143,7 @@
 0.0.0.0 www.tanzo.jp
 0.0.0.0 www.taos.co.jp
 0.0.0.0 www.tarou.co.jp
+0.0.0.0 www.tasaki.co.jp
 0.0.0.0 www.tashiro-kankyo.com
 0.0.0.0 www.tateyama-kou.net
 0.0.0.0 www.tb-kumano.jp
