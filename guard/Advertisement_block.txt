@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 6 March 2025
+# Last modified: 7 March 2025
 #
 
 # [広告全般]
@@ -23,6 +23,7 @@
 0.0.0.0 3ei.co.jp
 0.0.0.0 3m.commerceconnector.net
 0.0.0.0 3mk2r3.com
+0.0.0.0 3rd-shutter.photo
 0.0.0.0 47095986.form.kintoneapp.com
 0.0.0.0 4years.asahi.com
 0.0.0.0 50ban-shop.com
@@ -216,6 +217,7 @@
 0.0.0.0 beacon.sp.gmossp-sp.jp
 0.0.0.0 beautiful-life-style.com
 0.0.0.0 beavers.co.jp
+0.0.0.0 beds24.com
 0.0.0.0 beira.shop
 0.0.0.0 belinda-clinic.site
 0.0.0.0 belindaclinic-shinjuku.net
@@ -761,6 +763,7 @@
 0.0.0.0 guestlist-tokyo.com
 0.0.0.0 guidance-recruit.visioncon.co.jp
 0.0.0.0 gururi360.net
+0.0.0.0 guyrover.base.shop
 0.0.0.0 gym.copin.co.jp
 0.0.0.0 gyutte.jp
 0.0.0.0 h-felice.com
@@ -1146,6 +1149,7 @@
 0.0.0.0 kitaosaka-souzoku-center.com
 0.0.0.0 kitashinnchiushinozennpremium.owst.jp
 0.0.0.0 kk-takada.com
+0.0.0.0 kklounge.karaokekan.jp
 0.0.0.0 klimt-cairnhill.contact-us.sg
 0.0.0.0 koala.com
 0.0.0.0 kobac-tenpaku01.nagoya
@@ -1346,6 +1350,7 @@
 0.0.0.0 mall.humanhealth.com.hk
 0.0.0.0 maltese.breeders.jp
 0.0.0.0 manabi-naoshi.mhlw.go.jp
+0.0.0.0 manga.piecedesign.net
 0.0.0.0 mangamatsuri.kodansha.co.jp
 0.0.0.0 mangasouko-shop.jp
 0.0.0.0 manoamano87.jp
@@ -3330,6 +3335,7 @@
 0.0.0.0 www.kaitori-massan.com
 0.0.0.0 www.kaitoritop.jp
 0.0.0.0 www.kaji-kawa.jp
+0.0.0.0 www.kakiharafamily.com
 0.0.0.0 www.kamine.co.jp
 0.0.0.0 www.kanagawa-subaru.com
 0.0.0.0 www.kanagawa-u.ac.jp
@@ -4370,6 +4376,7 @@
 0.0.0.0 www.yosuga-law.net
 0.0.0.0 www.yotsuba-shop.com
 0.0.0.0 www.youtubeonlineschool.com
+0.0.0.0 www.yoyaq.org
 0.0.0.0 www.yrl.com
 0.0.0.0 www.ytj.gr.jp
 0.0.0.0 www.yuanta.com.tw
