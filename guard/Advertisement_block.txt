@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 7 March 2025
+# Last modified: 8 March 2025
 #
 
 # [広告全般]
@@ -1652,6 +1652,7 @@
 0.0.0.0 p-project.jp
 0.0.0.0 p-town.dmm.com
 0.0.0.0 pachinko.cen.co.jp
+0.0.0.0 pachiseven.jp
 0.0.0.0 pages.vaio.com
 0.0.0.0 pair-loan.com
 0.0.0.0 paiza.jp
@@ -2396,6 +2397,7 @@
 0.0.0.0 uramurakaki-yamayasu.jp
 0.0.0.0 urayasu.brightonhotels.co.jp
 0.0.0.0 urbancherry.jp
+0.0.0.0 urbanfit.jp
 0.0.0.0 ureru-it.co.jp
 0.0.0.0 uridoki.net
 0.0.0.0 urikko.com
@@ -3141,6 +3143,7 @@
 0.0.0.0 www.hikoki-powertools.jp
 0.0.0.0 www.hiltonodaiba.jp
 0.0.0.0 www.hinodegakuen-recruit.com
+0.0.0.0 www.hirameki7.io
 0.0.0.0 www.hiro-clinic.or.jp
 0.0.0.0 www.hiroshima-hirobiro.jp
 0.0.0.0 www.hirosumida.us
@@ -3344,6 +3347,7 @@
 0.0.0.0 www.kango-roo.com
 0.0.0.0 www.kankyo.metro.tokyo.lg.jp
 0.0.0.0 www.kano-kensetsu.com
+0.0.0.0 www.kansai-td.co.jp
 0.0.0.0 www.kanzaipro.com
 0.0.0.0 www.kao.co.jp
 0.0.0.0 www.kaptax.jp
