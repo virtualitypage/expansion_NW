@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 8 March 2025
+# Last modified: 9 March 2025
 #
 
 # [広告全般]
@@ -769,6 +769,7 @@
 0.0.0.0 h-felice.com
 0.0.0.0 h-jp.fujifilm.com
 0.0.0.0 h.cgg4game.com
+0.0.0.0 h20547.www2.hp.com
 0.0.0.0 hachiemon.net
 0.0.0.0 haco-renovation.jp
 0.0.0.0 hacochef.cqree.jp
@@ -1667,6 +1668,7 @@
 0.0.0.0 pc-farm.co.jp
 0.0.0.0 pc-seven.co.jp
 0.0.0.0 pcareer.m3.com
+0.0.0.0 pcnext.shop
 0.0.0.0 pcrepair-chiba.com
 0.0.0.0 pengguin.thebase.in
 0.0.0.0 penguin-spice.store
@@ -1964,6 +1966,7 @@
 0.0.0.0 schnauzer.breeders.jp
 0.0.0.0 school.dhw.co.jp
 0.0.0.0 scout.lapras.com
+0.0.0.0 scratch.dmm.com
 0.0.0.0 screen-spe-introduction.com
 0.0.0.0 sdt.inc
 0.0.0.0 sealm.jp
@@ -2380,6 +2383,7 @@
 0.0.0.0 umeda.moriwaki-seikotu.com
 0.0.0.0 umiuma.jp
 0.0.0.0 umiumart.jp
+0.0.0.0 unagi-nosuke.com
 0.0.0.0 unaginobori-hamamatsu.jp
 0.0.0.0 uncf.org
 0.0.0.0 underground-group.net
@@ -3331,6 +3335,7 @@
 0.0.0.0 www.kagusapo.com
 0.0.0.0 www.kahm-art.co.jp
 0.0.0.0 www.kaigoagent.com
+0.0.0.0 www.kaigyokutei.com
 0.0.0.0 www.kaishu.info
 0.0.0.0 www.kaisuimaren.co.jp
 0.0.0.0 www.kaitaitochigi.com
@@ -3822,6 +3827,7 @@
 0.0.0.0 www.pet-coo.net
 0.0.0.0 www.peugeot.co.jp
 0.0.0.0 www.pfizer-covid19.jp
+0.0.0.0 www.pfu.ricoh.com
 0.0.0.0 www.pgs-home-recruit.jp
 0.0.0.0 www.phiten.com
 0.0.0.0 www.phoplus.online
