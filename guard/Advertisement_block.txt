@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 9 March 2025
+# Last modified: 10 March 2025
 #
 
 # [広告全般]
@@ -215,6 +215,7 @@
 0.0.0.0 be-saku.com
 0.0.0.0 be-win.co.jp
 0.0.0.0 beacon.sp.gmossp-sp.jp
+0.0.0.0 beaute8.com
 0.0.0.0 beautiful-life-style.com
 0.0.0.0 beavers.co.jp
 0.0.0.0 beds24.com
@@ -783,6 +784,7 @@
 0.0.0.0 hakoniwa-medical.com
 0.0.0.0 hal-tanteisya.com
 0.0.0.0 haleo.jp
+0.0.0.0 hamamatsuat.hamamatsu-daisuki.net
 0.0.0.0 hamamatudietriseone.site
 0.0.0.0 hamanakaiin.com
 0.0.0.0 hamanocontact-multifocal.com
@@ -975,6 +977,7 @@
 0.0.0.0 jagoo.co.jp
 0.0.0.0 japan-food.guide
 0.0.0.0 japan-staff.jp
+0.0.0.0 japanbusonline.com
 0.0.0.0 japanese.visitkorea.or.kr
 0.0.0.0 japantax.tokyo
 0.0.0.0 jcloud.co.jp
@@ -1303,6 +1306,7 @@
 0.0.0.0 lp.sienarose.jp
 0.0.0.0 lp.sokuwork.com
 0.0.0.0 lp.studyinternational.com
+0.0.0.0 lp.yometel.jp
 0.0.0.0 lp.zipair.net
 0.0.0.0 lp.zume-n.com
 0.0.0.0 lp2.fukushimaenergy.co.jp
@@ -1459,6 +1463,7 @@
 0.0.0.0 moneykit.net
 0.0.0.0 monji.tech
 0.0.0.0 moriya-contact.com
+0.0.0.0 motherfood.co.uk
 0.0.0.0 mothers-tenshiba.com
 0.0.0.0 movie-marketing.com
 0.0.0.0 mozsweden.com
@@ -1968,6 +1973,7 @@
 0.0.0.0 scout.lapras.com
 0.0.0.0 scratch.dmm.com
 0.0.0.0 screen-spe-introduction.com
+0.0.0.0 sdgs-kuchikomi-lodge.jp
 0.0.0.0 sdt.inc
 0.0.0.0 sealm.jp
 0.0.0.0 sealy-jp.com
@@ -2270,6 +2276,7 @@
 0.0.0.0 teamix.click
 0.0.0.0 tebanashi.mira-ie.co.jp
 0.0.0.0 tech-drone.co.jp
+0.0.0.0 tech.jp.sharp
 0.0.0.0 techgala.jp
 0.0.0.0 teclock.co.jp
 0.0.0.0 teian-enh.com
@@ -2681,6 +2688,7 @@
 0.0.0.0 www.bfw.com.tw
 0.0.0.0 www.biblesociety.org.uk
 0.0.0.0 www.biccamera.com
+0.0.0.0 www.big-bang.co.jp
 0.0.0.0 www.bikeboy.jp
 0.0.0.0 www.bikekan.jp
 0.0.0.0 www.billion-home.jp
@@ -3258,6 +3266,7 @@
 0.0.0.0 www.itoden.org
 0.0.0.0 www.itoen.jp
 0.0.0.0 www.itokin.net
+0.0.0.0 www.itproduct.jp
 0.0.0.0 www.itsuki-sangyo.co.jp
 0.0.0.0 www.ivs.events
 0.0.0.0 www.iwaiwa.jp
@@ -3640,6 +3649,7 @@
 0.0.0.0 www.nakanoya-harukas.com
 0.0.0.0 www.nakayamashouten.com
 0.0.0.0 www.naniwakanri.co.jp
+0.0.0.0 www.nankai.co.jp
 0.0.0.0 www.nantobank.co.jp
 0.0.0.0 www.nanzan-u.ac.jp
 0.0.0.0 www.napolipizza.jp
@@ -4040,6 +4050,7 @@
 0.0.0.0 www.sinfonia-recruit.com
 0.0.0.0 www.singaporeair.com
 0.0.0.0 www.sinto.co.jp
+0.0.0.0 www.siretta.com
 0.0.0.0 www.sitepublis.net
 0.0.0.0 www.sizenshokken.co.jp
 0.0.0.0 www.sjc.ne.jp
@@ -4144,6 +4155,7 @@
 0.0.0.0 www.takao-gc.jp
 0.0.0.0 www.takara-standard.co.jp
 0.0.0.0 www.takarakuji-official.jp
+0.0.0.0 www.takaranokama.com
 0.0.0.0 www.takashimaya-global.com
 0.0.0.0 www.takashimaya.co.jp
 0.0.0.0 www.takeda.tv
@@ -4333,6 +4345,7 @@
 0.0.0.0 www.watsons.com.tw
 0.0.0.0 www.wayokudan.ed.jp
 0.0.0.0 www.wb-ookura.com
+0.0.0.0 www.web3festival.org
 0.0.0.0 www.weltec.jp
 0.0.0.0 www.westin-osaka.co.jp
 0.0.0.0 www.westjr.co.jp
