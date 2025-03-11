@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 10 March 2025
+# Last modified: 11 March 2025
 #
 
 # [広告全般]
@@ -560,6 +560,7 @@
 0.0.0.0 entori.jp
 0.0.0.0 entrata-chayamachi.com
 0.0.0.0 entrenet.jp
+0.0.0.0 eonet.jp
 0.0.0.0 epiphyllum.thebase.in
 0.0.0.0 episodebrick.com
 0.0.0.0 eplan.jp
@@ -1877,6 +1878,7 @@
 0.0.0.0 sakancoubou.com
 0.0.0.0 sakedininglit.owst.jp
 0.0.0.0 sakura-ju.co.jp
+0.0.0.0 sakura-kozo.jp
 0.0.0.0 sale.24028.jp
 0.0.0.0 sales-adventure.jp
 0.0.0.0 salon-de-alfurd.jp
@@ -2378,6 +2380,7 @@
 0.0.0.0 tyunyuken.com
 0.0.0.0 u-adviser.jp
 0.0.0.0 u-treasure.jp
+0.0.0.0 uc.kyoshin.co.jp
 0.0.0.0 uchimura.e-kagu.in
 0.0.0.0 uchiyama.c-efficacy.com
 0.0.0.0 uenui.com
@@ -2572,6 +2575,7 @@
 0.0.0.0 www.aikou-foodlogi.jp
 0.0.0.0 www.airasia.com
 0.0.0.0 www.airnewzealand.jp
+0.0.0.0 www.ajhh.jp
 0.0.0.0 www.alba.co.jp
 0.0.0.0 www.allaroundmobilehomeservice.com
 0.0.0.0 www.allergy-i.jp
@@ -2959,6 +2963,7 @@
 0.0.0.0 www.evat.cz
 0.0.0.0 www.ex-agent.co.jp
 0.0.0.0 www.ex-anpi.com
+0.0.0.0 www.ey.com
 0.0.0.0 www.eyecity.jp
 0.0.0.0 www.ezsoft.co.jp
 0.0.0.0 www.eztravel.com.tw
@@ -4378,6 +4383,7 @@
 0.0.0.0 www.yamaha-motor.co.jp
 0.0.0.0 www.yamaha.co.jp
 0.0.0.0 www.yamajitsu.co.jp
+0.0.0.0 www.yamamoto-bankin.com
 0.0.0.0 www.yamamoto-kuwaen.jp
 0.0.0.0 www.yamano-music.co.jp
 0.0.0.0 www.yamato-u.ac.jp
@@ -4423,6 +4429,7 @@
 0.0.0.0 www3.kawasaki-motors.com
 0.0.0.0 www3.nissan.co.jp
 0.0.0.0 wwwsp.himawari-life.co.jp
+0.0.0.0 xcuu.jp
 0.0.0.0 xmf.jp
 0.0.0.0 xn--pckua2a7gp15o89zb.com
 0.0.0.0 xsurvey.nikkeibp.co.jp
