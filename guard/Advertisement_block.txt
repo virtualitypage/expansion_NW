@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 11 March 2025
+# Last modified: 12 March 2025
 #
 
 # [広告全般]
@@ -46,6 +46,7 @@
 0.0.0.0 abovejapan.top
 0.0.0.0 ac-kobo.jp
 0.0.0.0 accel-japan.com
+0.0.0.0 accretive-lp.jp
 0.0.0.0 acehandymanfranchising.com
 0.0.0.0 achi-kochi.jp
 0.0.0.0 achieve.atimes.co.jp
@@ -360,6 +361,7 @@
 0.0.0.0 cl.unisize.makip.co.jp
 0.0.0.0 clean-labo.net
 0.0.0.0 cleanapovn.com
+0.0.0.0 cleanup.jp
 0.0.0.0 cleverly-kochi.com
 0.0.0.0 click.upsmobi.com
 0.0.0.0 clients.itszai.jp
@@ -2023,6 +2025,7 @@
 0.0.0.0 shibo-zero.info
 0.0.0.0 shichusuimei.jp
 0.0.0.0 shift-engineer.jp
+0.0.0.0 shiga-wear1.sirius-b3i.jp
 0.0.0.0 shiga.sirius-b3i.jp
 0.0.0.0 shigoto-clan.jp
 0.0.0.0 shigoto.amazon.co.jp
@@ -4424,6 +4427,7 @@
 0.0.0.0 www2.aqlub.com
 0.0.0.0 www2.bglen.net
 0.0.0.0 www2.city.inazawa.aichi.jp
+0.0.0.0 www2.micard.co.jp
 0.0.0.0 www2.nissan.co.jp
 0.0.0.0 www3.jeed.go.jp
 0.0.0.0 www3.kawasaki-motors.com
