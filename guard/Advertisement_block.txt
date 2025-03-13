@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 12 March 2025
+# Last modified: 13 March 2025
 #
 
 # [広告全般]
@@ -219,6 +219,7 @@
 0.0.0.0 beaute8.com
 0.0.0.0 beautiful-life-style.com
 0.0.0.0 beavers.co.jp
+0.0.0.0 bec-fin.jp
 0.0.0.0 beds24.com
 0.0.0.0 beira.shop
 0.0.0.0 belinda-clinic.site
@@ -241,6 +242,7 @@
 0.0.0.0 big-campaign.jp
 0.0.0.0 big5-basic.com
 0.0.0.0 bighornlaw.com
+0.0.0.0 bijoupiko.com
 0.0.0.0 bike-news.jp
 0.0.0.0 bikin-online-pt-lp.com
 0.0.0.0 biryuhyakkaweb.jp
@@ -484,6 +486,7 @@
 0.0.0.0 dongri-manzara.owst.jp
 0.0.0.0 doremi-international.com
 0.0.0.0 dormy-ac.com
+0.0.0.0 dormy-hotels.com
 0.0.0.0 dorutyenascita.owst.jp
 0.0.0.0 dosparaplus.com
 0.0.0.0 dotapps.jp
@@ -888,6 +891,7 @@
 0.0.0.0 housing.hicbc.com
 0.0.0.0 howdyplus.com
 0.0.0.0 hoyeon.plaync.com
+0.0.0.0 hr.techbiz.com
 0.0.0.0 htd.kaikaikiki.com
 0.0.0.0 htm.sf-express.com
 0.0.0.0 hubble-ban-yan-tree-terrace.owst.jp
@@ -896,6 +900,7 @@
 0.0.0.0 hyogo-quality.jp
 0.0.0.0 hypnosismic-movie.com
 0.0.0.0 i-voce.jp
+0.0.0.0 i.ansinkaigo.jp
 0.0.0.0 i.kirei.today
 0.0.0.0 iatss.or.jp
 0.0.0.0 ibaraki-ranking.com
@@ -1220,6 +1225,7 @@
 0.0.0.0 kyokuto-boueki.com
 0.0.0.0 kyomachiya-baikyaku.com
 0.0.0.0 kyomono-sampo.jp
+0.0.0.0 kyoso-coaching.com
 0.0.0.0 kyoto-hatoya.jp
 0.0.0.0 kyoto-kimonorental.com
 0.0.0.0 kyoto.brightonhotels.co.jp
@@ -1551,6 +1557,7 @@
 0.0.0.0 nikudokoro-mo-shabutantan.owst.jp
 0.0.0.0 nikudokorodebeso.owst.jp
 0.0.0.0 nikunotajimatsuhan.com
+0.0.0.0 nikuzushi-sennichimae.owst.jp
 0.0.0.0 nill.jp
 0.0.0.0 ninja-takayama.com
 0.0.0.0 ninjakitchen.co.uk
@@ -1730,6 +1737,7 @@
 0.0.0.0 present-wine-shop.derisomu.com
 0.0.0.0 present.baby-calendar.com
 0.0.0.0 price-energy.com
+0.0.0.0 pricerevision2022.02.bijoupiko.com
 0.0.0.0 pride-fish.jp
 0.0.0.0 prime-career.jp
 0.0.0.0 primo-reform.com
@@ -2135,6 +2143,7 @@
 0.0.0.0 soramamekids.com
 0.0.0.0 sos-pc.kingsgroupgames.com
 0.0.0.0 sosokan-shop.net
+0.0.0.0 sotetsu-hotels.com
 0.0.0.0 sotokoto-online.jp
 0.0.0.0 souda-kyoto.jp
 0.0.0.0 soudan.osakaben.or.jp
@@ -2211,6 +2220,7 @@
 0.0.0.0 sumai.panasonic.jp
 0.0.0.0 sumai.tokyu-land.co.jp
 0.0.0.0 sumapo.com
+0.0.0.0 sumibitowine.com
 0.0.0.0 sumika.link
 0.0.0.0 sumikalog.bess.jp
 0.0.0.0 sumisho-tatemono-chuukai.net
@@ -2338,6 +2348,7 @@
 0.0.0.0 top-generator.com
 0.0.0.0 topgunairtx.com
 0.0.0.0 toptoon.jp
+0.0.0.0 toranoana-lab.co.jp
 0.0.0.0 torcroftlodges.com
 0.0.0.0 toriton.owst.jp
 0.0.0.0 torras.co.jp
@@ -2545,6 +2556,7 @@
 0.0.0.0 www.accendo.co.jp
 0.0.0.0 www.accent-aigu.com
 0.0.0.0 www.accenture.com
+0.0.0.0 www.acdoorfacility.com
 0.0.0.0 www.aceeatserve.com
 0.0.0.0 www.achilles.jp
 0.0.0.0 www.activpayroll.com
@@ -3070,6 +3082,7 @@
 0.0.0.0 www.gfo-sc.jp
 0.0.0.0 www.gineiden-neuesaga.com
 0.0.0.0 www.ginza-cruise.co.jp
+0.0.0.0 www.gizoutaisaku.com
 0.0.0.0 www.glamhide.com
 0.0.0.0 www.glamping-chibakamogawa.com
 0.0.0.0 www.gleif.org
@@ -3500,6 +3513,7 @@
 0.0.0.0 www.little-cage.net
 0.0.0.0 www.livable.co.jp
 0.0.0.0 www.lixil.co.jp
+0.0.0.0 www.lixiltepco-sp.co.jp
 0.0.0.0 www.logi-co.co.jp
 0.0.0.0 www.logicool.co.jp
 0.0.0.0 www.londonmasteringstudio.co.uk
@@ -4468,6 +4482,7 @@
 0.0.0.0 yodomachi-cycling2024.com
 0.0.0.0 yokanavi.com
 0.0.0.0 yonex-kaisyu.co.jp
+0.0.0.0 yoridocoro.link
 0.0.0.0 yoridoko-kanko.co.jp
 0.0.0.0 yorkie.breeders.jp
 0.0.0.0 yorokobishop.com
