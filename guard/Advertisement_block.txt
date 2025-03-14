@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 13 March 2025
+# Last modified: 14 March 2025
 #
 
 # [広告全般]
@@ -111,7 +111,9 @@
 0.0.0.0 amanism.jp
 0.0.0.0 amanitadesign.com
 0.0.0.0 amann55.com
+0.0.0.0 ambercorp.co.jp
 0.0.0.0 amlead.co.jp
+0.0.0.0 amnibus.com
 0.0.0.0 ampmedia.jp
 0.0.0.0 amu-kyoto.jp
 0.0.0.0 anaheim20.jp
@@ -316,6 +318,7 @@
 0.0.0.0 car-audio.ne.jp
 0.0.0.0 carboncredits.com
 0.0.0.0 card-en-ciel.com
+0.0.0.0 card.creators-design.com
 0.0.0.0 cardshop-kenzo.myshopify.com
 0.0.0.0 career-safari.com
 0.0.0.0 career.levtech.jp
@@ -526,6 +529,7 @@
 0.0.0.0 ec.eternam.co.jp
 0.0.0.0 ec.petfoods.shop
 0.0.0.0 ec.store.nec.co.jp
+0.0.0.0 ec.travel.jr-central.co.jp
 0.0.0.0 echool.tachibana-u.ac.jp
 0.0.0.0 ecield.temona.co.jp
 0.0.0.0 eco-life-smile.com
@@ -1384,6 +1388,7 @@
 0.0.0.0 matsue.clare.jp
 0.0.0.0 matsui-express-job.jp
 0.0.0.0 matsuyama.citroen-dealer.jp
+0.0.0.0 matsuzukigyouseisyoshi.com
 0.0.0.0 maunakealiving.com
 0.0.0.0 mayutan.com
 0.0.0.0 mb-hakata.com
@@ -1559,6 +1564,7 @@
 0.0.0.0 nikunotajimatsuhan.com
 0.0.0.0 nikuzushi-sennichimae.owst.jp
 0.0.0.0 nill.jp
+0.0.0.0 ningyou-nishioka.com
 0.0.0.0 ninja-takayama.com
 0.0.0.0 ninjakitchen.co.uk
 0.0.0.0 nipo-plus-doc.sndbox.jp
@@ -2404,6 +2410,7 @@
 0.0.0.0 uma-rank.net
 0.0.0.0 umaki-items.com
 0.0.0.0 umamibomb.jp
+0.0.0.0 umeda.alcocca.jp
 0.0.0.0 umeda.moriwaki-seikotu.com
 0.0.0.0 umiuma.jp
 0.0.0.0 umiumart.jp
@@ -2693,6 +2700,7 @@
 0.0.0.0 www.be4tech.com
 0.0.0.0 www.beams.co.jp
 0.0.0.0 www.beautiful-world.store
+0.0.0.0 www.beauty-park.jp
 0.0.0.0 www.bebab.kr
 0.0.0.0 www.benesse.co.jp
 0.0.0.0 www.bennri-da.com
@@ -3327,6 +3335,7 @@
 0.0.0.0 www.jitbox.co.jp
 0.0.0.0 www.jka-cycle.jp
 0.0.0.0 www.jkplanet.jp
+0.0.0.0 www.jlc-ondemand.com
 0.0.0.0 www.jleague-ticket.jp
 0.0.0.0 www.jleague.jp
 0.0.0.0 www.jmsc.co.jp
@@ -3801,6 +3810,7 @@
 0.0.0.0 www.opera-official.net
 0.0.0.0 www.ophthalmologytimes.com
 0.0.0.0 www.oralb.braun.co.jp
+0.0.0.0 www.orangeroom.jp
 0.0.0.0 www.orbussoftware.com
 0.0.0.0 www.orchidliveseafood.com.sg
 0.0.0.0 www.ordercurtain.co.jp
