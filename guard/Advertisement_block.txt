@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 14 March 2025
+# Last modified: 15 March 2025
 #
 
 # [広告全般]
@@ -338,6 +338,7 @@
 0.0.0.0 cemexuniversity.com
 0.0.0.0 ceremony-kokoro.jp
 0.0.0.0 cguardian-japan.netlify.app
+0.0.0.0 chana-company.com
 0.0.0.0 chapup-sc.click
 0.0.0.0 chemeon.com
 0.0.0.0 chester-tax.com
@@ -616,6 +617,7 @@
 0.0.0.0 feliz-malto.com
 0.0.0.0 feliz.okadanet.com
 0.0.0.0 fieldsuite-hakuba.com
+0.0.0.0 finance.logmi.jp
 0.0.0.0 firmbond.co.jp
 0.0.0.0 firstairlines.jp
 0.0.0.0 firstgolf.world
@@ -776,6 +778,7 @@
 0.0.0.0 gururi360.net
 0.0.0.0 guyrover.base.shop
 0.0.0.0 gym.copin.co.jp
+0.0.0.0 gyukahachiba.owst.jp
 0.0.0.0 gyutte.jp
 0.0.0.0 h-felice.com
 0.0.0.0 h-jp.fujifilm.com
@@ -971,6 +974,7 @@
 0.0.0.0 issyou-nishinakajima.owst.jp
 0.0.0.0 istanbul.goturkiye.com
 0.0.0.0 it-shien.smrj.go.jp
+0.0.0.0 itamaeyakinikuichimasa.owst.jp
 0.0.0.0 itami-hagukumi.work
 0.0.0.0 itb-nanairo.tokyo
 0.0.0.0 ito-ec.jp
@@ -1192,7 +1196,9 @@
 0.0.0.0 konciwa.com
 0.0.0.0 koreabucketlist.com
 0.0.0.0 kosavu.com
+0.0.0.0 koshi-ct.co.jp
 0.0.0.0 koshien.hanshin.co.jp
+0.0.0.0 kosidasuisan.com
 0.0.0.0 kotilabo.com
 0.0.0.0 kotobapark.889100.com
 0.0.0.0 kotobukisannomiya.owst.jp
@@ -1616,6 +1622,7 @@
 0.0.0.0 okamoto-dental.clinic
 0.0.0.0 okayama-life.jp
 0.0.0.0 okayama.coop
+0.0.0.0 oketani-lp.com
 0.0.0.0 oldisroad.com
 0.0.0.0 olubie.jp
 0.0.0.0 omedeto.hp.peraichi.com
@@ -2073,6 +2080,7 @@
 0.0.0.0 shop.basefood.co.jp
 0.0.0.0 shop.delca.jp
 0.0.0.0 shop.fumakilla.jp
+0.0.0.0 shop.fuwarii.com
 0.0.0.0 shop.g9trainer.com
 0.0.0.0 shop.ginzatanaka.co.jp
 0.0.0.0 shop.greenpark.co.jp
@@ -2083,6 +2091,7 @@
 0.0.0.0 shop.lasagna.jp
 0.0.0.0 shop.lumieu.jp
 0.0.0.0 shop.mahoroba-inter.com
+0.0.0.0 shop.marusanai.co.jp
 0.0.0.0 shop.nakano-group.co.jp
 0.0.0.0 shop.noevir.jp
 0.0.0.0 shop.pdr.co.jp
@@ -2099,6 +2108,7 @@
 0.0.0.0 shopping.speedia-ost.com
 0.0.0.0 shopping.tbs.co.jp
 0.0.0.0 shosoin-ten.jp
+0.0.0.0 shoudensansou.wixsite.com
 0.0.0.0 shougai-nenkin119.com
 0.0.0.0 shoushutsuryoku-saiene-hoan.go.jp
 0.0.0.0 shumei.ac.jp
@@ -2162,6 +2172,7 @@
 0.0.0.0 sp-newhama.com
 0.0.0.0 sp.jra.jp
 0.0.0.0 sp.otsuka-shokai.co.jp
+0.0.0.0 special.kobunsha.com
 0.0.0.0 spianato1618.base.shop
 0.0.0.0 spibrg.jp
 0.0.0.0 spicaglow.jp
@@ -2439,6 +2450,7 @@
 0.0.0.0 urutsuya.toabio.co.jp
 0.0.0.0 usa-hit.com
 0.0.0.0 usagi-online.com
+0.0.0.0 usukine.com
 0.0.0.0 ut-studyroom.com
 0.0.0.0 utattemita-collection.jp
 0.0.0.0 uwaki-pro.com
@@ -2469,6 +2481,7 @@
 0.0.0.0 warm-i.com
 0.0.0.0 washington.jp
 0.0.0.0 washoku.site
+0.0.0.0 watashinodeban.net
 0.0.0.0 watashiplus.shiseidogroup.cn
 0.0.0.0 watch-yoshida.co.jp
 0.0.0.0 watchrepair.com.sg
@@ -2632,6 +2645,7 @@
 0.0.0.0 www.antiques-and.com
 0.0.0.0 www.antoninopani.it
 0.0.0.0 www.anytimefitness.co.jp
+0.0.0.0 www.aoi-spring.co.jp
 0.0.0.0 www.aoki-style.com
 0.0.0.0 www.aomist.com
 0.0.0.0 www.apg-aiplan.com
@@ -2751,6 +2765,7 @@
 0.0.0.0 www.bulksports.com
 0.0.0.0 www.bummeido.com
 0.0.0.0 www.bungeisha.co.jp
+0.0.0.0 www.busanparadisehotel.co.kr
 0.0.0.0 www.business-crew.co.jp
 0.0.0.0 www.businessweekly.com.tw
 0.0.0.0 www.buysellonline.jp
@@ -2923,6 +2938,7 @@
 0.0.0.0 www.drgc.jp
 0.0.0.0 www.drinkkohodo.com
 0.0.0.0 www.driver-haken.com
+0.0.0.0 www.driverhaken.com
 0.0.0.0 www.drscholl.jp
 0.0.0.0 www.drumgarage.net
 0.0.0.0 www.dsautomobiles.jp
@@ -3084,6 +3100,7 @@
 0.0.0.0 www.gdl-cubic.com
 0.0.0.0 www.genkinokuni.jp
 0.0.0.0 www.genryoya.com
+0.0.0.0 www.gero-ogawaya.net
 0.0.0.0 www.gero-spa.com
 0.0.0.0 www.get-fit.jp
 0.0.0.0 www.gfc.co.jp
@@ -3162,6 +3179,7 @@
 0.0.0.0 www.harbourvillehotel.com
 0.0.0.0 www.harikaehonpo.net
 0.0.0.0 www.harpercollins.co.jp
+0.0.0.0 www.harvestclub.com
 0.0.0.0 www.haseko.co.jp
 0.0.0.0 www.hatarako.net
 0.0.0.0 www.hatasapo.jp
@@ -3669,6 +3687,7 @@
 0.0.0.0 www.myspec.com
 0.0.0.0 www.mystino.jp
 0.0.0.0 www.mywaytours.co.jp
+0.0.0.0 www.nagaodai.jp
 0.0.0.0 www.nagasaki-ichiba.com
 0.0.0.0 www.nagasakistadiumcity.com
 0.0.0.0 www.nagasakisyogai.jp
@@ -3933,6 +3952,7 @@
 0.0.0.0 www.qsquare.com.tw
 0.0.0.0 www.qtmobile.jp
 0.0.0.0 www.qualita-travel.com
+0.0.0.0 www.quickrepair.jp
 0.0.0.0 www.r-ac.co.jp
 0.0.0.0 www.r-kg.com
 0.0.0.0 www.r-staffing.co.jp
@@ -4434,6 +4454,7 @@
 0.0.0.0 www.youtubeonlineschool.com
 0.0.0.0 www.yoyaq.org
 0.0.0.0 www.yrl.com
+0.0.0.0 www.ys-greenh.shop
 0.0.0.0 www.ytj.gr.jp
 0.0.0.0 www.yuanta.com.tw
 0.0.0.0 www.yuifactory.co.jp
