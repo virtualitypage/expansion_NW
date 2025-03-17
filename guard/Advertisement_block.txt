@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 16 March 2025
+# Last modified: 17 March 2025
 #
 
 # [広告全般]
@@ -381,6 +381,7 @@
 0.0.0.0 cn.cape-black.com
 0.0.0.0 coachtech.site
 0.0.0.0 coatjapan.com
+0.0.0.0 coco-lin.jp
 0.0.0.0 coco-store.jp
 0.0.0.0 cocochicosme.com
 0.0.0.0 cocofull.net
@@ -987,6 +988,7 @@
 0.0.0.0 iwateya-shop.jp
 0.0.0.0 iyec.itoyokado.co.jp
 0.0.0.0 izumi-posting.com
+0.0.0.0 izumisano-film.com
 0.0.0.0 izumozine.jp
 0.0.0.0 j-prime.jp
 0.0.0.0 ja-aichi-hearthome.net
@@ -1373,6 +1375,7 @@
 0.0.0.0 mai-sen.com
 0.0.0.0 mailcoupletime.net
 0.0.0.0 main.tsubaki-app.com
+0.0.0.0 mainichi.doda.jp
 0.0.0.0 mainichi.nosh.jp
 0.0.0.0 make-mastery.com
 0.0.0.0 makinushi-tk.com
@@ -1407,6 +1410,7 @@
 0.0.0.0 mb-hakata.com
 0.0.0.0 mbcc-c.com
 0.0.0.0 mcafee-cb.campaign-pr.jp
+0.0.0.0 mcafeepromo.jp
 0.0.0.0 mcl.sbk.jp
 0.0.0.0 mcs-ainoie.com
 0.0.0.0 mecha-tok.com
@@ -1770,6 +1774,7 @@
 0.0.0.0 product.kadokawa.co.jp
 0.0.0.0 product.minebeamitsumi.com
 0.0.0.0 promo.acronis.com
+0.0.0.0 promo.kadokawa.co.jp
 0.0.0.0 promo.manchester.edu.hk
 0.0.0.0 propeciabuyonlinenm.com
 0.0.0.0 protectwborcn.com
@@ -1811,6 +1816,7 @@
 0.0.0.0 randb.jp
 0.0.0.0 ranmaotome.com
 0.0.0.0 ranzu.jp
+0.0.0.0 rarekyuukeijo.owst.jp
 0.0.0.0 rasik.style
 0.0.0.0 rasisa-wedding.com
 0.0.0.0 ray-fitness-studio.co.jp
@@ -2176,6 +2182,7 @@
 0.0.0.0 soudan.osakaben.or.jp
 0.0.0.0 sousakuryouri-yorunotobari.owst.jp
 0.0.0.0 sousou.co.jp
+0.0.0.0 southernallstars.jp
 0.0.0.0 southernlift.com
 0.0.0.0 souzoku.t-bengo.com
 0.0.0.0 souzokuhouki-kizuna.com
@@ -2193,6 +2200,7 @@
 0.0.0.0 spopita.jp
 0.0.0.0 sports.dunlop.co.jp
 0.0.0.0 sportskart.com
+0.0.0.0 sportspavilion.taiwantrade.com
 0.0.0.0 spur.hpplus.jp
 0.0.0.0 spyera.com
 0.0.0.0 sq.morinaga.co.jp
@@ -2269,6 +2277,7 @@
 0.0.0.0 suzuki-ballet-studio.com
 0.0.0.0 svenson-recruit.com
 0.0.0.0 svltd.co.jp
+0.0.0.0 sweetweb.jp
 0.0.0.0 syakuchiken.jp
 0.0.0.0 syoku-navi.com
 0.0.0.0 systema.lion.co.jp
@@ -2839,6 +2848,7 @@
 0.0.0.0 www.chitetsu.co.jp
 0.0.0.0 www.chogin-nishi.com
 0.0.0.0 www.choice-hotels.jp
+0.0.0.0 www.choujuan.co.jp
 0.0.0.0 www.chugin.co.jp
 0.0.0.0 www.chuo-u.ac.jp
 0.0.0.0 www.cielia.com
@@ -2902,6 +2912,7 @@
 0.0.0.0 www.cross-m.co.jp
 0.0.0.0 www.crosslinktax.com
 0.0.0.0 www.ctbcinvestments.com
+0.0.0.0 www.cube108.jp
 0.0.0.0 www.cunard.com
 0.0.0.0 www.cw-x.jp
 0.0.0.0 www.cw.com.tw
@@ -2997,6 +3008,7 @@
 0.0.0.0 www.eikei.ac.jp
 0.0.0.0 www.eines.jp
 0.0.0.0 www.eiwa-shinkin.co.jp
+0.0.0.0 www.ekisu.com
 0.0.0.0 www.eko-pr.com
 0.0.0.0 www.eldenring.jp
 0.0.0.0 www.elder.jeed.go.jp
@@ -3018,6 +3030,7 @@
 0.0.0.0 www.eslead.co.jp
 0.0.0.0 www.esplanade.com
 0.0.0.0 www.etungo.com.tw
+0.0.0.0 www.euclid-records.com
 0.0.0.0 www.evat.cz
 0.0.0.0 www.ex-agent.co.jp
 0.0.0.0 www.ex-anpi.com
@@ -3057,6 +3070,7 @@
 0.0.0.0 www.fmworld.net
 0.0.0.0 www.foamlite.jp
 0.0.0.0 www.foodjobselect.com
+0.0.0.0 www.forbo.com
 0.0.0.0 www.forcus.co.jp
 0.0.0.0 www.forec-shop.com
 0.0.0.0 www.forestblue.jp
@@ -3167,6 +3181,7 @@
 0.0.0.0 www.gunmabank.co.jp
 0.0.0.0 www.guska.jp
 0.0.0.0 www.gyakubiki.net
+0.0.0.0 www.gyutoro.com
 0.0.0.0 www.h-bd.co.jp
 0.0.0.0 www.hacobell.com
 0.0.0.0 www.hakata-ieh.jp
@@ -4389,6 +4404,7 @@
 0.0.0.0 www.us-owners.com
 0.0.0.0 www.usaycompare.co.uk
 0.0.0.0 www.uscloud.com
+0.0.0.0 www.ushio.net
 0.0.0.0 www.utsuwayayuuyuu.com
 0.0.0.0 www.vakenelli.com
 0.0.0.0 www.valt-japan.com
