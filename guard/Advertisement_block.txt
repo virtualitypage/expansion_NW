@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 17 March 2025
+# Last modified: 18 March 2025
 #
 
 # [広告全般]
@@ -223,6 +223,7 @@
 0.0.0.0 beavers.co.jp
 0.0.0.0 bec-fin.jp
 0.0.0.0 beds24.com
+0.0.0.0 beeffrompoland.pl
 0.0.0.0 beira.shop
 0.0.0.0 belinda-clinic.site
 0.0.0.0 belindaclinic-shinjuku.net
@@ -1134,6 +1135,7 @@
 0.0.0.0 katene.chuden.jp
 0.0.0.0 katsubedc-nanmori.com
 0.0.0.0 katsuo-gamouyonchome.owst.jp
+0.0.0.0 katsuo-kyobashiminami.owst.jp
 0.0.0.0 kawanotajimaya.com
 0.0.0.0 kayo-corp.co.jp
 0.0.0.0 kaza-design.com
@@ -1306,6 +1308,7 @@
 0.0.0.0 loans.life
 0.0.0.0 lohasplaza.com
 0.0.0.0 longterm.kikagaku.ai
+0.0.0.0 love.kinohei.jp
 0.0.0.0 lovelyhall.com
 0.0.0.0 lp-ai.ccreb.jp
 0.0.0.0 lp-mk-2.makuake.com
@@ -1401,6 +1404,7 @@
 0.0.0.0 masaya-pawnshop.com
 0.0.0.0 mash-c.jp
 0.0.0.0 mashiro82x.base.shop
+0.0.0.0 master210.com
 0.0.0.0 matsue.clare.jp
 0.0.0.0 matsui-express-job.jp
 0.0.0.0 matsuyama.citroen-dealer.jp
@@ -1444,6 +1448,7 @@
 0.0.0.0 micromagazine.co.jp
 0.0.0.0 midnight-keirin.com
 0.0.0.0 miechuo.bmw.jp
+0.0.0.0 mimi-kyokai.jp
 0.0.0.0 minamiasagaya.ryusei-sekkotuin.net
 0.0.0.0 minase-ep.jp
 0.0.0.0 minato-motomachi.jp
@@ -1495,6 +1500,7 @@
 0.0.0.0 moneycanvas.bk.mufg.jp
 0.0.0.0 moneykit.net
 0.0.0.0 monji.tech
+0.0.0.0 morimoto-lp.com
 0.0.0.0 moriya-contact.com
 0.0.0.0 motherfood.co.uk
 0.0.0.0 mothers-tenshiba.com
@@ -1580,6 +1586,7 @@
 0.0.0.0 nijigennomori.com
 0.0.0.0 nikudokoro-mo-shabutantan.owst.jp
 0.0.0.0 nikudokorodebeso.owst.jp
+0.0.0.0 nikunoikezawa.shop-pro.jp
 0.0.0.0 nikunotajimatsuhan.com
 0.0.0.0 nikuzushi-sennichimae.owst.jp
 0.0.0.0 nill.jp
@@ -1629,6 +1636,7 @@
 0.0.0.0 ohka-kobe.owst.jp
 0.0.0.0 ohnoseijyo.com
 0.0.0.0 ohtani-shotime.com
+0.0.0.0 ohtomari.hp.peraichi.com
 0.0.0.0 oishi-kenko.com
 0.0.0.0 oishii-izumo.jp
 0.0.0.0 oka-d-art.com
@@ -2271,6 +2279,7 @@
 0.0.0.0 sus-recruit.com
 0.0.0.0 sushi-hasegawa.owst.jp
 0.0.0.0 sushitech-real.metro.tokyo.lg.jp
+0.0.0.0 sustainable.goturkiye.com
 0.0.0.0 sustineri.co.jp
 0.0.0.0 sutekinajinsei.jp
 0.0.0.0 suumo.jp
@@ -2884,6 +2893,7 @@
 0.0.0.0 www.cocotas.shop
 0.0.0.0 www.cog.inc
 0.0.0.0 www.coinpalace.jp
+0.0.0.0 www.colab8.jp
 0.0.0.0 www.colehaan.co.jp
 0.0.0.0 www.collisioncareers.com
 0.0.0.0 www.columbiasports.co.jp
@@ -2905,6 +2915,7 @@
 0.0.0.0 www.cosmo-energy.co.jp
 0.0.0.0 www.cosmo-mycar.com
 0.0.0.0 www.cospa-wellness.co.jp
+0.0.0.0 www.cou-buy.com
 0.0.0.0 www.couleur-harima.com
 0.0.0.0 www.coverland.co.jp
 0.0.0.0 www.cpu-net.co.jp
@@ -3105,6 +3116,7 @@
 0.0.0.0 www.fukushi.metro.tokyo.lg.jp
 0.0.0.0 www.fulloutsourcing.jp
 0.0.0.0 www.fulltech1963.com
+0.0.0.0 www.fulltool.net
 0.0.0.0 www.funcurrent.com
 0.0.0.0 www.fundex.co.jp
 0.0.0.0 www.fureai-hometown.jp
@@ -3550,6 +3562,8 @@
 0.0.0.0 www.kyusanko.co.jp
 0.0.0.0 www.l-i-keepers.com
 0.0.0.0 www.l1m-net.info
+0.0.0.0 www.la-floraison.com
+0.0.0.0 www.lakanto.jp
 0.0.0.0 www.lancome.jp
 0.0.0.0 www.landrover.co.jp
 0.0.0.0 www.lanps.jp
@@ -3637,6 +3651,7 @@
 0.0.0.0 www.mecsumai.com
 0.0.0.0 www.medical-aid.co.jp
 0.0.0.0 www.megabank.com.tw
+0.0.0.0 www.meganeshop-sano.com
 0.0.0.0 www.meids.co.jp
 0.0.0.0 www.meijigakuin.ac.jp
 0.0.0.0 www.meikuri.co.jp
@@ -3761,6 +3776,7 @@
 0.0.0.0 www.netsudan.jp
 0.0.0.0 www.netzchubu.co.jp
 0.0.0.0 www.newart.co.jp
+0.0.0.0 www.nexta.shop
 0.0.0.0 www.nextfactory.jp
 0.0.0.0 www.nexusmods.com
 0.0.0.0 www.nfu.ne.jp
@@ -3859,6 +3875,7 @@
 0.0.0.0 www.onetop-japan.jp
 0.0.0.0 www.onitsukatiger.com
 0.0.0.0 www.onlinesec-kenkyukai.com
+0.0.0.0 www.onodera-office.net
 0.0.0.0 www.onoe-furniture.co.jp
 0.0.0.0 www.onrei.jp
 0.0.0.0 www.ooedoonsen.jp
@@ -4386,6 +4403,7 @@
 0.0.0.0 www.uhe.ac.jp
 0.0.0.0 www.uipath.com
 0.0.0.0 www.uminokyoto.jp
+0.0.0.0 www.uminosachi-yamato.co.jp
 0.0.0.0 www.umiwellness.com
 0.0.0.0 www.unicef.or.jp
 0.0.0.0 www.unicontrols.co.jp
