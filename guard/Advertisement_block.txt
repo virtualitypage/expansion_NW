@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 18 March 2025
+# Last modified: 19 March 2025
 #
 
 # [広告全般]
@@ -341,6 +341,7 @@
 0.0.0.0 ceremony-kokoro.jp
 0.0.0.0 cguardian-japan.netlify.app
 0.0.0.0 chana-company.com
+0.0.0.0 channkonabekasuga.owst.jp
 0.0.0.0 chapup-sc.click
 0.0.0.0 chemeon.com
 0.0.0.0 chester-tax.com
@@ -596,6 +597,7 @@
 0.0.0.0 evercolor.jp
 0.0.0.0 everygoodnews.com
 0.0.0.0 exerurgentcare.com
+0.0.0.0 exothelab.jp
 0.0.0.0 expa-official.jp
 0.0.0.0 explore.arenasolutions.com
 0.0.0.0 explore.komatsu
@@ -649,6 +651,7 @@
 0.0.0.0 freedom.co.jp
 0.0.0.0 freetherock.com
 0.0.0.0 frenchbull.breeders.jp
+0.0.0.0 frenchrestaurantash.owst.jp
 0.0.0.0 friday.gold
 0.0.0.0 fringeos.com
 0.0.0.0 frozen-vender.jp
@@ -1118,6 +1121,7 @@
 0.0.0.0 kando.tv
 0.0.0.0 kanehachi-soba.stores.jp
 0.0.0.0 kanekaq10pr.com
+0.0.0.0 kankokuryori-anpan.owst.jp
 0.0.0.0 kankomirai-ouen.jp
 0.0.0.0 kansai-boatshow.jp
 0.0.0.0 kansai-elevator.co.jp
@@ -1308,6 +1312,7 @@
 0.0.0.0 loans.life
 0.0.0.0 lohasplaza.com
 0.0.0.0 longterm.kikagaku.ai
+0.0.0.0 lotus-jinzai.co.jp
 0.0.0.0 love.kinohei.jp
 0.0.0.0 lovelyhall.com
 0.0.0.0 lp-ai.ccreb.jp
@@ -1558,6 +1563,7 @@
 0.0.0.0 nesta.click
 0.0.0.0 nesting-hokago.com
 0.0.0.0 nestle.jp
+0.0.0.0 net-fine.com
 0.0.0.0 netcafe-cocone.jp
 0.0.0.0 netzfukuoka.jp
 0.0.0.0 new-tips.net
@@ -1577,6 +1583,7 @@
 0.0.0.0 ni-deau.jp
 0.0.0.0 niche-strategy.co.jp
 0.0.0.0 nichicomi.com
+0.0.0.0 nichinoken-kansai.com
 0.0.0.0 nico-d.net
 0.0.0.0 nihonjyuutaku.co.jp
 0.0.0.0 nihonkeizaishindoi.com
@@ -1713,6 +1720,7 @@
 0.0.0.0 paramount.jp
 0.0.0.0 parks2.bandainamco-am.co.jp
 0.0.0.0 part2.money-yomiuri.com
+0.0.0.0 partitacorporation.com
 0.0.0.0 party-maker.studio.site
 0.0.0.0 party-wedding.gnavi.co.jp
 0.0.0.0 pc-farm.co.jp
@@ -2163,6 +2171,7 @@
 0.0.0.0 smarthr.jp
 0.0.0.0 smartmeal.co.jp
 0.0.0.0 smartvision1999.com
+0.0.0.0 smile-ah.jp
 0.0.0.0 smile-bin.com
 0.0.0.0 smile-glamping.com
 0.0.0.0 smile-zemi.jp
@@ -2332,6 +2341,7 @@
 0.0.0.0 tateyoko-kazuma.com
 0.0.0.0 tavopets.com
 0.0.0.0 taxisaiyo.entetsu.co.jp
+0.0.0.0 tbhd.jp
 0.0.0.0 tcb-beauty.net
 0.0.0.0 tcd.joetsu-dc.com
 0.0.0.0 tck-racecampaign2024.com
@@ -2996,6 +3006,7 @@
 0.0.0.0 www.e-kenet.jp
 0.0.0.0 www.e-kochoran.com
 0.0.0.0 www.e-mieux.co.jp
+0.0.0.0 www.e-ohada.jp
 0.0.0.0 www.e-sogi.com
 0.0.0.0 www.e-tix.jp
 0.0.0.0 www.e-ty.co.jp
@@ -3145,6 +3156,7 @@
 0.0.0.0 www.gdl-cubic.com
 0.0.0.0 www.genkinokuni.jp
 0.0.0.0 www.genryoya.com
+0.0.0.0 www.geogroup.jp
 0.0.0.0 www.gero-ogawaya.net
 0.0.0.0 www.gero-spa.com
 0.0.0.0 www.get-fit.jp
@@ -3158,6 +3170,7 @@
 0.0.0.0 www.gleif.org
 0.0.0.0 www.global-style.jp
 0.0.0.0 www.globalwork.jp
+0.0.0.0 www.glory-td.com
 0.0.0.0 www.gmobile.biz
 0.0.0.0 www.goda-j.co.jp
 0.0.0.0 www.gofuku-kaitori.com
@@ -4509,6 +4522,7 @@
 0.0.0.0 www.yokota-ks.jp
 0.0.0.0 www.yomiuriland.com
 0.0.0.0 www.yonoton.com
+0.0.0.0 www.yoriso.com
 0.0.0.0 www.yoshinoya.com
 0.0.0.0 www.yosuga-law.net
 0.0.0.0 www.yotsuba-shop.com
@@ -4560,6 +4574,7 @@
 0.0.0.0 yamashiro-onlinestore.com
 0.0.0.0 yamatane-museum.com
 0.0.0.0 yamato-signage.com
+0.0.0.0 yamatonikudori-sakurahara.owst.jp
 0.0.0.0 yamatsujiiin.com
 0.0.0.0 yamawake-estate.jp
 0.0.0.0 yamawarau.owst.jp
