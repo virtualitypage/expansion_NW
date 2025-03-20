@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 19 March 2025
+# Last modified: 20 March 2025
 #
 
 # [広告全般]
@@ -1305,6 +1305,7 @@
 0.0.0.0 lining-konishi.com
 0.0.0.0 link.springer.com
 0.0.0.0 linktr.ee
+0.0.0.0 liquidinc.asia
 0.0.0.0 live-plus-do-style.jp
 0.0.0.0 livejapan.com
 0.0.0.0 liveviewing.jp
@@ -2207,6 +2208,7 @@
 0.0.0.0 sp-newhama.com
 0.0.0.0 sp.jra.jp
 0.0.0.0 sp.otsuka-shokai.co.jp
+0.0.0.0 sp.staffservice-engineering.jp
 0.0.0.0 special.kobunsha.com
 0.0.0.0 spianato1618.base.shop
 0.0.0.0 spibrg.jp
@@ -3255,6 +3257,7 @@
 0.0.0.0 www.hero-wars.com
 0.0.0.0 www.herutu.co.jp
 0.0.0.0 www.herz-bag.jp
+0.0.0.0 www.heyaceleb.com
 0.0.0.0 www.hfcfinance.com.tw
 0.0.0.0 www.hi753.com
 0.0.0.0 www.hibou-chushou.com
@@ -3279,6 +3282,7 @@
 0.0.0.0 www.hokende.com
 0.0.0.0 www.hokeniryo.metro.tokyo.lg.jp
 0.0.0.0 www.hokkaido-np.co.jp
+0.0.0.0 www.hokkaido-rail-k.jp
 0.0.0.0 www.hokkokubank.co.jp
 0.0.0.0 www.hokuriku-u.ac.jp
 0.0.0.0 www.hokuyobank.co.jp
@@ -3989,6 +3993,7 @@
 0.0.0.0 www.prada.com
 0.0.0.0 www.prageru.com
 0.0.0.0 www.preciousplatinum.jp
+0.0.0.0 www.pref.fukuoka.lg.jp
 0.0.0.0 www.pref.fukushima.lg.jp
 0.0.0.0 www.pref.kanagawa.jp
 0.0.0.0 www.pref.kochi.lg.jp
