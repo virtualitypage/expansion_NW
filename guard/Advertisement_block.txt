@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 20 March 2025
+# Last modified: 21 March 2025
 #
 
 # [広告全般]
@@ -709,6 +709,7 @@
 0.0.0.0 garireo.co.jp
 0.0.0.0 gatch.softplanner.co.jp
 0.0.0.0 gate02.ne.jp
+0.0.0.0 gbnavi.jp
 0.0.0.0 gcloud.genbasupport.com
 0.0.0.0 gemer.jp
 0.0.0.0 genba-dojo.net
@@ -2770,6 +2771,7 @@
 0.0.0.0 www.bess.jp
 0.0.0.0 www.best1cruise.com
 0.0.0.0 www.besthousing.co.jp
+0.0.0.0 www.bestone-aircon.com
 0.0.0.0 www.betteisenkyu.jp
 0.0.0.0 www.bfw.com.tw
 0.0.0.0 www.biblesociety.org.uk
@@ -3788,6 +3790,7 @@
 0.0.0.0 www.nemurishop.jp
 0.0.0.0 www.nenkin.go.jp
 0.0.0.0 www.nerima.co.jp
+0.0.0.0 www.net-bizs.jp
 0.0.0.0 www.netbk.co.jp
 0.0.0.0 www.netchina.jp
 0.0.0.0 www.netsudan.jp
@@ -3942,6 +3945,7 @@
 0.0.0.0 www.paloma.co.jp
 0.0.0.0 www.panamedia.co.jp
 0.0.0.0 www.panasonic.com
+0.0.0.0 www.pandaroid-info.com
 0.0.0.0 www.pansy.co.jp
 0.0.0.0 www.paris-miki.co.jp
 0.0.0.0 www.parkhotelgroup.com
