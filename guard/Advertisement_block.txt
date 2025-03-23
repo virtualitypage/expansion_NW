@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 21 March 2025
+# Last modified: 23 March 2025
 #
 
 # [広告全般]
@@ -213,6 +213,7 @@
 0.0.0.0 baycrews.jp
 0.0.0.0 bbq-group.jp
 0.0.0.0 bbq.urban-earth.jp
+0.0.0.0 bc-lp.com
 0.0.0.0 bcp.sfri.jp
 0.0.0.0 be-epilogue.jp
 0.0.0.0 be-saku.com
@@ -295,6 +296,7 @@
 0.0.0.0 buy.itreview.jp
 0.0.0.0 byd-ibaraki.co.jp
 0.0.0.0 byd.co.jp
+0.0.0.0 ca-morita.co.jp
 0.0.0.0 ca.nihon-trim.co.jp
 0.0.0.0 cacaosampaka-kitashinchi.com
 0.0.0.0 cafe-inn-hitoiki.com
@@ -413,6 +415,7 @@
 0.0.0.0 corporate.epson
 0.0.0.0 corporate.ofsji.org
 0.0.0.0 correct-event.jp
+0.0.0.0 cosmezuki.com
 0.0.0.0 cosmion.jp
 0.0.0.0 cotaoffice.com
 0.0.0.0 cott0n.net
@@ -1065,6 +1068,7 @@
 0.0.0.0 jp.steelcase.com
 0.0.0.0 jp.store.bambulab.com
 0.0.0.0 jp.toto.com
+0.0.0.0 jp.trip.com
 0.0.0.0 jp.vicoimaging.com
 0.0.0.0 jp.yiose.com
 0.0.0.0 jpca-education.org
@@ -1506,6 +1510,7 @@
 0.0.0.0 money-college.org
 0.0.0.0 moneycanvas.bk.mufg.jp
 0.0.0.0 moneykit.net
+0.0.0.0 moneysmith.biz
 0.0.0.0 monji.tech
 0.0.0.0 morimoto-lp.com
 0.0.0.0 moriya-contact.com
@@ -2064,6 +2069,7 @@
 0.0.0.0 service.itcenex.com
 0.0.0.0 service.ocn.ne.jp
 0.0.0.0 seta-clinic.com
+0.0.0.0 setonaikaikisen.co.jp
 0.0.0.0 setupnext-project.com
 0.0.0.0 sev-tsuhan.com
 0.0.0.0 sg.rtb.vestomedia.com
@@ -2276,6 +2282,7 @@
 0.0.0.0 sumai.jalux.com
 0.0.0.0 sumai.panasonic.jp
 0.0.0.0 sumai.tokyu-land.co.jp
+0.0.0.0 sumaireform.net
 0.0.0.0 sumapo.com
 0.0.0.0 sumibitowine.com
 0.0.0.0 sumika.link
@@ -3771,6 +3778,7 @@
 0.0.0.0 www.nakamura-u.ac.jp
 0.0.0.0 www.nakanoya-harukas.com
 0.0.0.0 www.nakayamashouten.com
+0.0.0.0 www.nanbubijin.jp
 0.0.0.0 www.naniwakanri.co.jp
 0.0.0.0 www.nankai.co.jp
 0.0.0.0 www.nantobank.co.jp
