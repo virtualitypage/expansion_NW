@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 23 March 2025
+# Last modified: 24 March 2025
 #
 
 # [広告全般]
@@ -1145,6 +1145,7 @@
 0.0.0.0 katsubedc-nanmori.com
 0.0.0.0 katsuo-gamouyonchome.owst.jp
 0.0.0.0 katsuo-kyobashiminami.owst.jp
+0.0.0.0 katsurabina.shop
 0.0.0.0 kawanotajimaya.com
 0.0.0.0 kayo-corp.co.jp
 0.0.0.0 kaza-design.com
@@ -1171,6 +1172,7 @@
 0.0.0.0 kichi.bar
 0.0.0.0 kids.tipness.co.jp
 0.0.0.0 kidsdesignaward.jp
+0.0.0.0 kidski.kidsna.com
 0.0.0.0 kidsna.com
 0.0.0.0 kigkt.cersi.jp
 0.0.0.0 kimono-ice.com
@@ -1192,6 +1194,7 @@
 0.0.0.0 klimt-cairnhill.contact-us.sg
 0.0.0.0 koala.com
 0.0.0.0 kobac-tenpaku01.nagoya
+0.0.0.0 kobe-consumer.smartkobe-portal.com
 0.0.0.0 kobe-invisalign.jp
 0.0.0.0 kobe-u-clinic.jp
 0.0.0.0 kobe.dsautomobiles-dealer.jp
@@ -1668,6 +1671,7 @@
 0.0.0.0 ondemand.meluon.com
 0.0.0.0 one-up-life.com
 0.0.0.0 oneit.co.jp
+0.0.0.0 oneosaka.jp
 0.0.0.0 onesho.com
 0.0.0.0 online-mental-clinic.com
 0.0.0.0 online.cosmo-space.jp
@@ -1885,6 +1889,7 @@
 0.0.0.0 resus.jp
 0.0.0.0 retail.ksp-sp.com
 0.0.0.0 retailers.landrover.co.jp
+0.0.0.0 rets.school
 0.0.0.0 reuse-tenshoku.com
 0.0.0.0 revecan.com
 0.0.0.0 richeprivatesalon.com
@@ -2132,6 +2137,7 @@
 0.0.0.0 shop.lasagna.jp
 0.0.0.0 shop.lumieu.jp
 0.0.0.0 shop.mahoroba-inter.com
+0.0.0.0 shop.mandom.co.jp
 0.0.0.0 shop.marusanai.co.jp
 0.0.0.0 shop.nakano-group.co.jp
 0.0.0.0 shop.noevir.jp
@@ -2382,6 +2388,7 @@
 0.0.0.0 theplustokyo.jp
 0.0.0.0 thermal-plant.co.jp
 0.0.0.0 theshopyohjiyamamoto.jp
+0.0.0.0 thir.dnrb.cc
 0.0.0.0 thisischiffoncake.com
 0.0.0.0 three-match.com
 0.0.0.0 three-v-amenity.co.jp
@@ -2421,6 +2428,7 @@
 0.0.0.0 toriton.owst.jp
 0.0.0.0 torras.co.jp
 0.0.0.0 tosei-hotel.co.jp
+0.0.0.0 tottoreal-pavilion.jp
 0.0.0.0 toubyo.com
 0.0.0.0 toushi-up.com
 0.0.0.0 tovira.jp
@@ -2664,6 +2672,7 @@
 0.0.0.0 www.airasia.com
 0.0.0.0 www.airnewzealand.jp
 0.0.0.0 www.ajhh.jp
+0.0.0.0 www.ajinomoto.co.jp
 0.0.0.0 www.alba.co.jp
 0.0.0.0 www.allaroundmobilehomeservice.com
 0.0.0.0 www.allergy-i.jp
@@ -3540,6 +3549,7 @@
 0.0.0.0 www.kobax.net
 0.0.0.0 www.kobe-souzokuzei.com
 0.0.0.0 www.kobe.coop.or.jp
+0.0.0.0 www.kobefp-4170.com
 0.0.0.0 www.kobegakuin.ac.jp
 0.0.0.0 www.kobelco-kenki.co.jp
 0.0.0.0 www.kobeseika.ac.jp
@@ -3851,6 +3861,7 @@
 0.0.0.0 www.nordsonmedical.com
 0.0.0.0 www.notalone-cao.go.jp
 0.0.0.0 www.notokaitai.com
+0.0.0.0 www.nri-secure.co.jp
 0.0.0.0 www.nrj.ac.jp
 0.0.0.0 www.nsc.org
 0.0.0.0 www.nseg.co.jp
@@ -3932,6 +3943,7 @@
 0.0.0.0 www.osaka-toyopet.jp
 0.0.0.0 www.osakac.ac.jp
 0.0.0.0 www.osakahome.jp
+0.0.0.0 www.osampo-g.jp
 0.0.0.0 www.oscd.jp
 0.0.0.0 www.osg.co.jp
 0.0.0.0 www.otafuku.co.jp
@@ -4237,6 +4249,7 @@
 0.0.0.0 www.souzoku-rescue.net
 0.0.0.0 www.spf21.net
 0.0.0.0 www.spglobal.com
+0.0.0.0 www.splunk.com
 0.0.0.0 www.sportsoasis.co.jp
 0.0.0.0 www.ss-beta.co.jp
 0.0.0.0 www.st-andrews.ac.uk
