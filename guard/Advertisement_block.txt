@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 25 March 2025
+# Last modified: 26 March 2025
 #
 
 # [広告全般]
@@ -50,6 +50,7 @@
 0.0.0.0 acehandymanfranchising.com
 0.0.0.0 achi-kochi.jp
 0.0.0.0 achieve.atimes.co.jp
+0.0.0.0 acleda.bankaccount-support.com
 0.0.0.0 acrove.co.jp
 0.0.0.0 activate.games.dmm.com
 0.0.0.0 activesleep.jp
@@ -1881,6 +1882,7 @@
 0.0.0.0 reeing.co.jp
 0.0.0.0 refine-midori.net
 0.0.0.0 refobell.com
+0.0.0.0 regain-suppli.jp
 0.0.0.0 regimentvalkyrie.com
 0.0.0.0 register-form.movabletype.io
 0.0.0.0 register.hfm.com
@@ -2334,6 +2336,7 @@
 0.0.0.0 syakuchiken.jp
 0.0.0.0 syoku-navi.com
 0.0.0.0 systema.lion.co.jp
+0.0.0.0 t.afi-b.com
 0.0.0.0 tabe-repo.net
 0.0.0.0 tabiiro.jp
 0.0.0.0 tabunne.click
@@ -3405,6 +3408,7 @@
 0.0.0.0 www.ipet-direct.com
 0.0.0.0 www.iprimo.jp
 0.0.0.0 www.ipros.jp
+0.0.0.0 www.ipsa.co.jp
 0.0.0.0 www.iput.ac.jp
 0.0.0.0 www.ire-dc.com
 0.0.0.0 www.irisohyama.co.jp
@@ -3502,6 +3506,7 @@
 0.0.0.0 www.kagu-uenoya.com
 0.0.0.0 www.kagusapo.com
 0.0.0.0 www.kahm-art.co.jp
+0.0.0.0 www.kaigishitu.com
 0.0.0.0 www.kaigoagent.com
 0.0.0.0 www.kaigyokutei.com
 0.0.0.0 www.kaishu.info
@@ -3614,6 +3619,7 @@
 0.0.0.0 www.kuchou-fuku.com
 0.0.0.0 www.kumada-sr.com
 0.0.0.0 www.kumamoto-hsu.ac.jp
+0.0.0.0 www.kumokasa.com
 0.0.0.0 www.kungfuds.l4t.biz
 0.0.0.0 www.kushals.com
 0.0.0.0 www.kyjlaw.com
@@ -3925,6 +3931,7 @@
 0.0.0.0 www.ohken.co.jp
 0.0.0.0 www.ohkifudosan.co.jp
 0.0.0.0 www.oil-factory.com
+0.0.0.0 www.oillab.net
 0.0.0.0 www.oinori-kobo.com
 0.0.0.0 www.oisix.com
 0.0.0.0 www.oit.ac.jp
@@ -4370,6 +4377,7 @@
 0.0.0.0 www.tempstaff.co.jp
 0.0.0.0 www.tenant-kyoto.jp
 0.0.0.0 www.tenjikan.com
+0.0.0.0 www.tennoji-mio.co.jp
 0.0.0.0 www.tensyou.com
 0.0.0.0 www.tepco.co.jp
 0.0.0.0 www.tf-style.com
