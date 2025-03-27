@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 26 March 2025
+# Last modified: 27 March 2025
 #
 
 # [広告全般]
@@ -613,6 +613,7 @@
 0.0.0.0 exzeal.co.jp
 0.0.0.0 ezyremit.com
 0.0.0.0 f-cre.com
+0.0.0.0 f1tokyofestival.com
 0.0.0.0 fa.toray-enter.co.jp
 0.0.0.0 fairfield-michinoeki-japan.com
 0.0.0.0 fam-8.net
@@ -903,6 +904,7 @@
 0.0.0.0 hondacars.jp
 0.0.0.0 hondacars.link
 0.0.0.0 honkaku-coco.com
+0.0.0.0 hoom-furniture.com
 0.0.0.0 horseracing-tipsters.biz
 0.0.0.0 hoshi.cocoloni.jp
 0.0.0.0 hotelmonterey-grasmereosaka.jp
@@ -2520,6 +2522,7 @@
 0.0.0.0 uno-hotel.com
 0.0.0.0 unove.jp
 0.0.0.0 uodon-fukushima.com
+0.0.0.0 uokuni-recruit.jp
 0.0.0.0 uonuma20.com
 0.0.0.0 uoya-saburo-sannomiya.owst.jp
 0.0.0.0 update-inc.jp
@@ -2705,6 +2708,7 @@
 0.0.0.0 www.allied-telesis.co.jp
 0.0.0.0 www.allsaints.jp
 0.0.0.0 www.alltech.com
+0.0.0.0 www.alohana-pauskirt.net
 0.0.0.0 www.alpen-route.com
 0.0.0.0 www.alpha-note.co.jp
 0.0.0.0 www.alphamap.com
@@ -3775,6 +3779,7 @@
 0.0.0.0 www.miyanaka.co.jp
 0.0.0.0 www.miyazakicarferry.com
 0.0.0.0 www.mizuho-re.co.jp
+0.0.0.0 www.mmc-carbide.com
 0.0.0.0 www.mobit.ne.jp
 0.0.0.0 www.mochihada.co.jp
 0.0.0.0 www.moco.or.jp
@@ -4691,6 +4696,7 @@
 0.0.0.0 zidoma.com
 0.0.0.0 zigen-inc.stores.jp
 0.0.0.0 zona-kobe.com
+0.0.0.0 zozo.jp
 0.0.0.0 zqn8sc2.com
 0.0.0.0 zumi-kobo.com
 
