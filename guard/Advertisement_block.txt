@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 27 March 2025
+# Last modified: 28 March 2025
 #
 
 # [広告全般]
@@ -857,6 +857,7 @@
 0.0.0.0 hello-renovation.jp
 0.0.0.0 henna.assemblage-hd.com
 0.0.0.0 hennge.com
+0.0.0.0 her-onlinestore.com
 0.0.0.0 hey-choshikun.com
 0.0.0.0 heyheyship.jp
 0.0.0.0 hha.hitachi-hightech.com
@@ -911,6 +912,7 @@
 0.0.0.0 hottoke.jp
 0.0.0.0 hougaku.kanto-gakuin.ac.jp
 0.0.0.0 house-cp.jp
+0.0.0.0 house-dr.net
 0.0.0.0 house-kiya.co.jp
 0.0.0.0 house-yokubari.com
 0.0.0.0 housefreedom-fujiidera.com
@@ -1076,6 +1078,7 @@
 0.0.0.0 jp.stanby.com
 0.0.0.0 jp.steelcase.com
 0.0.0.0 jp.store.bambulab.com
+0.0.0.0 jp.tdsynnex.com
 0.0.0.0 jp.toto.com
 0.0.0.0 jp.trip.com
 0.0.0.0 jp.vicoimaging.com
@@ -1232,6 +1235,7 @@
 0.0.0.0 koshien.hanshin.co.jp
 0.0.0.0 kosidasuisan.com
 0.0.0.0 kotilabo.com
+0.0.0.0 kotobacamp.com
 0.0.0.0 kotobapark.889100.com
 0.0.0.0 kotobukisannomiya.owst.jp
 0.0.0.0 kotonaru.co.jp
@@ -1377,6 +1381,7 @@
 0.0.0.0 m-ikimonogatari.com
 0.0.0.0 m.blog.naver.com
 0.0.0.0 m.chitetsu.co.jp
+0.0.0.0 m.e-l-k.jp
 0.0.0.0 m.momoshop.com.tw
 0.0.0.0 m.qoo10.jp
 0.0.0.0 m.shein.com
@@ -1544,6 +1549,7 @@
 0.0.0.0 muqbel.jp
 0.0.0.0 musashi-kikaiyuso.com
 0.0.0.0 mushinkoku.com
+0.0.0.0 music.kawai.jp
 0.0.0.0 my-career.co.jp
 0.0.0.0 my.royalcanin.jp
 0.0.0.0 mybabiie.com
@@ -1571,6 +1577,7 @@
 0.0.0.0 nakanodental-cl.com
 0.0.0.0 nakka-art.jp
 0.0.0.0 nakosa.theshop.jp
+0.0.0.0 namahorumonitadaki-honmachi.owst.jp
 0.0.0.0 nana-company.vercel.app
 0.0.0.0 nanatsuya-radical-yasumitsu.sai-soku.jp
 0.0.0.0 nannyme.love
@@ -1615,6 +1622,7 @@
 0.0.0.0 niihama-coating.com
 0.0.0.0 niit-oc.com
 0.0.0.0 nijigennomori.com
+0.0.0.0 nikko-nerima-recruit.com
 0.0.0.0 nikudokoro-mo-shabutantan.owst.jp
 0.0.0.0 nikudokorodebeso.owst.jp
 0.0.0.0 nikunoikezawa.shop-pro.jp
@@ -2531,6 +2539,7 @@
 0.0.0.0 urayasu.brightonhotels.co.jp
 0.0.0.0 urbancherry.jp
 0.0.0.0 urbanfit.jp
+0.0.0.0 urbanlife.co.jp
 0.0.0.0 ureru-it.co.jp
 0.0.0.0 uridoki.net
 0.0.0.0 urikko.com
@@ -2602,6 +2611,7 @@
 0.0.0.0 wester-mall.westjr.co.jp
 0.0.0.0 wester.jr-odekake.net
 0.0.0.0 whisper-lagoon.info
+0.0.0.0 white-meister.com
 0.0.0.0 widgets.taxel.jp
 0.0.0.0 willcorp.net
 0.0.0.0 willcre03.com
@@ -2614,6 +2624,7 @@
 0.0.0.0 woman.chintai
 0.0.0.0 wooparoo.hangame.com
 0.0.0.0 work-holiday.mhlw.go.jp
+0.0.0.0 work-p.com
 0.0.0.0 world-culture-very.net
 0.0.0.0 world-natural-heritage.jp
 0.0.0.0 world-wing.info
@@ -3488,6 +3499,7 @@
 0.0.0.0 www.jplum.com
 0.0.0.0 www.jps-pharm.com
 0.0.0.0 www.jr-odekake.net
+0.0.0.0 www.jr-shikoku.co.jp
 0.0.0.0 www.jreast.co.jp
 0.0.0.0 www.jri.co.jp
 0.0.0.0 www.jsa.or.jp
@@ -3673,6 +3685,7 @@
 0.0.0.0 www.loperaio.co.jp
 0.0.0.0 www.losstime.co.jp
 0.0.0.0 www.lpio.jp
+0.0.0.0 www.lspsoundsystem.com
 0.0.0.0 www.lululemon.co.jp
 0.0.0.0 www.lumran.com
 0.0.0.0 www.luxalgo.com
@@ -4127,6 +4140,7 @@
 0.0.0.0 www.repohappy.com
 0.0.0.0 www.ricoland.co.jp
 0.0.0.0 www.riken-hochoki.com
+0.0.0.0 www.rikuden.co.jp
 0.0.0.0 www.ringyou.net
 0.0.0.0 www.ririsa-riristage.com
 0.0.0.0 www.riseisha.ac.jp
@@ -4141,6 +4155,7 @@
 0.0.0.0 www.roomie.jp
 0.0.0.0 www.rooms-taishodo.co.jp
 0.0.0.0 www.ropepartner.com
+0.0.0.0 www.roppongihills.com
 0.0.0.0 www.rosemont-swiss.com
 0.0.0.0 www.roudousaigai.jp
 0.0.0.0 www.rtyfghgroup.com
@@ -4171,6 +4186,7 @@
 0.0.0.0 www.sansinzemi.co.jp
 0.0.0.0 www.sanspo-boat.online
 0.0.0.0 www.santen.com
+0.0.0.0 www.sanwajutaku-chintai.com
 0.0.0.0 www.sanwatec.net
 0.0.0.0 www.sanzenin.jp
 0.0.0.0 www.sap.com
