@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 28 March 2025
+# Last modified: 29 March 2025
 #
 
 # [広告全般]
@@ -535,6 +535,7 @@
 0.0.0.0 e4510.jp
 0.0.0.0 earol.co.uk
 0.0.0.0 earthrapport0407.com
+0.0.0.0 eastsidemedinc.com
 0.0.0.0 easy-simulator.net
 0.0.0.0 eat7.co.il
 0.0.0.0 ec-force.com
@@ -810,6 +811,7 @@
 0.0.0.0 hagoogi.com
 0.0.0.0 hairvino.com
 0.0.0.0 hakabanogarou.jp
+0.0.0.0 hakatamotunabetoyakimono-hajime.owst.jp
 0.0.0.0 hakkaexam.hakka.gov.tw
 0.0.0.0 hakoban.com
 0.0.0.0 hakoniwa-medical.com
@@ -857,10 +859,12 @@
 0.0.0.0 hello-renovation.jp
 0.0.0.0 henna.assemblage-hd.com
 0.0.0.0 hennge.com
+0.0.0.0 hephall.jp
 0.0.0.0 her-onlinestore.com
 0.0.0.0 hey-choshikun.com
 0.0.0.0 heyheyship.jp
 0.0.0.0 hha.hitachi-hightech.com
+0.0.0.0 hhproduce.myshopify.com
 0.0.0.0 hi-door.jp
 0.0.0.0 hibikoku.tokyo
 0.0.0.0 hidanosake-hip.com
@@ -989,6 +993,7 @@
 0.0.0.0 iroiro2008.net
 0.0.0.0 irumo.docomo.ne.jp
 0.0.0.0 iryou-ishi-hatarakikata.mhlw.go.jp
+0.0.0.0 ishca.jp
 0.0.0.0 ishi-career.jp
 0.0.0.0 ishikansyu.com
 0.0.0.0 isj-enterprise.com
@@ -1565,6 +1570,7 @@
 0.0.0.0 mystyhub.com
 0.0.0.0 myvketofficial.cloud.vket.com
 0.0.0.0 n3cafe.com
+0.0.0.0 nadwuri.owst.jp
 0.0.0.0 naganokaitai.net
 0.0.0.0 nagawa.co.jp
 0.0.0.0 nagoya-camera.mikawa.ne.jp
@@ -1908,6 +1914,7 @@
 0.0.0.0 rensim-store.com
 0.0.0.0 rental-coin.com
 0.0.0.0 rental-pallet.net
+0.0.0.0 rental2.abra-inc.com
 0.0.0.0 rerenty.com
 0.0.0.0 rescue-suido.com
 0.0.0.0 reservation.aetashotels.com
@@ -2134,6 +2141,7 @@
 0.0.0.0 shimane.dd.daihatsu.co.jp
 0.0.0.0 shimanomi.com
 0.0.0.0 shimotsuke-pr.jp
+0.0.0.0 shimotsumastyle.jp
 0.0.0.0 shinagawa-skin.com
 0.0.0.0 shinchiku.homes.co.jp
 0.0.0.0 shingakunet.com
@@ -2198,6 +2206,7 @@
 0.0.0.0 simple-h.com
 0.0.0.0 sirok.jp
 0.0.0.0 sites.google.com
+0.0.0.0 sixon-web.co.jp
 0.0.0.0 sjhierq.top
 0.0.0.0 skijan.com
 0.0.0.0 skr-marathon.jp
@@ -2426,6 +2435,7 @@
 0.0.0.0 three-v-amenity.co.jp
 0.0.0.0 tib.metro.tokyo.lg.jp
 0.0.0.0 ticket.skyperfectv.co.jp
+0.0.0.0 ticket.tsuku2.jp
 0.0.0.0 timee.co.jp
 0.0.0.0 timesbiz.jp
 0.0.0.0 timume.com
@@ -2458,6 +2468,7 @@
 0.0.0.0 toptoon.jp
 0.0.0.0 toranoana-lab.co.jp
 0.0.0.0 torcroftlodges.com
+0.0.0.0 torikinumeda.owst.jp
 0.0.0.0 toriton.owst.jp
 0.0.0.0 torras.co.jp
 0.0.0.0 tosei-hotel.co.jp
@@ -3677,6 +3688,7 @@
 0.0.0.0 www.liquors.ne.jp
 0.0.0.0 www.little-cage.net
 0.0.0.0 www.livable.co.jp
+0.0.0.0 www.live-dsn.com
 0.0.0.0 www.lixil.co.jp
 0.0.0.0 www.lixiltepco-sp.co.jp
 0.0.0.0 www.logi-co.co.jp
@@ -4250,6 +4262,7 @@
 0.0.0.0 www.shokochukin.co.jp
 0.0.0.0 www.shopify.com
 0.0.0.0 www.shopowner-support.net
+0.0.0.0 www.showrooming-online.com
 0.0.0.0 www.shozan.co.jp
 0.0.0.0 www.shure.com
 0.0.0.0 www.shutoko.jp
