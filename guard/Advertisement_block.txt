@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 30 March 2025
+# Last modified: 31 March 2025
 #
 
 # [広告全般]
@@ -635,6 +635,7 @@
 0.0.0.0 feliz.okadanet.com
 0.0.0.0 fieldsuite-hakuba.com
 0.0.0.0 finance.logmi.jp
+0.0.0.0 finance.techbiz.com
 0.0.0.0 firmbond.co.jp
 0.0.0.0 firstairlines.jp
 0.0.0.0 firstgolf.world
@@ -675,6 +676,7 @@
 0.0.0.0 fujikoumuten.co.jp
 0.0.0.0 fujimedica.com
 0.0.0.0 fujinomiya-gateway.com
+0.0.0.0 fujishimaya.com
 0.0.0.0 fujitadougu.com
 0.0.0.0 fujiya-shoyu.com
 0.0.0.0 fukoku-h.co.jp
@@ -820,6 +822,7 @@
 0.0.0.0 hakoniwa-medical.com
 0.0.0.0 hal-tanteisya.com
 0.0.0.0 haleo.jp
+0.0.0.0 hamalove.jp
 0.0.0.0 hamamatsuat.hamamatsu-daisuki.net
 0.0.0.0 hamamatudietriseone.site
 0.0.0.0 hamanakaiin.com
@@ -999,6 +1002,7 @@
 0.0.0.0 iryou-ishi-hatarakikata.mhlw.go.jp
 0.0.0.0 ishca.jp
 0.0.0.0 ishi-career.jp
+0.0.0.0 ishidashoutenhamagindoriten.owst.jp
 0.0.0.0 ishikansyu.com
 0.0.0.0 isj-enterprise.com
 0.0.0.0 islandjourney-wedding.jp
@@ -1476,6 +1480,7 @@
 0.0.0.0 meganestore.co.jp
 0.0.0.0 megaten5.jp
 0.0.0.0 mei-ten.com
+0.0.0.0 meitsu97.jp
 0.0.0.0 mellobaby.net
 0.0.0.0 mens-cut.net
 0.0.0.0 mens-rinx.jp
@@ -1669,6 +1674,7 @@
 0.0.0.0 noz-shop.com
 0.0.0.0 nposalvage.com
 0.0.0.0 ns-saitama.nissan-dealer.jp
+0.0.0.0 nsc-9340.com
 0.0.0.0 nudge.cards
 0.0.0.0 number.bunshun.jp
 0.0.0.0 nyushi.otemon.ac.jp
@@ -3766,6 +3772,7 @@
 0.0.0.0 www.maybank2u.com.sg
 0.0.0.0 www.maybournebeverlyhills.com
 0.0.0.0 www.mblqs.com
+0.0.0.0 www.mbsr-study-group.com
 0.0.0.0 www.mdsol.co.jp
 0.0.0.0 www.mealzeropay.com
 0.0.0.0 www.mecsumai.com
@@ -4567,6 +4574,7 @@
 0.0.0.0 www.utsuwayayuuyuu.com
 0.0.0.0 www.vakenelli.com
 0.0.0.0 www.valt-japan.com
+0.0.0.0 www.vector.com
 0.0.0.0 www.video.unext.jp
 0.0.0.0 www.vietnamairlines.com
 0.0.0.0 www.vikingcruisesjapan.com
