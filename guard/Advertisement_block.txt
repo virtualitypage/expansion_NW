@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 2 April 2025
+# Last modified: 3 April 2025
 #
 
 # [広告全般]
@@ -47,6 +47,7 @@
 0.0.0.0 ac-kobo.jp
 0.0.0.0 accel-japan.com
 0.0.0.0 accretive-lp.jp
+0.0.0.0 acecafe-k.tumblr.com
 0.0.0.0 acehandymanfranchising.com
 0.0.0.0 achi-kochi.jp
 0.0.0.0 achieve.atimes.co.jp
@@ -94,6 +95,7 @@
 0.0.0.0 akoakostudio.com
 0.0.0.0 akool.com
 0.0.0.0 akr0674735414.owst.jp
+0.0.0.0 akr2241836267.owst.jp
 0.0.0.0 akr3886447014.owst.jp
 0.0.0.0 akr4061480779.owst.jp
 0.0.0.0 akr7827636977.owst.jp
@@ -210,6 +212,7 @@
 0.0.0.0 backlog.com
 0.0.0.0 bakuten-personal.com
 0.0.0.0 balletschool.hp.peraichi.com
+0.0.0.0 bamoove.jp
 0.0.0.0 banana-paper.jp
 0.0.0.0 bananarepublic.gap.co.jp
 0.0.0.0 bank-loan-ranking.com
@@ -1029,6 +1032,7 @@
 0.0.0.0 islandjourney-wedding.jp
 0.0.0.0 islewhite.com
 0.0.0.0 isodashika.com
+0.0.0.0 issho-ueno.com
 0.0.0.0 issyou-nishinakajima.owst.jp
 0.0.0.0 istanbul.goturkiye.com
 0.0.0.0 it-shien.smrj.go.jp
@@ -1472,6 +1476,7 @@
 0.0.0.0 maru-adgoods.shop
 0.0.0.0 maruhan-lp.net
 0.0.0.0 maruhome.jp
+0.0.0.0 marumi-lp.com
 0.0.0.0 marumugi.shop
 0.0.0.0 marusupro.com
 0.0.0.0 masaomi-jyuku.masaomi-takao.com
@@ -1735,6 +1740,7 @@
 0.0.0.0 okayama-life.jp
 0.0.0.0 okayama.coop
 0.0.0.0 oketani-lp.com
+0.0.0.0 okonomiyaki-enya.com
 0.0.0.0 oldisroad.com
 0.0.0.0 olubie.jp
 0.0.0.0 omedeto.hp.peraichi.com
@@ -2121,6 +2127,7 @@
 0.0.0.0 sb.trend-news.info
 0.0.0.0 sb1.genpeiseiyaku.com
 0.0.0.0 sb2.juku.st
+0.0.0.0 sc-arnest1.com
 0.0.0.0 sc-tennoji.jp
 0.0.0.0 sc-tsurumiryokuchi.jp
 0.0.0.0 sc1.axtos.com
@@ -2473,6 +2480,7 @@
 0.0.0.0 teknitape.com
 0.0.0.0 teleboat-cp.jp
 0.0.0.0 telling.asahi.com
+0.0.0.0 ten.dnrb.cc
 0.0.0.0 tenjinbc-shops.jp
 0.0.0.0 tenkuryo.jp
 0.0.0.0 tenshoku.mynavi.jp
@@ -3045,6 +3053,7 @@
 0.0.0.0 www.colab8.jp
 0.0.0.0 www.colehaan.co.jp
 0.0.0.0 www.collisioncareers.com
+0.0.0.0 www.colors-bc.com
 0.0.0.0 www.columbiasports.co.jp
 0.0.0.0 www.combi.co.jp
 0.0.0.0 www.comic-valkyrie.com
@@ -3081,6 +3090,7 @@
 0.0.0.0 www.cyberblue.co.jp
 0.0.0.0 www.cycling-oita.jp
 0.0.0.0 www.d-cart.jp
+0.0.0.0 www.d3-m.com
 0.0.0.0 www.daigakujuken.com
 0.0.0.0 www.daiichisankyo-hc.co.jp
 0.0.0.0 www.daiichisankyo.co.jp
@@ -3164,6 +3174,7 @@
 0.0.0.0 www.edic.jp
 0.0.0.0 www.edion.com
 0.0.0.0 www.edix-expo.jp
+0.0.0.0 www.eft-makuw.jp
 0.0.0.0 www.ega.ae
 0.0.0.0 www.eheya.net
 0.0.0.0 www.ehime-ben.or.jp
@@ -3183,6 +3194,7 @@
 0.0.0.0 www.empowerus.jp
 0.0.0.0 www.enecho.meti.go.jp
 0.0.0.0 www.enemaru.com
+0.0.0.0 www.englishcafe-clock.com
 0.0.0.0 www.enhousing.jp
 0.0.0.0 www.enoteca.co.jp
 0.0.0.0 www.enshu-shinkin.jp
@@ -3310,6 +3322,7 @@
 0.0.0.0 www.gfc.co.jp
 0.0.0.0 www.gfo-sc.jp
 0.0.0.0 www.gineiden-neuesaga.com
+0.0.0.0 www.ginnabe.net
 0.0.0.0 www.ginza-cruise.co.jp
 0.0.0.0 www.gipservice.com
 0.0.0.0 www.gizoutaisaku.com
@@ -3364,6 +3377,7 @@
 0.0.0.0 www.hakodateyama.com
 0.0.0.0 www.hakuaisha.jp
 0.0.0.0 www.hakuhodody-media.co.jp
+0.0.0.0 www.hakuju.net
 0.0.0.0 www.hama-tax.com
 0.0.0.0 www.hamada-juku.com
 0.0.0.0 www.hamigaki.gr.jp
@@ -3531,6 +3545,7 @@
 0.0.0.0 www.itokin.net
 0.0.0.0 www.itproduct.jp
 0.0.0.0 www.itsuki-sangyo.co.jp
+0.0.0.0 www.iu-estate.com
 0.0.0.0 www.ivs.events
 0.0.0.0 www.iwaiwa.jp
 0.0.0.0 www.ixol.co.jp
@@ -3605,6 +3620,7 @@
 0.0.0.0 www.k-idea.jp
 0.0.0.0 www.k-wam.jp
 0.0.0.0 www.kabu-nagasaka.co.jp
+0.0.0.0 www.kadentyuko.com
 0.0.0.0 www.kadokawa.co.jp
 0.0.0.0 www.kadokura.org
 0.0.0.0 www.kagaiboushi.metro.tokyo.lg.jp
@@ -4646,6 +4662,7 @@
 0.0.0.0 www.vakenelli.com
 0.0.0.0 www.valt-japan.com
 0.0.0.0 www.vector.com
+0.0.0.0 www.vehicle-cyc.co.jp
 0.0.0.0 www.video.unext.jp
 0.0.0.0 www.vietnamairlines.com
 0.0.0.0 www.vikingcruisesjapan.com
@@ -4709,6 +4726,7 @@
 0.0.0.0 www.y-yokohama.com
 0.0.0.0 www.yaezawa.com
 0.0.0.0 www.yaken.store
+0.0.0.0 www.yakiniku-bulls.jp
 0.0.0.0 www.yamada-denkiweb.com
 0.0.0.0 www.yamada-egg.com
 0.0.0.0 www.yamaha-motor.co.jp
@@ -4717,6 +4735,7 @@
 0.0.0.0 www.yamamoto-bankin.com
 0.0.0.0 www.yamamoto-kuwaen.jp
 0.0.0.0 www.yamamotogiken-kohki.co.jp
+0.0.0.0 www.yamamotonouen.jp
 0.0.0.0 www.yamano-music.co.jp
 0.0.0.0 www.yamato-u.ac.jp
 0.0.0.0 www.yane-takumi.net
@@ -4743,6 +4762,7 @@
 0.0.0.0 www.ys-greenh.shop
 0.0.0.0 www.ytj.gr.jp
 0.0.0.0 www.yuanta.com.tw
+0.0.0.0 www.yui-mall.jp
 0.0.0.0 www.yuifactory.co.jp
 0.0.0.0 www.yukitney-musical.com
 0.0.0.0 www.yumexia-job.com
@@ -4750,6 +4770,7 @@
 0.0.0.0 www.yunohanaso.co.jp
 0.0.0.0 www.yuzawa.com
 0.0.0.0 www.zaitakucare.co.jp
+0.0.0.0 www.zats-egao.co.jp
 0.0.0.0 www.zecc.co.jp
 0.0.0.0 www.zeczec.com
 0.0.0.0 www.zeiri4.com
