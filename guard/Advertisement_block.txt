@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 7 April 2025
+# Last modified: 8 April 2025
 #
 
 # [広告全般]
@@ -97,6 +97,7 @@
 0.0.0.0 akool.com
 0.0.0.0 akr0105417763.owst.jp
 0.0.0.0 akr0674735414.owst.jp
+0.0.0.0 akr1440658677.owst.jp
 0.0.0.0 akr2241836267.owst.jp
 0.0.0.0 akr3886447014.owst.jp
 0.0.0.0 akr4061480779.owst.jp
@@ -119,6 +120,7 @@
 0.0.0.0 amanism.jp
 0.0.0.0 amanitadesign.com
 0.0.0.0 amann55.com
+0.0.0.0 amarekyoto.owst.jp
 0.0.0.0 ambercorp.co.jp
 0.0.0.0 amlead.co.jp
 0.0.0.0 amnibus.com
@@ -187,6 +189,7 @@
 0.0.0.0 asbestos-osaka.jp
 0.0.0.0 ascii.jp
 0.0.0.0 ashiba-leasekyokai.com
+0.0.0.0 ashiba-net.com
 0.0.0.0 ashley-furniture-blog.jp
 0.0.0.0 aslead.nri.co.jp
 0.0.0.0 asm.asahi.com
@@ -393,6 +396,7 @@
 0.0.0.0 clean-labo.net
 0.0.0.0 cleanapovn.com
 0.0.0.0 cleanup.jp
+0.0.0.0 cledit.jp
 0.0.0.0 cleverly-kochi.com
 0.0.0.0 click.upsmobi.com
 0.0.0.0 clients.itszai.jp
@@ -470,6 +474,7 @@
 0.0.0.0 dachs.breeders.jp
 0.0.0.0 daiei-corporation.com
 0.0.0.0 daishoren.org
+0.0.0.0 danball-hompo.com
 0.0.0.0 danshin-smile.cardif.co.jp
 0.0.0.0 daran-eyebeauty.com
 0.0.0.0 darts-strix.owst.jp
@@ -828,6 +833,7 @@
 0.0.0.0 gravitypark.jp
 0.0.0.0 graychat.net
 0.0.0.0 greenkankyo.com
+0.0.0.0 greenteatokyo.com
 0.0.0.0 gron.co.jp
 0.0.0.0 groverdesign.jp
 0.0.0.0 growi.cloud
@@ -1525,6 +1531,7 @@
 0.0.0.0 master210.com
 0.0.0.0 matsue.clare.jp
 0.0.0.0 matsui-express-job.jp
+0.0.0.0 matsumoto.city
 0.0.0.0 matsuyama.citroen-dealer.jp
 0.0.0.0 matsuzukigyouseisyoshi.com
 0.0.0.0 maunakealiving.com
@@ -1669,6 +1676,7 @@
 0.0.0.0 nakanodental-cl.com
 0.0.0.0 nakka-art.jp
 0.0.0.0 nakosa.theshop.jp
+0.0.0.0 namaeire.ocnk.net
 0.0.0.0 namahorumonitadaki-honmachi.owst.jp
 0.0.0.0 nana-company.vercel.app
 0.0.0.0 nanatsuya-radical-yasumitsu.sai-soku.jp
@@ -1741,6 +1749,7 @@
 0.0.0.0 no1-creditcard.com
 0.0.0.0 noazocs.com
 0.0.0.0 noenavi.com
+0.0.0.0 nogesyouten-hanare.owst.jp
 0.0.0.0 noj-kawanishi.com
 0.0.0.0 nomie.jp
 0.0.0.0 nomisukeyasu.owst.jp
@@ -2025,6 +2034,7 @@
 0.0.0.0 reservation.aetashotels.com
 0.0.0.0 reservation.medical-force.com
 0.0.0.0 reserve.star7.jp
+0.0.0.0 respark.jp
 0.0.0.0 restrauntbeluga.owst.jp
 0.0.0.0 resus.jp
 0.0.0.0 retail.ksp-sp.com
@@ -2492,6 +2502,7 @@
 0.0.0.0 taiheiyou-ireikyoukai.jp
 0.0.0.0 taijouhoushin-yobou.jp
 0.0.0.0 tainenji.net
+0.0.0.0 taipeiyoichishinjyuku.owst.jp
 0.0.0.0 taishuubistoroharadaya.owst.jp
 0.0.0.0 taiwancyayanana.owst.jp
 0.0.0.0 takadaseed.com
@@ -2785,6 +2796,7 @@
 0.0.0.0 www.0120-70-7777.jp
 0.0.0.0 www.0120058139.com
 0.0.0.0 www.0551353133.com
+0.0.0.0 www.0918717288.com
 0.0.0.0 www.114154.com
 0.0.0.0 www.11i.co.jp
 0.0.0.0 www.1memoria.com
@@ -2946,6 +2958,7 @@
 0.0.0.0 www.athome.co.jp
 0.0.0.0 www.atlas-web.jp
 0.0.0.0 www.atpress.ne.jp
+0.0.0.0 www.aucnet.jp
 0.0.0.0 www.audi-kusunoki.jp
 0.0.0.0 www.audi-nagoyachuo.jp
 0.0.0.0 www.audi.jp
@@ -3025,6 +3038,7 @@
 0.0.0.0 www.bulksports.com
 0.0.0.0 www.bummeido.com
 0.0.0.0 www.bungeisha.co.jp
+0.0.0.0 www.burisho.com
 0.0.0.0 www.busanparadisehotel.co.kr
 0.0.0.0 www.business-crew.co.jp
 0.0.0.0 www.businessweekly.com.tw
@@ -3032,6 +3046,7 @@
 0.0.0.0 www.c-and-rm.com
 0.0.0.0 www.c-cube.cc
 0.0.0.0 www.c21mercury.com
+0.0.0.0 www.ca-japan.co.jp
 0.0.0.0 www.cadjapan.com
 0.0.0.0 www.cafe-ring.com
 0.0.0.0 www.callawaygolf.jp
@@ -3876,6 +3891,7 @@
 0.0.0.0 www.lululemon.co.jp
 0.0.0.0 www.lumran.com
 0.0.0.0 www.luxalgo.com
+0.0.0.0 www.luxgame.jp
 0.0.0.0 www.luxgeous.net
 0.0.0.0 www.luxlegend.com.tw
 0.0.0.0 www.lyft-gym.com
@@ -4436,6 +4452,7 @@
 0.0.0.0 www.sharecoto.co.jp
 0.0.0.0 www.sharkninja.jp
 0.0.0.0 www.shc.co.jp
+0.0.0.0 www.shibaura-rent.com
 0.0.0.0 www.shigotoarimasu.com
 0.0.0.0 www.shigotozaidan.or.jp
 0.0.0.0 www.shikaku.co.jp
@@ -4805,6 +4822,7 @@
 0.0.0.0 www.wing-rev.co.jp
 0.0.0.0 www.wingontravel.com
 0.0.0.0 www.wintechjapan.com
+0.0.0.0 www.wise-agent.com
 0.0.0.0 www.wmberg.com
 0.0.0.0 www.wonnesscompany.com
 0.0.0.0 www.woodboxkochi.net
@@ -4927,6 +4945,7 @@
 0.0.0.0 yobouiryoukai.com
 0.0.0.0 yodomachi-cycling2024.com
 0.0.0.0 yokanavi.com
+0.0.0.0 yokohama-pets-memory.com
 0.0.0.0 yonex-kaisyu.co.jp
 0.0.0.0 yoridocoro.link
 0.0.0.0 yoridoko-kanko.co.jp
