@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 8 April 2025
+# Last modified: 9 April 2025
 #
 
 # [広告全般]
@@ -758,6 +758,7 @@
 0.0.0.0 gakouin.com
 0.0.0.0 games.dmm.com
 0.0.0.0 gankenshinkochi.com
+0.0.0.0 gansan.info
 0.0.0.0 gar.mrajkgea.top
 0.0.0.0 garage.plus.co.jp
 0.0.0.0 garireo.co.jp
@@ -783,6 +784,7 @@
 0.0.0.0 gion-group.jp
 0.0.0.0 gion-museum.com
 0.0.0.0 glampicks.jp
+0.0.0.0 global-content.co
 0.0.0.0 global.jr-central.co.jp
 0.0.0.0 global.tamanlestari.com
 0.0.0.0 globalxetfs.co.jp
@@ -1949,6 +1951,7 @@
 0.0.0.0 propeciabuyonlinenm.com
 0.0.0.0 protectwborcn.com
 0.0.0.0 ps-hp.jpn.panasonic.com
+0.0.0.0 ps-m.jp
 0.0.0.0 ps.nikkei.com
 0.0.0.0 pspo.jp
 0.0.0.0 psta.co.jp
@@ -2273,6 +2276,7 @@
 0.0.0.0 shingon.jp
 0.0.0.0 shinjuku-4510.jp
 0.0.0.0 shinjuku-will.jp
+0.0.0.0 shinsengumi-noda.owst.jp
 0.0.0.0 shisaku-kiban.com
 0.0.0.0 shisas-cafe-bbq.com
 0.0.0.0 shizuclear.jp
@@ -2340,6 +2344,7 @@
 0.0.0.0 sjhierq.top
 0.0.0.0 skijan.com
 0.0.0.0 skr-marathon.jp
+0.0.0.0 skukan.com
 0.0.0.0 sky-joker.tech
 0.0.0.0 skycreation.net
 0.0.0.0 skyle.jp
@@ -2490,6 +2495,8 @@
 0.0.0.0 symphonics.jp
 0.0.0.0 syogetuhukakusaten.owst.jp
 0.0.0.0 syoku-navi.com
+0.0.0.0 syokusainobo-bettei.owst.jp
+0.0.0.0 syriusrobotics.co.jp
 0.0.0.0 systema.lion.co.jp
 0.0.0.0 t.afi-b.com
 0.0.0.0 tabe-repo.net
@@ -2554,6 +2561,7 @@
 0.0.0.0 teknitape.com
 0.0.0.0 teleboat-cp.jp
 0.0.0.0 telling.asahi.com
+0.0.0.0 tempo23.com
 0.0.0.0 ten.dnrb.cc
 0.0.0.0 tenjinbc-shops.jp
 0.0.0.0 tenkuryo.jp
@@ -2729,6 +2737,7 @@
 0.0.0.0 wadainohon.com
 0.0.0.0 wakayama.vc-dealer.jp
 0.0.0.0 wakegai.jp
+0.0.0.0 wakupaku.jp
 0.0.0.0 wakurino.work
 0.0.0.0 walar.co.jp
 0.0.0.0 walife.co.jp
@@ -3022,6 +3031,7 @@
 0.0.0.0 www.boston-apple.jp
 0.0.0.0 www.bousai.pref.fukuoka.jp
 0.0.0.0 www.branchera.com
+0.0.0.0 www.brandsuitdirect.com
 0.0.0.0 www.braun.jp
 0.0.0.0 www.braze.co.jp
 0.0.0.0 www.braze.com
@@ -3057,6 +3067,7 @@
 0.0.0.0 www.canal-area.com
 0.0.0.0 www.canon-its.co.jp
 0.0.0.0 www.canva.com
+0.0.0.0 www.canvas-boardgamecafe.com
 0.0.0.0 www.canvasdiscount.com
 0.0.0.0 www.capital-gp.jp
 0.0.0.0 www.car-byebuy.com
@@ -3298,6 +3309,7 @@
 0.0.0.0 www.evat.cz
 0.0.0.0 www.ex-agent.co.jp
 0.0.0.0 www.ex-anpi.com
+0.0.0.0 www.exlm.co.jp
 0.0.0.0 www.expo-osaka2025.com
 0.0.0.0 www.exprestige.co.jp
 0.0.0.0 www.ey.com
@@ -4953,6 +4965,7 @@
 0.0.0.0 yorokobishop.com
 0.0.0.0 yoshida.co.th
 0.0.0.0 yoshino-gypsum.com
+0.0.0.0 yoshiokajimusho.net
 0.0.0.0 yotasteshop.com
 0.0.0.0 youin.jp
 0.0.0.0 youngjump.jp
@@ -4969,6 +4982,7 @@
 0.0.0.0 yuskin.co.jp
 0.0.0.0 yutaka-tomonokai.jp
 0.0.0.0 zaimani.com
+0.0.0.0 zamion.owst.jp
 0.0.0.0 zatone.com
 0.0.0.0 zen.one
 0.0.0.0 zenbivy.com
