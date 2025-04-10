@@ -4,11 +4,12 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 9 April 2025
+# Last modified: 10 April 2025
 #
 
 # [広告全般]
 0.0.0.0 083083.jp
+0.0.0.0 14fp-lp.com
 0.0.0.0 1cho-me-front.shop-pro.jp
 0.0.0.0 1mfigure.com
 0.0.0.0 1st-range-golf.com
@@ -353,6 +354,7 @@
 0.0.0.0 casge-town.jp
 0.0.0.0 catalog.toubi.co.jp
 0.0.0.0 caterbank.co.jp
+0.0.0.0 cattery-campanella.com
 0.0.0.0 cavalier.breeders.jp
 0.0.0.0 cavedescript.com
 0.0.0.0 cbhpage.com
@@ -837,6 +839,7 @@
 0.0.0.0 greenkankyo.com
 0.0.0.0 greenteatokyo.com
 0.0.0.0 gron.co.jp
+0.0.0.0 grouphome.minnadehukushi.com
 0.0.0.0 groverdesign.jp
 0.0.0.0 growi.cloud
 0.0.0.0 gtoyota.com
@@ -948,6 +951,7 @@
 0.0.0.0 hkcy.tw
 0.0.0.0 hkinf.hk
 0.0.0.0 hmaru.jp
+0.0.0.0 hmhw8.hp.peraichi.com
 0.0.0.0 hobbyshow.co.jp
 0.0.0.0 hoikunosekai.com
 0.0.0.0 hoken-hikakunavi.com
@@ -967,6 +971,7 @@
 0.0.0.0 horseracing-tipsters.biz
 0.0.0.0 hoshi.cocoloni.jp
 0.0.0.0 hotelmonterey-grasmereosaka.jp
+0.0.0.0 hotelmonterey-himeji.jp
 0.0.0.0 hottoke.jp
 0.0.0.0 hougaku.kanto-gakuin.ac.jp
 0.0.0.0 house-cp.jp
@@ -1594,6 +1599,7 @@
 0.0.0.0 miokuriteitaku.jp
 0.0.0.0 mirai-compass.net
 0.0.0.0 mirai-denchi.jp
+0.0.0.0 mirai-dog.com
 0.0.0.0 mirai-mugen-recipe.hp.peraichi.com
 0.0.0.0 mirai-work.life
 0.0.0.0 miraikuuchou-lp.com
@@ -1708,6 +1714,7 @@
 0.0.0.0 newing.kintetsu-re.co.jp
 0.0.0.0 news.chu.edu.tw
 0.0.0.0 news.j-wave.co.jp
+0.0.0.0 news.mynavi.jp
 0.0.0.0 newsonjapan.com
 0.0.0.0 newsphere.jp
 0.0.0.0 next-one-dream.com
@@ -1744,6 +1751,7 @@
 0.0.0.0 nishinomiya-gardens.com
 0.0.0.0 nishinomiya-kazokushintaku.com
 0.0.0.0 nishispo.nishinippon.co.jp
+0.0.0.0 nishitetsu-home.com
 0.0.0.0 nittobest-online.net
 0.0.0.0 nix-water.jp
 0.0.0.0 nizima.com
@@ -2475,6 +2483,7 @@
 0.0.0.0 sumiyaginzo.owst.jp
 0.0.0.0 sumusite.sekisuihouse.co.jp
 0.0.0.0 sunks-rentacar.com
+0.0.0.0 sunnyside-rentacar.com
 0.0.0.0 super-copy-brand.com
 0.0.0.0 superfunded.com
 0.0.0.0 supi.owned.media
@@ -2658,6 +2667,7 @@
 0.0.0.0 tsuruyoshi-jinbocho.owst.jp
 0.0.0.0 tsutaya.tsite.jp
 0.0.0.0 tsuyama-lp.com
+0.0.0.0 tunageru-p.jp
 0.0.0.0 turboterminaltractors.com
 0.0.0.0 tw-img.vpon.com
 0.0.0.0 twoshotmoon.click
@@ -4792,6 +4802,7 @@
 0.0.0.0 www.video.unext.jp
 0.0.0.0 www.vietnamairlines.com
 0.0.0.0 www.vikingcruisesjapan.com
+0.0.0.0 www.vill.noda.iwate.jp
 0.0.0.0 www.vintagewatch.jp
 0.0.0.0 www.virinamaternity.com
 0.0.0.0 www.visartscenter.org
@@ -4820,6 +4831,7 @@
 0.0.0.0 www.washingtonhotel.co.jp
 0.0.0.0 www.watabe-wedding.co.jp
 0.0.0.0 www.watami-takushoku-direct.jp
+0.0.0.0 www.watanabe-housing.net
 0.0.0.0 www.watsons.com.tw
 0.0.0.0 www.wayokudan.ed.jp
 0.0.0.0 www.wb-ookura.com
