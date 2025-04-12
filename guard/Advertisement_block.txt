@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 11 April 2025
+# Last modified: 12 April 2025
 #
 
 # [広告全般]
@@ -61,6 +61,7 @@
 0.0.0.0 aculabo-yamaguchi-sports.com
 0.0.0.0 acuvuevision.jp
 0.0.0.0 ad-kowa.com
+0.0.0.0 ad.dmjegao.com
 0.0.0.0 ad.games.dmm.co.jp
 0.0.0.0 ad.games.dmm.com
 0.0.0.0 adacotech.co.jp
@@ -126,6 +127,7 @@
 0.0.0.0 amann55.com
 0.0.0.0 amarekyoto.owst.jp
 0.0.0.0 ambercorp.co.jp
+0.0.0.0 amiblo.jp
 0.0.0.0 amlead.co.jp
 0.0.0.0 amnibus.com
 0.0.0.0 ampmedia.jp
@@ -465,6 +467,7 @@
 0.0.0.0 creditcard-news.net
 0.0.0.0 crestrich.net
 0.0.0.0 crosroad.com
+0.0.0.0 crossborderadvisorysolutions.com
 0.0.0.0 crosset.onward.co.jp
 0.0.0.0 crowdtech.jp
 0.0.0.0 cucinaitalianaharu.owst.jp
@@ -730,6 +733,7 @@
 0.0.0.0 fujiya-shoyu.com
 0.0.0.0 fukoku-h.co.jp
 0.0.0.0 fukubekaji.shop-pro.jp
+0.0.0.0 fukuhituji.owst.jp
 0.0.0.0 fukui-presentcpn.jp
 0.0.0.0 fukukara.com
 0.0.0.0 fukuoka-heya.jp
@@ -1613,6 +1617,7 @@
 0.0.0.0 mintj.com
 0.0.0.0 mintoku.work
 0.0.0.0 miokuriteitaku.jp
+0.0.0.0 mirable1shop.stores.jp
 0.0.0.0 mirai-compass.net
 0.0.0.0 mirai-denchi.jp
 0.0.0.0 mirai-dog.com
@@ -1816,6 +1821,7 @@
 0.0.0.0 ohtomari.hp.peraichi.com
 0.0.0.0 oishi-kenko.com
 0.0.0.0 oishii-izumo.jp
+0.0.0.0 oiuvoice.com
 0.0.0.0 oka-d-art.com
 0.0.0.0 okaido.clare.jp
 0.0.0.0 okamoto-dental.clinic
@@ -2109,6 +2115,7 @@
 0.0.0.0 s.shamaison.com
 0.0.0.0 s.shufoo.net
 0.0.0.0 s.weddingpark.net
+0.0.0.0 s88.co.jp
 0.0.0.0 sa-benriya.com
 0.0.0.0 sa-mobility.com
 0.0.0.0 sablelabs.co
@@ -2130,6 +2137,7 @@
 0.0.0.0 sakeikki.base.shop
 0.0.0.0 sakura-ju.co.jp
 0.0.0.0 sakura-kozo.jp
+0.0.0.0 sakurabito.jp
 0.0.0.0 sale.24028.jp
 0.0.0.0 sales-adventure.jp
 0.0.0.0 salon-de-alfurd.jp
@@ -2776,6 +2784,7 @@
 0.0.0.0 wakurino.work
 0.0.0.0 walar.co.jp
 0.0.0.0 walife.co.jp
+0.0.0.0 wamell.co.jp
 0.0.0.0 warabimochipompom.com
 0.0.0.0 warm-i.com
 0.0.0.0 washington.jp
@@ -3852,6 +3861,7 @@
 0.0.0.0 www.kobegakuin.ac.jp
 0.0.0.0 www.kobelco-kenki.co.jp
 0.0.0.0 www.kobeseika.ac.jp
+0.0.0.0 www.kobeshingakukai.jp
 0.0.0.0 www.kobetsu.co.jp
 0.0.0.0 www.kobo-shinshu.com
 0.0.0.0 www.kochi-daihatsu.co.jp
@@ -3951,6 +3961,7 @@
 0.0.0.0 www.m-keiei.jp
 0.0.0.0 www.ma20.co.jp
 0.0.0.0 www.macaotourism.gov.mo
+0.0.0.0 www.machidiner.com
 0.0.0.0 www.maebashi-it.ac.jp
 0.0.0.0 www.maetanien.com
 0.0.0.0 www.maff.go.jp
@@ -4077,6 +4088,7 @@
 0.0.0.0 www.motherfarm.co.jp
 0.0.0.0 www.motu-ooyama.com
 0.0.0.0 www.mouse-jp.co.jp
+0.0.0.0 www.mrpro.co.jp
 0.0.0.0 www.ms-ins.com
 0.0.0.0 www.ms-j.jp
 0.0.0.0 www.mtgec.jp
@@ -4101,6 +4113,7 @@
 0.0.0.0 www.nakae-bussan.shop
 0.0.0.0 www.nakamura-u.ac.jp
 0.0.0.0 www.nakanoya-harukas.com
+0.0.0.0 www.nakata-r.com
 0.0.0.0 www.nakayamashouten.com
 0.0.0.0 www.nana.co.jp
 0.0.0.0 www.nanbubijin.jp
@@ -4253,6 +4266,7 @@
 0.0.0.0 www.orbussoftware.com
 0.0.0.0 www.orchidliveseafood.com.sg
 0.0.0.0 www.ordercurtain.co.jp
+0.0.0.0 www.ordermaku.com
 0.0.0.0 www.oreillyauto.com
 0.0.0.0 www.orient-watch.jp
 0.0.0.0 www.oriental-hotels.com
@@ -4292,6 +4306,7 @@
 0.0.0.0 www.panamedia.co.jp
 0.0.0.0 www.panasonic.com
 0.0.0.0 www.pandaroid-info.com
+0.0.0.0 www.pandd.jp
 0.0.0.0 www.panstar.jp
 0.0.0.0 www.pansy.co.jp
 0.0.0.0 www.paris-miki.co.jp
@@ -4469,6 +4484,7 @@
 0.0.0.0 www.sanzenin.jp
 0.0.0.0 www.sap.com
 0.0.0.0 www.sarasotalowcostbankruptcyctr.com
+0.0.0.0 www.sasayamastay.jp
 0.0.0.0 www.sat-corp.jp
 0.0.0.0 www.sat.co.jp
 0.0.0.0 www.sateraito.jp
@@ -4514,6 +4530,7 @@
 0.0.0.0 www.shimachu.co.jp
 0.0.0.0 www.shimane-mirai.jp
 0.0.0.0 www.shimonjuku.com
+0.0.0.0 www.shin3k.jyukatsukyo.or.jp
 0.0.0.0 www.shinbi-shika.net
 0.0.0.0 www.shinkyogaoka.jp
 0.0.0.0 www.shinkyokushinkai.co.jp
