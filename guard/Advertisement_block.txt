@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 12 April 2025
+# Last modified: 13 April 2025
 #
 
 # [広告全般]
@@ -302,6 +302,7 @@
 0.0.0.0 bordercollie.breeders.jp
 0.0.0.0 borth.shop
 0.0.0.0 bostonterrier.breeders.jp
+0.0.0.0 bouquet-24.com
 0.0.0.0 bownim.base.shop
 0.0.0.0 brand.taisho.co.jp
 0.0.0.0 brightage.jp
@@ -1105,10 +1106,12 @@
 0.0.0.0 jackrussell.breeders.jp
 0.0.0.0 jafplaza.com
 0.0.0.0 jagoo.co.jp
+0.0.0.0 jammarineclub.com
 0.0.0.0 japan-food.guide
 0.0.0.0 japan-staff.jp
 0.0.0.0 japanbusonline.com
 0.0.0.0 japanese.visitkorea.or.kr
+0.0.0.0 japaneserestaurant-king.owst.jp
 0.0.0.0 japantax.tokyo
 0.0.0.0 jcloud.co.jp
 0.0.0.0 jetb.co.jp
@@ -2550,6 +2553,7 @@
 0.0.0.0 tainenji.net
 0.0.0.0 taipeiyoichishinjyuku.owst.jp
 0.0.0.0 taishuubistoroharadaya.owst.jp
+0.0.0.0 taisyusakabaafro.owst.jp
 0.0.0.0 taiwancyayanana.owst.jp
 0.0.0.0 takadaseed.com
 0.0.0.0 takamatsu-marugame-bankin.com
@@ -2560,6 +2564,7 @@
 0.0.0.0 takaraya78.com
 0.0.0.0 takasaki.mitsuoka-dealer.com
 0.0.0.0 takatori-kobenakayamate.owst.jp
+0.0.0.0 takatori-sannomiyahonten.owst.jp
 0.0.0.0 takayamado.shop
 0.0.0.0 takuhai-kaitori.hardoff.co.jp
 0.0.0.0 takuhai.daichi-m.co.jp
@@ -2630,6 +2635,7 @@
 0.0.0.0 timee.co.jp
 0.0.0.0 timesbiz.jp
 0.0.0.0 timume.com
+0.0.0.0 tinkerbellmai.com
 0.0.0.0 tire.bridgestone.co.jp
 0.0.0.0 tjgreen-gym.com
 0.0.0.0 tjniigata.jp
@@ -2653,6 +2659,7 @@
 0.0.0.0 tomei.c-nexco.co.jp
 0.0.0.0 tomishiyaku.net
 0.0.0.0 tomitarashi.com
+0.0.0.0 tomo3kaku.stores.jp
 0.0.0.0 tomohirokai.or.jp
 0.0.0.0 tomotaqu.com
 0.0.0.0 top-generator.com
@@ -2726,6 +2733,7 @@
 0.0.0.0 umekita-greenplace.com
 0.0.0.0 umiuma.jp
 0.0.0.0 umiumart.jp
+0.0.0.0 unagi-mankichi.com
 0.0.0.0 unagi-nosuke.com
 0.0.0.0 unaginobori-hamamatsu.jp
 0.0.0.0 uncf.org
@@ -2848,6 +2856,7 @@
 0.0.0.0 www.0101.co.jp
 0.0.0.0 www.0120-70-7777.jp
 0.0.0.0 www.0120058139.com
+0.0.0.0 www.03nouen.com
 0.0.0.0 www.0551353133.com
 0.0.0.0 www.0918717288.com
 0.0.0.0 www.114154.com
@@ -3517,6 +3526,7 @@
 0.0.0.0 www.gunmabank.co.jp
 0.0.0.0 www.guska.jp
 0.0.0.0 www.gyakubiki.net
+0.0.0.0 www.gyosei-hashizume.com
 0.0.0.0 www.gyutoro.com
 0.0.0.0 www.h-bd.co.jp
 0.0.0.0 www.hacobell.com
@@ -4312,6 +4322,7 @@
 0.0.0.0 www.paris-miki.co.jp
 0.0.0.0 www.parkhotelgroup.com
 0.0.0.0 www.parkinghosou.com
+0.0.0.0 www.patagonia.jp
 0.0.0.0 www.pathtosuccess.global
 0.0.0.0 www.patsat.co.jp
 0.0.0.0 www.pattolixil-madohonpo.jp
@@ -4551,6 +4562,7 @@
 0.0.0.0 www.shopowner-support.net
 0.0.0.0 www.showrooming-online.com
 0.0.0.0 www.shozan.co.jp
+0.0.0.0 www.shozankaku.jp
 0.0.0.0 www.shure.com
 0.0.0.0 www.shutoko.jp
 0.0.0.0 www.sightsaversusa.org
