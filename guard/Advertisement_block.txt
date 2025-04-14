@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 13 April 2025
+# Last modified: 14 April 2025
 #
 
 # [広告全般]
@@ -44,6 +44,7 @@
 0.0.0.0 a-soka.com
 0.0.0.0 a-stock-trade-2024.jp
 0.0.0.0 abbacchio.owst.jp
+0.0.0.0 abc-housing.asahi.co.jp
 0.0.0.0 abema.tv
 0.0.0.0 about.paypay.ne.jp
 0.0.0.0 abovejapan.top
@@ -100,6 +101,7 @@
 0.0.0.0 akool.com
 0.0.0.0 akr0105417763.owst.jp
 0.0.0.0 akr0674735414.owst.jp
+0.0.0.0 akr1344517741.owst.jp
 0.0.0.0 akr1440658677.owst.jp
 0.0.0.0 akr2241836267.owst.jp
 0.0.0.0 akr3864845762.owst.jp
@@ -626,6 +628,7 @@
 0.0.0.0 enjoy-sidework.com
 0.0.0.0 enjoyhome-fudosan.net
 0.0.0.0 enk.or.jp
+0.0.0.0 enso.ne.jp
 0.0.0.0 ensuiko.campaigns.jp
 0.0.0.0 entamega.com
 0.0.0.0 entori.jp
@@ -860,7 +863,9 @@
 0.0.0.0 guidance-recruit.visioncon.co.jp
 0.0.0.0 gururi360.net
 0.0.0.0 guyrover.base.shop
+0.0.0.0 gxt-office.com
 0.0.0.0 gym.copin.co.jp
+0.0.0.0 gyoseisyoshi-kaigyou.com
 0.0.0.0 gyozanokattyantakatuki.owst.jp
 0.0.0.0 gyukahachiba.owst.jp
 0.0.0.0 gyutte.jp
@@ -1029,6 +1034,7 @@
 0.0.0.0 ii.tokyu.co.jp
 0.0.0.0 ikedahearinggear.com
 0.0.0.0 iki-online.com
+0.0.0.0 ikusei-youchien.ed.jp
 0.0.0.0 il-villa-ggio.com
 0.0.0.0 ilandtower-clinic.jp
 0.0.0.0 ilclinic.or.jp
@@ -1072,6 +1078,7 @@
 0.0.0.0 ircbike.jp
 0.0.0.0 irodori-akasaka.owst.jp
 0.0.0.0 iroiro2008.net
+0.0.0.0 irorinookkyagari.owst.jp
 0.0.0.0 irumo.docomo.ne.jp
 0.0.0.0 iryou-ishi-hatarakikata.mhlw.go.jp
 0.0.0.0 ishca.jp
@@ -1302,6 +1309,7 @@
 0.0.0.0 kirinuki.jp
 0.0.0.0 kiseki.urr.jp
 0.0.0.0 kitamoto.click
+0.0.0.0 kitanoburn.owst.jp
 0.0.0.0 kitaosaka-souzoku-center.com
 0.0.0.0 kitashinnchiushinozennpremium.owst.jp
 0.0.0.0 kk-takada.com
@@ -2130,6 +2138,7 @@
 0.0.0.0 saimu-soudanjo.com
 0.0.0.0 saimuseiri-green.com
 0.0.0.0 saimushindan-hibiki.com
+0.0.0.0 saisaiushock.com
 0.0.0.0 saitama.netz-toyota-dealer.jp
 0.0.0.0 saitama.sagamitenrei.com
 0.0.0.0 saitokikaku.co.jp
@@ -2529,6 +2538,7 @@
 0.0.0.0 sutekinajinsei.jp
 0.0.0.0 suumo.jp
 0.0.0.0 suzuki-ballet-studio.com
+0.0.0.0 suzumean-sohonten.owst.jp
 0.0.0.0 svenson-recruit.com
 0.0.0.0 svltd.co.jp
 0.0.0.0 swedentis.com
@@ -2795,6 +2805,7 @@
 0.0.0.0 wamell.co.jp
 0.0.0.0 warabimochipompom.com
 0.0.0.0 warm-i.com
+0.0.0.0 warungtropis.owst.jp
 0.0.0.0 washington.jp
 0.0.0.0 washoku.site
 0.0.0.0 watashinodeban.net
@@ -4254,6 +4265,7 @@
 0.0.0.0 www.oki.com
 0.0.0.0 www.okinawastory.jp
 0.0.0.0 www.okinawatimes.co.jp
+0.0.0.0 www.okonomiyaki-gu.co.jp
 0.0.0.0 www.oligo.jp
 0.0.0.0 www.oliveoilsfromspain.jp
 0.0.0.0 www.omron.com
@@ -4776,6 +4788,7 @@
 0.0.0.0 www.tomei-riso.jp
 0.0.0.0 www.tomesode-myselect.com
 0.0.0.0 www.tomiya.co.jp
+0.0.0.0 www.tomshuppan.co.jp
 0.0.0.0 www.topcard.co.jp
 0.0.0.0 www.toritsuko.metro.tokyo.lg.jp
 0.0.0.0 www.torus.co.jp
@@ -4788,6 +4801,7 @@
 0.0.0.0 www.town.togitsu.nagasaki.jp
 0.0.0.0 www.toyama-clean.com
 0.0.0.0 www.toyo.ac.jp
+0.0.0.0 www.toyofuku.net
 0.0.0.0 www.toyota-cn-gifu.co.jp
 0.0.0.0 www.toyotasmile-h.jp
 0.0.0.0 www.toyotetsu.jp
@@ -5005,6 +5019,7 @@
 0.0.0.0 yakiniku-fc.com
 0.0.0.0 yakiniku-royal.com
 0.0.0.0 yakinikunandaimon.owst.jp
+0.0.0.0 yakisuki-saiin.owst.jp
 0.0.0.0 yakitorisuginoya.com
 0.0.0.0 yamadahomes.jp
 0.0.0.0 yamadahomes.resv.jp
@@ -5047,6 +5062,7 @@
 0.0.0.0 yourkins.com
 0.0.0.0 youtakuji.net
 0.0.0.0 ypa.localab.net
+0.0.0.0 ypryunishishinsaibashi.owst.jp
 0.0.0.0 ys-plan.jp.net
 0.0.0.0 ysp-shop.com
 0.0.0.0 yukihira-akashi.owst.jp
