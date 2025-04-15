@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 14 April 2025
+# Last modified: 15 April 2025
 #
 
 # [広告全般]
@@ -331,6 +331,7 @@
 0.0.0.0 ca.nihon-trim.co.jp
 0.0.0.0 cacaosampaka-kitashinchi.com
 0.0.0.0 cafe-inn-hitoiki.com
+0.0.0.0 cafe.anniversaire.co.jp
 0.0.0.0 calendo365.com
 0.0.0.0 camp-fire.jp
 0.0.0.0 camp.toilet-now.com
@@ -683,6 +684,7 @@
 0.0.0.0 fc.e-daikoku.com
 0.0.0.0 fctl.co.jp
 0.0.0.0 fegroup-fukui.jp
+0.0.0.0 fek-cosmos.com
 0.0.0.0 felice-create.com
 0.0.0.0 feliz-malto.com
 0.0.0.0 feliz.okadanet.com
@@ -1100,6 +1102,7 @@
 0.0.0.0 itb-nanairo.tokyo
 0.0.0.0 ito-ec.jp
 0.0.0.0 itp.ne.jp
+0.0.0.0 iwata-yuzunoki-hoikuen.com
 0.0.0.0 iwateya-shop.jp
 0.0.0.0 iyec.itoyokado.co.jp
 0.0.0.0 izumi-posting.com
@@ -4570,6 +4573,7 @@
 0.0.0.0 www.shochu.or.jp
 0.0.0.0 www.shohara-dental.com
 0.0.0.0 www.shokochukin.co.jp
+0.0.0.0 www.shop-west.jp
 0.0.0.0 www.shopify.com
 0.0.0.0 www.shopowner-support.net
 0.0.0.0 www.showrooming-online.com
