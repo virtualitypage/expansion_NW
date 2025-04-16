@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 15 April 2025
+# Last modified: 16 April 2025
 #
 
 # [広告全般]
@@ -110,6 +110,7 @@
 0.0.0.0 akr7779880273.owst.jp
 0.0.0.0 akr7827636977.owst.jp
 0.0.0.0 akr8178987612.owst.jp
+0.0.0.0 akr8468139698.owst.jp
 0.0.0.0 akr9636581561.owst.jp
 0.0.0.0 al-mare.irodori-inc-okj.co.jp
 0.0.0.0 alc.talkingmarathon.com
@@ -954,6 +955,7 @@
 0.0.0.0 hirakata-ryutsu.com
 0.0.0.0 hiranomusic.tokyo
 0.0.0.0 hiraya-navi.com
+0.0.0.0 hiroki-plus-gakuentoshi.owst.jp
 0.0.0.0 hirose-fx.co.jp
 0.0.0.0 hirose-fx.jp
 0.0.0.0 hiroshima-souzoku.com
@@ -1021,6 +1023,7 @@
 0.0.0.0 ibarakishi-shaken.com
 0.0.0.0 ichigen.shop
 0.0.0.0 ichikawa-wt.co.jp
+0.0.0.0 ichirobe.kyoto.jp
 0.0.0.0 ichoice-coop.com
 0.0.0.0 id.asics.com
 0.0.0.0 id.seikowatches.com
@@ -1354,6 +1357,7 @@
 0.0.0.0 kotobukisannomiya.owst.jp
 0.0.0.0 kotonaru.co.jp
 0.0.0.0 kottoukaitori-ohgiya.jp
+0.0.0.0 koudai-soukai-k.allow-web.com
 0.0.0.0 kouju.mabuchi.co.jp
 0.0.0.0 koukoukojitsu.com
 0.0.0.0 koundou.com
@@ -1674,6 +1678,7 @@
 0.0.0.0 moneysmith.biz
 0.0.0.0 monji.tech
 0.0.0.0 morimoto-lp.com
+0.0.0.0 moritec-lp.com
 0.0.0.0 moriya-contact.com
 0.0.0.0 motherfood.co.uk
 0.0.0.0 mothers-tenshiba.com
@@ -1802,6 +1807,7 @@
 0.0.0.0 northernterritory.com
 0.0.0.0 norudake-kyoto.com
 0.0.0.0 note-infomart.jp
+0.0.0.0 notfound.osaka
 0.0.0.0 notice.go.jp
 0.0.0.0 noukabanzai.jp
 0.0.0.0 nova-ag.com
@@ -1885,6 +1891,7 @@
 0.0.0.0 osaka-jakunen-chiki.mhlw.go.jp
 0.0.0.0 osaka-pleats-amido.com
 0.0.0.0 osaka-posting.jp
+0.0.0.0 osaka.kyosai-cc.or.jp
 0.0.0.0 osaka.letsgojp.com
 0.0.0.0 osaka.seikatsuclub.coop
 0.0.0.0 osakafoodtours.com
@@ -2273,6 +2280,7 @@
 0.0.0.0 sekokan-labo.jp
 0.0.0.0 sekokan-next.worldcorp-jp.com
 0.0.0.0 selcohome.jp
+0.0.0.0 semaurusyokudou-nakano.owst.jp
 0.0.0.0 seminar.rakurakuseisan.jp
 0.0.0.0 sen8senjya.jp
 0.0.0.0 send.microad.jp
@@ -2512,6 +2520,7 @@
 0.0.0.0 suginoko-people.com
 0.0.0.0 sugo-japan.com
 0.0.0.0 suguredashicp.jp
+0.0.0.0 suke-dachi.jp
 0.0.0.0 sumaho-sousa.com
 0.0.0.0 sumai.es-conjapan.co.jp
 0.0.0.0 sumai.jalux.com
@@ -3014,6 +3023,7 @@
 0.0.0.0 www.arunco.co
 0.0.0.0 www.arystalifescience.jp
 0.0.0.0 www.asahi-biyou.or.jp
+0.0.0.0 www.asahi-gf.co.jp
 0.0.0.0 www.asahi-kasei.com
 0.0.0.0 www.asahi-netshop.com
 0.0.0.0 www.asahi-shoes.co.jp
@@ -3363,8 +3373,10 @@
 0.0.0.0 www.energygap-jp.com
 0.0.0.0 www.englishcafe-clock.com
 0.0.0.0 www.enhousing.jp
+0.0.0.0 www.enma-do.com
 0.0.0.0 www.enoteca.co.jp
 0.0.0.0 www.enshu-shinkin.jp
+0.0.0.0 www.enshuuya.co.jp
 0.0.0.0 www.env.go.jp
 0.0.0.0 www.epam.com
 0.0.0.0 www.eposcard.co.jp
@@ -3815,6 +3827,7 @@
 0.0.0.0 www.kaitoritop.jp
 0.0.0.0 www.kaji-kawa.jp
 0.0.0.0 www.kakiharafamily.com
+0.0.0.0 www.kameido-kura.com
 0.0.0.0 www.kamine.co.jp
 0.0.0.0 www.kanagawa-subaru.com
 0.0.0.0 www.kanagawa-u.ac.jp
@@ -3923,6 +3936,7 @@
 0.0.0.0 www.kumokasa.com
 0.0.0.0 www.kungfuds.l4t.biz
 0.0.0.0 www.kushals.com
+0.0.0.0 www.kushi-baru.com
 0.0.0.0 www.kyjlaw.com
 0.0.0.0 www.kyodoyokohama.com
 0.0.0.0 www.kyosai-cc.or.jp
@@ -4057,6 +4071,7 @@
 0.0.0.0 www.mignon-eyelash-recruit.com
 0.0.0.0 www.miinhair.com
 0.0.0.0 www.mikahara.com
+0.0.0.0 www.mikazuki.co.jp
 0.0.0.0 www.miki-japan.com
 0.0.0.0 www.miki-re.com
 0.0.0.0 www.mikimoto.com
@@ -4250,6 +4265,7 @@
 0.0.0.0 www.office-com.jp
 0.0.0.0 www.office-freelive.com
 0.0.0.0 www.officedeyasai.jp
+0.0.0.0 www.ogs-p.jp
 0.0.0.0 www.ogu.ac.jp
 0.0.0.0 www.ogurakonbu.co.jp
 0.0.0.0 www.ohkawa-sub.com
@@ -4568,6 +4584,7 @@
 0.0.0.0 www.shionogi.com
 0.0.0.0 www.shiseido.co.jp
 0.0.0.0 www.shitate.net
+0.0.0.0 www.shiteikanricenter.co.jp
 0.0.0.0 www.shitennoji.ac.jp
 0.0.0.0 www.shizutetsu-homes.co.jp
 0.0.0.0 www.shochu.or.jp
@@ -4905,6 +4922,7 @@
 0.0.0.0 www.wakamoto-pharm.co.jp
 0.0.0.0 www.wakayamaumeshu.jp
 0.0.0.0 www.walkerplus.com
+0.0.0.0 www.wanwan-house.net
 0.0.0.0 www.wappenya.com
 0.0.0.0 www.warajin.com
 0.0.0.0 www.wasedajuku.com
@@ -4944,6 +4962,7 @@
 0.0.0.0 www.xronos-inc.co.jp
 0.0.0.0 www.xtb.com
 0.0.0.0 www.y-yokohama.com
+0.0.0.0 www.yabaton.com
 0.0.0.0 www.yaezawa.com
 0.0.0.0 www.yaken.store
 0.0.0.0 www.yakiniku-bulls.jp
