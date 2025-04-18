@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 17 April 2025
+# Last modified: 18 April 2025
 #
 
 # [広告全般]
@@ -104,6 +104,7 @@
 0.0.0.0 akr1344517741.owst.jp
 0.0.0.0 akr1440658677.owst.jp
 0.0.0.0 akr2241836267.owst.jp
+0.0.0.0 akr3470120455.owst.jp
 0.0.0.0 akr3864845762.owst.jp
 0.0.0.0 akr3886447014.owst.jp
 0.0.0.0 akr4061480779.owst.jp
@@ -145,6 +146,7 @@
 0.0.0.0 and-english.com
 0.0.0.0 anellohome.com
 0.0.0.0 anestheplus.jp
+0.0.0.0 angelbowls.owst.jp
 0.0.0.0 angelica-lp.com
 0.0.0.0 angelinasweet.com
 0.0.0.0 animefesta.iowl.jp
@@ -389,6 +391,7 @@
 0.0.0.0 chill-cam.com
 0.0.0.0 chintai.house-q.co.jp
 0.0.0.0 chirashi.akachan.jp
+0.0.0.0 chodai3biru.owst.jp
 0.0.0.0 chouwasha.jp
 0.0.0.0 chrysler-jeep.jp
 0.0.0.0 chuchubaby.jp
@@ -492,6 +495,7 @@
 0.0.0.0 daiei-corporation.com
 0.0.0.0 daishoren.org
 0.0.0.0 danball-hompo.com
+0.0.0.0 dancyu.jp
 0.0.0.0 danshin-smile.cardif.co.jp
 0.0.0.0 daran-eyebeauty.com
 0.0.0.0 darts-strix.owst.jp
@@ -1099,6 +1103,7 @@
 0.0.0.0 islewhite.com
 0.0.0.0 isodashika.com
 0.0.0.0 issho-ueno.com
+0.0.0.0 issyou-nishikujyou.owst.jp
 0.0.0.0 issyou-nishinakajima.owst.jp
 0.0.0.0 istanbul.goturkiye.com
 0.0.0.0 it-shien.smrj.go.jp
@@ -1234,6 +1239,7 @@
 0.0.0.0 kaigyoyushi-osaka.jp
 0.0.0.0 kainuma.org
 0.0.0.0 kaitori.brandoff.co.jp
+0.0.0.0 kaitori.truckland.jp
 0.0.0.0 kaitori24h.com
 0.0.0.0 kaitoribuyer.com
 0.0.0.0 kajima-kyoren.com
@@ -1403,6 +1409,7 @@
 0.0.0.0 kyokuto-boueki.com
 0.0.0.0 kyomachiya-baikyaku.com
 0.0.0.0 kyomono-sampo.jp
+0.0.0.0 kyorin.icnohiroba.com
 0.0.0.0 kyoso-coaching.com
 0.0.0.0 kyoto-hatoya.jp
 0.0.0.0 kyoto-kimonorental.com
@@ -2374,6 +2381,7 @@
 0.0.0.0 shop.mahoroba-inter.com
 0.0.0.0 shop.mandom.co.jp
 0.0.0.0 shop.marusanai.co.jp
+0.0.0.0 shop.mawatari.net
 0.0.0.0 shop.nakano-group.co.jp
 0.0.0.0 shop.noevir.jp
 0.0.0.0 shop.pdr.co.jp
@@ -2761,6 +2769,7 @@
 0.0.0.0 uma-rank.net
 0.0.0.0 umaki-items.com
 0.0.0.0 umamibomb.jp
+0.0.0.0 umeda-lasow.owst.jp
 0.0.0.0 umeda.alcocca.jp
 0.0.0.0 umeda.moriwaki-seikotu.com
 0.0.0.0 umekita-greenplace.com
@@ -2805,6 +2814,7 @@
 0.0.0.0 verde8-18-28-24.com
 0.0.0.0 vermeermountainwest.com
 0.0.0.0 video.unext.jp
+0.0.0.0 videosalon.jp
 0.0.0.0 videpro-espec.jp
 0.0.0.0 vieconseils.com
 0.0.0.0 villa-hamanako.jp
@@ -2884,6 +2894,7 @@
 0.0.0.0 world.hello-gesher.com
 0.0.0.0 wowclassic.blizzard.com
 0.0.0.0 wp.i-voce.jp
+0.0.0.0 ww4.izakaya-kiichi.com
 0.0.0.0 www-yororailway-co-jp-c.athp.transer.com
 0.0.0.0 www.0003.co.jp
 0.0.0.0 www.0038.co.jp
@@ -3293,6 +3304,7 @@
 0.0.0.0 www.daiwahouse.co.jp
 0.0.0.0 www.daiyuu.com
 0.0.0.0 www.dakimakurakobo.jp
+0.0.0.0 www.dandadan.jp
 0.0.0.0 www.daytona-park.com
 0.0.0.0 www.deaf-tryout24.para-athlete.tokyo
 0.0.0.0 www.decorte.com
@@ -3623,6 +3635,7 @@
 0.0.0.0 www.hikoki-powertools.jp
 0.0.0.0 www.hiltonodaiba.jp
 0.0.0.0 www.hiltonwedding.jp
+0.0.0.0 www.himeji-hiranohonten.com
 0.0.0.0 www.hinodegakuen-recruit.com
 0.0.0.0 www.hirameki7.io
 0.0.0.0 www.hiro-clinic.or.jp
@@ -4631,6 +4644,7 @@
 0.0.0.0 www.sky-career.jp
 0.0.0.0 www.sky-hotel.jp
 0.0.0.0 www.skybldg.co.jp
+0.0.0.0 www.skydivehawaii.jp
 0.0.0.0 www.skypce.net
 0.0.0.0 www.skyperfectv.co.jp
 0.0.0.0 www.skyxia.jp
@@ -4711,6 +4725,7 @@
 0.0.0.0 www.surfabudhabi.com
 0.0.0.0 www.surftripmagazine.com
 0.0.0.0 www.surpricenow.com
+0.0.0.0 www.sushihan.co.jp
 0.0.0.0 www.suwaeru-spray.jp
 0.0.0.0 www.suzukacircuit.jp
 0.0.0.0 www.suzuki.co.jp
