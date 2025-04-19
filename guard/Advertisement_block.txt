@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 18 April 2025
+# Last modified: 19 April 2025
 #
 
 # [広告全般]
@@ -361,6 +361,7 @@
 0.0.0.0 cardshop-kenzo.myshopify.com
 0.0.0.0 career-safari.com
 0.0.0.0 career.levtech.jp
+0.0.0.0 career.yoshidaand.net
 0.0.0.0 careerjp.work
 0.0.0.0 careers.fromsoftware.jp
 0.0.0.0 carioca.owst.jp
@@ -748,6 +749,7 @@
 0.0.0.0 fukubekaji.shop-pro.jp
 0.0.0.0 fukuhituji.owst.jp
 0.0.0.0 fukui-presentcpn.jp
+0.0.0.0 fukujuen.owst.jp
 0.0.0.0 fukukara.com
 0.0.0.0 fukuoka-heya.jp
 0.0.0.0 fukuokapaint.com
@@ -875,6 +877,7 @@
 0.0.0.0 gxt-office.com
 0.0.0.0 gym.copin.co.jp
 0.0.0.0 gyoseisyoshi-kaigyou.com
+0.0.0.0 gyozanokattyanhukushima.owst.jp
 0.0.0.0 gyozanokattyantakatuki.owst.jp
 0.0.0.0 gyukahachiba.owst.jp
 0.0.0.0 gyutte.jp
@@ -928,6 +931,7 @@
 0.0.0.0 hatarakujob.com
 0.0.0.0 hayabusa-kk.com
 0.0.0.0 hayatahome.com
+0.0.0.0 hayatejpncorp.com
 0.0.0.0 hc.kowa.co.jp
 0.0.0.0 hc.kyodoprinting.co.jp
 0.0.0.0 hc.mt-pharma.co.jp
@@ -1037,6 +1041,7 @@
 0.0.0.0 idea.kawahara.ac.jp
 0.0.0.0 idec-fs.com
 0.0.0.0 idex.bz
+0.0.0.0 idoue2016.com
 0.0.0.0 ie-van.com
 0.0.0.0 iei.jp
 0.0.0.0 ifdesign.com
@@ -1685,6 +1690,7 @@
 0.0.0.0 mods-clinic.info
 0.0.0.0 mokucolle.com
 0.0.0.0 mokutown.jp
+0.0.0.0 momuriplus.com
 0.0.0.0 mone-pla.co.jp
 0.0.0.0 money-college.org
 0.0.0.0 moneycanvas.bk.mufg.jp
@@ -1902,6 +1908,7 @@
 0.0.0.0 ortho-mouthpiece-jp.life
 0.0.0.0 os-insourcring.bluememe.jp
 0.0.0.0 os.sinto.co.jp
+0.0.0.0 osaka-classic-car-expo.jp
 0.0.0.0 osaka-daihatsu.co.jp
 0.0.0.0 osaka-hanalangue.com
 0.0.0.0 osaka-jakunen-chiki.mhlw.go.jp
@@ -1946,6 +1953,7 @@
 0.0.0.0 partitacorporation.com
 0.0.0.0 party-maker.studio.site
 0.0.0.0 party-wedding.gnavi.co.jp
+0.0.0.0 partybanquethall-garden.owst.jp
 0.0.0.0 pc-farm.co.jp
 0.0.0.0 pc-seven.co.jp
 0.0.0.0 pcareer.m3.com
@@ -2133,6 +2141,8 @@
 0.0.0.0 rokon.click
 0.0.0.0 roppongi-yamikin.ad-web.click
 0.0.0.0 roseoncheeks.com
+0.0.0.0 rosso-akashi.owst.jp
+0.0.0.0 roteigi-osaka.owst.jp
 0.0.0.0 roundi.us
 0.0.0.0 rousai-zangyou-bengoshi.com
 0.0.0.0 rs-mie.net
@@ -2651,6 +2661,8 @@
 0.0.0.0 ten.dnrb.cc
 0.0.0.0 tenjinbc-shops.jp
 0.0.0.0 tenkuryo.jp
+0.0.0.0 tenpuraendoyasakahonten.owst.jp
+0.0.0.0 tensei-osaka.com
 0.0.0.0 tenshoku.mynavi.jp
 0.0.0.0 tetra.jp
 0.0.0.0 tettirilaboshonai.owst.jp
@@ -4120,6 +4132,7 @@
 0.0.0.0 www.mitsubishielectric.co.jp
 0.0.0.0 www.mitsui-sanshi.co.jp
 0.0.0.0 www.mitsui.com
+0.0.0.0 www.mitsuihome-hse.co.jp
 0.0.0.0 www.mitsuihome.co.jp
 0.0.0.0 www.mitsukete.mitsui-mall.com
 0.0.0.0 www.mitsuoka-motor.com
@@ -4793,6 +4806,7 @@
 0.0.0.0 www.tgsc.tokyo
 0.0.0.0 www.the-cushion.com
 0.0.0.0 www.the-pathfinder.com
+0.0.0.0 www.thefingerseams.com
 0.0.0.0 www.themalaygolfer.com
 0.0.0.0 www.thepiel.com
 0.0.0.0 www.thermofisher.com
@@ -4857,6 +4871,7 @@
 0.0.0.0 www.toyota-cn-gifu.co.jp
 0.0.0.0 www.toyotasmile-h.jp
 0.0.0.0 www.toyotetsu.jp
+0.0.0.0 www.tp-kyouyufudousan.com
 0.0.0.0 www.tpishida.co.jp
 0.0.0.0 www.trailer-house.biz
 0.0.0.0 www.trance-media.co.jp
