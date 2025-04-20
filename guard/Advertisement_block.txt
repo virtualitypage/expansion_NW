@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 19 April 2025
+# Last modified: 20 April 2025
 #
 
 # [広告全般]
@@ -239,6 +239,7 @@
 0.0.0.0 bashotoru.com
 0.0.0.0 bath.tagaya.co.jp
 0.0.0.0 baycrews.jp
+0.0.0.0 bazooka-nandcars.com
 0.0.0.0 bbq-group.jp
 0.0.0.0 bbq.urban-earth.jp
 0.0.0.0 bc-lp.com
@@ -1244,12 +1245,14 @@
 0.0.0.0 kaigyoyushi-osaka.jp
 0.0.0.0 kainuma.org
 0.0.0.0 kaitori.brandoff.co.jp
+0.0.0.0 kaitori.live
 0.0.0.0 kaitori.truckland.jp
 0.0.0.0 kaitori24h.com
 0.0.0.0 kaitoribuyer.com
 0.0.0.0 kajima-kyoren.com
 0.0.0.0 kakushelter.com
 0.0.0.0 kakuteishinkoku-zeirishi.jp
+0.0.0.0 kakuuchitomennbansan.owst.jp
 0.0.0.0 kakuyomu.jp
 0.0.0.0 kamata-nikuzushi.owst.jp
 0.0.0.0 kameman.owst.jp
@@ -1267,6 +1270,7 @@
 0.0.0.0 kanekaq10pr.com
 0.0.0.0 kanimitsu.com
 0.0.0.0 kankokuryori-anpan.owst.jp
+0.0.0.0 kankokuryourichingu.owst.jp
 0.0.0.0 kankomirai-ouen.jp
 0.0.0.0 kansai-boatshow.jp
 0.0.0.0 kansai-elevator.co.jp
@@ -1483,6 +1487,7 @@
 0.0.0.0 logimeets.jp
 0.0.0.0 lohasplaza.com
 0.0.0.0 longterm.kikagaku.ai
+0.0.0.0 lotteryserv.biz
 0.0.0.0 lotus-jinzai.co.jp
 0.0.0.0 love.kinohei.jp
 0.0.0.0 lovelyhall.com
@@ -1867,6 +1872,7 @@
 0.0.0.0 oka-d-art.com
 0.0.0.0 okaido.clare.jp
 0.0.0.0 okamoto-dental.clinic
+0.0.0.0 okariba-kyoto.owst.jp
 0.0.0.0 okayama-life.jp
 0.0.0.0 okayama-taiken.com
 0.0.0.0 okayama.coop
@@ -1930,6 +1936,7 @@
 0.0.0.0 otonamuse.jp
 0.0.0.0 otori-hearing.com
 0.0.0.0 otori.ario.jp
+0.0.0.0 ougiya-takaishi.owst.jp
 0.0.0.0 oumis-labo.jp
 0.0.0.0 owk.lpro-chat.com
 0.0.0.0 owl-airplane.space
@@ -2438,6 +2445,7 @@
 0.0.0.0 slash-fishing.jp
 0.0.0.0 sleepytofu.co.jp
 0.0.0.0 smapano2.com
+0.0.0.0 smappy-if.com
 0.0.0.0 smart-supply.org
 0.0.0.0 smartcool-rinku.shop
 0.0.0.0 smarthome-100.co.jp
@@ -2563,6 +2571,7 @@
 0.0.0.0 sumisho-tatemono-chuukai.net
 0.0.0.0 sumitoma.tokyo
 0.0.0.0 sumiyaginzo.owst.jp
+0.0.0.0 sumiyayotsuba.owst.jp
 0.0.0.0 sumusite.sekisuihouse.co.jp
 0.0.0.0 sunks-rentacar.com
 0.0.0.0 sunnyside-rentacar.com
@@ -2648,6 +2657,7 @@
 0.0.0.0 tck-racecampaign2024.com
 0.0.0.0 td-holdings.tokyocameraclub.com
 0.0.0.0 teamix.click
+0.0.0.0 teamojp.org
 0.0.0.0 tebanashi.mira-ie.co.jp
 0.0.0.0 tech-drone.co.jp
 0.0.0.0 tech.jp.sharp
@@ -2725,6 +2735,7 @@
 0.0.0.0 toriton.owst.jp
 0.0.0.0 torras.co.jp
 0.0.0.0 tosei-hotel.co.jp
+0.0.0.0 totoseven.owst.jp
 0.0.0.0 tottoreal-pavilion.jp
 0.0.0.0 toubyo.com
 0.0.0.0 toushi-up.com
@@ -2849,6 +2860,7 @@
 0.0.0.0 walife.co.jp
 0.0.0.0 wamell.co.jp
 0.0.0.0 warabimochipompom.com
+0.0.0.0 waraya88.owst.jp
 0.0.0.0 warm-i.com
 0.0.0.0 warungtropis.owst.jp
 0.0.0.0 washington.jp
@@ -3837,6 +3849,7 @@
 0.0.0.0 www.jsol-recruit.com
 0.0.0.0 www.jsy.jp
 0.0.0.0 www.jtbcorp.jp
+0.0.0.0 www.juken-center.com
 0.0.0.0 www.julliaolger.jp
 0.0.0.0 www.jurassicworld.jp
 0.0.0.0 www.justanswer.jp
@@ -4621,6 +4634,7 @@
 0.0.0.0 www.shinmeishin-info.com
 0.0.0.0 www.shinmoku.jp
 0.0.0.0 www.shinpur.store
+0.0.0.0 www.shinq-compass.jp
 0.0.0.0 www.shinsakae-hotel.nagoya
 0.0.0.0 www.shinwaclimb.jp
 0.0.0.0 www.shionogi.com
@@ -4903,6 +4917,7 @@
 0.0.0.0 www.tv-osaka.co.jp
 0.0.0.0 www.twellv.co.jp
 0.0.0.0 www.twintreesphotography.com
+0.0.0.0 www.txr.kr
 0.0.0.0 www.tymetro.com.tw
 0.0.0.0 www.u-academy.jp
 0.0.0.0 www.u-can.co.jp
