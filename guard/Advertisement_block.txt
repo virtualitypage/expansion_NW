@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 20 April 2025
+# Last modified: 21 April 2025
 #
 
 # [広告全般]
@@ -108,6 +108,7 @@
 0.0.0.0 akr3864845762.owst.jp
 0.0.0.0 akr3886447014.owst.jp
 0.0.0.0 akr4061480779.owst.jp
+0.0.0.0 akr6827161385.owst.jp
 0.0.0.0 akr7779880273.owst.jp
 0.0.0.0 akr7827636977.owst.jp
 0.0.0.0 akr8178987612.owst.jp
@@ -578,6 +579,7 @@
 0.0.0.0 ds.uncn.jp
 0.0.0.0 ds.yahoo.co.jp
 0.0.0.0 dsp.logly.co.jp
+0.0.0.0 ducca-sendai.com
 0.0.0.0 duskin-cashlesscp.com
 0.0.0.0 duskin-sm-business.com
 0.0.0.0 dusttry-eigyou.studio.site
@@ -746,8 +748,10 @@
 0.0.0.0 fujishimaya.com
 0.0.0.0 fujitadougu.com
 0.0.0.0 fujiya-shoyu.com
+0.0.0.0 fukidashi.site
 0.0.0.0 fukoku-h.co.jp
 0.0.0.0 fukubekaji.shop-pro.jp
+0.0.0.0 fukuensenka.hp.peraichi.com
 0.0.0.0 fukuhituji.owst.jp
 0.0.0.0 fukui-presentcpn.jp
 0.0.0.0 fukujuen.owst.jp
@@ -1410,6 +1414,7 @@
 0.0.0.0 kurupika-coating.com
 0.0.0.0 kusakariki.com
 0.0.0.0 kushi-tanaka.com
+0.0.0.0 kushiage-aiyo-sanjyosyoutengai.owst.jp
 0.0.0.0 kushio-miyako.owst.jp
 0.0.0.0 kushiyakisakaba-takeshi.owst.jp
 0.0.0.0 kuzira-mizu.com
@@ -1478,6 +1483,7 @@
 0.0.0.0 lining-konishi.com
 0.0.0.0 link.springer.com
 0.0.0.0 linktr.ee
+0.0.0.0 linoas.jp
 0.0.0.0 liquidinc.asia
 0.0.0.0 live-plus-do-style.jp
 0.0.0.0 livejapan.com
@@ -1539,6 +1545,7 @@
 0.0.0.0 m.momoshop.com.tw
 0.0.0.0 m.qoo10.jp
 0.0.0.0 m.shein.com
+0.0.0.0 m.sumitaie.co.jp
 0.0.0.0 m.unove.jp
 0.0.0.0 m001.mljinc.jp
 0.0.0.0 m004.arj7177.jp
@@ -3200,6 +3207,7 @@
 0.0.0.0 www.career-adv.jp
 0.0.0.0 www.careerlinkfactory.co.jp
 0.0.0.0 www.caresoku.com
+0.0.0.0 www.carestar.co.jp
 0.0.0.0 www.carsensor.net
 0.0.0.0 www.carseven.co.jp
 0.0.0.0 www.carshares.jp
@@ -3316,6 +3324,7 @@
 0.0.0.0 www.daiichisankyo.co.jp
 0.0.0.0 www.daiichisemi.net
 0.0.0.0 www.daiken.jp
+0.0.0.0 www.daikoku.ne.jp
 0.0.0.0 www.daimaru.co.jp
 0.0.0.0 www.dainiti.co.jp
 0.0.0.0 www.daioshop.jp
@@ -3806,6 +3815,7 @@
 0.0.0.0 www.japan-it.jp
 0.0.0.0 www.japandrone-kansai.com
 0.0.0.0 www.japanenergyevent.com
+0.0.0.0 www.jawfp.org
 0.0.0.0 www.jbcc.co.jp
 0.0.0.0 www.jbcchd.co.jp
 0.0.0.0 www.jcb.jp
@@ -4454,6 +4464,7 @@
 0.0.0.0 www.poodle.me
 0.0.0.0 www.popy.jp
 0.0.0.0 www.porsche.co.jp
+0.0.0.0 www.potto-has.com
 0.0.0.0 www.prada.com
 0.0.0.0 www.prageru.com
 0.0.0.0 www.preciousplatinum.jp
@@ -5041,6 +5052,7 @@
 0.0.0.0 www.yane-takumi.net
 0.0.0.0 www.yanmar.com
 0.0.0.0 www.yasuda-u.ac.jp
+0.0.0.0 www.yasumiya-d.net
 0.0.0.0 www.yawata.tv
 0.0.0.0 www.yeuxclairs.com
 0.0.0.0 www.ykkap.co.jp
