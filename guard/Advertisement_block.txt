@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 21 April 2025
+# Last modified: 22 April 2025
 #
 
 # [広告全般]
@@ -81,6 +81,7 @@
 0.0.0.0 aflart8739.com
 0.0.0.0 afs.hakuhodody-media.co.jp
 0.0.0.0 agent.chizaijuku.com
+0.0.0.0 agent.dousan.tokyo
 0.0.0.0 agfblendy-campaign.jp
 0.0.0.0 agri.mynavi.jp
 0.0.0.0 ahamo.com
@@ -103,6 +104,7 @@
 0.0.0.0 akr0674735414.owst.jp
 0.0.0.0 akr1344517741.owst.jp
 0.0.0.0 akr1440658677.owst.jp
+0.0.0.0 akr1520790650.owst.jp
 0.0.0.0 akr2241836267.owst.jp
 0.0.0.0 akr3470120455.owst.jp
 0.0.0.0 akr3864845762.owst.jp
@@ -585,6 +587,7 @@
 0.0.0.0 dusttry-eigyou.studio.site
 0.0.0.0 dwmall.westjr.co.jp
 0.0.0.0 dwqrkt.xyz
+0.0.0.0 dx-jinzai.mhlw.go.jp
 0.0.0.0 dxnavi.com
 0.0.0.0 dynabook.com
 0.0.0.0 e-actionlearning.jp
@@ -915,6 +918,7 @@
 0.0.0.0 hands.net
 0.0.0.0 haneda-shopping.jp
 0.0.0.0 hanshinboys.com
+0.0.0.0 hansol.owst.jp
 0.0.0.0 hapi-hapi-style.com
 0.0.0.0 happy5.site
 0.0.0.0 happygift2.com
@@ -1008,6 +1012,7 @@
 0.0.0.0 hoom-furniture.com
 0.0.0.0 horseracing-tipsters.biz
 0.0.0.0 hoshi.cocoloni.jp
+0.0.0.0 hoshikare.jp
 0.0.0.0 hotelmonterey-grasmereosaka.jp
 0.0.0.0 hotelmonterey-himeji.jp
 0.0.0.0 hottoke.jp
@@ -1102,6 +1107,7 @@
 0.0.0.0 iroiro2008.net
 0.0.0.0 irorinookkyagari.owst.jp
 0.0.0.0 irumo.docomo.ne.jp
+0.0.0.0 iryo-bengo.online
 0.0.0.0 iryou-ishi-hatarakikata.mhlw.go.jp
 0.0.0.0 isetandoor.mistore.jp
 0.0.0.0 ishca.jp
@@ -1417,6 +1423,7 @@
 0.0.0.0 kushiage-aiyo-sanjyosyoutengai.owst.jp
 0.0.0.0 kushio-miyako.owst.jp
 0.0.0.0 kushiyakisakaba-takeshi.owst.jp
+0.0.0.0 kutsurogiya.owst.jp
 0.0.0.0 kuzira-mizu.com
 0.0.0.0 kyodonewsprwire.jp
 0.0.0.0 kyokamaboko.co.jp
@@ -1588,6 +1595,7 @@
 0.0.0.0 manoamano87.jp
 0.0.0.0 manulife-gaika.jp
 0.0.0.0 manzara-nishiki.owst.jp
+0.0.0.0 manzara.co.jp
 0.0.0.0 maquia.hpplus.jp
 0.0.0.0 marineworld.hiyoriyama.co.jp
 0.0.0.0 marketing-careerlabo.jp
@@ -1751,6 +1759,7 @@
 0.0.0.0 nagoya-camera.mikawa.ne.jp
 0.0.0.0 nagoya-platen.nikkan.co.jp
 0.0.0.0 nagoya.ace-clinic.com
+0.0.0.0 nagoyalivestreaming.com
 0.0.0.0 naia-astena.jp
 0.0.0.0 naiteikun-corp.com
 0.0.0.0 naka4.com
@@ -2861,6 +2870,7 @@
 0.0.0.0 wadainohon.com
 0.0.0.0 wakayama.vc-dealer.jp
 0.0.0.0 wakegai.jp
+0.0.0.0 wakohhomes.com
 0.0.0.0 wakupaku.jp
 0.0.0.0 wakurino.work
 0.0.0.0 walar.co.jp
@@ -3034,6 +3044,7 @@
 0.0.0.0 www.americantourister.jp
 0.0.0.0 www.amh.clinic
 0.0.0.0 www.amiami.jp
+0.0.0.0 www.amidas.co.jp
 0.0.0.0 www.aminarubinacci.it
 0.0.0.0 www.amity.co.jp
 0.0.0.0 www.ana.co.jp
@@ -4432,6 +4443,7 @@
 0.0.0.0 www.pentasecurity.co.jp
 0.0.0.0 www.perfectglobe.net
 0.0.0.0 www.personalhealth.jp
+0.0.0.0 www.pesce-nitro.com
 0.0.0.0 www.pet-coo.com
 0.0.0.0 www.pet-coo.net
 0.0.0.0 www.peugeot.co.jp
@@ -4614,6 +4626,7 @@
 0.0.0.0 www.seiho-sdk.co.jp
 0.0.0.0 www.seiko-sol.co.jp
 0.0.0.0 www.seikowatches.com
+0.0.0.0 www.seirei.or.jp
 0.0.0.0 www.seiss.co.jp
 0.0.0.0 www.seito-jp.com
 0.0.0.0 www.sekisuiheim.com
