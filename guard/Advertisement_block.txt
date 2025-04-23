@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 22 April 2025
+# Last modified: 23 April 2025
 #
 
 # [広告全般]
@@ -21,6 +21,7 @@
 0.0.0.0 3016clinic.com
 0.0.0.0 321.inc
 0.0.0.0 35s.co.jp
+0.0.0.0 39scafe-thanks.owst.jp
 0.0.0.0 3d-mitsumori.com
 0.0.0.0 3ei.co.jp
 0.0.0.0 3m.commerceconnector.net
@@ -232,6 +233,7 @@
 0.0.0.0 azu-l.com
 0.0.0.0 b-checker.com
 0.0.0.0 backlog.com
+0.0.0.0 bairanbarchica03.owst.jp
 0.0.0.0 bakuten-personal.com
 0.0.0.0 balletschool.hp.peraichi.com
 0.0.0.0 bamoove.jp
@@ -1446,6 +1448,7 @@
 0.0.0.0 l-tike.com
 0.0.0.0 l-works.design
 0.0.0.0 labrador.breeders.jp
+0.0.0.0 lagblanc.com
 0.0.0.0 lagemayo.com
 0.0.0.0 lagged.com
 0.0.0.0 laki-pupu.jp
@@ -1853,6 +1856,7 @@
 0.0.0.0 notfound.osaka
 0.0.0.0 notice.go.jp
 0.0.0.0 noukabanzai.jp
+0.0.0.0 noukatsu-shimbun.jp
 0.0.0.0 nova-ag.com
 0.0.0.0 novaassessoriatelefonica.jp
 0.0.0.0 noz-shop.com
@@ -2748,12 +2752,14 @@
 0.0.0.0 toranoana-lab.co.jp
 0.0.0.0 torcroftlodges.com
 0.0.0.0 torikinumeda.owst.jp
+0.0.0.0 torinomiya.owst.jp
 0.0.0.0 toriton.owst.jp
 0.0.0.0 torras.co.jp
 0.0.0.0 tosei-hotel.co.jp
 0.0.0.0 totoseven.owst.jp
 0.0.0.0 tottoreal-pavilion.jp
 0.0.0.0 toubyo.com
+0.0.0.0 touentei.com
 0.0.0.0 toushi-up.com
 0.0.0.0 tovira.jp
 0.0.0.0 towa-corp.net
@@ -3642,6 +3648,7 @@
 0.0.0.0 www.haneda.jalcity.co.jp
 0.0.0.0 www.hanhanshop.com
 0.0.0.0 www.hankooktire.com
+0.0.0.0 www.hankyu-hotel.com
 0.0.0.0 www.hankyu.co.jp
 0.0.0.0 www.hannan-u.ac.jp
 0.0.0.0 www.hanshin-exp.co.jp
@@ -4541,6 +4548,7 @@
 0.0.0.0 www.regina-web.jp
 0.0.0.0 www.regza.com
 0.0.0.0 www.reizan-fusui.jp
+0.0.0.0 www.remi-unballet.com
 0.0.0.0 www.remosia.biz
 0.0.0.0 www.remotecall.com
 0.0.0.0 www.rendimento.com.br
