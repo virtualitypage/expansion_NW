@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 23 April 2025
+# Last modified: 24 April 2025
 #
 
 # [広告全般]
@@ -579,6 +579,7 @@
 0.0.0.0 drilnews.com
 0.0.0.0 drinco.jp
 0.0.0.0 drone-procrew.com
+0.0.0.0 dronekyoka.com
 0.0.0.0 drplus-japan.com
 0.0.0.0 ds.uncn.jp
 0.0.0.0 ds.yahoo.co.jp
@@ -794,6 +795,7 @@
 0.0.0.0 gaiheki02.rank12345678.com
 0.0.0.0 gaihekitosou-support.jp
 0.0.0.0 gakouin.com
+0.0.0.0 gakumado.mynavi.jp
 0.0.0.0 games.dmm.com
 0.0.0.0 gankenshinkochi.com
 0.0.0.0 gansan.info
@@ -1038,6 +1040,7 @@
 0.0.0.0 hyogo-lifepartner.co.jp
 0.0.0.0 hyogo-quality.jp
 0.0.0.0 hypnosismic-movie.com
+0.0.0.0 hypnosismic.com
 0.0.0.0 i-voce.jp
 0.0.0.0 i.ansinkaigo.jp
 0.0.0.0 i.kirei.today
@@ -1181,6 +1184,7 @@
 0.0.0.0 jolism.com
 0.0.0.0 josaigakuen.ac.jp
 0.0.0.0 joshinweb.jp
+0.0.0.0 joto-yuzunoki-hoikuen.com
 0.0.0.0 joyfit-west.jp
 0.0.0.0 joylife.alsok.co.jp
 0.0.0.0 jp.apkpac.com
@@ -1194,6 +1198,7 @@
 0.0.0.0 jp.ext.hp.com
 0.0.0.0 jp.fujitsu.com
 0.0.0.0 jp.gauthmath.com
+0.0.0.0 jp.glocalme.com
 0.0.0.0 jp.gorgonzola.com
 0.0.0.0 jp.indeed.com
 0.0.0.0 jp.jeinjena.com
@@ -1235,6 +1240,7 @@
 0.0.0.0 jws-c.jp
 0.0.0.0 jyouhoudenshi.jp
 0.0.0.0 jyuhun-chord.com
+0.0.0.0 k-getchu.com
 0.0.0.0 k-rm.jp
 0.0.0.0 k-tsukada.com
 0.0.0.0 kaban-campaign.com
@@ -1898,8 +1904,10 @@
 0.0.0.0 okayama.coop
 0.0.0.0 oketani-lp.com
 0.0.0.0 okonomiyaki-enya.com
+0.0.0.0 okoze-yumekoubou.com
 0.0.0.0 oldisroad.com
 0.0.0.0 olubie.jp
+0.0.0.0 om-seishin.com
 0.0.0.0 omedeto.hp.peraichi.com
 0.0.0.0 omurakyotei.jp
 0.0.0.0 omutsuclub.com
@@ -1924,6 +1932,7 @@
 0.0.0.0 open-oita.jp
 0.0.0.0 opencampus.nagoya-wu.ac.jp
 0.0.0.0 openhub.ntt.com
+0.0.0.0 orangehouse.co.jp
 0.0.0.0 order.ymobile.jp
 0.0.0.0 orgel-gallery.jp
 0.0.0.0 orientstar-watch.com
@@ -2315,6 +2324,7 @@
 0.0.0.0 scratch.dmm.com
 0.0.0.0 screen-spe-introduction.com
 0.0.0.0 sdgs-kuchikomi-lodge.jp
+0.0.0.0 sdgs-print.site
 0.0.0.0 sdt.inc
 0.0.0.0 sealm.jp
 0.0.0.0 sealy-jp.com
@@ -2561,6 +2571,7 @@
 0.0.0.0 store.world.co.jp
 0.0.0.0 store.zita.life
 0.0.0.0 stories-hyperballad.com
+0.0.0.0 story.ajinomoto.co.jp
 0.0.0.0 stressless-pr.jp
 0.0.0.0 strong-beauty.tokyo
 0.0.0.0 strux.oner.jp
@@ -2922,6 +2933,7 @@
 0.0.0.0 wester.jr-odekake.net
 0.0.0.0 whisper-lagoon.info
 0.0.0.0 white-meister.com
+0.0.0.0 whityumeda.ai-shinkyuuin-sekkotsuin.com
 0.0.0.0 widgets.taxel.jp
 0.0.0.0 willcorp.net
 0.0.0.0 willcre03.com
@@ -2986,6 +2998,7 @@
 0.0.0.0 www.abarth.jp
 0.0.0.0 www.abc-mart.net
 0.0.0.0 www.able.co.jp
+0.0.0.0 www.aburayo.jp
 0.0.0.0 www.aburi-bokujyou.com
 0.0.0.0 www.ac-oktec.com
 0.0.0.0 www.accendo.co.jp
@@ -3099,6 +3112,7 @@
 0.0.0.0 www.asahi-shoes.co.jp
 0.0.0.0 www.asahi.com
 0.0.0.0 www.asakuma.farm
+0.0.0.0 www.ashifumi.jp
 0.0.0.0 www.asics.com
 0.0.0.0 www.askhim.jp
 0.0.0.0 www.askul.co.jp
@@ -3114,6 +3128,7 @@
 0.0.0.0 www.athome.co.jp
 0.0.0.0 www.atlas-web.jp
 0.0.0.0 www.atpress.ne.jp
+0.0.0.0 www.aucklandtourhouse.com
 0.0.0.0 www.aucnet.jp
 0.0.0.0 www.audi-kusunoki.jp
 0.0.0.0 www.audi-nagoyachuo.jp
@@ -3312,6 +3327,7 @@
 0.0.0.0 www.coopsumai.jp
 0.0.0.0 www.cordlesschime.com
 0.0.0.0 www.corehouse.jp
+0.0.0.0 www.coreopticstech.com
 0.0.0.0 www.corona.co.jp
 0.0.0.0 www.corp-m-rental.com
 0.0.0.0 www.corso-life.com
@@ -3653,6 +3669,7 @@
 0.0.0.0 www.hannan-u.ac.jp
 0.0.0.0 www.hanshin-exp.co.jp
 0.0.0.0 www.hanshow.com
+0.0.0.0 www.hansoku-goods.net
 0.0.0.0 www.hanwha-rerise.jp
 0.0.0.0 www.haotalks.com
 0.0.0.0 www.happiness-direct.com
@@ -4311,6 +4328,7 @@
 0.0.0.0 www.nobunaga-funding.jp
 0.0.0.0 www.noce.co.jp
 0.0.0.0 www.nohgahotel.com
+0.0.0.0 www.noma.co.jp
 0.0.0.0 www.nomura-am.co.jp
 0.0.0.0 www.nomura-landport.com
 0.0.0.0 www.nondact89.com
@@ -4405,6 +4423,7 @@
 0.0.0.0 www.osaka-ti.co.jp
 0.0.0.0 www.osaka-toyopet.jp
 0.0.0.0 www.osakac.ac.jp
+0.0.0.0 www.osakagasms.jp
 0.0.0.0 www.osakahome.jp
 0.0.0.0 www.osampo-g.jp
 0.0.0.0 www.oscd.jp
@@ -4830,6 +4849,7 @@
 0.0.0.0 www.tateyama-kou.net
 0.0.0.0 www.tb-kumano.jp
 0.0.0.0 www.tdk.com
+0.0.0.0 www.tds.co.jp
 0.0.0.0 www.teamlab.art
 0.0.0.0 www.technoassocie.co.jp
 0.0.0.0 www.teez.jp
@@ -4962,6 +4982,7 @@
 0.0.0.0 www.uehara-shinkyuin.com
 0.0.0.0 www.uhe.ac.jp
 0.0.0.0 www.uipath.com
+0.0.0.0 www.umemori-shop.com
 0.0.0.0 www.uminokyoto.jp
 0.0.0.0 www.uminosachi-yamato.co.jp
 0.0.0.0 www.umiwellness.com
@@ -5020,6 +5041,7 @@
 0.0.0.0 www.warajin.com
 0.0.0.0 www.wasedajuku.com
 0.0.0.0 www.washingtonhotel.co.jp
+0.0.0.0 www.washokuhiro.jp
 0.0.0.0 www.watabe-wedding.co.jp
 0.0.0.0 www.watami-takushoku-direct.jp
 0.0.0.0 www.watanabe-housing.net
