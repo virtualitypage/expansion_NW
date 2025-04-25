@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 24 April 2025
+# Last modified: 25 April 2025
 #
 
 # [広告全般]
@@ -695,6 +695,7 @@
 0.0.0.0 famousbbq.com
 0.0.0.0 fan-blogs.com
 0.0.0.0 fanddf.net
+0.0.0.0 fantia.co.jp
 0.0.0.0 faseminar.com
 0.0.0.0 fashionbox.tkj.jp
 0.0.0.0 fasteasy.io
@@ -718,6 +719,7 @@
 0.0.0.0 flex.amazon.co.jp
 0.0.0.0 flowerjob.net
 0.0.0.0 fm.nikkeibp.co.jp
+0.0.0.0 fms-2016.com
 0.0.0.0 fod.fujitv.co.jp
 0.0.0.0 folegolf.jp
 0.0.0.0 food-match-japan.campaign.europa.eu
@@ -959,6 +961,7 @@
 0.0.0.0 hennge.com
 0.0.0.0 hephall.jp
 0.0.0.0 her-onlinestore.com
+0.0.0.0 herbareyou.jp
 0.0.0.0 hey-choshikun.com
 0.0.0.0 heyheyship.jp
 0.0.0.0 hha.hitachi-hightech.com
@@ -1138,6 +1141,7 @@
 0.0.0.0 iwata-yuzunoki-hoikuen.com
 0.0.0.0 iwateya-shop.jp
 0.0.0.0 iyec.itoyokado.co.jp
+0.0.0.0 izakaya-yusuke.owst.jp
 0.0.0.0 izumi-posting.com
 0.0.0.0 izumisano-film.com
 0.0.0.0 izumozine.jp
@@ -1145,6 +1149,7 @@
 0.0.0.0 ja-aichi-hearthome.net
 0.0.0.0 ja-aichichita.jp
 0.0.0.0 ja.couponpac.com
+0.0.0.0 ja.ecer.com
 0.0.0.0 ja.popsilla.com
 0.0.0.0 jackrussell.breeders.jp
 0.0.0.0 jafplaza.com
@@ -1503,6 +1508,7 @@
 0.0.0.0 liquidinc.asia
 0.0.0.0 live-plus-do-style.jp
 0.0.0.0 livejapan.com
+0.0.0.0 lively-villa.jp
 0.0.0.0 liveviewing.jp
 0.0.0.0 living-revolution.onlinekyoto.com
 0.0.0.0 loans.life
@@ -1540,6 +1546,7 @@
 0.0.0.0 lp.sienarose.jp
 0.0.0.0 lp.sokuwork.com
 0.0.0.0 lp.studyinternational.com
+0.0.0.0 lp.waternet-inc.com
 0.0.0.0 lp.yometel.jp
 0.0.0.0 lp.zipair.net
 0.0.0.0 lp.zume-n.com
@@ -1725,6 +1732,7 @@
 0.0.0.0 moneycanvas.bk.mufg.jp
 0.0.0.0 moneykit.net
 0.0.0.0 moneysmith.biz
+0.0.0.0 monjayaoya.owst.jp
 0.0.0.0 monji.tech
 0.0.0.0 morimoto-lp.com
 0.0.0.0 moritec-lp.com
@@ -1742,6 +1750,7 @@
 0.0.0.0 mugla.goturkiye.com
 0.0.0.0 muqbel.jp
 0.0.0.0 musashi-kikaiyuso.com
+0.0.0.0 mushimushi-busters.jp
 0.0.0.0 mushinkoku.com
 0.0.0.0 music.kawai.jp
 0.0.0.0 my-career.co.jp
@@ -2399,6 +2408,7 @@
 0.0.0.0 shinjuku-4510.jp
 0.0.0.0 shinjuku-will.jp
 0.0.0.0 shinsengumi-noda.owst.jp
+0.0.0.0 shinya0129.info
 0.0.0.0 shisaku-kiban.com
 0.0.0.0 shisas-cafe-bbq.com
 0.0.0.0 shizuclear.jp
@@ -2556,6 +2566,7 @@
 0.0.0.0 stockedges.com
 0.0.0.0 store-jp.nintendo.com
 0.0.0.0 store-visit.meo-one.com
+0.0.0.0 store.ace.jp
 0.0.0.0 store.alpen-group.jp
 0.0.0.0 store.ashleyfurniture.jp
 0.0.0.0 store.fix-it.jp
@@ -2765,6 +2776,7 @@
 0.0.0.0 torikinumeda.owst.jp
 0.0.0.0 torinomiya.owst.jp
 0.0.0.0 toriton.owst.jp
+0.0.0.0 toriyakishougun-kawachieiwa.owst.jp
 0.0.0.0 torras.co.jp
 0.0.0.0 tosei-hotel.co.jp
 0.0.0.0 totoseven.owst.jp
@@ -3059,6 +3071,7 @@
 0.0.0.0 www.amanofd.jp
 0.0.0.0 www.amd.com
 0.0.0.0 www.amepla.jp
+0.0.0.0 www.americanlife.jp
 0.0.0.0 www.americanmeat.jp
 0.0.0.0 www.americantourister.jp
 0.0.0.0 www.amh.clinic
@@ -3311,6 +3324,7 @@
 0.0.0.0 www.cog.inc
 0.0.0.0 www.coinpalace.jp
 0.0.0.0 www.colab8.jp
+0.0.0.0 www.colantotte.jp
 0.0.0.0 www.colehaan.co.jp
 0.0.0.0 www.collisioncareers.com
 0.0.0.0 www.colors-bc.com
@@ -3318,6 +3332,7 @@
 0.0.0.0 www.combi.co.jp
 0.0.0.0 www.comic-valkyrie.com
 0.0.0.0 www.commufa.jp
+0.0.0.0 www.comoss.co.jp
 0.0.0.0 www.concent-f.jp
 0.0.0.0 www.concur.co.jp
 0.0.0.0 www.coneru.co.jp
@@ -4429,6 +4444,7 @@
 0.0.0.0 www.oscd.jp
 0.0.0.0 www.osg.co.jp
 0.0.0.0 www.oshimaya.jp
+0.0.0.0 www.osoujihonpo.com
 0.0.0.0 www.otafuku.co.jp
 0.0.0.0 www.otakaraya.jp
 0.0.0.0 www.otani.ac.jp
@@ -5134,6 +5150,7 @@
 0.0.0.0 www.zentaku.or.jp
 0.0.0.0 www.zero-office.biz
 0.0.0.0 www.zeroa-o.com
+0.0.0.0 www.zface.jp
 0.0.0.0 www.zissen-mw.jp
 0.0.0.0 www.zojirushi.co.jp
 0.0.0.0 www.zokkonkareshi.top
