@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 25 April 2025
+# Last modified: 26 April 2025
 #
 
 # [広告全般]
@@ -28,6 +28,7 @@
 0.0.0.0 3mk2r3.com
 0.0.0.0 3rd-shutter.photo
 0.0.0.0 47095986.form.kintoneapp.com
+0.0.0.0 4seasonsgallery.jp
 0.0.0.0 4years.asahi.com
 0.0.0.0 50ban-shop.com
 0.0.0.0 659naoso.com
@@ -221,6 +222,7 @@
 0.0.0.0 audi-tokai.com
 0.0.0.0 audika.jp
 0.0.0.0 audition.photoreco.com
+0.0.0.0 aus.crayonsite.net
 0.0.0.0 australian-macadamias.jp
 0.0.0.0 awake-support.com
 0.0.0.0 awaraonsenyuraku.jp
@@ -862,6 +864,7 @@
 0.0.0.0 goodconnect-sales.jp
 0.0.0.0 goodlins.com
 0.0.0.0 goodshub.jp
+0.0.0.0 goodsmorningnews.com
 0.0.0.0 googirl.jp
 0.0.0.0 goooodhome.gifu.jp
 0.0.0.0 gorillada.automotive.panasonic.com
@@ -921,6 +924,7 @@
 0.0.0.0 hamanocontact-nanbacity.com
 0.0.0.0 hamieru.co.jp
 0.0.0.0 hana-home.com
+0.0.0.0 hanawa-yoho.jp
 0.0.0.0 hands.net
 0.0.0.0 haneda-shopping.jp
 0.0.0.0 hanshinboys.com
@@ -1013,6 +1017,7 @@
 0.0.0.0 home.tokyo-gas.co.jp
 0.0.0.0 home.tsuku2.jp
 0.0.0.0 homme.reginaclinic.jp
+0.0.0.0 hon-gakko.com
 0.0.0.0 hondacars.jp
 0.0.0.0 hondacars.link
 0.0.0.0 honkaku-coco.com
@@ -1249,6 +1254,7 @@
 0.0.0.0 k-rm.jp
 0.0.0.0 k-tsukada.com
 0.0.0.0 kaban-campaign.com
+0.0.0.0 kabu-evangelist.com
 0.0.0.0 kabu.com
 0.0.0.0 kabuand.com
 0.0.0.0 kachi-doki.jp
@@ -1330,6 +1336,7 @@
 0.0.0.0 kenkoudo.darm.co.jp
 0.0.0.0 kenminforum-aomori.com
 0.0.0.0 kens-smile.com
+0.0.0.0 kensei-baikyaku.jp
 0.0.0.0 kenseidayori-mie.com
 0.0.0.0 kensetsutenshokunavi.jp
 0.0.0.0 kentei.tokyo-cci.or.jp
@@ -1559,6 +1566,7 @@
 0.0.0.0 lungo-hall.com
 0.0.0.0 lussoshioya-lp.sanyo-kaigo.net
 0.0.0.0 luvlit.jp
+0.0.0.0 luxmask.stores.jp
 0.0.0.0 luxsfront.com
 0.0.0.0 m-ihinseiri.jp
 0.0.0.0 m-ikimonogatari.com
@@ -1674,6 +1682,7 @@
 0.0.0.0 micromagazine.co.jp
 0.0.0.0 midnight-keirin.com
 0.0.0.0 miechuo.bmw.jp
+0.0.0.0 mikatajukudesu.com
 0.0.0.0 mimi-kyokai.jp
 0.0.0.0 minamiasagaya.ryusei-sekkotuin.net
 0.0.0.0 minase-ep.jp
@@ -1794,6 +1803,7 @@
 0.0.0.0 nara.jr-central.co.jp
 0.0.0.0 natalie.mu
 0.0.0.0 natgeo.nikkeibp.co.jp
+0.0.0.0 natto-cookie.com
 0.0.0.0 naturalchange.jp
 0.0.0.0 navi.jobpal.jp
 0.0.0.0 navi.kankou-matsue.jp
@@ -1926,6 +1936,7 @@
 0.0.0.0 oneit.co.jp
 0.0.0.0 oneosaka.jp
 0.0.0.0 onesho.com
+0.0.0.0 onisi-anshinchoice.com
 0.0.0.0 online-mental-clinic.com
 0.0.0.0 online.cosmo-space.jp
 0.0.0.0 online.uc.edu
@@ -2794,6 +2805,7 @@
 0.0.0.0 toyota.jp
 0.0.0.0 trabzon.goturkiye.com
 0.0.0.0 trace.popin.cc
+0.0.0.0 traib.net
 0.0.0.0 tramsystem.co.jp
 0.0.0.0 transformation-showcase.com
 0.0.0.0 travel.willer.co.jp
@@ -3441,6 +3453,7 @@
 0.0.0.0 www.e-sogi.com
 0.0.0.0 www.e-tix.jp
 0.0.0.0 www.e-ty.co.jp
+0.0.0.0 www.e-use.net
 0.0.0.0 www.ebara.co.jp
 0.0.0.0 www.ec-store.net
 0.0.0.0 www.ecc.jp
@@ -3646,6 +3659,7 @@
 0.0.0.0 www.grand-seiko.com
 0.0.0.0 www.grandelakes.com
 0.0.0.0 www.grandsoleil.co.jp
+0.0.0.0 www.green-management-japan.com
 0.0.0.0 www.greenelephantco.com
 0.0.0.0 www.greenynbio.com
 0.0.0.0 www.gregory.jp
@@ -4591,6 +4605,7 @@
 0.0.0.0 www.rentalpronto.net
 0.0.0.0 www.reply.com
 0.0.0.0 www.repohappy.com
+0.0.0.0 www.rex-it.jp
 0.0.0.0 www.ricoland.co.jp
 0.0.0.0 www.riken-hochoki.com
 0.0.0.0 www.rikuden.co.jp
@@ -5097,6 +5112,7 @@
 0.0.0.0 www.yaezawa.com
 0.0.0.0 www.yaken.store
 0.0.0.0 www.yakiniku-bulls.jp
+0.0.0.0 www.yamabiko-care.com
 0.0.0.0 www.yamada-denkiweb.com
 0.0.0.0 www.yamada-egg.com
 0.0.0.0 www.yamaha-motor.co.jp
@@ -5125,6 +5141,7 @@
 0.0.0.0 www.yonoton.com
 0.0.0.0 www.yoriso.com
 0.0.0.0 www.yoshinoya.com
+0.0.0.0 www.yoshito.shop
 0.0.0.0 www.yosuga-law.net
 0.0.0.0 www.yotsuba-shop.com
 0.0.0.0 www.youtubeonlineschool.com
@@ -5173,6 +5190,7 @@
 0.0.0.0 yadorigilab.com
 0.0.0.0 yaeyama-rentacar.com
 0.0.0.0 yakiniku-fc.com
+0.0.0.0 yakiniku-guts-hanare.jp
 0.0.0.0 yakiniku-royal.com
 0.0.0.0 yakinikunandaimon.owst.jp
 0.0.0.0 yakisuki-saiin.owst.jp
@@ -5228,6 +5246,7 @@
 0.0.0.0 yusho-kyoto.owst.jp
 0.0.0.0 yushoku.co.jp
 0.0.0.0 yuskin.co.jp
+0.0.0.0 yutaka-bc.jp
 0.0.0.0 yutaka-tomonokai.jp
 0.0.0.0 zaimani.com
 0.0.0.0 zamion.owst.jp
