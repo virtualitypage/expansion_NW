@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 26 April 2025
+# Last modified: 27 April 2025
 #
 
 # [広告全般]
@@ -163,6 +163,7 @@
 0.0.0.0 anpontan-kouenji.owst.jp
 0.0.0.0 answerbox.jp
 0.0.0.0 anytool.jp
+0.0.0.0 anzco-fuji-2025cp.campar.jp
 0.0.0.0 aoba-jb.com
 0.0.0.0 aoki-hamono.co.jp
 0.0.0.0 aomorimai-cp2025.com
@@ -894,6 +895,7 @@
 0.0.0.0 gxt-office.com
 0.0.0.0 gym.copin.co.jp
 0.0.0.0 gyoseisyoshi-kaigyou.com
+0.0.0.0 gyousei-saima.com
 0.0.0.0 gyozanokattyanhukushima.owst.jp
 0.0.0.0 gyozanokattyantakatuki.owst.jp
 0.0.0.0 gyukahachiba.owst.jp
@@ -1082,6 +1084,7 @@
 0.0.0.0 imabarishintoshi-aeonmall.com
 0.0.0.0 imamurasiroari.co.jp
 0.0.0.0 imari-cci.or.jp
+0.0.0.0 imokin.co.jp
 0.0.0.0 impreme.jp
 0.0.0.0 in-market.net
 0.0.0.0 in.fujii-worldforecast.jp
@@ -2015,6 +2018,7 @@
 0.0.0.0 pcareer.m3.com
 0.0.0.0 pcnext.shop
 0.0.0.0 pcrepair-chiba.com
+0.0.0.0 pct-law.jp
 0.0.0.0 pengguin.thebase.in
 0.0.0.0 penguin-spice.store
 0.0.0.0 pengy-magic.penguin-colony.net
@@ -3979,6 +3983,7 @@
 0.0.0.0 www.kddi-dsec.com
 0.0.0.0 www.keiai.net
 0.0.0.0 www.keichomaru.jp
+0.0.0.0 www.keihan-ert.jp
 0.0.0.0 www.keiji-pestcontrol.com
 0.0.0.0 www.keiko.josho.ac.jp
 0.0.0.0 www.keikyu-store.com
@@ -5242,6 +5247,7 @@
 0.0.0.0 ysp-shop.com
 0.0.0.0 yukihira-akashi.owst.jp
 0.0.0.0 yumekitchen.jp
+0.0.0.0 yurayura.owst.jp
 0.0.0.0 yururi-nikori.owst.jp
 0.0.0.0 yusho-kyoto.owst.jp
 0.0.0.0 yushoku.co.jp
