@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 27 April 2025
+# Last modified: 28 April 2025
 #
 
 # [広告全般]
@@ -229,6 +229,7 @@
 0.0.0.0 awaraonsenyuraku.jp
 0.0.0.0 axa.a-ehoken.com
 0.0.0.0 axia-expo.nikkan.co.jp
+0.0.0.0 axiom.trade
 0.0.0.0 ayame-fudousan.com
 0.0.0.0 ayjudie.com
 0.0.0.0 az-art.net
@@ -1056,6 +1057,7 @@
 0.0.0.0 i.kirei.today
 0.0.0.0 iatss.or.jp
 0.0.0.0 ibaraki-ranking.com
+0.0.0.0 ibaraki.jws-nt.jp
 0.0.0.0 ibarakishi-shaken.com
 0.0.0.0 ichigen.shop
 0.0.0.0 ichikawa-wt.co.jp
