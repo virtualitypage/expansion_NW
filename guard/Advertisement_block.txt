@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 28 April 2025
+# Last modified: 29 April 2025
 #
 
 # [広告全般]
@@ -537,6 +537,7 @@
 0.0.0.0 didoritei-hankyutsukaguchi.owst.jp
 0.0.0.0 didoriteinagase.owst.jp
 0.0.0.0 diet-kyoukai.com
+0.0.0.0 diff.co.jp
 0.0.0.0 digilumi.jp
 0.0.0.0 digina.jp
 0.0.0.0 digital-women.maia.co.jp
@@ -882,6 +883,7 @@
 0.0.0.0 gravitypark.jp
 0.0.0.0 graychat.net
 0.0.0.0 greenkankyo.com
+0.0.0.0 greenlight-accounting.lovable.app
 0.0.0.0 greenteatokyo.com
 0.0.0.0 gron.co.jp
 0.0.0.0 grouphome.minnadehukushi.com
@@ -2079,6 +2081,7 @@
 0.0.0.0 prime-career.jp
 0.0.0.0 primo-reform.com
 0.0.0.0 pritynews.com
+0.0.0.0 prive.co.jp
 0.0.0.0 pro.gnavi.co.jp
 0.0.0.0 proaceworks.com
 0.0.0.0 product.kadokawa.co.jp
@@ -2122,6 +2125,7 @@
 0.0.0.0 race.nishinippon.co.jp
 0.0.0.0 raichoshrine.owst.jp
 0.0.0.0 railway.jr-central.co.jp
+0.0.0.0 rainbow-c.com
 0.0.0.0 rakugo-zanmai.pia.co.jp
 0.0.0.0 rakuori.com
 0.0.0.0 rakuraku-kimono.com
@@ -3014,6 +3018,7 @@
 0.0.0.0 www.6nen4kumi.com
 0.0.0.0 www.7-7maruka.com
 0.0.0.0 www.7th9lodge.com
+0.0.0.0 www.816.co.jp
 0.0.0.0 www.816kinki.com
 0.0.0.0 www.85cafe.com
 0.0.0.0 www.894651.com
@@ -3410,6 +3415,7 @@
 0.0.0.0 www.delonghi.com
 0.0.0.0 www.demarsfukuoka.com
 0.0.0.0 www.denray.com
+0.0.0.0 www.densan-kikaku.co.jp
 0.0.0.0 www.dentsu.ed.jp
 0.0.0.0 www.dezao-reform.com
 0.0.0.0 www.dfs.com
@@ -3946,6 +3952,7 @@
 0.0.0.0 www.kagi-gakkou.com
 0.0.0.0 www.kagu-uenoya.com
 0.0.0.0 www.kagusapo.com
+0.0.0.0 www.kahisakan.jp
 0.0.0.0 www.kahm-art.co.jp
 0.0.0.0 www.kaigishitu.com
 0.0.0.0 www.kaigoagent.com
@@ -4797,6 +4804,7 @@
 0.0.0.0 www.sousou.jp
 0.0.0.0 www.southbank.org
 0.0.0.0 www.souzoku-rescue.net
+0.0.0.0 www.spacemarket.com
 0.0.0.0 www.spf21.net
 0.0.0.0 www.spglobal.com
 0.0.0.0 www.splunk.com
@@ -4811,6 +4819,7 @@
 0.0.0.0 www.stat.go.jp
 0.0.0.0 www.stella-house.jp
 0.0.0.0 www.stellarplace.net
+0.0.0.0 www.stemvets.com
 0.0.0.0 www.stepon.co.jp
 0.0.0.0 www.stepup-school.net
 0.0.0.0 www.stevenstone.co.uk
@@ -4885,6 +4894,7 @@
 0.0.0.0 www.tasaki.co.jp
 0.0.0.0 www.tashiro-kankyo.com
 0.0.0.0 www.tateyama-kou.net
+0.0.0.0 www.taylormadegolf.jp
 0.0.0.0 www.tb-kumano.jp
 0.0.0.0 www.tdk.com
 0.0.0.0 www.tds.co.jp
