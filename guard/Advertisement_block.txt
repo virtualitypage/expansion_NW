@@ -4,11 +4,12 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 1 May 2025
+# Last modified: 2 May 2025
 #
 
 # [広告全般]
 0.0.0.0 0001rac.com
+0.0.0.0 022099.jp
 0.0.0.0 083083.jp
 0.0.0.0 14fp-lp.com
 0.0.0.0 1cho-me-front.shop-pro.jp
@@ -421,6 +422,7 @@
 0.0.0.0 churashima.org
 0.0.0.0 chusho-invoice.go.jp
 0.0.0.0 chuwincle.co.jp
+0.0.0.0 ciensee.com
 0.0.0.0 citizen.jp
 0.0.0.0 city.living.jp
 0.0.0.0 citybearnippori.owst.jp
@@ -599,6 +601,7 @@
 0.0.0.0 ds.uncn.jp
 0.0.0.0 ds.yahoo.co.jp
 0.0.0.0 dsp.logly.co.jp
+0.0.0.0 dstarcustoms.com
 0.0.0.0 ducca-sendai.com
 0.0.0.0 duskin-cashlesscp.com
 0.0.0.0 duskin-sm-business.com
@@ -845,6 +848,7 @@
 0.0.0.0 global.jr-central.co.jp
 0.0.0.0 global.tamanlestari.com
 0.0.0.0 globalxetfs.co.jp
+0.0.0.0 globe-inc.shop-pro.jp
 0.0.0.0 globe.asahi.com
 0.0.0.0 glowonline.jp
 0.0.0.0 gmobb.jp
@@ -1078,6 +1082,7 @@
 0.0.0.0 ichoice-coop.com
 0.0.0.0 id.asics.com
 0.0.0.0 id.seikowatches.com
+0.0.0.0 idc-direct.i17.bcart.jp
 0.0.0.0 idea.kawahara.ac.jp
 0.0.0.0 idec-fs.com
 0.0.0.0 idex.bz
@@ -1196,6 +1201,7 @@
 0.0.0.0 jijimisakaba.owst.jp
 0.0.0.0 jinennjo.com
 0.0.0.0 jinentai.com
+0.0.0.0 jinzai.otsuka-shokai.co.jp
 0.0.0.0 jirei.r-rental.co.jp
 0.0.0.0 jireidb.shougaisha-sabetukaishou.go.jp
 0.0.0.0 jishanoen.jp
@@ -1419,6 +1425,7 @@
 0.0.0.0 kominami-nouen.co.jp
 0.0.0.0 konciwa.com
 0.0.0.0 koreabucketlist.com
+0.0.0.0 korop-siso.com
 0.0.0.0 kosavu.com
 0.0.0.0 koshi-ct.co.jp
 0.0.0.0 koshien.hanshin.co.jp
@@ -1633,6 +1640,7 @@
 0.0.0.0 mall.humanhealth.com.hk
 0.0.0.0 maltese.breeders.jp
 0.0.0.0 malusonline.stores.jp
+0.0.0.0 mamanouotaka.owst.jp
 0.0.0.0 manabi-naoshi.mhlw.go.jp
 0.0.0.0 manda2100.com
 0.0.0.0 manga.piecedesign.net
@@ -1920,6 +1928,7 @@
 0.0.0.0 o-wen.jp
 0.0.0.0 oasishoteles.com
 0.0.0.0 oba-sr.com
+0.0.0.0 oc.kki.ac.jp
 0.0.0.0 oceans.tokyo.jp
 0.0.0.0 ocjs.catholic-okinawa.ed.jp
 0.0.0.0 odennya-sanntokurokumi.owst.jp
@@ -2066,6 +2075,7 @@
 0.0.0.0 plan.117.co.jp
 0.0.0.0 planetarium-cafebar-misora.owst.jp
 0.0.0.0 platte.jp
+0.0.0.0 pleproduct.jp
 0.0.0.0 plus.tobemori.com
 0.0.0.0 plusone-fukushi-lp.com
 0.0.0.0 plustee-golf.com
@@ -2100,6 +2110,7 @@
 0.0.0.0 prive.co.jp
 0.0.0.0 pro.gnavi.co.jp
 0.0.0.0 proaceworks.com
+0.0.0.0 product-glow.site
 0.0.0.0 product.kadokawa.co.jp
 0.0.0.0 product.minebeamitsumi.com
 0.0.0.0 promise.kyoto.travel
@@ -2163,6 +2174,7 @@
 0.0.0.0 rebgil.funyoursjapan.pink
 0.0.0.0 reccet-gym.com
 0.0.0.0 recruit-event.connpass.com
+0.0.0.0 recruit.eph.pref.ehime.jp
 0.0.0.0 recruit.fordays.jp
 0.0.0.0 recruit.hakuhodo-technologies.co.jp
 0.0.0.0 recruit.meccs.co.jp
@@ -3577,6 +3589,7 @@
 0.0.0.0 www.feather.co.jp
 0.0.0.0 www.feels-trend.site
 0.0.0.0 www.felicitycontrol.com
+0.0.0.0 www.felix-japan.jp
 0.0.0.0 www.ferpc.jp
 0.0.0.0 www.ferry-sunflower.co.jp
 0.0.0.0 www.fetnet.net
@@ -3737,6 +3750,7 @@
 0.0.0.0 www.han-ei.jp
 0.0.0.0 www.hana-intelligence.com
 0.0.0.0 www.hana-intelligence.jp
+0.0.0.0 www.hanabizen.com
 0.0.0.0 www.hanashinkumi.com
 0.0.0.0 www.hanazonohifuku.com
 0.0.0.0 www.haneda.jalcity.co.jp
@@ -3929,6 +3943,7 @@
 0.0.0.0 www.japan-it.jp
 0.0.0.0 www.japandrone-kansai.com
 0.0.0.0 www.japanenergyevent.com
+0.0.0.0 www.japansakurai.com
 0.0.0.0 www.jawfp.org
 0.0.0.0 www.jbcc.co.jp
 0.0.0.0 www.jbcchd.co.jp
@@ -5258,6 +5273,7 @@
 0.0.0.0 yakiniku-fc.com
 0.0.0.0 yakiniku-guts-hanare.jp
 0.0.0.0 yakiniku-royal.com
+0.0.0.0 yakinikukannkunn.owst.jp
 0.0.0.0 yakinikunandaimon.owst.jp
 0.0.0.0 yakisuki-saiin.owst.jp
 0.0.0.0 yakitorisuginoya.com
