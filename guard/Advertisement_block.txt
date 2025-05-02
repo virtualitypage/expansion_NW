@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 2 May 2025
+# Last modified: 3 May 2025
 #
 
 # [広告全般]
@@ -210,6 +210,7 @@
 0.0.0.0 asahikawa-korpokkur.com
 0.0.0.0 asahikawa-nissan.com
 0.0.0.0 asaichuzo.com
+0.0.0.0 asakusa-nagomi-baki.com
 0.0.0.0 asbestos-osaka.jp
 0.0.0.0 ascii.jp
 0.0.0.0 ashiba-leasekyokai.com
@@ -386,6 +387,7 @@
 0.0.0.0 carshare.earth-car.com
 0.0.0.0 casadangela-anhuit.com
 0.0.0.0 casge-town.jp
+0.0.0.0 cashimu.jp
 0.0.0.0 catalog.toubi.co.jp
 0.0.0.0 caterbank.co.jp
 0.0.0.0 cattery-campanella.com
@@ -2087,6 +2089,7 @@
 0.0.0.0 poodle.breeders.jp
 0.0.0.0 portal.bizrisk.iij.jp
 0.0.0.0 portal.jamp.jiji.com
+0.0.0.0 portas-ins.jp
 0.0.0.0 porte.sport-school.com
 0.0.0.0 povo.jp
 0.0.0.0 pr-lp.net
@@ -2401,6 +2404,7 @@
 0.0.0.0 seitaiya-wujing2022.hp.peraichi.com
 0.0.0.0 seiwa-kindergarten.jp
 0.0.0.0 sekisuinct.com
+0.0.0.0 sekisuinct.jp
 0.0.0.0 sekokan-labo.jp
 0.0.0.0 sekokan-next.worldcorp-jp.com
 0.0.0.0 selcohome.jp
@@ -2713,6 +2717,7 @@
 0.0.0.0 taishuubistoroharadaya.owst.jp
 0.0.0.0 taisyusakabaafro.owst.jp
 0.0.0.0 taiwancyayanana.owst.jp
+0.0.0.0 taiyou-clinic.jp
 0.0.0.0 takadaseed.com
 0.0.0.0 takamatsu-marugame-bankin.com
 0.0.0.0 takamatsu.bess.jp
@@ -2802,6 +2807,7 @@
 0.0.0.0 tjgreen-gym.com
 0.0.0.0 tjniigata.jp
 0.0.0.0 tkcp-premium-tire-sale-5ab30bb4478c.herokuapp.com
+0.0.0.0 tkingdomsjp.lnhy988.com
 0.0.0.0 to-hand.com
 0.0.0.0 tohei-ya.com
 0.0.0.0 toho-imazu.jp
@@ -3039,6 +3045,7 @@
 0.0.0.0 www.03nouen.com
 0.0.0.0 www.0551353133.com
 0.0.0.0 www.0918717288.com
+0.0.0.0 www.10516.org
 0.0.0.0 www.114154.com
 0.0.0.0 www.11i.co.jp
 0.0.0.0 www.1memoria.com
@@ -3232,6 +3239,7 @@
 0.0.0.0 www.bank-daiwa.co.jp
 0.0.0.0 www.bayflow.jp
 0.0.0.0 www.bayfm.co.jp
+0.0.0.0 www.bb-aspiration.com
 0.0.0.0 www.bbq-nakanoya.com
 0.0.0.0 www.be4tech.com
 0.0.0.0 www.beams.co.jp
@@ -3642,6 +3650,7 @@
 0.0.0.0 www.fukko.com
 0.0.0.0 www.fukoku-life.co.jp
 0.0.0.0 www.fukui-ijunavi.jp
+0.0.0.0 www.fukukaen-flower.net
 0.0.0.0 www.fukuoka-tenjin-naishikyo.com
 0.0.0.0 www.fukushi.metro.tokyo.lg.jp
 0.0.0.0 www.fulloutsourcing.jp
@@ -5221,6 +5230,7 @@
 0.0.0.0 www.yomiuriland.com
 0.0.0.0 www.yonoton.com
 0.0.0.0 www.yoriso.com
+0.0.0.0 www.yorisoi-office.com
 0.0.0.0 www.yoshinoya.com
 0.0.0.0 www.yoshito.shop
 0.0.0.0 www.yosuga-law.net
@@ -5261,6 +5271,7 @@
 0.0.0.0 www3.kawasaki-motors.com
 0.0.0.0 www3.nissan.co.jp
 0.0.0.0 wwwsp.himawari-life.co.jp
+0.0.0.0 xbotgochameleon.jp
 0.0.0.0 xcuu.jp
 0.0.0.0 xmf.jp
 0.0.0.0 xn--pckua2a7gp15o89zb.com
@@ -5339,6 +5350,7 @@
 0.0.0.0 zero.gift
 0.0.0.0 zerohome.jp
 0.0.0.0 zerosumu.com
+0.0.0.0 zeta001.com
 0.0.0.0 zexy.net
 0.0.0.0 zidoma.com
 0.0.0.0 zigen-inc.stores.jp
