@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 4 May 2025
+# Last modified: 5 May 2025
 #
 
 # [広告全般]
@@ -79,6 +79,7 @@
 0.0.0.0 adn.caprofitx.com
 0.0.0.0 ads.kaipoke.biz
 0.0.0.0 adt.rokunomiya.jp
+0.0.0.0 advan0824.my.canva.site
 0.0.0.0 af-inoac.jp
 0.0.0.0 affordable-mileage.jp
 0.0.0.0 afi-support.com
@@ -711,6 +712,7 @@
 0.0.0.0 exzeal.co.jp
 0.0.0.0 ezyremit.com
 0.0.0.0 f-cre.com
+0.0.0.0 f-webdesign.biz
 0.0.0.0 f1tokyofestival.com
 0.0.0.0 fa.toray-enter.co.jp
 0.0.0.0 fair-k.com
@@ -1054,6 +1056,7 @@
 0.0.0.0 horseracing-tipsters.biz
 0.0.0.0 hoshi.cocoloni.jp
 0.0.0.0 hoshikare.jp
+0.0.0.0 hoshuya.com
 0.0.0.0 hotelmonterey-grasmereosaka.jp
 0.0.0.0 hotelmonterey-himeji.jp
 0.0.0.0 hotelmonterey-osaka.jp
@@ -1132,6 +1135,7 @@
 0.0.0.0 info.slimstock.com
 0.0.0.0 info.uopochi.jp
 0.0.0.0 infocp.syngenta.co.jp
+0.0.0.0 infomotion.co.jp
 0.0.0.0 informatix.co.jp
 0.0.0.0 ing-chojyu.jp
 0.0.0.0 inkjet-maku.com
@@ -1306,6 +1310,7 @@
 0.0.0.0 kaigo.benesse-style-care.co.jp
 0.0.0.0 kaigo.nichiigakkan-careerplus.jp
 0.0.0.0 kaigo.taskman.co.jp
+0.0.0.0 kaigobed-kaitori.com
 0.0.0.0 kaigojj.com
 0.0.0.0 kaigyoyushi-osaka.jp
 0.0.0.0 kainuma.org
@@ -1363,6 +1368,7 @@
 0.0.0.0 kazoku-shintaku.org
 0.0.0.0 kddi.smartdrone.co.jp
 0.0.0.0 keiei-shinri.or.jp
+0.0.0.0 keigo-group-job.com
 0.0.0.0 keihan-smile.com
 0.0.0.0 keiho-recycle.jp
 0.0.0.0 keiji.lawyers-high.jp
@@ -1614,6 +1620,7 @@
 0.0.0.0 m.blog.naver.com
 0.0.0.0 m.chitetsu.co.jp
 0.0.0.0 m.e-l-k.jp
+0.0.0.0 m.flyasiana.com
 0.0.0.0 m.momoshop.com.tw
 0.0.0.0 m.qoo10.jp
 0.0.0.0 m.shein.com
@@ -1813,6 +1820,7 @@
 0.0.0.0 mybabiie.com
 0.0.0.0 mybest-cosme.com
 0.0.0.0 mydrabu.georgia.jp
+0.0.0.0 mylifeishappyhappy.com
 0.0.0.0 myluxurycard.co.jp
 0.0.0.0 mynavi-kaigo.jp
 0.0.0.0 mynumber.city.osaka.lg.jp
@@ -1828,6 +1836,7 @@
 0.0.0.0 nadakobetsu.com
 0.0.0.0 nadwuri.owst.jp
 0.0.0.0 naganokaitai.net
+0.0.0.0 nagaro-fudosan.jp
 0.0.0.0 nagawa.co.jp
 0.0.0.0 nagoya-camera.mikawa.ne.jp
 0.0.0.0 nagoya-platen.nikkan.co.jp
@@ -1837,6 +1846,7 @@
 0.0.0.0 naiteikun-corp.com
 0.0.0.0 naka4.com
 0.0.0.0 nakagawa-mishin.com
+0.0.0.0 nakamuraworks-ad.com
 0.0.0.0 nakanodental-cl.com
 0.0.0.0 nakka-art.jp
 0.0.0.0 nakosa.theshop.jp
@@ -1858,6 +1868,7 @@
 0.0.0.0 nejikemon-ebisu.owst.jp
 0.0.0.0 nekkoya.shop-pro.jp
 0.0.0.0 nemunokinoshita.com
+0.0.0.0 neonsigntyo.thebase.in
 0.0.0.0 nesta.click
 0.0.0.0 nesting-hokago.com
 0.0.0.0 nestle.jp
@@ -2140,6 +2151,7 @@
 0.0.0.0 promo.manchester.edu.hk
 0.0.0.0 propeciabuyonlinenm.com
 0.0.0.0 protectwborcn.com
+0.0.0.0 prove-talent.studio.site
 0.0.0.0 ps-hp.jpn.panasonic.com
 0.0.0.0 ps-m.jp
 0.0.0.0 ps.nikkei.com
@@ -3899,6 +3911,7 @@
 0.0.0.0 www.idaten.ne.jp
 0.0.0.0 www.idc.hinet.net
 0.0.0.0 www.ie-miru.jp
+0.0.0.0 www.ienavi-osaka.net
 0.0.0.0 www.ieraku.com
 0.0.0.0 www.ieshil.com
 0.0.0.0 www.ig.com
@@ -4096,6 +4109,7 @@
 0.0.0.0 www.keyence-foundation.or.jp
 0.0.0.0 www.ki-rin.biz
 0.0.0.0 www.kiitti.net
+0.0.0.0 www.kijima-rubber.com
 0.0.0.0 www.kikaiboshi.jp
 0.0.0.0 www.kikyonooka.or.jp
 0.0.0.0 www.kimioku.online
@@ -4253,6 +4267,7 @@
 0.0.0.0 www.marusan-union.com
 0.0.0.0 www.marusho-1819.com
 0.0.0.0 www.maruten-print.jp
+0.0.0.0 www.maruyohotel.com
 0.0.0.0 www.maruyone.co.jp
 0.0.0.0 www.masayoshifujishima.com
 0.0.0.0 www.maserati.com
@@ -4296,6 +4311,7 @@
 0.0.0.0 www.mewa.gov.sa
 0.0.0.0 www.mghome.co.jp
 0.0.0.0 www.mhlw.go.jp
+0.0.0.0 www.mi-nagi.co.jp
 0.0.0.0 www.mi-wa.jp
 0.0.0.0 www.mi.com
 0.0.0.0 www.micconsulting.jp
@@ -5085,6 +5101,7 @@
 0.0.0.0 www.toyo.ac.jp
 0.0.0.0 www.toyofuku.net
 0.0.0.0 www.toyota-cn-gifu.co.jp
+0.0.0.0 www.toyota-ti.ac.jp
 0.0.0.0 www.toyotasmile-h.jp
 0.0.0.0 www.toyotetsu.jp
 0.0.0.0 www.tp-kyouyufudousan.com
