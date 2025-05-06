@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 5 May 2025
+# Last modified: 6 May 2025
 #
 
 # [広告全般]
@@ -446,6 +446,7 @@
 0.0.0.0 cledit.jp
 0.0.0.0 cleverly-kochi.com
 0.0.0.0 click.upsmobi.com
+0.0.0.0 clientportal.jpx.co.jp
 0.0.0.0 clients.itszai.jp
 0.0.0.0 clinlife.jp
 0.0.0.0 closet.eiwa-uniform.com
@@ -1380,6 +1381,7 @@
 0.0.0.0 kens-smile.com
 0.0.0.0 kensei-baikyaku.jp
 0.0.0.0 kenseidayori-mie.com
+0.0.0.0 kensetsu-welcome.mhlw.go.jp
 0.0.0.0 kensetsutenshokunavi.jp
 0.0.0.0 kentei.tokyo-cci.or.jp
 0.0.0.0 kenzai-kaitori.net
@@ -1456,6 +1458,7 @@
 0.0.0.0 koudai-soukai-k.allow-web.com
 0.0.0.0 kouju.mabuchi.co.jp
 0.0.0.0 koukoukojitsu.com
+0.0.0.0 koumu-in.jp
 0.0.0.0 koundou.com
 0.0.0.0 kousa.co.jp
 0.0.0.0 kouseisaiyou.mhlw.go.jp
@@ -1734,6 +1737,7 @@
 0.0.0.0 midnight-keirin.com
 0.0.0.0 miechuo.bmw.jp
 0.0.0.0 mikatajukudesu.com
+0.0.0.0 million-sales.com
 0.0.0.0 mimi-kyokai.jp
 0.0.0.0 minamiasagaya.ryusei-sekkotuin.net
 0.0.0.0 minase-ep.jp
@@ -2105,6 +2109,7 @@
 0.0.0.0 pl.machibiz.info
 0.0.0.0 plan.117.co.jp
 0.0.0.0 planetarium-cafebar-misora.owst.jp
+0.0.0.0 plansclinic.jp
 0.0.0.0 platte.jp
 0.0.0.0 pleproduct.jp
 0.0.0.0 plus.tobemori.com
@@ -2293,6 +2298,7 @@
 0.0.0.0 s88.co.jp
 0.0.0.0 sa-benriya.com
 0.0.0.0 sa-mobility.com
+0.0.0.0 sabae.san-you.jp
 0.0.0.0 sablelabs.co
 0.0.0.0 safarilounge.jp
 0.0.0.0 safe.tr.mufg.jp
@@ -2596,6 +2602,7 @@
 0.0.0.0 sogokagu-cres.net
 0.0.0.0 solasto-career.com
 0.0.0.0 solize-software.com
+0.0.0.0 solo37.com
 0.0.0.0 songdream.jp
 0.0.0.0 soo-happy.net
 0.0.0.0 sophiadental.or.jp
@@ -2949,6 +2956,7 @@
 0.0.0.0 unibag.jp
 0.0.0.0 unibo.theshop.jp
 0.0.0.0 unicorn-overlord.com
+0.0.0.0 unima.co.jp
 0.0.0.0 united-clinic.com
 0.0.0.0 universe-co.com
 0.0.0.0 uno-hotel.com
@@ -3035,6 +3043,7 @@
 0.0.0.0 webdesk.jsa.or.jp
 0.0.0.0 webstore.ansi.org
 0.0.0.0 webx-asia.com
+0.0.0.0 wedding-seminar.com
 0.0.0.0 wedding.mynavi.jp
 0.0.0.0 weddings.westintokyoshop.com
 0.0.0.0 weddingvideowish.com
@@ -3134,6 +3143,7 @@
 0.0.0.0 www.adire-bkan.jp
 0.0.0.0 www.adire.jp
 0.0.0.0 www.adremover.org
+0.0.0.0 www.advan-t.com
 0.0.0.0 www.advancelink.co.jp
 0.0.0.0 www.advertimes.com
 0.0.0.0 www.aeonet.co.jp
@@ -3260,6 +3270,7 @@
 0.0.0.0 www.autobacs-weblp.com
 0.0.0.0 www.automesse.jp
 0.0.0.0 www.autotrace.info
+0.0.0.0 www.awashima.design
 0.0.0.0 www.aws-pairring.jp
 0.0.0.0 www.axa.co.jp
 0.0.0.0 www.axis-net.co.jp
@@ -3510,6 +3521,7 @@
 0.0.0.0 www.densan-kikaku.co.jp
 0.0.0.0 www.dentsu.ed.jp
 0.0.0.0 www.dezao-reform.com
+0.0.0.0 www.df-sgs.co.jp
 0.0.0.0 www.dfs.com
 0.0.0.0 www.difstory.com
 0.0.0.0 www.digiraku.com
@@ -3574,6 +3586,7 @@
 0.0.0.0 www.edix-expo.jp
 0.0.0.0 www.eft-makuw.jp
 0.0.0.0 www.ega.ae
+0.0.0.0 www.egakuyo.com
 0.0.0.0 www.eheya.net
 0.0.0.0 www.ehime-ben.or.jp
 0.0.0.0 www.ehime-shogai.net
@@ -3886,6 +3899,7 @@
 0.0.0.0 www.housedo.com
 0.0.0.0 www.housing-messe.com
 0.0.0.0 www.howabank.co.jp
+0.0.0.0 www.hrdesign.co.jp
 0.0.0.0 www.hs-orange.com
 0.0.0.0 www.hs.bgu.ac.jp
 0.0.0.0 www.htv.ne.jp
@@ -4415,6 +4429,7 @@
 0.0.0.0 www.nanzan-u.ac.jp
 0.0.0.0 www.napolipizza.jp
 0.0.0.0 www.napori.jp
+0.0.0.0 www.nara-access-navi.com
 0.0.0.0 www.narimatsuya.com
 0.0.0.0 www.narisup.com
 0.0.0.0 www.natsusapa.com
@@ -5013,6 +5028,7 @@
 0.0.0.0 www.tateyama-kou.net
 0.0.0.0 www.taylormadegolf.jp
 0.0.0.0 www.tb-kumano.jp
+0.0.0.0 www.tcw.co.jp
 0.0.0.0 www.tdk.com
 0.0.0.0 www.tds.co.jp
 0.0.0.0 www.teamlab.art
@@ -5364,6 +5380,7 @@
 0.0.0.0 yobouiryoukai.com
 0.0.0.0 yodomachi-cycling2024.com
 0.0.0.0 yokanavi.com
+0.0.0.0 yokohama-ex.jp
 0.0.0.0 yokohama-pets-memory.com
 0.0.0.0 yonex-kaisyu.co.jp
 0.0.0.0 yoridocoro.link
