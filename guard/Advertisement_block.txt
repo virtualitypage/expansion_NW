@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 7 May 2025
+# Last modified: 8 May 2025
 #
 
 # [広告全般]
@@ -293,6 +293,7 @@
 0.0.0.0 betterstack.com
 0.0.0.0 beverageandfood.direct.suntory.co.jp
 0.0.0.0 bflat.net
+0.0.0.0 bi-tech.co.jp
 0.0.0.0 bianshack.com
 0.0.0.0 biblesforjapan.org
 0.0.0.0 big-campaign.jp
@@ -332,6 +333,7 @@
 0.0.0.0 bordercollie.breeders.jp
 0.0.0.0 borth.shop
 0.0.0.0 bostonterrier.breeders.jp
+0.0.0.0 bosyu-will.com
 0.0.0.0 bouquet-24.com
 0.0.0.0 bownim.base.shop
 0.0.0.0 brand.taisho.co.jp
@@ -915,6 +917,7 @@
 0.0.0.0 greenkankyo.com
 0.0.0.0 greenlight-accounting.lovable.app
 0.0.0.0 greenteatokyo.com
+0.0.0.0 grilledchicken.co.jp
 0.0.0.0 gron.co.jp
 0.0.0.0 grouphome.minnadehukushi.com
 0.0.0.0 groverdesign.jp
@@ -1088,6 +1091,7 @@
 0.0.0.0 hyogo-quality.jp
 0.0.0.0 hypnosismic-movie.com
 0.0.0.0 hypnosismic.com
+0.0.0.0 hyundaimobilitypassport.com
 0.0.0.0 i-voce.jp
 0.0.0.0 i.ansinkaigo.jp
 0.0.0.0 i.kirei.today
@@ -1261,6 +1265,7 @@
 0.0.0.0 jp.jobrapido.com
 0.0.0.0 jp.kpop-artschool.com
 0.0.0.0 jp.loccitane.com
+0.0.0.0 jp.micron.com
 0.0.0.0 jp.misumi-ec.com
 0.0.0.0 jp.mixsearches.com
 0.0.0.0 jp.myfirst.tech
@@ -1651,9 +1656,11 @@
 0.0.0.0 maekawaah.com
 0.0.0.0 mag.bess.jp
 0.0.0.0 magazine.hitosara.com
+0.0.0.0 magcul.net
 0.0.0.0 magicsupple.com
 0.0.0.0 mahalogardenterrace.owst.jp
 0.0.0.0 mahope.hair
+0.0.0.0 mahora-stay.com
 0.0.0.0 mai-sen.com
 0.0.0.0 mailcoupletime.net
 0.0.0.0 main.tsubaki-app.com
@@ -1995,6 +2002,7 @@
 0.0.0.0 oketani-lp.com
 0.0.0.0 okonomiyaki-enya.com
 0.0.0.0 okoze-yumekoubou.com
+0.0.0.0 okuaizu-suiryokukan.jp
 0.0.0.0 oldisroad.com
 0.0.0.0 olubie.jp
 0.0.0.0 om-seishin.com
@@ -2137,6 +2145,7 @@
 0.0.0.0 portas-ins.jp
 0.0.0.0 porte.sport-school.com
 0.0.0.0 povo.jp
+0.0.0.0 pr-genic.com
 0.0.0.0 pr-lp.net
 0.0.0.0 pr.bashotoru.com
 0.0.0.0 pr.dailywealth.jp
@@ -2524,6 +2533,7 @@
 0.0.0.0 shokumitennka.owst.jp
 0.0.0.0 shonan-dining.com
 0.0.0.0 shop-list.com
+0.0.0.0 shop.archelis.com
 0.0.0.0 shop.bancdor-saitama.com
 0.0.0.0 shop.basefood.co.jp
 0.0.0.0 shop.delca.jp
@@ -3714,6 +3724,7 @@
 0.0.0.0 www.fukko.com
 0.0.0.0 www.fukoku-life.co.jp
 0.0.0.0 www.fukui-ijunavi.jp
+0.0.0.0 www.fukujiro.com
 0.0.0.0 www.fukukaen-flower.net
 0.0.0.0 www.fukuoka-tenjin-naishikyo.com
 0.0.0.0 www.fukushi.metro.tokyo.lg.jp
@@ -4061,6 +4072,7 @@
 0.0.0.0 www.jpcast.japanpost.jp
 0.0.0.0 www.jplum.com
 0.0.0.0 www.jps-pharm.com
+0.0.0.0 www.jpx.co.jp
 0.0.0.0 www.jr-odekake.net
 0.0.0.0 www.jr-shikoku.co.jp
 0.0.0.0 www.jreast.co.jp
@@ -4276,6 +4288,7 @@
 0.0.0.0 www.lyngskroa.no
 0.0.0.0 www.m-ams.co.jp
 0.0.0.0 www.m-keiei.jp
+0.0.0.0 www.m-ys.co.jp
 0.0.0.0 www.ma20.co.jp
 0.0.0.0 www.macaotourism.gov.mo
 0.0.0.0 www.machidiner.com
@@ -4510,6 +4523,7 @@
 0.0.0.0 www.nito.co.jp
 0.0.0.0 www.niziiro.jp
 0.0.0.0 www.noa-yoga.com
+0.0.0.0 www.noaboxing.com
 0.0.0.0 www.noaonline.jp
 0.0.0.0 www.noapilates.jp
 0.0.0.0 www.noblehome.co.jp
@@ -4703,6 +4717,7 @@
 0.0.0.0 www.pref.kanagawa.jp
 0.0.0.0 www.pref.kochi.lg.jp
 0.0.0.0 www.pref.mie.lg.jp
+0.0.0.0 www.pref.nara.jp
 0.0.0.0 www.pref.osaka.lg.jp
 0.0.0.0 www.pref.saitama.lg.jp
 0.0.0.0 www.pref.tottori.lg.jp
@@ -4988,6 +5003,7 @@
 0.0.0.0 www.succ.co.jp
 0.0.0.0 www.sugar.org
 0.0.0.0 www.sugimoto-k.com
+0.0.0.0 www.sugisho.com
 0.0.0.0 www.suiha.co.jp
 0.0.0.0 www.sumida-aquarium.com
 0.0.0.0 www.suminodou.jp
@@ -5031,6 +5047,7 @@
 0.0.0.0 www.takaranokama.com
 0.0.0.0 www.takashimaya-global.com
 0.0.0.0 www.takashimaya.co.jp
+0.0.0.0 www.takayamaseihun.co.jp
 0.0.0.0 www.takeda.tv
 0.0.0.0 www.takeheiro.com
 0.0.0.0 www.takemuratosou.jp
@@ -5151,6 +5168,7 @@
 0.0.0.0 www.transgrip.co.jp
 0.0.0.0 www.transnusa.co.id
 0.0.0.0 www.travellerinn.jp
+0.0.0.0 www.travelsas.co.jp
 0.0.0.0 www.trekbikes.com
 0.0.0.0 www.trendmicro.com
 0.0.0.0 www.trialfoods.jp
@@ -5285,6 +5303,7 @@
 0.0.0.0 www.xprice.co.jp
 0.0.0.0 www.xronos-inc.co.jp
 0.0.0.0 www.xtb.com
+0.0.0.0 www.y-kagu.com
 0.0.0.0 www.y-yokohama.com
 0.0.0.0 www.yabaton.com
 0.0.0.0 www.yaezawa.com
@@ -5349,6 +5368,7 @@
 0.0.0.0 www.zeroa-o.com
 0.0.0.0 www.zface.jp
 0.0.0.0 www.zissen-mw.jp
+0.0.0.0 www.zoff.co.jp
 0.0.0.0 www.zojirushi.co.jp
 0.0.0.0 www.zokkonkareshi.top
 0.0.0.0 www2.aqlub.com
