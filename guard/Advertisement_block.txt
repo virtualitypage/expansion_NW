@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 8 May 2025
+# Last modified: 9 May 2025
 #
 
 # [広告全般]
@@ -185,6 +185,7 @@
 0.0.0.0 api.affiliations.site
 0.0.0.0 apollostation-chubu.com
 0.0.0.0 apoyoyaku.com
+0.0.0.0 app.kansai-maas.jp
 0.0.0.0 app.pixverse.ai
 0.0.0.0 appleone.shop
 0.0.0.0 apply.suu.edu
@@ -968,6 +969,7 @@
 0.0.0.0 haneda-shopping.jp
 0.0.0.0 hanshinboys.com
 0.0.0.0 hansol.owst.jp
+0.0.0.0 hanzou-nanba.owst.jp
 0.0.0.0 hapi-hapi-style.com
 0.0.0.0 happy5.site
 0.0.0.0 happygift2.com
@@ -1488,9 +1490,11 @@
 0.0.0.0 kurakula.net
 0.0.0.0 kurashigoto.hokkaido.jp
 0.0.0.0 kurashinobenriyasan.com
+0.0.0.0 kuraudojyuusou.owst.jp
 0.0.0.0 kurayoga.com
 0.0.0.0 kuri.shirokawa.jp
 0.0.0.0 kurochankitaguti.owst.jp
+0.0.0.0 kurock-seikotsu.com
 0.0.0.0 kurono-namba.com
 0.0.0.0 kurubell.com
 0.0.0.0 kurumeshi-regionalcareer.com
@@ -1696,6 +1700,7 @@
 0.0.0.0 marumugi.shop
 0.0.0.0 marunagaunyu-lp.com
 0.0.0.0 marusupro.com
+0.0.0.0 marusyunn.com
 0.0.0.0 masaomi-jyuku.masaomi-takao.com
 0.0.0.0 masaya-pawnshop.com
 0.0.0.0 mash-c.jp
@@ -1803,6 +1808,7 @@
 0.0.0.0 mobile.nuro.jp
 0.0.0.0 mods-clinic.info
 0.0.0.0 mogami.akiyanomori.jp
+0.0.0.0 mojio-fukushimaten.owst.jp
 0.0.0.0 mokucolle.com
 0.0.0.0 mokutown.jp
 0.0.0.0 momuriplus.com
@@ -2363,6 +2369,7 @@
 0.0.0.0 sawamura-architect.jp
 0.0.0.0 sawaraguchi-cl.jp
 0.0.0.0 sawatdii-kha.info
+0.0.0.0 sawatec.co.jp
 0.0.0.0 sb-apo-buster3.discover-news.tokyo
 0.0.0.0 sb-beauty-labo.ourpage.jp
 0.0.0.0 sb-beauty-popu.discover-news.tokyo
@@ -2872,6 +2879,7 @@
 0.0.0.0 tkcp-premium-tire-sale-5ab30bb4478c.herokuapp.com
 0.0.0.0 tkingdomsjp.lnhy988.com
 0.0.0.0 to-hand.com
+0.0.0.0 tofu.matsumasa.org
 0.0.0.0 tohei-ya.com
 0.0.0.0 toho-imazu.jp
 0.0.0.0 tohoku-kizunamatsuri.jp
@@ -3362,6 +3370,7 @@
 0.0.0.0 www.brilliantearth.com
 0.0.0.0 www.brita.co.jp
 0.0.0.0 www.brother.co.jp
+0.0.0.0 www.bruker.com
 0.0.0.0 www.bscycle.co.jp
 0.0.0.0 www.bsigroup.com
 0.0.0.0 www.bubu-jp.com
@@ -4114,6 +4123,7 @@
 0.0.0.0 www.kakiharafamily.com
 0.0.0.0 www.kameido-kura.com
 0.0.0.0 www.kamine.co.jp
+0.0.0.0 www.kamoshikanet.com
 0.0.0.0 www.kanagawa-subaru.com
 0.0.0.0 www.kanagawa-u.ac.jp
 0.0.0.0 www.kanazawaekinishi.com
@@ -4226,6 +4236,7 @@
 0.0.0.0 www.kuritabunseki.co.jp
 0.0.0.0 www.kushals.com
 0.0.0.0 www.kushi-baru.com
+0.0.0.0 www.kushi-hyoutan.jp
 0.0.0.0 www.kyjlaw.com
 0.0.0.0 www.kyodoyokohama.com
 0.0.0.0 www.kyosai-cc.or.jp
@@ -4791,6 +4802,7 @@
 0.0.0.0 www.ririsa-riristage.com
 0.0.0.0 www.rise.hokkaido.jp
 0.0.0.0 www.riseisha.ac.jp
+0.0.0.0 www.riso1.com
 0.0.0.0 www.ristorante-espoir.net
 0.0.0.0 www.riviere.gr.jp
 0.0.0.0 www.rizaim.biz
@@ -5039,6 +5051,7 @@
 0.0.0.0 www.taiseihome.net
 0.0.0.0 www.taishu.co.jp
 0.0.0.0 www.taiwan-panorama.com
+0.0.0.0 www.taiwantradeshows.com.tw
 0.0.0.0 www.taiyakan.co.jp
 0.0.0.0 www.takagi-plc.co.jp
 0.0.0.0 www.takao-gc.jp
@@ -5428,6 +5441,7 @@
 0.0.0.0 yokanavi.com
 0.0.0.0 yokohama-ex.jp
 0.0.0.0 yokohama-pets-memory.com
+0.0.0.0 yokuna.owst.jp
 0.0.0.0 yonex-kaisyu.co.jp
 0.0.0.0 yoridocoro.link
 0.0.0.0 yoridoko-kanko.co.jp
