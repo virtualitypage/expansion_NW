@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 9 May 2025
+# Last modified: 10 May 2025
 #
 
 # [広告全般]
@@ -104,6 +104,7 @@
 0.0.0.0 aiwakagu.jp
 0.0.0.0 aix-otofuke.owst.jp
 0.0.0.0 aiya-osaka.com
+0.0.0.0 akabekoland.buyshop.jp
 0.0.0.0 akabou-oasashouten.jp
 0.0.0.0 akari-shinkoiwa.owst.jp
 0.0.0.0 akiya-oita.com
@@ -132,6 +133,7 @@
 0.0.0.0 alegria-ebisu.owst.jp
 0.0.0.0 alinamin-kenko.jp
 0.0.0.0 alinamin.jp
+0.0.0.0 aljannahmerchant.com
 0.0.0.0 allergiesdog-gotof.jp
 0.0.0.0 allie-ai.kao-kirei.com
 0.0.0.0 allinclusive-collection.com
@@ -195,7 +197,9 @@
 0.0.0.0 aqua-has.com
 0.0.0.0 aqua-magic.net
 0.0.0.0 arcteryx.jp
+0.0.0.0 area.autodesk.jp
 0.0.0.0 aridamuki.jp
+0.0.0.0 armourin.official.ec
 0.0.0.0 aroma.aromakankyo.or.jp
 0.0.0.0 art-logis.com
 0.0.0.0 art-mocha.net
@@ -206,6 +210,7 @@
 0.0.0.0 artfrall-kaiga.jp
 0.0.0.0 artgabbeh.com
 0.0.0.0 artglorieux.jp
+0.0.0.0 artisanfactory.jp
 0.0.0.0 artmac.co.jp
 0.0.0.0 artvivant-fantasyart.net
 0.0.0.0 aruyo22.jp
@@ -1097,6 +1102,7 @@
 0.0.0.0 i-voce.jp
 0.0.0.0 i.ansinkaigo.jp
 0.0.0.0 i.kirei.today
+0.0.0.0 iaru.or.jp
 0.0.0.0 iatss.or.jp
 0.0.0.0 ibaraki-ranking.com
 0.0.0.0 ibaraki.jws-nt.jp
@@ -1688,6 +1694,7 @@
 0.0.0.0 manulife-gaika.jp
 0.0.0.0 manzara-nishiki.owst.jp
 0.0.0.0 manzara.co.jp
+0.0.0.0 maple1010.com
 0.0.0.0 maquia.hpplus.jp
 0.0.0.0 marineworld.hiyoriyama.co.jp
 0.0.0.0 marketing-careerlabo.jp
@@ -1901,6 +1908,7 @@
 0.0.0.0 netglean.com
 0.0.0.0 netzfukuoka.jp
 0.0.0.0 new-tips.net
+0.0.0.0 new-tsurumatsu.com
 0.0.0.0 new.osakastationcity.com
 0.0.0.0 newhouse.591.com.tw
 0.0.0.0 newing.kintetsu-re.co.jp
@@ -1990,6 +1998,7 @@
 0.0.0.0 officeair.co.jp
 0.0.0.0 officee.jp
 0.0.0.0 official-mall.com
+0.0.0.0 ohatunojucchuhakku.owst.jp
 0.0.0.0 ohbacorp.com
 0.0.0.0 ohka-kobe.owst.jp
 0.0.0.0 ohnoseijyo.com
@@ -3327,6 +3336,7 @@
 0.0.0.0 www.beef-tongue.com
 0.0.0.0 www.beishin-net.shop
 0.0.0.0 www.benesse.co.jp
+0.0.0.0 www.benibana.jp
 0.0.0.0 www.bennri-da.com
 0.0.0.0 www.benscycle.com
 0.0.0.0 www.benzkansai.com
@@ -3635,6 +3645,7 @@
 0.0.0.0 www.elder.jeed.go.jp
 0.0.0.0 www.elegance-cosmetics.com
 0.0.0.0 www.elleair.jp
+0.0.0.0 www.elponiente.jp
 0.0.0.0 www.emberstoria.jp
 0.0.0.0 www.emblem-recruit.com
 0.0.0.0 www.empowerus.jp
@@ -4299,6 +4310,7 @@
 0.0.0.0 www.lyngskroa.no
 0.0.0.0 www.m-ams.co.jp
 0.0.0.0 www.m-keiei.jp
+0.0.0.0 www.m-sports-okinawa.jp
 0.0.0.0 www.m-ys.co.jp
 0.0.0.0 www.ma20.co.jp
 0.0.0.0 www.macaotourism.gov.mo
@@ -4446,6 +4458,7 @@
 0.0.0.0 www.musashinomura.co.jp
 0.0.0.0 www.musubell.com
 0.0.0.0 www.mwed.jp
+0.0.0.0 www.my.metro.tokyo.lg.jp
 0.0.0.0 www.my9.jp
 0.0.0.0 www.myagentla.com
 0.0.0.0 www.myremi.com
@@ -4990,6 +5003,7 @@
 0.0.0.0 www.sportsanzen.org
 0.0.0.0 www.sportsoasis.co.jp
 0.0.0.0 www.ss-beta.co.jp
+0.0.0.0 www.sss4.life
 0.0.0.0 www.st-andrews.ac.uk
 0.0.0.0 www.st-mary.ac.jp
 0.0.0.0 www.st.com
@@ -5256,6 +5270,7 @@
 0.0.0.0 www.visartscenter.org
 0.0.0.0 www.visitjackson.com
 0.0.0.0 www.vita-laverdura.net
+0.0.0.0 www.vita-mix.jp
 0.0.0.0 www.vivastudiosalon.com
 0.0.0.0 www.voat-voice.com
 0.0.0.0 www.voat.co.jp
