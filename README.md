@@ -1,5 +1,5 @@
-![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v6.0.180-blue?style=flat)
-![Release Date](https://img.shields.io/badge/Release_Date-May_4_2025-green?style=flat)
+![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v6.1.0-blue?style=flat)
+![Release Date](https://img.shields.io/badge/Release_Date-May_11_2025-green?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualitypage/expansion_NW)
 
 > Table of Contents
