@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 10 May 2025
+# Last modified: 11 May 2025
 #
 
 # [広告全般]
@@ -612,6 +612,7 @@
 0.0.0.0 dr-fish.net
 0.0.0.0 drcshop.com
 0.0.0.0 dreamorder.com
+0.0.0.0 dreamprojects.jp
 0.0.0.0 dressandstyles.com
 0.0.0.0 drilnews.com
 0.0.0.0 drinco.jp
@@ -1156,6 +1157,7 @@
 0.0.0.0 infomotion.co.jp
 0.0.0.0 informatix.co.jp
 0.0.0.0 ing-chojyu.jp
+0.0.0.0 iningyo.com
 0.0.0.0 inkjet-maku.com
 0.0.0.0 inline.app
 0.0.0.0 inoue-hachiouji.com
@@ -1430,6 +1432,7 @@
 0.0.0.0 kitanoburn.owst.jp
 0.0.0.0 kitaosaka-souzoku-center.com
 0.0.0.0 kitashinnchiushinozennpremium.owst.jp
+0.0.0.0 kj8-thegame.com
 0.0.0.0 kk-takada.com
 0.0.0.0 kklounge.karaokekan.jp
 0.0.0.0 klimt-cairnhill.contact-us.sg
@@ -1562,6 +1565,7 @@
 0.0.0.0 lemonhome.co.jp
 0.0.0.0 lens-me.jp
 0.0.0.0 leopalace-fine2005.com
+0.0.0.0 les-seeds96.com
 0.0.0.0 lets-boatrace.jp
 0.0.0.0 library.techinsights.com
 0.0.0.0 lidea.today
@@ -1786,6 +1790,7 @@
 0.0.0.0 mirai-mugen-recipe.hp.peraichi.com
 0.0.0.0 mirai-work.life
 0.0.0.0 miraikuuchou-lp.com
+0.0.0.0 mirairo.space
 0.0.0.0 miraiyu-career.com
 0.0.0.0 miru-anime.com
 0.0.0.0 misawa-chugoku.jp
@@ -2146,6 +2151,7 @@
 0.0.0.0 plansclinic.jp
 0.0.0.0 platte.jp
 0.0.0.0 pleproduct.jp
+0.0.0.0 plus-work.net
 0.0.0.0 plus.tobemori.com
 0.0.0.0 plusone-fukushi-lp.com
 0.0.0.0 plustee-golf.com
@@ -2666,6 +2672,7 @@
 0.0.0.0 sp.otsuka-shokai.co.jp
 0.0.0.0 sp.staffservice-engineering.jp
 0.0.0.0 sparkles21.com
+0.0.0.0 specchio-online.com
 0.0.0.0 special.kobunsha.com
 0.0.0.0 spianato1618.base.shop
 0.0.0.0 spibrg.jp
@@ -2823,6 +2830,7 @@
 0.0.0.0 tanbaya.net
 0.0.0.0 tanebo.click
 0.0.0.0 tanimachi.chiryou-in.biz
+0.0.0.0 tanimachikujira.owst.jp
 0.0.0.0 tanoshiiosake.jp
 0.0.0.0 tansei-legaloffice.jp
 0.0.0.0 tarezou.com
@@ -3209,6 +3217,7 @@
 0.0.0.0 www.airasia.com
 0.0.0.0 www.airbnb.jp
 0.0.0.0 www.airnewzealand.jp
+0.0.0.0 www.aiwahospital.or.jp
 0.0.0.0 www.ajhh.jp
 0.0.0.0 www.ajinomoto.co.jp
 0.0.0.0 www.alba.co.jp
@@ -3669,6 +3678,7 @@
 0.0.0.0 www.etungo.com.tw
 0.0.0.0 www.euclid-records.com
 0.0.0.0 www.evat.cz
+0.0.0.0 www.event-goods.jp
 0.0.0.0 www.ex-agent.co.jp
 0.0.0.0 www.ex-anpi.com
 0.0.0.0 www.exlm.co.jp
@@ -3697,6 +3707,7 @@
 0.0.0.0 www.fetnet.net
 0.0.0.0 www.fevertree.jp
 0.0.0.0 www.fiat-jp.com
+0.0.0.0 www.figurekaitorido.com
 0.0.0.0 www.finbourne.com
 0.0.0.0 www.finetrack.com
 0.0.0.0 www.firsttechfed.com
@@ -3880,6 +3891,7 @@
 0.0.0.0 www.harpercollins.co.jp
 0.0.0.0 www.harvestclub.com
 0.0.0.0 www.haseko.co.jp
+0.0.0.0 www.hashikawa.co.jp
 0.0.0.0 www.hatarako.net
 0.0.0.0 www.hatasapo.jp
 0.0.0.0 www.hawaiianairlines.co.jp
@@ -4325,6 +4337,7 @@
 0.0.0.0 www.mainichi-foods.jp
 0.0.0.0 www.makuake.com
 0.0.0.0 www.malverncollegetokyo.jp
+0.0.0.0 www.mamatokodomo-no-haishasan.com
 0.0.0.0 www.mamere.co.jp
 0.0.0.0 www.mana-l.com
 0.0.0.0 www.mandarinoriental.com
@@ -4667,6 +4680,7 @@
 0.0.0.0 www.otv.co.jp
 0.0.0.0 www.ouchiku.com
 0.0.0.0 www.ouj.ac.jp
+0.0.0.0 www.oujishop.jp
 0.0.0.0 www.ous.ac.jp
 0.0.0.0 www.outlethome.jp
 0.0.0.0 www.ozekihibachi2u.com
@@ -5019,6 +5033,7 @@
 0.0.0.0 www.stevenstone.co.uk
 0.0.0.0 www.stgjapan.jp
 0.0.0.0 www.stonebeat.co.jp
+0.0.0.0 www.store.hitachi-ies.co.jp
 0.0.0.0 www.strausfamilycreamery.com
 0.0.0.0 www.strawberrycones.com
 0.0.0.0 www.studio-1brood.com
@@ -5072,6 +5087,7 @@
 0.0.0.0 www.takara-standard.co.jp
 0.0.0.0 www.takarakuji-official.jp
 0.0.0.0 www.takaranokama.com
+0.0.0.0 www.takarashuzo.co.jp
 0.0.0.0 www.takashimaya-global.com
 0.0.0.0 www.takashimaya.co.jp
 0.0.0.0 www.takayamaseihun.co.jp
