@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Accept_domain.txt
 #
-# Last modified: 13 February 2025
+# Last modified: 11 May 2025
 #
 
 # [許可リクエスト]
@@ -53,6 +53,8 @@
 @@||img-api-jp-linemusic.line-apps.com
 @@||item.rakuten.co.jp
 @@||kidsmanagement-pa.googleapis.com
+@@||lh3.ggpht.com
+@@||lh6.ggpht.com
 @@||linemanga-obs.line-scdn.net
 @@||linemusic-webapp.landpress.line.me
 @@||location2.kddi.ne.jp
@@ -96,6 +98,7 @@
 @@||sakura-checker.jp
 @@||searchnotifications-pa.googleapis.com
 @@||securl.nu
+@@||shop.adidas.jp
 @@||spot-pa.googleapis.com
 @@||static.line-scdn.net
 @@||steampowered.com
@@ -110,6 +113,7 @@
 @@||video.twimg.com
 @@||voom-obs.line-scdn.net
 @@||web.facebook.com
+@@||www.adidas.jp
 @@||www.amazon.co.jp
 @@||www.cecile.co.jp
 @@||www.google.co.jp
@@ -129,6 +133,7 @@
 @@||www.recaptcha.net
 @@||www.smartnews.be
 @@||www.topvalu.net
+@@||www.virustotal.com
 @@||www.yonden.co.jp
 @@||www.youtube.com
 @@||www2.gred.jp
@@ -137,6 +142,9 @@
 @@||yamato-hd.co.jp
 @@||youtu.be
 @@||youtubei.googleapis.com
+@@||yt3.ggpht.com
+@@||yt4.ggpht.com
+@@||zozo.jp
 
 # [akamai]
 @@||*.akamaihd.net
