@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 11 May 2025
+# Last modified: 12 May 2025
 #
 
 # [広告全般]
@@ -17,6 +17,7 @@
 0.0.0.0 1st-range-golf.com
 0.0.0.0 2.homeplusone.com.tw
 0.0.0.0 2110.jp
+0.0.0.0 2525sweets.base.shop
 0.0.0.0 2ndtable.com
 0.0.0.0 3000gamepix.com
 0.0.0.0 3016clinic.com
@@ -114,6 +115,7 @@
 0.0.0.0 akr0674735414.owst.jp
 0.0.0.0 akr1344517741.owst.jp
 0.0.0.0 akr1440658677.owst.jp
+0.0.0.0 akr1443183977.owst.jp
 0.0.0.0 akr1520790650.owst.jp
 0.0.0.0 akr2241836267.owst.jp
 0.0.0.0 akr3470120455.owst.jp
@@ -482,6 +484,7 @@
 0.0.0.0 comorebi-camp.jp
 0.0.0.0 company.rpahack.tech
 0.0.0.0 compet.jp
+0.0.0.0 congoh.jp
 0.0.0.0 conoken.com
 0.0.0.0 conosur-lovers.jp
 0.0.0.0 consul-data-bank.com
@@ -1188,6 +1191,7 @@
 0.0.0.0 islandjourney-wedding.jp
 0.0.0.0 islewhite.com
 0.0.0.0 isodashika.com
+0.0.0.0 isshin-moriguchi.owst.jp
 0.0.0.0 issho-ueno.com
 0.0.0.0 issyou-nishikujyou.owst.jp
 0.0.0.0 issyou-nishinakajima.owst.jp
@@ -1380,6 +1384,7 @@
 0.0.0.0 katatiya.owst.jp
 0.0.0.0 katene.chuden.jp
 0.0.0.0 katsubedc-nanmori.com
+0.0.0.0 katsuo-furukawabashi.owst.jp
 0.0.0.0 katsuo-gamouyonchome.owst.jp
 0.0.0.0 katsuo-kyobashiminami.owst.jp
 0.0.0.0 katsurabina.shop
@@ -1428,6 +1433,7 @@
 0.0.0.0 kirei-world.click
 0.0.0.0 kirinuki.jp
 0.0.0.0 kiseki.urr.jp
+0.0.0.0 kitahama-rosegarden.com
 0.0.0.0 kitamoto.click
 0.0.0.0 kitanoburn.owst.jp
 0.0.0.0 kitaosaka-souzoku-center.com
@@ -1947,6 +1953,7 @@
 0.0.0.0 nikunoikezawa.shop-pro.jp
 0.0.0.0 nikunotajimatsuhan.com
 0.0.0.0 nikunotakumi-chitaya.owst.jp
+0.0.0.0 nikusho-ichie.com
 0.0.0.0 nikuzushi-sennichimae.owst.jp
 0.0.0.0 nill.jp
 0.0.0.0 ningyou-nishioka.com
@@ -2442,6 +2449,7 @@
 0.0.0.0 sb.kindle-esxzg.com
 0.0.0.0 sb.kitagawa-investment.com
 0.0.0.0 sb.kyysmahavidyalaya.com
+0.0.0.0 sb.lasana.co.jp
 0.0.0.0 sb.life-magazine.jp
 0.0.0.0 sb.lifedoor-news.com
 0.0.0.0 sb.matsuge2023.net
@@ -2669,6 +2677,7 @@
 0.0.0.0 soxai.co.jp
 0.0.0.0 sp-newhama.com
 0.0.0.0 sp.jra.jp
+0.0.0.0 sp.new-function.com
 0.0.0.0 sp.otsuka-shokai.co.jp
 0.0.0.0 sp.staffservice-engineering.jp
 0.0.0.0 sparkles21.com
@@ -2915,6 +2924,7 @@
 0.0.0.0 tomei.c-nexco.co.jp
 0.0.0.0 tomishiyaku.net
 0.0.0.0 tomitarashi.com
+0.0.0.0 tomizurusakaisenboku.owst.jp
 0.0.0.0 tomo3kaku.stores.jp
 0.0.0.0 tomohirokai.or.jp
 0.0.0.0 tomotaqu.com
@@ -3003,6 +3013,7 @@
 0.0.0.0 underground-group.net
 0.0.0.0 unibag.jp
 0.0.0.0 unibo.theshop.jp
+0.0.0.0 unicast-robotics.com
 0.0.0.0 unicorn-overlord.com
 0.0.0.0 unima.co.jp
 0.0.0.0 united-clinic.com
@@ -3578,6 +3589,7 @@
 0.0.0.0 www.dfs.com
 0.0.0.0 www.difstory.com
 0.0.0.0 www.digiraku.com
+0.0.0.0 www.digital-biology.co.jp
 0.0.0.0 www.digital.go.jp
 0.0.0.0 www.digital.toppan.com
 0.0.0.0 www.diningmaison.jp
@@ -4150,6 +4162,7 @@
 0.0.0.0 www.kanagawa-subaru.com
 0.0.0.0 www.kanagawa-u.ac.jp
 0.0.0.0 www.kanazawaekinishi.com
+0.0.0.0 www.kandenkyo.com
 0.0.0.0 www.kanebo-cosmetics.jp
 0.0.0.0 www.kaneyo.com
 0.0.0.0 www.kango-roo.com
@@ -4354,6 +4367,7 @@
 0.0.0.0 www.maruten-print.jp
 0.0.0.0 www.maruyohotel.com
 0.0.0.0 www.maruyone.co.jp
+0.0.0.0 www.maruzen.net
 0.0.0.0 www.masayoshifujishima.com
 0.0.0.0 www.maserati.com
 0.0.0.0 www.masuda-shika.net
@@ -4460,6 +4474,7 @@
 0.0.0.0 www.morrobay.org
 0.0.0.0 www.mos.jp
 0.0.0.0 www.motherfarm.co.jp
+0.0.0.0 www.motionape.com
 0.0.0.0 www.motu-ooyama.com
 0.0.0.0 www.mouse-jp.co.jp
 0.0.0.0 www.mrpro.co.jp
@@ -4643,6 +4658,7 @@
 0.0.0.0 www.open-circuit.ne.jp
 0.0.0.0 www.opera-official.net
 0.0.0.0 www.ophthalmologytimes.com
+0.0.0.0 www.oragamo.com
 0.0.0.0 www.oralb.braun.co.jp
 0.0.0.0 www.orangeroom.jp
 0.0.0.0 www.orbussoftware.com
@@ -4851,6 +4867,7 @@
 0.0.0.0 www.ryukoku.ac.jp
 0.0.0.0 www.s-daiwa.com
 0.0.0.0 www.s-ge.com
+0.0.0.0 www.s-lawyers.jp
 0.0.0.0 www.s-re.jp
 0.0.0.0 www.s-sakurai.net
 0.0.0.0 www.s-summerjazzcamp.jp
@@ -4895,6 +4912,7 @@
 0.0.0.0 www.scenario.co.jp
 0.0.0.0 www.scholarly.sg
 0.0.0.0 www.sciencewood.co.jp
+0.0.0.0 www.sdk-cop.jp
 0.0.0.0 www.sears.jp
 0.0.0.0 www.seed.co.jp
 0.0.0.0 www.seibuprince.com
@@ -5370,6 +5388,7 @@
 0.0.0.0 www.yasuda-u.ac.jp
 0.0.0.0 www.yasumiya-d.net
 0.0.0.0 www.yawata.tv
+0.0.0.0 www.yellowhat.jp
 0.0.0.0 www.yeuxclairs.com
 0.0.0.0 www.ykkap.co.jp
 0.0.0.0 www.ymd-ssi.jp
