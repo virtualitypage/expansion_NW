@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 12 May 2025
+# Last modified: 13 May 2025
 #
 
 # [広告全般]
@@ -1308,6 +1308,7 @@
 0.0.0.0 jskeiji.jbplt.jp
 0.0.0.0 jta.or.jp
 0.0.0.0 jts-gr.com
+0.0.0.0 juken.oricon.co.jp
 0.0.0.0 julius.co.jp
 0.0.0.0 juno-e.com
 0.0.0.0 juso-syokudo.foodre.jp
@@ -1571,6 +1572,7 @@
 0.0.0.0 lemonhome.co.jp
 0.0.0.0 lens-me.jp
 0.0.0.0 leopalace-fine2005.com
+0.0.0.0 leosecuretech.com
 0.0.0.0 les-seeds96.com
 0.0.0.0 lets-boatrace.jp
 0.0.0.0 library.techinsights.com
@@ -1599,6 +1601,7 @@
 0.0.0.0 loans.life
 0.0.0.0 logimeets.jp
 0.0.0.0 lohasplaza.com
+0.0.0.0 lonalona.jp
 0.0.0.0 longterm.kikagaku.ai
 0.0.0.0 lotteryserv.biz
 0.0.0.0 lotus-jinzai.co.jp
@@ -1850,6 +1853,7 @@
 0.0.0.0 mtg-campaign.com
 0.0.0.0 mtg-jp.com
 0.0.0.0 mtm-aoyama.com
+0.0.0.0 mugenmeat-catering.com
 0.0.0.0 mugla.goturkiye.com
 0.0.0.0 muqbel.jp
 0.0.0.0 musashi-kikaiyuso.com
@@ -2560,6 +2564,7 @@
 0.0.0.0 sho.benesse.co.jp
 0.0.0.0 shoesiland.com
 0.0.0.0 shoka-stick.jp
+0.0.0.0 shokai-walker.jp
 0.0.0.0 shokumitennka.owst.jp
 0.0.0.0 shonan-dining.com
 0.0.0.0 shop-list.com
@@ -2720,6 +2725,7 @@
 0.0.0.0 store.alpen-group.jp
 0.0.0.0 store.ashleyfurniture.jp
 0.0.0.0 store.fix-it.jp
+0.0.0.0 store.hcproduce.co.jp
 0.0.0.0 store.maisontakuya.jp
 0.0.0.0 store.mens-null.net
 0.0.0.0 store.sanyo-shokai.co.jp
@@ -3007,6 +3013,7 @@
 0.0.0.0 umiuma.jp
 0.0.0.0 umiumart.jp
 0.0.0.0 unagi-mankichi.com
+0.0.0.0 unagi-nonoha.hope-77.jp
 0.0.0.0 unagi-nosuke.com
 0.0.0.0 unaginobori-hamamatsu.jp
 0.0.0.0 uncf.org
@@ -3074,6 +3081,7 @@
 0.0.0.0 walar.co.jp
 0.0.0.0 walife.co.jp
 0.0.0.0 wamell.co.jp
+0.0.0.0 wana-bros.com
 0.0.0.0 warabimochipompom.com
 0.0.0.0 waraya88.owst.jp
 0.0.0.0 warm-i.com
@@ -3649,6 +3657,7 @@
 0.0.0.0 www.edic.jp
 0.0.0.0 www.edion.com
 0.0.0.0 www.edix-expo.jp
+0.0.0.0 www.education-inc.co.jp
 0.0.0.0 www.eft-makuw.jp
 0.0.0.0 www.ega.ae
 0.0.0.0 www.egakuyo.com
@@ -4022,6 +4031,7 @@
 0.0.0.0 www.ins-saison.co.jp
 0.0.0.0 www.ins-vision.co.jp
 0.0.0.0 www.insight.com
+0.0.0.0 www.insightcordlesslighting.jp
 0.0.0.0 www.inspirekorea.com
 0.0.0.0 www.intel.co.jp
 0.0.0.0 www.inter-edu.com
@@ -4256,9 +4266,11 @@
 0.0.0.0 www.koshin-ltd.jp
 0.0.0.0 www.kossetsucare.com
 0.0.0.0 www.kosugi-tire.com
+0.0.0.0 www.kouenirai.com
 0.0.0.0 www.koushihaken.com
 0.0.0.0 www.kouya-tofu.com
 0.0.0.0 www.koyama.co.jp
+0.0.0.0 www.kozlife.com
 0.0.0.0 www.ksdh.or.jp
 0.0.0.0 www.ksos-web.jp
 0.0.0.0 www.ksu.ac.jp
@@ -4796,6 +4808,7 @@
 0.0.0.0 www.pwc.com
 0.0.0.0 www.qac.co.jp
 0.0.0.0 www.qfox-japan.com
+0.0.0.0 www.qobuz.com
 0.0.0.0 www.qol-inc.com
 0.0.0.0 www.qoo10.jp
 0.0.0.0 www.qropsdirect.in
@@ -5470,6 +5483,7 @@
 0.0.0.0 yamanaka-kensetsu-lp.com
 0.0.0.0 yamanashi.media
 0.0.0.0 yamashiro-onlinestore.com
+0.0.0.0 yamataku-consulting.com
 0.0.0.0 yamatane-museum.com
 0.0.0.0 yamato-signage.com
 0.0.0.0 yamatonikudori-sakurahara.owst.jp
