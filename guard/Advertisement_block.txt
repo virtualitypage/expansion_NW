@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 13 May 2025
+# Last modified: 14 May 2025
 #
 
 # [広告全般]
@@ -717,6 +717,7 @@
 0.0.0.0 event.tenki-japan.co.jp
 0.0.0.0 evercolor.jp
 0.0.0.0 everygoodnews.com
+0.0.0.0 excelhome-y.com
 0.0.0.0 exerurgentcare.com
 0.0.0.0 exothelab.jp
 0.0.0.0 expa-official.jp
@@ -1206,6 +1207,7 @@
 0.0.0.0 itp.ne.jp
 0.0.0.0 iwata-yuzunoki-hoikuen.com
 0.0.0.0 iwateya-shop.jp
+0.0.0.0 ix-ix.biz
 0.0.0.0 iyec.itoyokado.co.jp
 0.0.0.0 izakaya-yusuke.owst.jp
 0.0.0.0 izumi-posting.com
@@ -1354,6 +1356,7 @@
 0.0.0.0 kameman.owst.jp
 0.0.0.0 kamenoi-hotels.com
 0.0.0.0 kameoka-organicschool.jp
+0.0.0.0 kamerico.owst.jp
 0.0.0.0 kamome.asia
 0.0.0.0 kamposhop.kracie.co.jp
 0.0.0.0 kamukura-recruit.jp
@@ -1879,6 +1882,7 @@
 0.0.0.0 myvketofficial.cloud.vket.com
 0.0.0.0 n3cafe.com
 0.0.0.0 nadakobetsu.com
+0.0.0.0 nadi-leaf.jp
 0.0.0.0 nadwuri.owst.jp
 0.0.0.0 naganokaitai.net
 0.0.0.0 nagaro-fudosan.jp
@@ -2226,6 +2230,7 @@
 0.0.0.0 qago.dev
 0.0.0.0 qb-recruit.com
 0.0.0.0 qjin7.com
+0.0.0.0 qoo8you.com
 0.0.0.0 quanshuiwetmarket.com
 0.0.0.0 quartermail.jp
 0.0.0.0 questant.jp
@@ -2387,6 +2392,7 @@
 0.0.0.0 sapporo-nissan.com
 0.0.0.0 sapporotoyota-northernbox.jp
 0.0.0.0 sarathikamiyathou.owst.jp
+0.0.0.0 sasa.osaka
 0.0.0.0 sasaki-kougyo.com
 0.0.0.0 sasatto.jp
 0.0.0.0 sassa-shop.com
@@ -3696,6 +3702,7 @@
 0.0.0.0 www.esforta.co.jp
 0.0.0.0 www.eslead.co.jp
 0.0.0.0 www.esplanade.com
+0.0.0.0 www.est-ouest.co.jp
 0.0.0.0 www.etungo.com.tw
 0.0.0.0 www.euclid-records.com
 0.0.0.0 www.evat.cz
@@ -3827,6 +3834,7 @@
 0.0.0.0 www.gizoutaisaku.com
 0.0.0.0 www.glamhide.com
 0.0.0.0 www.glamping-chibakamogawa.com
+0.0.0.0 www.gleeful.co.jp
 0.0.0.0 www.gleif.org
 0.0.0.0 www.global-style.jp
 0.0.0.0 www.globalwork.jp
@@ -3933,6 +3941,7 @@
 0.0.0.0 www.hi753.com
 0.0.0.0 www.hibou-chushou.com
 0.0.0.0 www.hikoki-powertools.jp
+0.0.0.0 www.hilton.com
 0.0.0.0 www.hiltonodaiba.jp
 0.0.0.0 www.hiltonwedding.jp
 0.0.0.0 www.himeji-hiranohonten.com
@@ -5161,6 +5170,7 @@
 0.0.0.0 www.tensyou.com
 0.0.0.0 www.tepco.co.jp
 0.0.0.0 www.teppanyaki-hiro.jp
+0.0.0.0 www.tetujin.jp
 0.0.0.0 www.tezukuritown.com
 0.0.0.0 www.tf-style.com
 0.0.0.0 www.tgn.co.jp
