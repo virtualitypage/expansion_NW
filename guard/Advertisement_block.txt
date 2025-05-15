@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 14 May 2025
+# Last modified: 15 May 2025
 #
 
 # [広告全般]
@@ -127,6 +127,7 @@
 0.0.0.0 akr7827636977.owst.jp
 0.0.0.0 akr8178987612.owst.jp
 0.0.0.0 akr8468139698.owst.jp
+0.0.0.0 akr8490227405.owst.jp
 0.0.0.0 akr9636581561.owst.jp
 0.0.0.0 al-mare.irodori-inc-okj.co.jp
 0.0.0.0 alc.talkingmarathon.com
@@ -334,6 +335,7 @@
 0.0.0.0 bodyshop-fukuhisa.com
 0.0.0.0 bonesandbeyond.com
 0.0.0.0 bonsai-kaitori.work
+0.0.0.0 book.yamazen.co.jp
 0.0.0.0 booking.pacificgolf.co.jp
 0.0.0.0 booklive.jp
 0.0.0.0 books.bunshun.jp
@@ -1007,6 +1009,7 @@
 0.0.0.0 hc.mt-pharma.co.jp
 0.0.0.0 health-trends.net
 0.0.0.0 healthcarelife.info
+0.0.0.0 heart-gifting.com
 0.0.0.0 heartland-ise.com
 0.0.0.0 heitenya.com
 0.0.0.0 heki.owst.jp
@@ -1310,6 +1313,7 @@
 0.0.0.0 jskeiji.jbplt.jp
 0.0.0.0 jta.or.jp
 0.0.0.0 jts-gr.com
+0.0.0.0 judge-hub.com
 0.0.0.0 juken.oricon.co.jp
 0.0.0.0 julius.co.jp
 0.0.0.0 juno-e.com
@@ -1791,6 +1795,7 @@
 0.0.0.0 minoh-spa.ooedoonsen.jp
 0.0.0.0 minoh.ooedoonsen.jp
 0.0.0.0 minotti.jp
+0.0.0.0 minpaku.style
 0.0.0.0 minsah-ring.com
 0.0.0.0 mintj.com
 0.0.0.0 mintoku.work
@@ -1804,6 +1809,7 @@
 0.0.0.0 miraikuuchou-lp.com
 0.0.0.0 mirairo.space
 0.0.0.0 miraiyu-career.com
+0.0.0.0 mirasisone.com
 0.0.0.0 miru-anime.com
 0.0.0.0 misawa-chugoku.jp
 0.0.0.0 misawa-kinki.jp
@@ -2028,6 +2034,7 @@
 0.0.0.0 oishii-izumo.jp
 0.0.0.0 oiuvoice.com
 0.0.0.0 oka-d-art.com
+0.0.0.0 okadatoukisokuryou.com
 0.0.0.0 okaido.clare.jp
 0.0.0.0 okamoto-dental.clinic
 0.0.0.0 okariba-kyoto.owst.jp
@@ -2116,6 +2123,7 @@
 0.0.0.0 page.tapon.com
 0.0.0.0 pages.vaio.com
 0.0.0.0 pair-loan.com
+0.0.0.0 paircraft.jp
 0.0.0.0 paiza.jp
 0.0.0.0 palcoop.saiyo-job.jp
 0.0.0.0 panasonic.jp
@@ -2206,6 +2214,7 @@
 0.0.0.0 product-glow.site
 0.0.0.0 product.kadokawa.co.jp
 0.0.0.0 product.minebeamitsumi.com
+0.0.0.0 products.neos.ne.jp
 0.0.0.0 promise.kyoto.travel
 0.0.0.0 promo.acronis.com
 0.0.0.0 promo.kadokawa.co.jp
@@ -2596,6 +2605,7 @@
 0.0.0.0 shop.mawatari.net
 0.0.0.0 shop.nakano-group.co.jp
 0.0.0.0 shop.noevir.jp
+0.0.0.0 shop.pasargad.jp
 0.0.0.0 shop.pdr.co.jp
 0.0.0.0 shop.remozer.com
 0.0.0.0 shop.retro-n.com
@@ -2784,6 +2794,7 @@
 0.0.0.0 super-copy-brand.com
 0.0.0.0 superfunded.com
 0.0.0.0 supi.owned.media
+0.0.0.0 surprise-lab.com
 0.0.0.0 survey.qlifeweb.jp
 0.0.0.0 sus-recruit.com
 0.0.0.0 sushi-hasegawa.owst.jp
@@ -3519,6 +3530,7 @@
 0.0.0.0 www.club-t.com
 0.0.0.0 www.clubmed.co.jp
 0.0.0.0 www.cm.life8739.co.jp
+0.0.0.0 www.co-okinawa.com
 0.0.0.0 www.coca-cola.com
 0.0.0.0 www.cockpit.co.jp
 0.0.0.0 www.cocomarke.com
@@ -3658,6 +3670,7 @@
 0.0.0.0 www.ecocity.jp
 0.0.0.0 www.ecoflow.com
 0.0.0.0 www.ecomo-life.com
+0.0.0.0 www.ecomott.co.jp
 0.0.0.0 www.ecoplan2001.com
 0.0.0.0 www.ecosmile-e.co.jp
 0.0.0.0 www.edic.jp
@@ -4058,6 +4071,7 @@
 0.0.0.0 www.irisohyama.co.jp
 0.0.0.0 www.irisplaza.co.jp
 0.0.0.0 www.iroha-koumuten.com
+0.0.0.0 www.isekanbutsu.co.jp
 0.0.0.0 www.ishibashi-mfg.com
 0.0.0.0 www.ishichou.co.jp
 0.0.0.0 www.ishikawa-dental-office.jp
@@ -4205,6 +4219,7 @@
 0.0.0.0 www.keiai.net
 0.0.0.0 www.keichomaru.jp
 0.0.0.0 www.keihan-ert.jp
+0.0.0.0 www.keihoudou.co.jp
 0.0.0.0 www.keiji-pestcontrol.com
 0.0.0.0 www.keiko.josho.ac.jp
 0.0.0.0 www.keikyu-store.com
@@ -4223,6 +4238,7 @@
 0.0.0.0 www.kikubari.com
 0.0.0.0 www.kikyonooka.or.jp
 0.0.0.0 www.kimioku.online
+0.0.0.0 www.kimono-mikawa.com
 0.0.0.0 www.kimurajuku.co.jp
 0.0.0.0 www.kindai.ac.jp
 0.0.0.0 www.kinoshita-koumuten.co.jp
@@ -4239,6 +4255,7 @@
 0.0.0.0 www.kjtd.co.jp
 0.0.0.0 www.kkr.mlit.go.jp
 0.0.0.0 www.klook.com
+0.0.0.0 www.kmc.ast.ac.jp
 0.0.0.0 www.kmew.co.jp
 0.0.0.0 www.kmtinnovation.com
 0.0.0.0 www.kmw.ac.jp
@@ -4595,6 +4612,7 @@
 0.0.0.0 www.nissui.co.jp
 0.0.0.0 www.nito.co.jp
 0.0.0.0 www.niziiro.jp
+0.0.0.0 www.nkm.co.jp
 0.0.0.0 www.noa-yoga.com
 0.0.0.0 www.noaboxing.com
 0.0.0.0 www.noaonline.jp
@@ -5437,6 +5455,7 @@
 0.0.0.0 www.yuanta.com.tw
 0.0.0.0 www.yui-mall.jp
 0.0.0.0 www.yuifactory.co.jp
+0.0.0.0 www.yuki-darumaru.com
 0.0.0.0 www.yukitney-musical.com
 0.0.0.0 www.yumexia-job.com
 0.0.0.0 www.yunker.jp
@@ -5500,6 +5519,7 @@
 0.0.0.0 yamatsujiiin.com
 0.0.0.0 yamawake-estate.jp
 0.0.0.0 yamawarau.owst.jp
+0.0.0.0 yamaziro.com
 0.0.0.0 yametaraeenen.com
 0.0.0.0 yanase-audi.com
 0.0.0.0 yanba-rikimaru.com
@@ -5529,6 +5549,7 @@
 0.0.0.0 youngjump.jp
 0.0.0.0 yourkins.com
 0.0.0.0 youtakuji.net
+0.0.0.0 yowatarisan.com
 0.0.0.0 ypa.localab.net
 0.0.0.0 ypryunishishinsaibashi.owst.jp
 0.0.0.0 ys-plan.jp.net
