@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 15 May 2025
+# Last modified: 16 May 2025
 #
 
 # [広告全般]
@@ -145,6 +145,7 @@
 0.0.0.0 alphamiki.co.jp
 0.0.0.0 alpsoutdoorsummit.jp
 0.0.0.0 amagasaki-boat.com
+0.0.0.0 amani.co.jp
 0.0.0.0 amanism.jp
 0.0.0.0 amanitadesign.com
 0.0.0.0 amann55.com
@@ -176,6 +177,7 @@
 0.0.0.0 anobus.jp
 0.0.0.0 another1000years-miyajima.jp
 0.0.0.0 anpontan-kouenji.owst.jp
+0.0.0.0 anshin-shotan.jp
 0.0.0.0 answerbox.jp
 0.0.0.0 anytool.jp
 0.0.0.0 anzco-fuji-2025cp.campar.jp
@@ -202,6 +204,7 @@
 0.0.0.0 arcteryx.jp
 0.0.0.0 area.autodesk.jp
 0.0.0.0 aridamuki.jp
+0.0.0.0 arisu-no-yume.com
 0.0.0.0 armourin.official.ec
 0.0.0.0 aroma.aromakankyo.or.jp
 0.0.0.0 art-logis.com
@@ -604,6 +607,7 @@
 0.0.0.0 dolcebeauty.base.shop
 0.0.0.0 dongri-manzara.owst.jp
 0.0.0.0 doremi-international.com
+0.0.0.0 doridori.co.jp
 0.0.0.0 dormy-ac.com
 0.0.0.0 dormy-hotels.com
 0.0.0.0 dorutyenascita.owst.jp
@@ -827,6 +831,7 @@
 0.0.0.0 fundsearch.jp
 0.0.0.0 funeralsjp.club
 0.0.0.0 funplay.hinet.net
+0.0.0.0 furniture-guide.jp
 0.0.0.0 furnituremaker.co.jp
 0.0.0.0 furunavi.jp
 0.0.0.0 furusato-karatsu.com
@@ -846,6 +851,7 @@
 0.0.0.0 gaihekitosou-support.jp
 0.0.0.0 gakouin.com
 0.0.0.0 gakumado.mynavi.jp
+0.0.0.0 galf1394.com
 0.0.0.0 games.dmm.com
 0.0.0.0 gankenshinkochi.com
 0.0.0.0 gansan.info
@@ -1952,6 +1958,7 @@
 0.0.0.0 niche-strategy.co.jp
 0.0.0.0 nichicomi.com
 0.0.0.0 nichinoken-kansai.com
+0.0.0.0 nichizei-journal.com
 0.0.0.0 nico-d.net
 0.0.0.0 nigawa.co.jp
 0.0.0.0 nihonjyuutaku.co.jp
@@ -2232,6 +2239,7 @@
 0.0.0.0 public.lec-jp.com
 0.0.0.0 pug.breeders.jp
 0.0.0.0 pure-soyprotein.jp
+0.0.0.0 puttoutgolf.jp
 0.0.0.0 pws.blackstone.com
 0.0.0.0 pxofms.buzz
 0.0.0.0 q-one.jp
@@ -2375,6 +2383,7 @@
 0.0.0.0 saimuseiri-green.com
 0.0.0.0 saimushindan-hibiki.com
 0.0.0.0 saisaiushock.com
+0.0.0.0 saitama-tenanto.jp
 0.0.0.0 saitama.netz-toyota-dealer.jp
 0.0.0.0 saitama.sagamitenrei.com
 0.0.0.0 saitokikaku.co.jp
@@ -2849,6 +2858,7 @@
 0.0.0.0 takeo.tokyo
 0.0.0.0 takuhai-kaitori.hardoff.co.jp
 0.0.0.0 takuhai.daichi-m.co.jp
+0.0.0.0 takumikobo-japan.com
 0.0.0.0 takuminocaviar.com
 0.0.0.0 takutoproperty-members.com
 0.0.0.0 takuya-kimura.jp
@@ -3301,6 +3311,7 @@
 0.0.0.0 www.apiadome.com
 0.0.0.0 www.apo-mjob.com
 0.0.0.0 www.apolloseiko.co.jp
+0.0.0.0 www.appraisaleconomics.com
 0.0.0.0 www.aprica.jp
 0.0.0.0 www.aqa.org.uk
 0.0.0.0 www.aquaclara.co.jp
@@ -3556,6 +3567,7 @@
 0.0.0.0 www.consaru.org
 0.0.0.0 www.contactlens.co.jp
 0.0.0.0 www.coopsumai.jp
+0.0.0.0 www.cordiale-group.com
 0.0.0.0 www.cordlesschime.com
 0.0.0.0 www.corehouse.jp
 0.0.0.0 www.coreopticstech.com
@@ -3703,6 +3715,7 @@
 0.0.0.0 www.energygap-jp.com
 0.0.0.0 www.englishcafe-clock.com
 0.0.0.0 www.enhousing.jp
+0.0.0.0 www.enkei-datsumou.jp
 0.0.0.0 www.enma-do.com
 0.0.0.0 www.enoteca.co.jp
 0.0.0.0 www.enshu-shinkin.jp
@@ -4098,6 +4111,7 @@
 0.0.0.0 www.j-flec.go.jp
 0.0.0.0 www.j-meets.com
 0.0.0.0 www.j-urban.jp
+0.0.0.0 www.ja-niigatashi.jp
 0.0.0.0 www.ja-town.com
 0.0.0.0 www.jabank-ehime.or.jp
 0.0.0.0 www.jabank.org
@@ -4822,6 +4836,7 @@
 0.0.0.0 www.pride-fish.jp
 0.0.0.0 www.princehotels.co.jp
 0.0.0.0 www.printfesta.com
+0.0.0.0 www.privateblue-seto.com
 0.0.0.0 www.prkcps.com
 0.0.0.0 www.pro-bank.co.jp
 0.0.0.0 www.propertyagent.co.jp
@@ -4915,6 +4930,7 @@
 0.0.0.0 www.safejp.net
 0.0.0.0 www.safra.sg
 0.0.0.0 www.saintepure.co.jp
+0.0.0.0 www.saishinchirashi.jp
 0.0.0.0 www.saison-am.co.jp
 0.0.0.0 www.salesforce.com
 0.0.0.0 www.salo-ka.com
@@ -4963,6 +4979,7 @@
 0.0.0.0 www.seirei.or.jp
 0.0.0.0 www.seiss.co.jp
 0.0.0.0 www.seito-jp.com
+0.0.0.0 www.seiwasangyo.com
 0.0.0.0 www.seiyu-home.com
 0.0.0.0 www.sekisuiheim.com
 0.0.0.0 www.sekisuihouse-f-tokyo.co.jp
@@ -5079,6 +5096,7 @@
 0.0.0.0 www.st-andrews.ac.uk
 0.0.0.0 www.st-mary.ac.jp
 0.0.0.0 www.st.com
+0.0.0.0 www.star-m.jp
 0.0.0.0 www.star-programming-school.com
 0.0.0.0 www.starkeyjp.com
 0.0.0.0 www.startup-roudou.mhlw.go.jp
@@ -5301,6 +5319,7 @@
 0.0.0.0 www.u-academy.jp
 0.0.0.0 www.u-can.co.jp
 0.0.0.0 www.u-master.net
+0.0.0.0 www.u-products.co.jp
 0.0.0.0 www.u-space.com
 0.0.0.0 www.ube.co.jp
 0.0.0.0 www.uberguild.net
