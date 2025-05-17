@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 16 May 2025
+# Last modified: 17 May 2025
 #
 
 # [広告全般]
@@ -1315,6 +1315,7 @@
 0.0.0.0 jpn.pioneer
 0.0.0.0 jpstore.msi.com
 0.0.0.0 jra-fun.jp
+0.0.0.0 jri-career.com
 0.0.0.0 jsite.mhlw.go.jp
 0.0.0.0 jskeiji.jbplt.jp
 0.0.0.0 jta.or.jp
@@ -1791,6 +1792,7 @@
 0.0.0.0 million-sales.com
 0.0.0.0 mimi-kyokai.jp
 0.0.0.0 minamiasagaya.ryusei-sekkotuin.net
+0.0.0.0 minamino.itami-hagukumi.work
 0.0.0.0 minase-ep.jp
 0.0.0.0 minato-motomachi.jp
 0.0.0.0 mindwind.tokyo
@@ -2386,6 +2388,7 @@
 0.0.0.0 saitama-tenanto.jp
 0.0.0.0 saitama.netz-toyota-dealer.jp
 0.0.0.0 saitama.sagamitenrei.com
+0.0.0.0 saito-zei-lp.com
 0.0.0.0 saitokikaku.co.jp
 0.0.0.0 saiyo-shoten.com
 0.0.0.0 sakai.jeep-dealer.jp
@@ -2702,6 +2705,7 @@
 0.0.0.0 sousou.co.jp
 0.0.0.0 southernallstars.jp
 0.0.0.0 southernlift.com
+0.0.0.0 southfruits7373.com
 0.0.0.0 souzoku.t-bengo.com
 0.0.0.0 souzokuhouki-kizuna.com
 0.0.0.0 soxai.co.jp
@@ -3759,6 +3763,7 @@
 0.0.0.0 www.ferpc.jp
 0.0.0.0 www.ferry-sunflower.co.jp
 0.0.0.0 www.fetnet.net
+0.0.0.0 www.feve-jiyugaoka.jp
 0.0.0.0 www.fevertree.jp
 0.0.0.0 www.fiat-jp.com
 0.0.0.0 www.figurekaitorido.com
@@ -4519,6 +4524,7 @@
 0.0.0.0 www.monkiara.com
 0.0.0.0 www.monocompany.com
 0.0.0.0 www.mont-deco.com
+0.0.0.0 www.morganmckinley.com
 0.0.0.0 www.morimoto-shoji.co.jp
 0.0.0.0 www.morimotocon.co.jp
 0.0.0.0 www.morinaga.co.jp
@@ -4634,6 +4640,7 @@
 0.0.0.0 www.noblehome.co.jp
 0.0.0.0 www.nobunaga-funding.jp
 0.0.0.0 www.noce.co.jp
+0.0.0.0 www.noha.co.jp
 0.0.0.0 www.nohgahotel.com
 0.0.0.0 www.noma.co.jp
 0.0.0.0 www.nomura-am.co.jp
