@@ -4,7 +4,7 @@
 # References: https://meiwakumail.jp/
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_link.txt
 #
-# Last modified: 10 February 2025
+# Last modified: 18 May 2025
 #
 
 # [迷惑メールのURLリンク(目的不明)]
@@ -32,7 +32,6 @@
 0.0.0.0 0tlif3u57.htr-dfbytrw.com
 0.0.0.0 0tpjz2.t5re-fgntr-dfrg.com
 0.0.0.0 0w1c0w9m.awer-gdsw.com
-0.0.0.0 0xf3l-mhdjt.jp
 0.0.0.0 1-hc09-681.jp
 0.0.0.0 10sag4r52f.com
 0.0.0.0 10wvo7303o3ah3.fitness-horizon.net
@@ -531,7 +530,6 @@
 0.0.0.0 8281.m3qf9p6d.com
 0.0.0.0 82gp-jn1d.net
 0.0.0.0 830.jdh-sy.com
-0.0.0.0 83c-jlna1.jp
 0.0.0.0 83is5.h5d-fge-re.jp
 0.0.0.0 83z3aau.6urd-5ergr.com
 0.0.0.0 849.connectionwitnessperception.com
@@ -945,7 +943,6 @@
 0.0.0.0 ce803go.t5re-fgntr-dfrg.com
 0.0.0.0 ce8dven6.6urd-5ergr.com
 0.0.0.0 cecy.t5re-fgntr-dfrg.com
-0.0.0.0 certificatesil3g7v.com
 0.0.0.0 cfo-w5xgd.jp
 0.0.0.0 cg-rhztzo.jp
 0.0.0.0 chEe7998qe.elevate-blunder.com
@@ -1296,7 +1293,6 @@
 0.0.0.0 hhdwd.9t7j-6q3q.com
 0.0.0.0 hhk2ew.juy6rsd-gfx.jp
 0.0.0.0 hhw1.hderg-dfb.com
-0.0.0.0 hiea-lq3lp2.jp
 0.0.0.0 hinhjw.pky-hc.com
 0.0.0.0 hipsr.xqo-wh.com
 0.0.0.0 hitchon-blethyn.com
@@ -1447,7 +1443,6 @@
 0.0.0.0 jmm-hl.com
 0.0.0.0 jmv38.pbt-su.com
 0.0.0.0 jnpl1nw.ur6-d5-dh.com
-0.0.0.0 job-jump.com
 0.0.0.0 joglpen.nfrt-r6y6d-d.jp
 0.0.0.0 johmxd7f.5tehtiy.com
 0.0.0.0 join.skype.com
@@ -2082,7 +2077,6 @@
 0.0.0.0 thom-ravage.com
 0.0.0.0 thrlf74NmW.crucial-awesome.com
 0.0.0.0 ti194mp.hderg-dfb.com
-0.0.0.0 tinyurl.com
 0.0.0.0 tj.8j-ki-klqmu.com
 0.0.0.0 tjj-fgv48ur.jp
 0.0.0.0 tjj2.nmhgyt-dfd.com
@@ -2336,7 +2330,6 @@
 0.0.0.0 www.ad5a6yteb.com
 0.0.0.0 www.aeom5.ey4ixap7r.com
 0.0.0.0 www.afbpt.y8ifbhd3x.com
-0.0.0.0 www.afore-yowza.com
 0.0.0.0 www.after-blank.com
 0.0.0.0 www.amazon.co.jp
 0.0.0.0 www.aua8j.h5rki4fhn.com
@@ -2375,10 +2368,7 @@
 0.0.0.0 www.fzolb.w6uxtw5fd.com
 0.0.0.0 www.getmoreopportunities.info
 0.0.0.0 www.geuza.h5rki4fhn.com
-0.0.0.0 www.goldtip.shop
-0.0.0.0 www.greatbusi.info
 0.0.0.0 www.growthmarketingnow.info
-0.0.0.0 www.growwealthy.info
 0.0.0.0 www.gyrzn.y8ifbhd3x.com
 0.0.0.0 www.gznr9.h5rki4fhn.com
 0.0.0.0 www.h2dtgr2hu.com
@@ -2412,7 +2402,6 @@
 0.0.0.0 www.malwr.dxg78c9ck.com
 0.0.0.0 www.mf7w28tm2.com
 0.0.0.0 www.mmwo5.b3i8xdkng.com
-0.0.0.0 www.moredollar.info
 0.0.0.0 www.mppyk.mg7zuynh4.com
 0.0.0.0 www.mr0ji.w6uxtw5fd.com
 0.0.0.0 www.mr8bi.dp5ub26zd.com
@@ -2480,7 +2469,6 @@
 0.0.0.0 www.uhdmq.ey4ixap7r.com
 0.0.0.0 www.ui0sd.sz9red9t2.com
 0.0.0.0 www.unel1.w6uxtw5fd.com
-0.0.0.0 www.unlockrevenue.info
 0.0.0.0 www.urbym.k5tkhu257.com
 0.0.0.0 www.vaa0w.edmf92pmr.com
 0.0.0.0 www.vftvi.tr7pai7mu.com
@@ -2500,7 +2488,6 @@
 0.0.0.0 www.xbdwwegkyt.com
 0.0.0.0 www.xbtsi.tst59hmfa.com
 0.0.0.0 www.xiwxm.b3kyr5p5u.com
-0.0.0.0 www.xmkpfiehai.com
 0.0.0.0 www.xsa7y.ey4ixap7r.com
 0.0.0.0 www.xvg52.tb6kbhrpx.com
 0.0.0.0 www.yavct.eb7xa66ib.com
@@ -2865,7 +2852,6 @@
 0.0.0.0 t9tt0.gaxez2js.com
 0.0.0.0 tdgoturigr.com
 0.0.0.0 teikei1.webview.mkpst.com
-0.0.0.0 tinyurl.com
 0.0.0.0 tr52n.bstygds3.com
 0.0.0.0 tvxi3.inf-ybd.com
 0.0.0.0 u88al.kgjd4gkyzy.com
@@ -2949,7 +2935,6 @@
 # [迷惑メールのURLリンク(KDDI)]
 0.0.0.0 tinyurl.com
 0.0.0.0 www.afdffqngrrdtmd.com
-0.0.0.0 www.auirnvpcqkbhl.com
 0.0.0.0 www.ayuqpoqjho.com
 0.0.0.0 www.bdapmsqtou.com
 0.0.0.0 www.berygkqxrhebtjp.com
