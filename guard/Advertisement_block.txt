@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 19 May 2025
+# Last modified: 20 May 2025
 #
 
 # [広告全般]
@@ -436,6 +436,7 @@
 0.0.0.0 chikaramoti-kochi.com
 0.0.0.0 chikudenchi-asahi.com
 0.0.0.0 chill-cam.com
+0.0.0.0 chin-pri.com
 0.0.0.0 chintai.house-q.co.jp
 0.0.0.0 chirashi.akachan.jp
 0.0.0.0 chodai3biru.owst.jp
@@ -558,6 +559,7 @@
 0.0.0.0 deep2031.com
 0.0.0.0 delivery-shizuoka-sakuraan.com
 0.0.0.0 delta-umeda.owst.jp
+0.0.0.0 dementia-osaka.com
 0.0.0.0 demo.buruburu.app
 0.0.0.0 dengekibunko.jp
 0.0.0.0 denka-agri.jp
@@ -685,6 +687,7 @@
 0.0.0.0 elbe.bmw.jp
 0.0.0.0 elegantevita.co.jp
 0.0.0.0 emifull.jp
+0.0.0.0 emol.jp
 0.0.0.0 employment.en-japan.com
 0.0.0.0 en-ambi.com
 0.0.0.0 en-gage.net
@@ -1676,6 +1679,7 @@
 0.0.0.0 m-ihinseiri.jp
 0.0.0.0 m-ikimonogatari.com
 0.0.0.0 m.blog.naver.com
+0.0.0.0 m.bullang.jp
 0.0.0.0 m.chitetsu.co.jp
 0.0.0.0 m.e-l-k.jp
 0.0.0.0 m.flyasiana.com
@@ -2597,6 +2601,7 @@
 0.0.0.0 shinjuku-4510.jp
 0.0.0.0 shinjuku-will.jp
 0.0.0.0 shinsengumi-noda.owst.jp
+0.0.0.0 shinten-kyoto.owst.jp
 0.0.0.0 shinya0129.info
 0.0.0.0 shisaku-kiban.com
 0.0.0.0 shisas-cafe-bbq.com
@@ -2993,6 +2998,7 @@
 0.0.0.0 toranoana-lab.co.jp
 0.0.0.0 torcroftlodges.com
 0.0.0.0 torikinumeda.owst.jp
+0.0.0.0 torinoichi1.owst.jp
 0.0.0.0 torinomiya.owst.jp
 0.0.0.0 toriton.owst.jp
 0.0.0.0 toriyakishougun-kawachieiwa.owst.jp
@@ -3233,6 +3239,7 @@
 0.0.0.0 www.7th9lodge.com
 0.0.0.0 www.816.co.jp
 0.0.0.0 www.816bunjo.com
+0.0.0.0 www.816chubu.jp
 0.0.0.0 www.816kinki.com
 0.0.0.0 www.85cafe.com
 0.0.0.0 www.894651.com
@@ -4418,6 +4425,7 @@
 0.0.0.0 www.lyft-gym.com
 0.0.0.0 www.lyngskroa.no
 0.0.0.0 www.m-ams.co.jp
+0.0.0.0 www.m-canvas.com
 0.0.0.0 www.m-keiei.jp
 0.0.0.0 www.m-sports-okinawa.jp
 0.0.0.0 www.m-ys.co.jp
@@ -4578,6 +4586,7 @@
 0.0.0.0 www.myspec.com
 0.0.0.0 www.mystino.jp
 0.0.0.0 www.mywaytours.co.jp
+0.0.0.0 www.n-make.co.jp
 0.0.0.0 www.nagaodai.jp
 0.0.0.0 www.nagasaki-ichiba.com
 0.0.0.0 www.nagasakistadiumcity.com
@@ -4610,6 +4619,7 @@
 0.0.0.0 www.navit-j.com
 0.0.0.0 www.ne.jp
 0.0.0.0 www.nec-lavie.jp
+0.0.0.0 www.nec-solutioninnovators.co.jp
 0.0.0.0 www.necosuke.jp
 0.0.0.0 www.needs5050.com
 0.0.0.0 www.nees1013.com
@@ -4780,6 +4790,7 @@
 0.0.0.0 www.otafuku.co.jp
 0.0.0.0 www.otakaraya.jp
 0.0.0.0 www.otani.ac.jp
+0.0.0.0 www.otm-inc.info
 0.0.0.0 www.otrs.jp
 0.0.0.0 www.otsuka-shokai.co.jp
 0.0.0.0 www.otv.co.jp
@@ -5556,6 +5567,7 @@
 0.0.0.0 yakiniku-guts-hanare.jp
 0.0.0.0 yakiniku-royal.com
 0.0.0.0 yakiniku-tanabata.owst.jp
+0.0.0.0 yakiniku-taru.owst.jp
 0.0.0.0 yakinikukannkunn.owst.jp
 0.0.0.0 yakinikunandaimon.owst.jp
 0.0.0.0 yakisuki-saiin.owst.jp
