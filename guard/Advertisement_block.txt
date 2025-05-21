@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 20 May 2025
+# Last modified: 21 May 2025
 #
 
 # [広告全般]
@@ -737,6 +737,7 @@
 0.0.0.0 expa-official.jp
 0.0.0.0 explore.arenasolutions.com
 0.0.0.0 explore.komatsu
+0.0.0.0 expo.agrijournal.jp
 0.0.0.0 expo.bus-gear.com
 0.0.0.0 expo2025.nikkei.co.jp
 0.0.0.0 expotokushima.jp
@@ -894,6 +895,7 @@
 0.0.0.0 global.jr-central.co.jp
 0.0.0.0 global.musinsa.com
 0.0.0.0 global.tamanlestari.com
+0.0.0.0 globalmedic.co.jp
 0.0.0.0 globalxetfs.co.jp
 0.0.0.0 globe-inc.shop-pro.jp
 0.0.0.0 globe.asahi.com
@@ -1123,6 +1125,7 @@
 0.0.0.0 hypnosismic-movie.com
 0.0.0.0 hypnosismic.com
 0.0.0.0 hyundaimobilitypassport.com
+0.0.0.0 i-fromdata.co.jp
 0.0.0.0 i-voce.jp
 0.0.0.0 i.ansinkaigo.jp
 0.0.0.0 i.kirei.today
@@ -2094,6 +2097,7 @@
 0.0.0.0 onlineshop.yamachu.net
 0.0.0.0 onlinestore.maxvalu.co.jp
 0.0.0.0 onlinezemi.nokai.jp
+0.0.0.0 onlive.studio
 0.0.0.0 onlyone.travel
 0.0.0.0 onlyoneafrica.com
 0.0.0.0 onlystory.co.jp
@@ -3378,6 +3382,7 @@
 0.0.0.0 www.askhim.jp
 0.0.0.0 www.askul.co.jp
 0.0.0.0 www.asobination.com
+0.0.0.0 www.asoboze.jp
 0.0.0.0 www.asoview.com
 0.0.0.0 www.asphaltgame.com
 0.0.0.0 www.asteria.com
@@ -4133,11 +4138,13 @@
 0.0.0.0 www.isuzu.co.jp
 0.0.0.0 www.it-ex.com
 0.0.0.0 www.itaccess.co.jp
+0.0.0.0 www.itmaasiasingapore.com
 0.0.0.0 www.itmaster.jp
 0.0.0.0 www.itoden.org
 0.0.0.0 www.itoen.jp
 0.0.0.0 www.itokin.net
 0.0.0.0 www.itproduct.jp
+0.0.0.0 www.its-recruit.info
 0.0.0.0 www.itsuki-sangyo.co.jp
 0.0.0.0 www.iu-estate.com
 0.0.0.0 www.ivs.events
@@ -4150,6 +4157,7 @@
 0.0.0.0 www.j-flec.go.jp
 0.0.0.0 www.j-meets.com
 0.0.0.0 www.j-urban.jp
+0.0.0.0 www.j-walk.ne.jp
 0.0.0.0 www.ja-niigatashi.jp
 0.0.0.0 www.ja-town.com
 0.0.0.0 www.jabank-ehime.or.jp
@@ -4620,6 +4628,7 @@
 0.0.0.0 www.ne.jp
 0.0.0.0 www.nec-lavie.jp
 0.0.0.0 www.nec-solutioninnovators.co.jp
+0.0.0.0 www.necktie-creation.jp
 0.0.0.0 www.necosuke.jp
 0.0.0.0 www.needs5050.com
 0.0.0.0 www.nees1013.com
@@ -5625,6 +5634,7 @@
 0.0.0.0 ys-plan.jp.net
 0.0.0.0 ysp-shop.com
 0.0.0.0 yukihira-akashi.owst.jp
+0.0.0.0 yumekitchen-arioyao.owst.jp
 0.0.0.0 yumekitchen.jp
 0.0.0.0 yurayura.owst.jp
 0.0.0.0 yururi-nikori.owst.jp
