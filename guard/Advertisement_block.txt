@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 21 May 2025
+# Last modified: 22 May 2025
 #
 
 # [広告全般]
@@ -158,6 +158,7 @@
 0.0.0.0 amnibus.com
 0.0.0.0 ampmedia.jp
 0.0.0.0 amu-kyoto.jp
+0.0.0.0 amy-med.com
 0.0.0.0 anaheim20.jp
 0.0.0.0 anajinzai.recruitment.jp
 0.0.0.0 ananti.kr
@@ -223,6 +224,7 @@
 0.0.0.0 artvivant-fantasyart.net
 0.0.0.0 aruyo22.jp
 0.0.0.0 arwrk.net
+0.0.0.0 as.uncn.jp
 0.0.0.0 asahi-biyou.or.jp
 0.0.0.0 asahidia-jewely.shop
 0.0.0.0 asahikawa-korpokkur.com
@@ -635,6 +637,7 @@
 0.0.0.0 dronekyoka.com
 0.0.0.0 drplus-japan.com
 0.0.0.0 ds.uncn.jp
+0.0.0.0 ds.uncn.jp.lan
 0.0.0.0 ds.yahoo.co.jp
 0.0.0.0 dsp.logly.co.jp
 0.0.0.0 dstarcustoms.com
@@ -1050,6 +1053,7 @@
 0.0.0.0 hijutaku.j-anshin.co.jp
 0.0.0.0 hikaku-rank.net
 0.0.0.0 hikaku.kurashiru.com
+0.0.0.0 hikariharvest.com
 0.0.0.0 himedai.net
 0.0.0.0 himeji-greenfamily.net
 0.0.0.0 himo-toku.jp
@@ -1120,6 +1124,7 @@
 0.0.0.0 hubble-ban-yan-tree-terrace.owst.jp
 0.0.0.0 hugkum.sho.jp
 0.0.0.0 humanqreate.com
+0.0.0.0 hutago-kyoubashi.owst.jp
 0.0.0.0 hyogo-lifepartner.co.jp
 0.0.0.0 hyogo-quality.jp
 0.0.0.0 hypnosismic-movie.com
@@ -1227,6 +1232,7 @@
 0.0.0.0 itaya-pat.jp
 0.0.0.0 itb-nanairo.tokyo
 0.0.0.0 ito-ec.jp
+0.0.0.0 itookashiki.com
 0.0.0.0 itp.ne.jp
 0.0.0.0 iwata-yuzunoki-hoikuen.com
 0.0.0.0 iwateya-shop.jp
@@ -1367,6 +1373,7 @@
 0.0.0.0 kaigojj.com
 0.0.0.0 kaigyoyushi-osaka.jp
 0.0.0.0 kainuma.org
+0.0.0.0 kaitori-king.tokyo
 0.0.0.0 kaitori.brandoff.co.jp
 0.0.0.0 kaitori.live
 0.0.0.0 kaitori.truckland.jp
@@ -1450,6 +1457,7 @@
 0.0.0.0 kidsna.com
 0.0.0.0 kidukikagayaki.owst.jp
 0.0.0.0 kigkt.cersi.jp
+0.0.0.0 kikuchikouso.net
 0.0.0.0 kimono-ice.com
 0.0.0.0 kimono-yamato-furisode.com
 0.0.0.0 kingram.shop
@@ -1759,6 +1767,7 @@
 0.0.0.0 matsue.clare.jp
 0.0.0.0 matsui-express-job.jp
 0.0.0.0 matsumoto.city
+0.0.0.0 matsumototravel.com
 0.0.0.0 matsuyama.citroen-dealer.jp
 0.0.0.0 matsuzukigyouseisyoshi.com
 0.0.0.0 maunakealiving.com
@@ -1845,6 +1854,7 @@
 0.0.0.0 mitsuboshifarm.jp
 0.0.0.0 mitsui-art.com
 0.0.0.0 mitsui-shopping-park.com
+0.0.0.0 mitsuka.mss-serv.com
 0.0.0.0 mitsumori.ashibakoji.com
 0.0.0.0 miyagi-aw2024.com
 0.0.0.0 miyagi-daihatsu.co.jp
@@ -1889,6 +1899,7 @@
 0.0.0.0 mtm-aoyama.com
 0.0.0.0 mugenmeat-catering.com
 0.0.0.0 mugla.goturkiye.com
+0.0.0.0 multi-water.com
 0.0.0.0 muqbel.jp
 0.0.0.0 musashi-kikaiyuso.com
 0.0.0.0 mushimushi-busters.jp
@@ -1945,6 +1956,7 @@
 0.0.0.0 naturalchange.jp
 0.0.0.0 navi.jobpal.jp
 0.0.0.0 navi.kankou-matsue.jp
+0.0.0.0 navitabi.co.jp
 0.0.0.0 nd118.com
 0.0.0.0 neith.tokyo
 0.0.0.0 nejikemon-ebisu.owst.jp
@@ -2913,6 +2925,7 @@
 0.0.0.0 targety.jp
 0.0.0.0 tarspay.com
 0.0.0.0 tasaki-s.co.jp
+0.0.0.0 taste-europe.asia
 0.0.0.0 tatansweets.com
 0.0.0.0 tateyoko-kazuma.com
 0.0.0.0 tavopets.com
@@ -3080,6 +3093,7 @@
 0.0.0.0 unagi-nosuke.com
 0.0.0.0 unaginobori-hamamatsu.jp
 0.0.0.0 uncf.org
+0.0.0.0 uncn.jp
 0.0.0.0 underground-group.net
 0.0.0.0 unibag.jp
 0.0.0.0 unibo.theshop.jp
@@ -3542,6 +3556,7 @@
 0.0.0.0 www.check-roudou.mhlw.go.jp
 0.0.0.0 www.cheer-sec.co.jp
 0.0.0.0 www.chen-mama.com.tw
+0.0.0.0 www.chiacchiere.co.jp
 0.0.0.0 www.chidoriya.co.jp
 0.0.0.0 www.chinaplasonline.com
 0.0.0.0 www.chintai-raymond.jp
@@ -4077,6 +4092,7 @@
 0.0.0.0 www.ice-yoji.com
 0.0.0.0 www.ichijo-homeloan.jp
 0.0.0.0 www.ichijo.co.jp
+0.0.0.0 www.ichinoyu.co.jp
 0.0.0.0 www.ichiyanagi-sougu.co.jp
 0.0.0.0 www.icsics.co.jp
 0.0.0.0 www.icturn4.com
@@ -4723,6 +4739,7 @@
 0.0.0.0 www.occam-global.com
 0.0.0.0 www.ocg.ac.jp
 0.0.0.0 www.ochikochi.co.jp
+0.0.0.0 www.octaneinkllc.com
 0.0.0.0 www.odysissuitesosaka.com
 0.0.0.0 www.oec.okaya.co.jp
 0.0.0.0 www.office-com.jp
@@ -5243,6 +5260,7 @@
 0.0.0.0 www.tateyama-kou.net
 0.0.0.0 www.taylormadegolf.jp
 0.0.0.0 www.tb-kumano.jp
+0.0.0.0 www.tcl.com
 0.0.0.0 www.tcw.co.jp
 0.0.0.0 www.tdk.com
 0.0.0.0 www.tds.co.jp
@@ -5396,6 +5414,7 @@
 0.0.0.0 www.uno-dental.net
 0.0.0.0 www.unzen-mikado.net
 0.0.0.0 www.uob.com.sg
+0.0.0.0 www.up-room2.com
 0.0.0.0 www.uqwimax.jp
 0.0.0.0 www.ur-net.go.jp
 0.0.0.0 www.urabe-taikando.co.jp
