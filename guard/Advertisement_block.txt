@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 22 May 2025
+# Last modified: 23 May 2025
 #
 
 # [広告全般]
@@ -248,6 +248,7 @@
 0.0.0.0 atelier-eijitsu.com
 0.0.0.0 athletehome.co.jp
 0.0.0.0 atom-clinic.com
+0.0.0.0 atoriekaguya.com
 0.0.0.0 atorifu-teradatyo.jp
 0.0.0.0 audi-tokai.com
 0.0.0.0 audika.jp
@@ -315,6 +316,7 @@
 0.0.0.0 biblesforjapan.org
 0.0.0.0 big-campaign.jp
 0.0.0.0 big5-basic.com
+0.0.0.0 bigdaddysshawarma.com
 0.0.0.0 bighornlaw.com
 0.0.0.0 bijoupiko.com
 0.0.0.0 bike-news.jp
@@ -1805,6 +1807,7 @@
 0.0.0.0 merci-info1.xyz
 0.0.0.0 mercure-hida-takayama.com
 0.0.0.0 meshop-jp.com
+0.0.0.0 metaxpayments.com
 0.0.0.0 metsa-hanno.com
 0.0.0.0 mfrt.rehouse.co.jp
 0.0.0.0 mi-mollet.com
@@ -2899,6 +2902,7 @@
 0.0.0.0 takatori-kobenakayamate.owst.jp
 0.0.0.0 takatori-sannomiyahonten.owst.jp
 0.0.0.0 takayamado.shop
+0.0.0.0 takayamaseihun.co.jp
 0.0.0.0 takenowashokudo.owst.jp
 0.0.0.0 takeo.tokyo
 0.0.0.0 takuhai-kaitori.hardoff.co.jp
@@ -5169,6 +5173,7 @@
 0.0.0.0 www.st-andrews.ac.uk
 0.0.0.0 www.st-mary.ac.jp
 0.0.0.0 www.st.com
+0.0.0.0 www.star-guys.jp
 0.0.0.0 www.star-m.jp
 0.0.0.0 www.star-programming-school.com
 0.0.0.0 www.starkeyjp.com
