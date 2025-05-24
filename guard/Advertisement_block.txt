@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 23 May 2025
+# Last modified: 24 May 2025
 #
 
 # [広告全般]
@@ -358,6 +358,7 @@
 0.0.0.0 bouquet-24.com
 0.0.0.0 bownim.base.shop
 0.0.0.0 brand.taisho.co.jp
+0.0.0.0 bright-app.com
 0.0.0.0 brightage.jp
 0.0.0.0 briil.com
 0.0.0.0 brokerspot.com
@@ -492,6 +493,7 @@
 0.0.0.0 comic-walker.com
 0.0.0.0 comic.iowl.jp
 0.0.0.0 comic.k-manga.jp
+0.0.0.0 comilabo.jp
 0.0.0.0 commit.carlifesquare.com
 0.0.0.0 common3.pref.akita.lg.jp
 0.0.0.0 comorebi-camp.jp
@@ -720,6 +722,7 @@
 0.0.0.0 episodebrick.com
 0.0.0.0 eplan.jp
 0.0.0.0 eplus.jp
+0.0.0.0 eras-and-allies-civilization.2k.com
 0.0.0.0 eretz.jp
 0.0.0.0 es4.easyerin.top
 0.0.0.0 esnet-tax.com
@@ -1238,6 +1241,7 @@
 0.0.0.0 itp.ne.jp
 0.0.0.0 iwata-yuzunoki-hoikuen.com
 0.0.0.0 iwateya-shop.jp
+0.0.0.0 iwgsp.com
 0.0.0.0 ix-ix.biz
 0.0.0.0 iyec.itoyokado.co.jp
 0.0.0.0 izakaya-yusuke.owst.jp
@@ -1336,6 +1340,7 @@
 0.0.0.0 jpn.nec.com
 0.0.0.0 jpn.pioneer
 0.0.0.0 jpstore.msi.com
+0.0.0.0 jpx.yslogistics.com.sg
 0.0.0.0 jra-fun.jp
 0.0.0.0 jri-career.com
 0.0.0.0 jsite.mhlw.go.jp
@@ -1846,6 +1851,7 @@
 0.0.0.0 mirairo.space
 0.0.0.0 miraiyu-career.com
 0.0.0.0 mirasisone.com
+0.0.0.0 mirise-soken.co.jp
 0.0.0.0 miru-anime.com
 0.0.0.0 misawa-chugoku.jp
 0.0.0.0 misawa-kinki.jp
@@ -2156,6 +2162,7 @@
 0.0.0.0 otori.ario.jp
 0.0.0.0 ougiya-takaishi.owst.jp
 0.0.0.0 oumis-labo.jp
+0.0.0.0 ours.town
 0.0.0.0 owk.lpro-chat.com
 0.0.0.0 owl-airplane.space
 0.0.0.0 oyakawa.alljob-test.net
@@ -2720,6 +2727,7 @@
 0.0.0.0 snc-ts.com
 0.0.0.0 sneakerbunko.jp
 0.0.0.0 so-graceclinic.com
+0.0.0.0 soba-masudaya.jp
 0.0.0.0 sobre.jp
 0.0.0.0 socialnews-ai.com
 0.0.0.0 sodaigomi-kaishu.com
@@ -3167,6 +3175,7 @@
 0.0.0.0 warabimochipompom.com
 0.0.0.0 waraya88.owst.jp
 0.0.0.0 warm-i.com
+0.0.0.0 warp.city
 0.0.0.0 warungtropis.owst.jp
 0.0.0.0 washington.jp
 0.0.0.0 washoku.site
@@ -3482,6 +3491,7 @@
 0.0.0.0 www.bodyfit-mpn.com
 0.0.0.0 www.bondjewelry.net
 0.0.0.0 www.bookoff.co.jp
+0.0.0.0 www.boomerang-online.jp
 0.0.0.0 www.bosai.yomiuri.co.jp
 0.0.0.0 www.boston-apple.jp
 0.0.0.0 www.bousai.pref.fukuoka.jp
@@ -3693,6 +3703,7 @@
 0.0.0.0 www.diningmaison.jp
 0.0.0.0 www.dinosaur.pref.fukui.jp
 0.0.0.0 www.discoverhongkong.com
+0.0.0.0 www.diynaisou.net
 0.0.0.0 www.dlsite.com
 0.0.0.0 www.dlsyoukai.com
 0.0.0.0 www.dnp.co.jp
@@ -4070,6 +4081,7 @@
 0.0.0.0 www.hostmeapp.com
 0.0.0.0 www.hotel-ichii.co.jp
 0.0.0.0 www.hotelforetpremier.com
+0.0.0.0 www.hotelkeihan.co.jp
 0.0.0.0 www.hotpepper.jp
 0.0.0.0 www.hotstaff.co.jp
 0.0.0.0 www.hotty.co.jp
@@ -5527,6 +5539,7 @@
 0.0.0.0 www.yane-takumi.net
 0.0.0.0 www.yanmar.com
 0.0.0.0 www.yasuda-u.ac.jp
+0.0.0.0 www.yasuiya.co.jp
 0.0.0.0 www.yasumiya-d.net
 0.0.0.0 www.yawata.tv
 0.0.0.0 www.yellowhat.jp
