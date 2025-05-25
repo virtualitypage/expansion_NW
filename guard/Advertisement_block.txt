@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 24 May 2025
+# Last modified: 25 May 2025
 #
 
 # [広告全般]
@@ -493,6 +493,7 @@
 0.0.0.0 comic-walker.com
 0.0.0.0 comic.iowl.jp
 0.0.0.0 comic.k-manga.jp
+0.0.0.0 comicride.jp
 0.0.0.0 comilabo.jp
 0.0.0.0 commit.carlifesquare.com
 0.0.0.0 common3.pref.akita.lg.jp
@@ -1055,6 +1056,7 @@
 0.0.0.0 hibikoku.tokyo
 0.0.0.0 hidanosake-hip.com
 0.0.0.0 hifivecity-kobe.com
+0.0.0.0 higobashi-inada.owst.jp
 0.0.0.0 hijutaku.j-anshin.co.jp
 0.0.0.0 hikaku-rank.net
 0.0.0.0 hikaku.kurashiru.com
@@ -1396,6 +1398,7 @@
 0.0.0.0 kamenoi-hotels.com
 0.0.0.0 kameoka-organicschool.jp
 0.0.0.0 kamerico.owst.jp
+0.0.0.0 kameya-g.jp
 0.0.0.0 kamome.asia
 0.0.0.0 kamposhop.kracie.co.jp
 0.0.0.0 kamukura-recruit.jp
@@ -1771,6 +1774,7 @@
 0.0.0.0 mashica-higobashi.com
 0.0.0.0 mashiro82x.base.shop
 0.0.0.0 master210.com
+0.0.0.0 matoibbq.jp
 0.0.0.0 matsue.clare.jp
 0.0.0.0 matsui-express-job.jp
 0.0.0.0 matsumoto.city
@@ -1901,6 +1905,7 @@
 0.0.0.0 movie-marketing.com
 0.0.0.0 mozsweden.com
 0.0.0.0 mps.maruc-group.jp
+0.0.0.0 mrocean-divers.com
 0.0.0.0 mrs.living.jp
 0.0.0.0 msb.loofen.jp
 0.0.0.0 mtg-campaign.com
@@ -2092,9 +2097,11 @@
 0.0.0.0 okayama-taiken.com
 0.0.0.0 okayama.coop
 0.0.0.0 oketani-lp.com
+0.0.0.0 okinawa-marine.com
 0.0.0.0 okonomiyaki-enya.com
 0.0.0.0 okoze-yumekoubou.com
 0.0.0.0 okuaizu-suiryokukan.jp
+0.0.0.0 okuizumosoba-ippuku-itami.owst.jp
 0.0.0.0 oldisroad.com
 0.0.0.0 olubie.jp
 0.0.0.0 om-seishin.com
@@ -4439,6 +4446,7 @@
 0.0.0.0 www.ligne-roset.jp
 0.0.0.0 www.lim-kochi.com
 0.0.0.0 www.linemo.jp
+0.0.0.0 www.link-snow.com
 0.0.0.0 www.linkage-japan.co.jp
 0.0.0.0 www.linkpskorea.com
 0.0.0.0 www.links-gunma.net
