@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 25 May 2025
+# Last modified: 26 May 2025
 #
 
 # [広告全般]
@@ -1064,6 +1064,7 @@
 0.0.0.0 himedai.net
 0.0.0.0 himeji-greenfamily.net
 0.0.0.0 himo-toku.jp
+0.0.0.0 hinata-life.jp
 0.0.0.0 hinata.me
 0.0.0.0 hinoya-nihonryouri.owst.jp
 0.0.0.0 hiraiart-gallery.jp
@@ -1779,6 +1780,7 @@
 0.0.0.0 matsui-express-job.jp
 0.0.0.0 matsumoto.city
 0.0.0.0 matsumototravel.com
+0.0.0.0 matsusaka-kanpo.jp
 0.0.0.0 matsuyama.citroen-dealer.jp
 0.0.0.0 matsuzukigyouseisyoshi.com
 0.0.0.0 maunakealiving.com
@@ -1914,6 +1916,7 @@
 0.0.0.0 mugenmeat-catering.com
 0.0.0.0 mugla.goturkiye.com
 0.0.0.0 multi-water.com
+0.0.0.0 munimuni.owst.jp
 0.0.0.0 muqbel.jp
 0.0.0.0 musashi-kikaiyuso.com
 0.0.0.0 mushimushi-busters.jp
@@ -2174,6 +2177,7 @@
 0.0.0.0 owl-airplane.space
 0.0.0.0 oyakawa.alljob-test.net
 0.0.0.0 oyanozasshi.jp
+0.0.0.0 p-chi.tech
 0.0.0.0 p-project.jp
 0.0.0.0 p-town.dmm.com
 0.0.0.0 pachinko.cen.co.jp
@@ -2458,6 +2462,7 @@
 0.0.0.0 sanageonsen.p-castle.co.jp
 0.0.0.0 sananacafe.ecforce.superb-hd.com
 0.0.0.0 sandesica.jp
+0.0.0.0 sankotsu.jah.co.jp
 0.0.0.0 sanriku-jouban-umeemon.jp
 0.0.0.0 santospastryschool.mykajabi.com
 0.0.0.0 sanwakeigoukin.co.jp
@@ -3377,6 +3382,7 @@
 0.0.0.0 www.antiques-and.com
 0.0.0.0 www.antoninopani.it
 0.0.0.0 www.anytimefitness.co.jp
+0.0.0.0 www.anzen-pro.com
 0.0.0.0 www.aoi-spring.co.jp
 0.0.0.0 www.aoki-style.com
 0.0.0.0 www.aomist.com
@@ -3429,6 +3435,7 @@
 0.0.0.0 www.athome-shikoku.com
 0.0.0.0 www.athome.co.jp
 0.0.0.0 www.atlas-web.jp
+0.0.0.0 www.atlus.co.jp
 0.0.0.0 www.atpress.ne.jp
 0.0.0.0 www.aucklandtourhouse.com
 0.0.0.0 www.aucnet.jp
@@ -3874,6 +3881,7 @@
 0.0.0.0 www.frontier-direct.jp
 0.0.0.0 www.fsa.go.jp
 0.0.0.0 www.fudosha.com
+0.0.0.0 www.fudousan-iranai.com
 0.0.0.0 www.fudousann.info
 0.0.0.0 www.fujicorporation.com
 0.0.0.0 www.fujiiryoki.co.jp
@@ -5094,6 +5102,7 @@
 0.0.0.0 www.shibaura-rent.com
 0.0.0.0 www.shigotoarimasu.com
 0.0.0.0 www.shigotozaidan.or.jp
+0.0.0.0 www.shiho-sato.com
 0.0.0.0 www.shikaku.co.jp
 0.0.0.0 www.shikiita.net
 0.0.0.0 www.shikishima-town.com
@@ -5688,6 +5697,7 @@
 0.0.0.0 yuskin.co.jp
 0.0.0.0 yutaka-bc.jp
 0.0.0.0 yutaka-tomonokai.jp
+0.0.0.0 z.vejp.co.jp
 0.0.0.0 zaimani.com
 0.0.0.0 zamion.owst.jp
 0.0.0.0 zatone.com
