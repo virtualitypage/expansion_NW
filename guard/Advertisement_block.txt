@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 26 May 2025
+# Last modified: 27 May 2025
 #
 
 # [広告全般]
@@ -114,6 +114,7 @@
 0.0.0.0 akool.com
 0.0.0.0 akr0105417763.owst.jp
 0.0.0.0 akr0674735414.owst.jp
+0.0.0.0 akr0890795977.owst.jp
 0.0.0.0 akr1344517741.owst.jp
 0.0.0.0 akr1440658677.owst.jp
 0.0.0.0 akr1443183977.owst.jp
@@ -671,6 +672,7 @@
 0.0.0.0 ec-force.com
 0.0.0.0 ec-myprecious.jp
 0.0.0.0 ec.eternam.co.jp
+0.0.0.0 ec.jal.co.jp
 0.0.0.0 ec.petfoods.shop
 0.0.0.0 ec.store.nec.co.jp
 0.0.0.0 ec.travel.jr-central.co.jp
@@ -1819,6 +1821,7 @@
 0.0.0.0 mercure-hida-takayama.com
 0.0.0.0 meshop-jp.com
 0.0.0.0 metaxpayments.com
+0.0.0.0 metric10421051535.mydmportal.com
 0.0.0.0 metsa-hanno.com
 0.0.0.0 mfrt.rehouse.co.jp
 0.0.0.0 mi-mollet.com
@@ -2427,6 +2430,7 @@
 0.0.0.0 s.shamaison.com
 0.0.0.0 s.shufoo.net
 0.0.0.0 s.weddingpark.net
+0.0.0.0 s1.quizdays.com
 0.0.0.0 s88.co.jp
 0.0.0.0 sa-benriya.com
 0.0.0.0 sa-mobility.com
@@ -3324,6 +3328,7 @@
 0.0.0.0 www.afj.or.jp
 0.0.0.0 www.aflac.co.jp
 0.0.0.0 www.afr-web.co.jp
+0.0.0.0 www.aftermarket.astemo.com
 0.0.0.0 www.agent.realtyjapan.com
 0.0.0.0 www.agentx.so
 0.0.0.0 www.agoda.com
@@ -3417,6 +3422,7 @@
 0.0.0.0 www.asahi-shoes.co.jp
 0.0.0.0 www.asahi.com
 0.0.0.0 www.asakuma.farm
+0.0.0.0 www.asheet.co.jp
 0.0.0.0 www.ashifumi.jp
 0.0.0.0 www.asics.com
 0.0.0.0 www.askhim.jp
@@ -4451,6 +4457,7 @@
 0.0.0.0 www.liebherr.com
 0.0.0.0 www.life-n.jp
 0.0.0.0 www.life8739.co.jp
+0.0.0.0 www.lighthouse-safety.com
 0.0.0.0 www.ligne-roset.jp
 0.0.0.0 www.lim-kochi.com
 0.0.0.0 www.linemo.jp
@@ -5324,6 +5331,7 @@
 0.0.0.0 www.thefingerseams.com
 0.0.0.0 www.themalaygolfer.com
 0.0.0.0 www.thepiel.com
+0.0.0.0 www.therapyjp.com
 0.0.0.0 www.thermofisher.com
 0.0.0.0 www.thermondo.de
 0.0.0.0 www.things-aoyama.com
