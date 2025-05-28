@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 27 May 2025
+# Last modified: 28 May 2025
 #
 
 # [広告全般]
@@ -1764,6 +1764,7 @@
 0.0.0.0 marketing.apexcapitaldubai.com
 0.0.0.0 martim.systeme.io
 0.0.0.0 maru-adgoods.shop
+0.0.0.0 maru-br.jp
 0.0.0.0 maruhan-lp.net
 0.0.0.0 maruhome.jp
 0.0.0.0 marumi-lp.com
@@ -2867,6 +2868,7 @@
 0.0.0.0 sumiyakikitchen-toriko.owst.jp
 0.0.0.0 sumiyayotsuba.owst.jp
 0.0.0.0 sumusite.sekisuihouse.co.jp
+0.0.0.0 sun-asset.eco.to
 0.0.0.0 sunks-rentacar.com
 0.0.0.0 sunnyhealth.com
 0.0.0.0 sunnyside-rentacar.com
@@ -2957,6 +2959,7 @@
 0.0.0.0 tatansweets.com
 0.0.0.0 tateyoko-kazuma.com
 0.0.0.0 tavopets.com
+0.0.0.0 tax.actvision.jp
 0.0.0.0 taxisaiyo.entetsu.co.jp
 0.0.0.0 tbhd.jp
 0.0.0.0 tcb-beauty.net
@@ -3542,6 +3545,7 @@
 0.0.0.0 www.c-and-rm.com
 0.0.0.0 www.c-cube.cc
 0.0.0.0 www.c21mercury.com
+0.0.0.0 www.ca-fune.com
 0.0.0.0 www.ca-japan.co.jp
 0.0.0.0 www.cadjapan.com
 0.0.0.0 www.cafe-ring.com
@@ -4912,6 +4916,7 @@
 0.0.0.0 www.pkobp.pl
 0.0.0.0 www.plage-bb.co.jp
 0.0.0.0 www.plan-c.co.jp
+0.0.0.0 www.plan-international.jp
 0.0.0.0 www.playon.rodansnap.com
 0.0.0.0 www.playstation.com
 0.0.0.0 www.plumsteadvilleinn.com
@@ -5264,6 +5269,7 @@
 0.0.0.0 www.t-rough.jp
 0.0.0.0 www.t-sharyou.co.jp
 0.0.0.0 www.tac-school.co.jp
+0.0.0.0 www.tachibana.co.jp
 0.0.0.0 www.tagamioyatsuimo.com
 0.0.0.0 www.taiho.co.jp
 0.0.0.0 www.taiko-reserve.com
@@ -5502,6 +5508,7 @@
 0.0.0.0 www.wakayamaumeshu.jp
 0.0.0.0 www.walkerplus.com
 0.0.0.0 www.wanwan-house.net
+0.0.0.0 www.waplus-shop.jp
 0.0.0.0 www.wappenya.com
 0.0.0.0 www.warajin.com
 0.0.0.0 www.wasedajuku.com
@@ -5712,6 +5719,7 @@
 0.0.0.0 zen.one
 0.0.0.0 zenbivy.com
 0.0.0.0 zero.gift
+0.0.0.0 zerohalliburton.jp
 0.0.0.0 zerohome.jp
 0.0.0.0 zerosumu.com
 0.0.0.0 zeta001.com
