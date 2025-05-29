@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 28 May 2025
+# Last modified: 29 May 2025
 #
 
 # [広告全般]
@@ -25,6 +25,7 @@
 0.0.0.0 35s.co.jp
 0.0.0.0 39scafe-thanks.owst.jp
 0.0.0.0 3d-mitsumori.com
+0.0.0.0 3dmokei.com
 0.0.0.0 3ei.co.jp
 0.0.0.0 3m.commerceconnector.net
 0.0.0.0 3mk2r3.com
@@ -120,6 +121,7 @@
 0.0.0.0 akr1443183977.owst.jp
 0.0.0.0 akr1520790650.owst.jp
 0.0.0.0 akr2241836267.owst.jp
+0.0.0.0 akr3236363035.owst.jp
 0.0.0.0 akr3470120455.owst.jp
 0.0.0.0 akr3864845762.owst.jp
 0.0.0.0 akr3886447014.owst.jp
@@ -268,7 +270,9 @@
 0.0.0.0 azu-l.com
 0.0.0.0 b-checker.com
 0.0.0.0 backlog.com
+0.0.0.0 baila.hpplus.jp
 0.0.0.0 bairanbarchica03.owst.jp
+0.0.0.0 bakery-primitive-shop.com
 0.0.0.0 bakuten-personal.com
 0.0.0.0 balletschool.hp.peraichi.com
 0.0.0.0 bamoove.jp
@@ -1177,6 +1181,7 @@
 0.0.0.0 imabarishintoshi-aeonmall.com
 0.0.0.0 imamurasiroari.co.jp
 0.0.0.0 imari-cci.or.jp
+0.0.0.0 imo.topservice.jp
 0.0.0.0 imokin.co.jp
 0.0.0.0 impreme.jp
 0.0.0.0 in-market.net
@@ -2115,6 +2120,7 @@
 0.0.0.0 omedeto.hp.peraichi.com
 0.0.0.0 omurakyotei.jp
 0.0.0.0 omutsuclub.com
+0.0.0.0 on-pro.jp
 0.0.0.0 ondemand-trump.com
 0.0.0.0 ondemand.meluon.com
 0.0.0.0 one-up-life.com
@@ -2177,6 +2183,7 @@
 0.0.0.0 ougiya-takaishi.owst.jp
 0.0.0.0 oumis-labo.jp
 0.0.0.0 ours.town
+0.0.0.0 outbraker.com
 0.0.0.0 owk.lpro-chat.com
 0.0.0.0 owl-airplane.space
 0.0.0.0 oyakawa.alljob-test.net
@@ -2357,6 +2364,7 @@
 0.0.0.0 recruit.shiftinc.jp
 0.0.0.0 recruit.takuichi.okinawa
 0.0.0.0 recruit.tsukui.net
+0.0.0.0 redcanyonsoftware.com
 0.0.0.0 reeing.co.jp
 0.0.0.0 refine-midori.net
 0.0.0.0 refobell.com
@@ -2683,6 +2691,7 @@
 0.0.0.0 shop.noevir.jp
 0.0.0.0 shop.pasargad.jp
 0.0.0.0 shop.pdr.co.jp
+0.0.0.0 shop.powerstone-orion.com
 0.0.0.0 shop.remozer.com
 0.0.0.0 shop.retro-n.com
 0.0.0.0 shop.saraya.com
@@ -2811,6 +2820,7 @@
 0.0.0.0 startup.ftstandard.jp
 0.0.0.0 static.hfm.com
 0.0.0.0 static.locari.jp
+0.0.0.0 stay-green-g.jp
 0.0.0.0 stelaq.co.jp
 0.0.0.0 step.sekokan-labo.jp
 0.0.0.0 stock-house.jp
@@ -3039,6 +3049,7 @@
 0.0.0.0 tomo3kaku.stores.jp
 0.0.0.0 tomohirokai.or.jp
 0.0.0.0 tomotaqu.com
+0.0.0.0 tonmani.owst.jp
 0.0.0.0 top-generator.com
 0.0.0.0 topgunairtx.com
 0.0.0.0 toptoon.jp
@@ -3065,6 +3076,7 @@
 0.0.0.0 toyooka-kaban.jp
 0.0.0.0 toyookakaban.com
 0.0.0.0 toyota.jp
+0.0.0.0 toypoodle.ocnk.net
 0.0.0.0 trabzon.goturkiye.com
 0.0.0.0 trace.popin.cc
 0.0.0.0 traib.net
@@ -3113,6 +3125,7 @@
 0.0.0.0 uma-rank.net
 0.0.0.0 umaki-items.com
 0.0.0.0 umamibomb.jp
+0.0.0.0 umauma.shopselect.net
 0.0.0.0 umeda-lasow.owst.jp
 0.0.0.0 umeda.alcocca.jp
 0.0.0.0 umeda.moriwaki-seikotu.com
@@ -3171,6 +3184,7 @@
 0.0.0.0 villa-hamanako.jp
 0.0.0.0 vily-pbs.com
 0.0.0.0 violetllama42.sakura.ne.jp
+0.0.0.0 virtual-miraicity.kddi.com
 0.0.0.0 vitalebarberiscanonico.jp
 0.0.0.0 vlocks-shop.com
 0.0.0.0 vo-metsoffice.jp
@@ -3493,6 +3507,7 @@
 0.0.0.0 www.best1cruise.com
 0.0.0.0 www.besthousing.co.jp
 0.0.0.0 www.bestone-aircon.com
+0.0.0.0 www.bestppp.com
 0.0.0.0 www.betteisenkyu.jp
 0.0.0.0 www.bfw.com.tw
 0.0.0.0 www.biblesociety.org.uk
@@ -3677,6 +3692,8 @@
 0.0.0.0 www.coverland.co.jp
 0.0.0.0 www.cpu-net.co.jp
 0.0.0.0 www.cr.mufg.jp
+0.0.0.0 www.credor.com
+0.0.0.0 www.cresson.co.jp
 0.0.0.0 www.crie.co.jp
 0.0.0.0 www.cross-m.co.jp
 0.0.0.0 www.crosslinktax.com
@@ -3694,9 +3711,11 @@
 0.0.0.0 www.daiichisankyo.co.jp
 0.0.0.0 www.daiichisemi.net
 0.0.0.0 www.daiken.jp
+0.0.0.0 www.daikincc.com
 0.0.0.0 www.daikoku.ne.jp
 0.0.0.0 www.daimaru.co.jp
 0.0.0.0 www.dainiti.co.jp
+0.0.0.0 www.daioh-denki.co.jp
 0.0.0.0 www.daioshop.jp
 0.0.0.0 www.daisenham.com
 0.0.0.0 www.daito-gakki.co.jp
@@ -4238,6 +4257,7 @@
 0.0.0.0 www.jeed.go.jp
 0.0.0.0 www.jex-inc.co.jp
 0.0.0.0 www.jf-pearl-ehime.com
+0.0.0.0 www.jfs-uk.com
 0.0.0.0 www.jftc.go.jp
 0.0.0.0 www.jga.gr.jp
 0.0.0.0 www.jhf.go.jp
@@ -4963,6 +4983,7 @@
 0.0.0.0 www.prune.jp
 0.0.0.0 www.psosaka.com
 0.0.0.0 www.ptotjinzaibank.com
+0.0.0.0 www.pumpkinrocks.com
 0.0.0.0 www.pure-house.co.jp
 0.0.0.0 www.pwc.com
 0.0.0.0 www.qac.co.jp
@@ -5076,6 +5097,7 @@
 0.0.0.0 www.sateraito.jp
 0.0.0.0 www.satofull.jp
 0.0.0.0 www.sbc-marketing.co.jp
+0.0.0.0 www.sbi.co.jp
 0.0.0.0 www.sbifxt.co.jp
 0.0.0.0 www.sbisec.co.jp
 0.0.0.0 www.sbivc.co.jp
@@ -5091,6 +5113,7 @@
 0.0.0.0 www.seibuprince.com
 0.0.0.0 www.seigetsusha.co.jp
 0.0.0.0 www.seiho-sdk.co.jp
+0.0.0.0 www.seikatubunka.metro.tokyo.lg.jp
 0.0.0.0 www.seiko-sol.co.jp
 0.0.0.0 www.seikowatches.com
 0.0.0.0 www.seirei.or.jp
@@ -5104,6 +5127,7 @@
 0.0.0.0 www.sendai-bridalring.com
 0.0.0.0 www.senju-museum.jp
 0.0.0.0 www.sercanto.co.uk
+0.0.0.0 www.set-setouchirhythm.com
 0.0.0.0 www.sgnavi.com
 0.0.0.0 www.shabu-yuzuan.jp
 0.0.0.0 www.shadow-garden-mog.jp
@@ -5222,6 +5246,7 @@
 0.0.0.0 www.stat.go.jp
 0.0.0.0 www.stella-house.jp
 0.0.0.0 www.stellarplace.net
+0.0.0.0 www.stemryugaku.com
 0.0.0.0 www.stemvets.com
 0.0.0.0 www.stepon.co.jp
 0.0.0.0 www.stepup-school.net
@@ -5643,6 +5668,7 @@
 0.0.0.0 yaeyama-rentacar.com
 0.0.0.0 yakiniku-fc.com
 0.0.0.0 yakiniku-guts-hanare.jp
+0.0.0.0 yakiniku-ichigyu.owst.jp
 0.0.0.0 yakiniku-royal.com
 0.0.0.0 yakiniku-tanabata.owst.jp
 0.0.0.0 yakiniku-taru.owst.jp
