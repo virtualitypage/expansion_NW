@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 29 May 2025
+# Last modified: 30 May 2025
 #
 
 # [広告全般]
@@ -582,6 +582,7 @@
 0.0.0.0 dentistjobsjp.club
 0.0.0.0 dentsu-ho.com
 0.0.0.0 denzaibuhin.com
+0.0.0.0 deo-piano.com
 0.0.0.0 deoxyoil.base.shop
 0.0.0.0 depaco.daimaru-matsuzakaya.jp
 0.0.0.0 desc-lab.com
@@ -998,6 +999,7 @@
 0.0.0.0 hakkaexam.hakka.gov.tw
 0.0.0.0 hakoban.com
 0.0.0.0 hakoniwa-medical.com
+0.0.0.0 hakoya-katoen.com
 0.0.0.0 hal-tanteisya.com
 0.0.0.0 haleo.jp
 0.0.0.0 hamalove.jp
@@ -1016,6 +1018,7 @@
 0.0.0.0 hansol.owst.jp
 0.0.0.0 hanzou-nanba.owst.jp
 0.0.0.0 hapi-hapi-style.com
+0.0.0.0 happy-ann.info
 0.0.0.0 happy5.site
 0.0.0.0 happygift2.com
 0.0.0.0 happyhackingkb.com
@@ -1127,6 +1130,7 @@
 0.0.0.0 house-kiya.co.jp
 0.0.0.0 house-yokubari.com
 0.0.0.0 housefreedom-fujiidera.com
+0.0.0.0 housefreedom.co.jp
 0.0.0.0 housing-garden.jp
 0.0.0.0 housing.hicbc.com
 0.0.0.0 howdyplus.com
@@ -1574,6 +1578,7 @@
 0.0.0.0 kushiage-aiyo-sanjyosyoutengai.owst.jp
 0.0.0.0 kushio-miyako.owst.jp
 0.0.0.0 kushiyakisakaba-takeshi.owst.jp
+0.0.0.0 kusjikatsusyokudoujiyan.owst.jp
 0.0.0.0 kutsurogiya.owst.jp
 0.0.0.0 kuzira-mizu.com
 0.0.0.0 kyodonewsprwire.jp
@@ -1908,6 +1913,7 @@
 0.0.0.0 moneysmith.biz
 0.0.0.0 monjayaoya.owst.jp
 0.0.0.0 monji.tech
+0.0.0.0 montecito.jp
 0.0.0.0 morimoto-lp.com
 0.0.0.0 moritec-lp.com
 0.0.0.0 moriya-contact.com
@@ -2179,6 +2185,7 @@
 0.0.0.0 otokujyoho.online
 0.0.0.0 otonamuse.jp
 0.0.0.0 otori-hearing.com
+0.0.0.0 otori-office.com
 0.0.0.0 otori.ario.jp
 0.0.0.0 ougiya-takaishi.owst.jp
 0.0.0.0 oumis-labo.jp
@@ -2238,6 +2245,7 @@
 0.0.0.0 piecebox.jp
 0.0.0.0 pikminbloom.com
 0.0.0.0 pilache.jp
+0.0.0.0 pinf.shopselect.net
 0.0.0.0 pingcap.co.jp
 0.0.0.0 pinklush.jp
 0.0.0.0 pitariko.jp
@@ -2715,6 +2723,7 @@
 0.0.0.0 shumei.ac.jp
 0.0.0.0 shunsai-tateyama.com
 0.0.0.0 shunsentanbou.pref.miyagi.jp
+0.0.0.0 shuten-kyodan.com
 0.0.0.0 side-kom.com
 0.0.0.0 sidejob-review.net
 0.0.0.0 sienca.jp
@@ -2728,6 +2737,7 @@
 0.0.0.0 sixon-web.co.jp
 0.0.0.0 sjhierq.top
 0.0.0.0 skijan.com
+0.0.0.0 skinsense.jp
 0.0.0.0 skr-marathon.jp
 0.0.0.0 skukan.com
 0.0.0.0 sky-joker.tech
@@ -3056,6 +3066,7 @@
 0.0.0.0 topwing.jp
 0.0.0.0 toranoana-lab.co.jp
 0.0.0.0 torcroftlodges.com
+0.0.0.0 torihamannenohatsutenjin.owst.jp
 0.0.0.0 torikinumeda.owst.jp
 0.0.0.0 torinoichi1.owst.jp
 0.0.0.0 torinomiya.owst.jp
@@ -3117,6 +3128,7 @@
 0.0.0.0 u-treasure.jp
 0.0.0.0 uc.kyoshin.co.jp
 0.0.0.0 uchimura.e-kagu.in
+0.0.0.0 uchiwatenma.owst.jp
 0.0.0.0 uchiyama.c-efficacy.com
 0.0.0.0 uenui.com
 0.0.0.0 uetani-clinic.com
@@ -4279,6 +4291,7 @@
 0.0.0.0 www.job-card.mhlw.go.jp
 0.0.0.0 www.job-medley.com
 0.0.0.0 www.jobkita.jp
+0.0.0.0 www.jobs-refind.site
 0.0.0.0 www.johoku.ac.jp
 0.0.0.0 www.jokermovie.com.sg
 0.0.0.0 www.jp-life.japanpost.jp
@@ -4612,6 +4625,7 @@
 0.0.0.0 www.miraiboueki.jp
 0.0.0.0 www.miraihd.jp
 0.0.0.0 www.miraikoji.com
+0.0.0.0 www.mire.co.jp
 0.0.0.0 www.miricanvas.com
 0.0.0.0 www.misawa.co.jp
 0.0.0.0 www.mita-yamadaya.co.jp
