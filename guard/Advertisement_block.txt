@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 30 May 2025
+# Last modified: 31 May 2025
 #
 
 # [広告全般]
@@ -115,6 +115,7 @@
 0.0.0.0 akool.com
 0.0.0.0 akr0105417763.owst.jp
 0.0.0.0 akr0674735414.owst.jp
+0.0.0.0 akr0827128845.owst.jp
 0.0.0.0 akr0890795977.owst.jp
 0.0.0.0 akr1344517741.owst.jp
 0.0.0.0 akr1440658677.owst.jp
@@ -294,6 +295,7 @@
 0.0.0.0 be-win.co.jp
 0.0.0.0 beacon.sp.gmossp-sp.jp
 0.0.0.0 beaute8.com
+0.0.0.0 beautedio.online
 0.0.0.0 beautiful-life-style.com
 0.0.0.0 beavers.co.jp
 0.0.0.0 bec-fin.jp
@@ -342,6 +344,7 @@
 0.0.0.0 blessunleashed-dmg.pmang.jp
 0.0.0.0 blockvalue.co.jp
 0.0.0.0 blog.adregion.co.jp
+0.0.0.0 blog.allstarsaas.com
 0.0.0.0 blog.webproduct-lab.com
 0.0.0.0 blueblueakashi.blue
 0.0.0.0 bluemoon-dog.com
@@ -1024,6 +1027,7 @@
 0.0.0.0 happyhackingkb.com
 0.0.0.0 happysmile3.com
 0.0.0.0 hara-koushu.com
+0.0.0.0 harami.jp
 0.0.0.0 harekuraray.com
 0.0.0.0 hari1.com
 0.0.0.0 harmonies.kumon.ne.jp
@@ -1395,6 +1399,7 @@
 0.0.0.0 kaigyoyushi-osaka.jp
 0.0.0.0 kainuma.org
 0.0.0.0 kaitori-king.tokyo
+0.0.0.0 kaitori-meijin.com
 0.0.0.0 kaitori.brandoff.co.jp
 0.0.0.0 kaitori.live
 0.0.0.0 kaitori.truckland.jp
@@ -1470,6 +1475,7 @@
 0.0.0.0 kenzai-kaitori.net
 0.0.0.0 kenzenuk.com
 0.0.0.0 key-security.jp
+0.0.0.0 kgcshop.jp
 0.0.0.0 kgg-nanporo4.hp.peraichi.com
 0.0.0.0 khiang-osaka.owst.jp
 0.0.0.0 kichi.bar
@@ -1580,6 +1586,7 @@
 0.0.0.0 kushiyakisakaba-takeshi.owst.jp
 0.0.0.0 kusjikatsusyokudoujiyan.owst.jp
 0.0.0.0 kutsurogiya.owst.jp
+0.0.0.0 kuwanagareed.theshop.jp
 0.0.0.0 kuzira-mizu.com
 0.0.0.0 kyodonewsprwire.jp
 0.0.0.0 kyokamaboko.co.jp
@@ -1822,6 +1829,7 @@
 0.0.0.0 megaten5.jp
 0.0.0.0 mei-ten.com
 0.0.0.0 meibandokoro.com
+0.0.0.0 meimontakumi.owst.jp
 0.0.0.0 meitsu97.jp
 0.0.0.0 mellobaby.net
 0.0.0.0 mens-cut.net
@@ -2208,6 +2216,7 @@
 0.0.0.0 paircraft.jp
 0.0.0.0 paiza.jp
 0.0.0.0 palcoop.saiyo-job.jp
+0.0.0.0 palmroyal.co.jp
 0.0.0.0 panasonic.jp
 0.0.0.0 papillon.breeders.jp
 0.0.0.0 paramount.jp
@@ -2241,6 +2250,7 @@
 0.0.0.0 pg.takamiya.co
 0.0.0.0 pia-group.jp
 0.0.0.0 piano.miki.co.jp
+0.0.0.0 pianoplazawebshop.com
 0.0.0.0 pias-recruit-fresh.com
 0.0.0.0 piecebox.jp
 0.0.0.0 pikminbloom.com
@@ -2611,6 +2621,7 @@
 0.0.0.0 sengokuixa.jp
 0.0.0.0 sennangyosei.jp
 0.0.0.0 senpaku.net
+0.0.0.0 senzusouhonten.owst.jp
 0.0.0.0 september5movie.jp
 0.0.0.0 service.1nego.jp
 0.0.0.0 service.homeserve.co.jp
@@ -3189,6 +3200,7 @@
 0.0.0.0 verde8-18-28-24.com
 0.0.0.0 verger-ouchi-gift.shop
 0.0.0.0 vermeermountainwest.com
+0.0.0.0 viarail.jp
 0.0.0.0 video.unext.jp
 0.0.0.0 videosalon.jp
 0.0.0.0 videpro-espec.jp
@@ -3478,6 +3490,7 @@
 0.0.0.0 www.audi-kusunoki.jp
 0.0.0.0 www.audi-nagoyachuo.jp
 0.0.0.0 www.audi.jp
+0.0.0.0 www.audionova.co.jp
 0.0.0.0 www.audiotech.jp
 0.0.0.0 www.austria.info
 0.0.0.0 www.autobacs-weblp.com
@@ -3741,6 +3754,7 @@
 0.0.0.0 www.dandadan.jp
 0.0.0.0 www.daytona-park.com
 0.0.0.0 www.deaf-tryout24.para-athlete.tokyo
+0.0.0.0 www.decencia.co.jp
 0.0.0.0 www.decorte.com
 0.0.0.0 www.delonghi.com
 0.0.0.0 www.demarsfukuoka.com
@@ -3872,6 +3886,7 @@
 0.0.0.0 www.f-kenmin.jp
 0.0.0.0 www.f-marinos.com
 0.0.0.0 www.fabric-homes.co.jp
+0.0.0.0 www.fagcorp.com
 0.0.0.0 www.fairmont-empress.com
 0.0.0.0 www.falcom.co.jp
 0.0.0.0 www.fancrew.jp
@@ -4649,6 +4664,7 @@
 0.0.0.0 www.mochihada.co.jp
 0.0.0.0 www.moco.or.jp
 0.0.0.0 www.mod.go.jp
+0.0.0.0 www.modellista.co.jp
 0.0.0.0 www.mof.go.jp
 0.0.0.0 www.moj.go.jp
 0.0.0.0 www.moki-ss.co.jp
@@ -4999,6 +5015,7 @@
 0.0.0.0 www.ptotjinzaibank.com
 0.0.0.0 www.pumpkinrocks.com
 0.0.0.0 www.pure-house.co.jp
+0.0.0.0 www.purestorage.com
 0.0.0.0 www.pwc.com
 0.0.0.0 www.qac.co.jp
 0.0.0.0 www.qfox-japan.com
@@ -5059,6 +5076,7 @@
 0.0.0.0 www.roborock.jp
 0.0.0.0 www.robotpayment.co.jp
 0.0.0.0 www.robotplanet.site
+0.0.0.0 www.rocelec.jp
 0.0.0.0 www.roland.com
 0.0.0.0 www.roombra.jp
 0.0.0.0 www.roomie.jp
@@ -5674,6 +5692,7 @@
 0.0.0.0 xcuu.jp
 0.0.0.0 xmf.jp
 0.0.0.0 xn--pckua2a7gp15o89zb.com
+0.0.0.0 xs125724.xsrv.jp
 0.0.0.0 xsurvey.nikkeibp.co.jp
 0.0.0.0 xylophone-rain.space
 0.0.0.0 yab.yomiuri.co.jp
