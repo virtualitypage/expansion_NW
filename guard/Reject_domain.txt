@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_domain.txt
 #
-# Last modified: 25 May 2025
+# Last modified: 1 June 2025
 #
 
 # [拒否リクエスト]
@@ -17,6 +17,7 @@
 ||*.c.appier.net
 ||*.c.appier.net.akadns.net
 ||*.c.appier.net.lan
+||*.fls.doubleclick.net
 0.0.0.0 1x1.a-mo.net
 0.0.0.0 aax-dtb-mobile-geo.amazon-adsystem.com
 0.0.0.0 aax-eu.amazon-adsystem.com
@@ -34,12 +35,15 @@
 0.0.0.0 ad.adsrvr.org
 0.0.0.0 ad.appier.net
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad.doubleclick.net.lan
+0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adexp.liftoff.io
 0.0.0.0 admanmedia.com
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 adservice.google.com
 0.0.0.0 adx-tk.mtgglobals.com
+0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 adx.opera.com
 0.0.0.0 adx3.adform.net
 0.0.0.0 aes.ap-southeast.3px.axp.amazon-adsystem.com
@@ -97,7 +101,6 @@
 0.0.0.0 c3.a-mo.net
 0.0.0.0 cache.send.microad.jp
 0.0.0.0 cache.send.microad.jp.cdngc.net
-0.0.0.0 cadmus.script.ac
 0.0.0.0 cdn-adn-https-new.mtgglobals.com
 0.0.0.0 cdn-adn-https-new.mtgglobals.com.lan
 0.0.0.0 cdn-adn-https.mtgglobals.com
@@ -120,7 +123,6 @@
 0.0.0.0 cdn.microad.jp
 0.0.0.0 cdn.microad.jp.lan
 0.0.0.0 cdn.microad.jp.wtxcdn.com
-0.0.0.0 cdn.tsyndicate.com
 0.0.0.0 cdn1.judge.me
 0.0.0.0 cdnwidget.judge.me
 0.0.0.0 check-tcp.mtgglobals.com
@@ -132,6 +134,8 @@
 0.0.0.0 cm-beacon.nakanohito.jp
 0.0.0.0 cm-widget.nakanohito.jp
 0.0.0.0 cm.adform.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net.lan
 0.0.0.0 component-ota-sg.allawnos.com
 0.0.0.0 conduit.branch.io
 0.0.0.0 config.aps.amazon-adsystem.com
@@ -189,6 +193,8 @@
 0.0.0.0 gj.mmstat.com
 0.0.0.0 global.apis.naver.com
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net.lan
+0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 graph.facebook.com
 0.0.0.0 gui-server-sg.allawnos.com
 0.0.0.0 hybird.mtgglobals.com
@@ -281,8 +287,8 @@
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 product-cdn.liftoff-creatives.io
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net.lan
 0.0.0.0 pubsub.googleapis.com
-0.0.0.0 pxl.tsyndicate.com
 0.0.0.0 rcm-fe.amazon-adsystem.com
 0.0.0.0 research-image-itmedia-co-jp.cdn.ampproject.org
 0.0.0.0 router.miwifi.com
@@ -362,7 +368,6 @@
 0.0.0.0 tracking.isappcloud.com
 0.0.0.0 trk.atomex.net
 0.0.0.0 ts.amazon-adsystem.com
-0.0.0.0 tsyndicate.com
 0.0.0.0 uh.nakanohito.jp
 0.0.0.0 unified.adsafeprotected.com
 0.0.0.0 universe.send.microad.jp
@@ -436,12 +441,14 @@
 0.0.0.0 apis.usonar.jp
 0.0.0.0 apps.rokt.com
 0.0.0.0 article.squadbeyond.com
+0.0.0.0 asia.creativecdn.com
 0.0.0.0 assets-popup.article.squadbeyond.com
 0.0.0.0 assets-v2.article.squadbeyond.com
 0.0.0.0 at.outbrain.com
 0.0.0.0 at.outbrain.com.lan
 0.0.0.0 b1sync.outbrain.com
 0.0.0.0 b1sync.outbrain.com.lan
+0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 beacon-nf.rubiconproject.com
 0.0.0.0 beacon-sin1.rubiconproject.com
 0.0.0.0 beacon-sin1.rubiconproject.com.lan
@@ -465,6 +472,8 @@
 0.0.0.0 cf.vast.doubleverify.com
 0.0.0.0 cf.vast.doubleverify.com.cdn.cloudflare.net
 0.0.0.0 chartbeat.net
+0.0.0.0 cm.creativecdn.com
+0.0.0.0 cm.everesttech.net
 0.0.0.0 cm.smadex.com
 0.0.0.0 collector.tracking.io
 0.0.0.0 collector.tracking.io.lan
@@ -474,6 +483,8 @@
 0.0.0.0 connect.tapjoy.com.lan
 0.0.0.0 cookie.sync.usonar.jp
 0.0.0.0 creative.stackadapt.com
+0.0.0.0 creativecdn.com
+0.0.0.0 creativecdn.com.lan
 0.0.0.0 creatives.smadex.com
 0.0.0.0 csync.smartadserver.com
 0.0.0.0 cti.w55c.net
@@ -483,6 +494,7 @@
 0.0.0.0 dalb.valuecommerce.com
 0.0.0.0 dalc.valuecommerce.com
 0.0.0.0 dalc.valuecommerce.com.lan
+0.0.0.0 displayf-tm.everesttech.net
 0.0.0.0 dossier.chartboost.com
 0.0.0.0 dsp-1-apac.ogury.io
 0.0.0.0 dsp-1.ogury.io
@@ -502,6 +514,7 @@
 0.0.0.0 events.ads.vungle.com
 0.0.0.0 events.ads.vungle.com.lan
 0.0.0.0 f-prod-motionly.prod.cloud.ogury.io
+0.0.0.0 f.creativecdn.com
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fastlane.rubiconproject.com.lan
 0.0.0.0 file.mysquadbeyond.com
@@ -523,12 +536,14 @@
 0.0.0.0 htlb.casalemedia.com.lan
 0.0.0.0 i.w55c.net
 0.0.0.0 i.w55c.net.lan
+0.0.0.0 id.crwdcntrl.net
 0.0.0.0 id.rlcdn.com
 0.0.0.0 idsync.rlcdn.com
 0.0.0.0 idsync.rlcdn.com.lan
 0.0.0.0 images.outbrainimg.com
 0.0.0.0 images.outbrainimg.com.lan
 0.0.0.0 imp.storematch.jp
+0.0.0.0 invstatic101.creativecdn.com
 0.0.0.0 itag.valuecommerce.com
 0.0.0.0 itrack2.valuecommerce.com
 0.0.0.0 js.slvrbullet.com
@@ -575,6 +590,8 @@
 0.0.0.0 placements.tapjoy.com
 0.0.0.0 pm.w55c.net
 0.0.0.0 prebid-a.rubiconproject.com
+0.0.0.0 prebid-asia.creativecdn.com
+0.0.0.0 prebid-asia.creativecdn.com.lan
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 prg-apac.smartadserver.com
 0.0.0.0 prg.smartadserver.com
@@ -593,6 +610,7 @@
 0.0.0.0 rtb-csync.smartadserver.com
 0.0.0.0 rtb-csync.smartadserver.com.lan
 0.0.0.0 rtb0.doubleverify.com
+0.0.0.0 rtd-tm.everesttech.net
 0.0.0.0 s.ad.smaato.net
 0.0.0.0 s.ad.smaato.net.lan
 0.0.0.0 s.update.rose.pubmatic.com
@@ -606,6 +624,7 @@
 0.0.0.0 settings.crashlytics.com.lan
 0.0.0.0 showads-nrt10.pubmatic.com
 0.0.0.0 simage2.pubmatic.com
+0.0.0.0 sin.creativecdn.com
 0.0.0.0 spadsync.com
 0.0.0.0 spadsync.com.lan
 0.0.0.0 srv.stackadapt.com
@@ -622,6 +641,11 @@
 0.0.0.0 staging-ghent-gce-jp.bidswitch.net
 0.0.0.0 static-content-1.smadex.com
 0.0.0.0 static.chartbeat.com
+0.0.0.0 statsf-tm.everesttech.net
+0.0.0.0 sync-tm.everesttech.net
+0.0.0.0 sync-tm.everesttech.net.lan
+0.0.0.0 sync.crwdcntrl.net
+0.0.0.0 sync.crwdcntrl.net.lan
 0.0.0.0 sync.outbrain.com
 0.0.0.0 sync.outbrain.com.lan
 0.0.0.0 sync.relaido.jp
@@ -635,6 +659,8 @@
 0.0.0.0 t.pubmatic.com
 0.0.0.0 t2.chartboost.com
 0.0.0.0 t2.chartboost.com.lan
+0.0.0.0 tags.creativecdn.com
+0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags.w55c.net
 0.0.0.0 targeting.unrulymedia.com
 0.0.0.0 tcheck.outbrainimg.com
@@ -654,6 +680,7 @@
 0.0.0.0 um.simpli.fi
 0.0.0.0 um.simpli.fi.lan
 0.0.0.0 us-east-win.srv.stackadapt.co
+0.0.0.0 us.creativecdn.com
 0.0.0.0 user-data-apac-jp.bidswitch.net
 0.0.0.0 va-trk.smadex.com
 0.0.0.0 vas.outbrain.com
@@ -1362,3 +1389,23 @@
 0.0.0.0 www.interactive-circle.jp
 0.0.0.0 y.one.impact-ad.jp
 0.0.0.0 y.one.impact-ad.jp.lan
+
+# [アドウェア]
+# https://malware.guide/ja/adware/remove-tsyndicate-com-advertisement-virus/
+0.0.0.0 cdn.tsyndicate.com
+0.0.0.0 pxl.tsyndicate.com
+0.0.0.0 tsyndicate.com
+
+# [ブラウザハイジャッカー]
+# https://howtoremove.guide/ja/loadus-exelator-com-%E3%82%A6%E3%82%A4%E3%83%AB%E3%82%B9/
+0.0.0.0 load-use1.exelator.com
+0.0.0.0 load.exelator.com
+0.0.0.0 loada.exelator.com
+0.0.0.0 loadm.exelator.com
+0.0.0.0 loadus.exelator.com
+
+# [bitdefender アンチウイルス検知]
+# https://answers.microsoft.com/en-us/windows/forum/all/sudden-threat-from-antivirus-doing-nothing/a8e09462-36f9-4acb-b178-3005d731148a
+0.0.0.0 cadmus.script.ac
+0.0.0.0 cadmus.script.ac.lan
+0.0.0.0 cadmus2.script.ac
