@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 31 May 2025
+# Last modified: 1 June 2025
 #
 
 # [広告全般]
@@ -101,6 +101,7 @@
 0.0.0.0 aibo.sony.jp
 0.0.0.0 aigarden.com
 0.0.0.0 aik-order.com
+0.0.0.0 aikata-matching.com
 0.0.0.0 aino.support
 0.0.0.0 aionacademy.com
 0.0.0.0 airregi.jp
@@ -113,6 +114,7 @@
 0.0.0.0 akiya-oita.com
 0.0.0.0 akoakostudio.com
 0.0.0.0 akool.com
+0.0.0.0 akr0095760865.owst.jp
 0.0.0.0 akr0105417763.owst.jp
 0.0.0.0 akr0674735414.owst.jp
 0.0.0.0 akr0827128845.owst.jp
@@ -122,6 +124,7 @@
 0.0.0.0 akr1443183977.owst.jp
 0.0.0.0 akr1520790650.owst.jp
 0.0.0.0 akr2241836267.owst.jp
+0.0.0.0 akr3187181130.owst.jp
 0.0.0.0 akr3236363035.owst.jp
 0.0.0.0 akr3470120455.owst.jp
 0.0.0.0 akr3864845762.owst.jp
@@ -146,6 +149,7 @@
 0.0.0.0 allie-ai.kao-kirei.com
 0.0.0.0 allinclusive-collection.com
 0.0.0.0 alohadou.com
+0.0.0.0 alpensalz-2025cp.campar.jp
 0.0.0.0 alphamarine.co.jp
 0.0.0.0 alphamiki.co.jp
 0.0.0.0 alpsoutdoorsummit.jp
@@ -1153,6 +1157,7 @@
 0.0.0.0 hypnosismic.com
 0.0.0.0 hyundaimobilitypassport.com
 0.0.0.0 i-fromdata.co.jp
+0.0.0.0 i-mission.jp
 0.0.0.0 i-voce.jp
 0.0.0.0 i.ansinkaigo.jp
 0.0.0.0 i.kirei.today
@@ -1491,6 +1496,7 @@
 0.0.0.0 kingram.shop
 0.0.0.0 kinkaimasu.jp
 0.0.0.0 kinkisain.co.jp
+0.0.0.0 kinshun.owst.jp
 0.0.0.0 kintone.cybozu.co.jp
 0.0.0.0 kintorihiki-hikaku.com
 0.0.0.0 kiond.com
@@ -1591,6 +1597,7 @@
 0.0.0.0 kyodonewsprwire.jp
 0.0.0.0 kyokamaboko.co.jp
 0.0.0.0 kyokuto-boueki.com
+0.0.0.0 kyomachi-icchyoume.owst.jp
 0.0.0.0 kyomachiya-baikyaku.com
 0.0.0.0 kyomono-sampo.jp
 0.0.0.0 kyorin.icnohiroba.com
@@ -2144,6 +2151,7 @@
 0.0.0.0 onestop-mobile.net
 0.0.0.0 onisi-anshinchoice.com
 0.0.0.0 online-mental-clinic.com
+0.0.0.0 online.brother.co.jp
 0.0.0.0 online.cosmo-space.jp
 0.0.0.0 online.uc.edu
 0.0.0.0 online.veritecoeur.com
@@ -2400,6 +2408,7 @@
 0.0.0.0 renoman-shinjuku.com
 0.0.0.0 renove.inove.co.jp
 0.0.0.0 rensim-store.com
+0.0.0.0 renta-life.jp
 0.0.0.0 rental-coin.com
 0.0.0.0 rental-pallet.net
 0.0.0.0 rental2.abra-inc.com
@@ -2685,6 +2694,7 @@
 0.0.0.0 shokouzan.com
 0.0.0.0 shokumitennka.owst.jp
 0.0.0.0 shonan-dining.com
+0.0.0.0 shop-bargain.site
 0.0.0.0 shop-list.com
 0.0.0.0 shop.archelis.com
 0.0.0.0 shop.bancdor-saitama.com
@@ -2890,6 +2900,7 @@
 0.0.0.0 sumai.tokyu-land.co.jp
 0.0.0.0 sumaireform.net
 0.0.0.0 sumapo.com
+0.0.0.0 sumibinikumaru.owst.jp
 0.0.0.0 sumibitowine.com
 0.0.0.0 sumika.link
 0.0.0.0 sumikalog.bess.jp
@@ -2929,6 +2940,7 @@
 0.0.0.0 syogetuhukakusaten.owst.jp
 0.0.0.0 syoku-navi.com
 0.0.0.0 syokusainobo-bettei.owst.jp
+0.0.0.0 syoukichinanba.owst.jp
 0.0.0.0 syriusrobotics.co.jp
 0.0.0.0 systema.lion.co.jp
 0.0.0.0 syugao.com
@@ -3129,6 +3141,7 @@
 0.0.0.0 tw-img.vpon.com
 0.0.0.0 twoshotmoon.click
 0.0.0.0 twpass.tw
+0.0.0.0 tyarimu-uehonmati.owst.jp
 0.0.0.0 tyre.dunlop.co.jp
 0.0.0.0 tyrian.es
 0.0.0.0 tyuju.mabuchi.co.jp
@@ -3219,6 +3232,7 @@
 0.0.0.0 vti-glovebox.com
 0.0.0.0 w-sphone.com
 0.0.0.0 wadainohon.com
+0.0.0.0 wagyu-sumibiyakiniku-zyo.owst.jp
 0.0.0.0 wakaba-ac.jp
 0.0.0.0 wakayama.vc-dealer.jp
 0.0.0.0 wakegai.jp
@@ -4010,6 +4024,7 @@
 0.0.0.0 www.glory-td.com
 0.0.0.0 www.gmobile.biz
 0.0.0.0 www.go-etc.jp
+0.0.0.0 www.goallpayx.com
 0.0.0.0 www.goda-j.co.jp
 0.0.0.0 www.gofuku-kaitori.com
 0.0.0.0 www.gold.org
@@ -4479,6 +4494,7 @@
 0.0.0.0 www.kushi-hyoutan.jp
 0.0.0.0 www.kyjlaw.com
 0.0.0.0 www.kyodoyokohama.com
+0.0.0.0 www.kyoei.co.jp
 0.0.0.0 www.kyosai-cc.or.jp
 0.0.0.0 www.kyosyoku.com
 0.0.0.0 www.kyoto-aquarium.com
@@ -5788,6 +5804,7 @@
 0.0.0.0 zodia-custody.com
 0.0.0.0 zona-kobe.com
 0.0.0.0 zona-kobe.jp
+0.0.0.0 zoukaiotegaru.soo-arch.com
 0.0.0.0 zqn8sc2.com
 0.0.0.0 zumi-kobo.com
 0.0.0.0 zyaponikasanbiru.owst.jp
