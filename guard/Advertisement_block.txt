@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 1 June 2025
+# Last modified: 2 June 2025
 #
 
 # [広告全般]
@@ -130,12 +130,14 @@
 0.0.0.0 akr3864845762.owst.jp
 0.0.0.0 akr3886447014.owst.jp
 0.0.0.0 akr4061480779.owst.jp
+0.0.0.0 akr6493666829.owst.jp
 0.0.0.0 akr6827161385.owst.jp
 0.0.0.0 akr7779880273.owst.jp
 0.0.0.0 akr7827636977.owst.jp
 0.0.0.0 akr8178987612.owst.jp
 0.0.0.0 akr8468139698.owst.jp
 0.0.0.0 akr8490227405.owst.jp
+0.0.0.0 akr9371764164.owst.jp
 0.0.0.0 akr9636581561.owst.jp
 0.0.0.0 al-mare.irodori-inc-okj.co.jp
 0.0.0.0 alc.talkingmarathon.com
@@ -456,6 +458,7 @@
 0.0.0.0 chin-pri.com
 0.0.0.0 chintai.house-q.co.jp
 0.0.0.0 chirashi.akachan.jp
+0.0.0.0 chiyoda-kakou.co.jp
 0.0.0.0 chodai3biru.owst.jp
 0.0.0.0 chouwasha.jp
 0.0.0.0 chrysler-jeep.jp
@@ -1508,6 +1511,7 @@
 0.0.0.0 kitamoto.click
 0.0.0.0 kitanoburn.owst.jp
 0.0.0.0 kitaosaka-souzoku-center.com
+0.0.0.0 kitashinchi-hashimoto.owst.jp
 0.0.0.0 kitashinnchiushinozennpremium.owst.jp
 0.0.0.0 kj8-thegame.com
 0.0.0.0 kk-takada.com
@@ -2501,6 +2505,7 @@
 0.0.0.0 san-bettei-hanare-kitashinchi.owst.jp
 0.0.0.0 sanageonsen.p-castle.co.jp
 0.0.0.0 sananacafe.ecforce.superb-hd.com
+0.0.0.0 sananamama.com
 0.0.0.0 sandesica.jp
 0.0.0.0 sankotsu.jah.co.jp
 0.0.0.0 sanriku-jouban-umeemon.jp
@@ -2796,6 +2801,7 @@
 0.0.0.0 solo37.com
 0.0.0.0 sompo-car.info
 0.0.0.0 songdream.jp
+0.0.0.0 sony-acceleration-platform.com
 0.0.0.0 soo-happy.net
 0.0.0.0 sophiadental.or.jp
 0.0.0.0 sora-cam.com
@@ -3012,6 +3018,7 @@
 0.0.0.0 teamix.click
 0.0.0.0 teamojp.org
 0.0.0.0 tebanashi.mira-ie.co.jp
+0.0.0.0 tebasakinohaneshinsekai.owst.jp
 0.0.0.0 tech-drone.co.jp
 0.0.0.0 tech.jp.sharp
 0.0.0.0 techgala.jp
@@ -3028,6 +3035,8 @@
 0.0.0.0 tenpuraendoyasakahonten.owst.jp
 0.0.0.0 tensei-osaka.com
 0.0.0.0 tenshoku.mynavi.jp
+0.0.0.0 teppannyakisyokudouren.owst.jp
+0.0.0.0 terai-hajime.com
 0.0.0.0 tetra.jp
 0.0.0.0 tettirilaboshonai.owst.jp
 0.0.0.0 the-japanese-spirit.com
@@ -4107,6 +4116,7 @@
 0.0.0.0 www.hashikawa.co.jp
 0.0.0.0 www.hatarako.net
 0.0.0.0 www.hatasapo.jp
+0.0.0.0 www.hattori-co.com
 0.0.0.0 www.hawaiianairlines.co.jp
 0.0.0.0 www.hda.or.jp
 0.0.0.0 www.headout.com
@@ -4464,6 +4474,7 @@
 0.0.0.0 www.kokokara-care.com
 0.0.0.0 www.kokushikan.ac.jp
 0.0.0.0 www.kolkatabeckons.com.sg
+0.0.0.0 www.komeda.co.jp
 0.0.0.0 www.kominami.co.jp
 0.0.0.0 www.komyokaku.jp
 0.0.0.0 www.konaka-jp.com
@@ -5552,6 +5563,7 @@
 0.0.0.0 www.valt-japan.com
 0.0.0.0 www.vector.com
 0.0.0.0 www.vehicle-cyc.co.jp
+0.0.0.0 www.verusaqua.co.jp
 0.0.0.0 www.video.unext.jp
 0.0.0.0 www.vietnamairlines.com
 0.0.0.0 www.vikingcruisesjapan.com
@@ -5724,6 +5736,7 @@
 0.0.0.0 yakinikukannkunn.owst.jp
 0.0.0.0 yakinikunandaimon.owst.jp
 0.0.0.0 yakisuki-saiin.owst.jp
+0.0.0.0 yakitori-kozou.owst.jp
 0.0.0.0 yakitorisuginoya.com
 0.0.0.0 yamadahomes.jp
 0.0.0.0 yamadahomes.resv.jp
