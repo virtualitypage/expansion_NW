@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 2 June 2025
+# Last modified: 3 June 2025
 #
 
 # [広告全般]
@@ -124,6 +124,7 @@
 0.0.0.0 akr1443183977.owst.jp
 0.0.0.0 akr1520790650.owst.jp
 0.0.0.0 akr2241836267.owst.jp
+0.0.0.0 akr2486995891.owst.jp
 0.0.0.0 akr3187181130.owst.jp
 0.0.0.0 akr3236363035.owst.jp
 0.0.0.0 akr3470120455.owst.jp
@@ -135,6 +136,7 @@
 0.0.0.0 akr7779880273.owst.jp
 0.0.0.0 akr7827636977.owst.jp
 0.0.0.0 akr8178987612.owst.jp
+0.0.0.0 akr8430289746.owst.jp
 0.0.0.0 akr8468139698.owst.jp
 0.0.0.0 akr8490227405.owst.jp
 0.0.0.0 akr9371764164.owst.jp
@@ -408,6 +410,7 @@
 0.0.0.0 campanola.jp
 0.0.0.0 camparijapan.com
 0.0.0.0 can-yuu.com
+0.0.0.0 canadiancafe.owst.jp
 0.0.0.0 canalworks.jp
 0.0.0.0 canbadge-arc.com
 0.0.0.0 canbadge-arc32.com
@@ -610,6 +613,7 @@
 0.0.0.0 digital-women.maia.co.jp
 0.0.0.0 din-kyushu.jp
 0.0.0.0 dining-masayoshi.com
+0.0.0.0 diningbar-conte.owst.jp
 0.0.0.0 diplomat-jpn.com
 0.0.0.0 direct-teleshop.jp
 0.0.0.0 direct.ajinomoto.co.jp
@@ -1457,6 +1461,7 @@
 0.0.0.0 katsubedc-nanmori.com
 0.0.0.0 katsuo-furukawabashi.owst.jp
 0.0.0.0 katsuo-gamouyonchome.owst.jp
+0.0.0.0 katsuo-kourien.owst.jp
 0.0.0.0 katsuo-kyobashiminami.owst.jp
 0.0.0.0 katsurabina.shop
 0.0.0.0 kawanotajimaya.com
@@ -1862,6 +1867,7 @@
 0.0.0.0 mikatajukudesu.com
 0.0.0.0 million-sales.com
 0.0.0.0 mimi-kyokai.jp
+0.0.0.0 mimitsubo-diet.or.jp
 0.0.0.0 minamiasagaya.ryusei-sekkotuin.net
 0.0.0.0 minamino.itami-hagukumi.work
 0.0.0.0 minase-ep.jp
@@ -1947,6 +1953,7 @@
 0.0.0.0 mtg-campaign.com
 0.0.0.0 mtg-jp.com
 0.0.0.0 mtm-aoyama.com
+0.0.0.0 mtnet.site
 0.0.0.0 mugenmeat-catering.com
 0.0.0.0 mugla.goturkiye.com
 0.0.0.0 multi-water.com
@@ -1974,6 +1981,7 @@
 0.0.0.0 mystyhub.com
 0.0.0.0 myvketofficial.cloud.vket.com
 0.0.0.0 n3cafe.com
+0.0.0.0 nachtmusik.theshop.jp
 0.0.0.0 nadakobetsu.com
 0.0.0.0 nadi-leaf.jp
 0.0.0.0 nadwuri.owst.jp
@@ -1985,6 +1993,7 @@
 0.0.0.0 nagoya.ace-clinic.com
 0.0.0.0 nagoyalivestreaming.com
 0.0.0.0 naia-astena.jp
+0.0.0.0 naisen.jp
 0.0.0.0 naiteikun-corp.com
 0.0.0.0 naka4.com
 0.0.0.0 nakagawa-mishin.com
@@ -2443,6 +2452,7 @@
 0.0.0.0 rivertrain-forest.click
 0.0.0.0 rlx.jp
 0.0.0.0 rmc-mori.jp
+0.0.0.0 robatatokamameshiryu.owst.jp
 0.0.0.0 rocbankglobal.com
 0.0.0.0 rokkomeetsart.jp
 0.0.0.0 rokon.click
@@ -2614,6 +2624,7 @@
 0.0.0.0 sec.pandanet.co.jp
 0.0.0.0 secev.co.jp
 0.0.0.0 secure.proglab.education
+0.0.0.0 sei26.com
 0.0.0.0 seikatsu-daiji1616.biz
 0.0.0.0 seikatsu-shien.com
 0.0.0.0 seikatsusha-ddm.com
@@ -2654,6 +2665,7 @@
 0.0.0.0 shareway.jp
 0.0.0.0 sharkclean.co.uk
 0.0.0.0 shashinten.info
+0.0.0.0 shashoku.com
 0.0.0.0 shelldome.jp
 0.0.0.0 shiba.breeders.jp
 0.0.0.0 shibainu-shop.net
@@ -2807,6 +2819,7 @@
 0.0.0.0 sora-cam.com
 0.0.0.0 soracom.jp
 0.0.0.0 soramamekids.com
+0.0.0.0 sorappa-dining.owst.jp
 0.0.0.0 sos-pc.kingsgroupgames.com
 0.0.0.0 sosokan-shop.net
 0.0.0.0 sotetsu-hotels.com
@@ -2936,6 +2949,7 @@
 0.0.0.0 suumo.jp
 0.0.0.0 suzuki-ballet-studio.com
 0.0.0.0 suzumean-sohonten.owst.jp
+0.0.0.0 suzuya-yakiniku.owst.jp
 0.0.0.0 svenson-recruit.com
 0.0.0.0 svltd.co.jp
 0.0.0.0 swamp501.owst.jp
@@ -3336,6 +3350,7 @@
 0.0.0.0 www.2ndstreet.jp
 0.0.0.0 www.303select.com
 0.0.0.0 www.34insatsu.com
+0.0.0.0 www.39655.net
 0.0.0.0 www.39asset.co.jp
 0.0.0.0 www.3ei.co.jp
 0.0.0.0 www.3m.com
@@ -4432,6 +4447,7 @@
 0.0.0.0 www.kimono-mikawa.com
 0.0.0.0 www.kimurajuku.co.jp
 0.0.0.0 www.kindai.ac.jp
+0.0.0.0 www.kindaikagaku.co.jp
 0.0.0.0 www.kinoshita-koumuten.co.jp
 0.0.0.0 www.kinsoku.ac.jp
 0.0.0.0 www.kintetsu.co.jp
@@ -4888,6 +4904,7 @@
 0.0.0.0 www.okonomiyaki-gu.co.jp
 0.0.0.0 www.oligo.jp
 0.0.0.0 www.oliveoilsfromspain.jp
+0.0.0.0 www.omocha-land.jp
 0.0.0.0 www.omron.com
 0.0.0.0 www.omu.ac.jp
 0.0.0.0 www.on.com
@@ -5817,6 +5834,7 @@
 0.0.0.0 zodia-custody.com
 0.0.0.0 zona-kobe.com
 0.0.0.0 zona-kobe.jp
+0.0.0.0 zoomcorp.com
 0.0.0.0 zoukaiotegaru.soo-arch.com
 0.0.0.0 zqn8sc2.com
 0.0.0.0 zumi-kobo.com
