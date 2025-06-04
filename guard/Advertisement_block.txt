@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 3 June 2025
+# Last modified: 4 June 2025
 #
 
 # [広告全般]
@@ -164,6 +164,7 @@
 0.0.0.0 amann55.com
 0.0.0.0 amarekyoto.owst.jp
 0.0.0.0 ambercorp.co.jp
+0.0.0.0 ametelas.owst.jp
 0.0.0.0 amiami-as331.com
 0.0.0.0 amiblo.jp
 0.0.0.0 amlead.co.jp
@@ -373,6 +374,7 @@
 0.0.0.0 bosyu-will.com
 0.0.0.0 bouquet-24.com
 0.0.0.0 bownim.base.shop
+0.0.0.0 bra.almado.jp
 0.0.0.0 brand.taisho.co.jp
 0.0.0.0 bright-app.com
 0.0.0.0 brightage.jp
@@ -1297,6 +1299,7 @@
 0.0.0.0 japantax.tokyo
 0.0.0.0 jcloud.co.jp
 0.0.0.0 jetb.co.jp
+0.0.0.0 jewel-cafe.jp
 0.0.0.0 jewelreading.com
 0.0.0.0 jewelry-girls.net
 0.0.0.0 jey.lpro-chat.com
@@ -2079,6 +2082,7 @@
 0.0.0.0 nishinomiya-kazokushintaku.com
 0.0.0.0 nishispo.nishinippon.co.jp
 0.0.0.0 nishitetsu-home.com
+0.0.0.0 nisikido.net
 0.0.0.0 nittobest-online.net
 0.0.0.0 nix-water.jp
 0.0.0.0 nizima.com
@@ -2107,6 +2111,7 @@
 0.0.0.0 nuarl.com
 0.0.0.0 nudge.cards
 0.0.0.0 number.bunshun.jp
+0.0.0.0 nursejobsjp.club
 0.0.0.0 nyushi.otemon.ac.jp
 0.0.0.0 nyusinavi.nagoya-wu.ac.jp
 0.0.0.0 nzzz.airnewzealand.jp
@@ -2453,6 +2458,7 @@
 0.0.0.0 rlx.jp
 0.0.0.0 rmc-mori.jp
 0.0.0.0 robatatokamameshiryu.owst.jp
+0.0.0.0 robofork.kolec.co.jp
 0.0.0.0 rocbankglobal.com
 0.0.0.0 rokkomeetsart.jp
 0.0.0.0 rokon.click
@@ -2684,6 +2690,7 @@
 0.0.0.0 shikiakari.info
 0.0.0.0 shikinouta-sannomiya.owst.jp
 0.0.0.0 shikisaisai.net
+0.0.0.0 shiko-shiko.jp
 0.0.0.0 shima-corp.com
 0.0.0.0 shimane.dd.daihatsu.co.jp
 0.0.0.0 shimanezumifarm.com
@@ -2701,6 +2708,7 @@
 0.0.0.0 shinya0129.info
 0.0.0.0 shisaku-kiban.com
 0.0.0.0 shisas-cafe-bbq.com
+0.0.0.0 shisu.gengakusoudan.com
 0.0.0.0 shizuclear.jp
 0.0.0.0 shizuoka-norin-u.ac.jp
 0.0.0.0 shizuoka-onpaku.jp
@@ -2874,6 +2882,7 @@
 0.0.0.0 stelaq.co.jp
 0.0.0.0 step.sekokan-labo.jp
 0.0.0.0 stock-house.jp
+0.0.0.0 stock-inv1.jp
 0.0.0.0 stockedges.com
 0.0.0.0 store-jp.nintendo.com
 0.0.0.0 store-visit.meo-one.com
@@ -3211,6 +3220,7 @@
 0.0.0.0 uokuni-recruit.jp
 0.0.0.0 uonuma20.com
 0.0.0.0 uoya-saburo-sannomiya.owst.jp
+0.0.0.0 upcafe.owst.jp
 0.0.0.0 update-inc.jp
 0.0.0.0 uptofficial.jp
 0.0.0.0 uramurakaki-yamayasu.jp
@@ -3852,6 +3862,7 @@
 0.0.0.0 www.e-tix.jp
 0.0.0.0 www.e-ty.co.jp
 0.0.0.0 www.e-use.net
+0.0.0.0 www.eastjp.com
 0.0.0.0 www.ebara.co.jp
 0.0.0.0 www.ec-store.net
 0.0.0.0 www.ecc.jp
@@ -4005,6 +4016,7 @@
 0.0.0.0 www.furugioroshi.com
 0.0.0.0 www.furusato-tax.jp
 0.0.0.0 www.furusato-web.jp
+0.0.0.0 www.fusaki.com
 0.0.0.0 www.fushioukaku.co.jp
 0.0.0.0 www.futakiya.com
 0.0.0.0 www.futuremarketinsights.com
@@ -4864,6 +4876,7 @@
 0.0.0.0 www.nttud.co.jp
 0.0.0.0 www.nugu.jp
 0.0.0.0 www.numo.or.jp
+0.0.0.0 www.numplerap.com
 0.0.0.0 www.nurse-secom.com
 0.0.0.0 www.nursejinzaibank.com
 0.0.0.0 www.nursepower.co.jp
@@ -4916,6 +4929,7 @@
 0.0.0.0 www.onrei.jp
 0.0.0.0 www.ooedoonsen.jp
 0.0.0.0 www.ooita-ijuushuunou.com
+0.0.0.0 www.oorja.co.uk
 0.0.0.0 www.oosawaonsen.com
 0.0.0.0 www.open-circuit.ne.jp
 0.0.0.0 www.opera-official.net
@@ -5110,6 +5124,7 @@
 0.0.0.0 www.riken-hochoki.com
 0.0.0.0 www.rikuden.co.jp
 0.0.0.0 www.ringyou.net
+0.0.0.0 www.rinroad.co.jp
 0.0.0.0 www.ririsa-riristage.com
 0.0.0.0 www.rise.hokkaido.jp
 0.0.0.0 www.riseisha.ac.jp
