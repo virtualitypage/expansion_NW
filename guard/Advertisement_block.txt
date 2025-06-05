@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 4 June 2025
+# Last modified: 5 June 2025
 #
 
 # [広告全般]
@@ -17,6 +17,7 @@
 0.0.0.0 1st-range-golf.com
 0.0.0.0 2.homeplusone.com.tw
 0.0.0.0 2110.jp
+0.0.0.0 241217.my.canva.site
 0.0.0.0 2525sweets.base.shop
 0.0.0.0 2ndtable.com
 0.0.0.0 3000gamepix.com
@@ -131,6 +132,7 @@
 0.0.0.0 akr3864845762.owst.jp
 0.0.0.0 akr3886447014.owst.jp
 0.0.0.0 akr4061480779.owst.jp
+0.0.0.0 akr4640838739.owst.jp
 0.0.0.0 akr6493666829.owst.jp
 0.0.0.0 akr6827161385.owst.jp
 0.0.0.0 akr7779880273.owst.jp
@@ -573,6 +575,7 @@
 0.0.0.0 d-starjob.com
 0.0.0.0 dachs.breeders.jp
 0.0.0.0 daiei-corporation.com
+0.0.0.0 daiohs-saiyou.net
 0.0.0.0 daishoren.org
 0.0.0.0 danball-hompo.com
 0.0.0.0 dancyu.jp
@@ -956,6 +959,7 @@
 0.0.0.0 goldtsumitatekun.com
 0.0.0.0 golf-resort.kintetsu-re.co.jp
 0.0.0.0 golfrangeluana.jp
+0.0.0.0 gomiyashiki.speed-trouble.com
 0.0.0.0 gomu-kinzoku-shisaku.com
 0.0.0.0 gooda.brangista.com
 0.0.0.0 gooday.nikkei.co.jp
@@ -2458,6 +2462,7 @@
 0.0.0.0 rlx.jp
 0.0.0.0 rmc-mori.jp
 0.0.0.0 robatatokamameshiryu.owst.jp
+0.0.0.0 robatayaki-isshin-nishinakajima.owst.jp
 0.0.0.0 robofork.kolec.co.jp
 0.0.0.0 rocbankglobal.com
 0.0.0.0 rokkomeetsart.jp
@@ -2650,6 +2655,7 @@
 0.0.0.0 sen8senjya.jp
 0.0.0.0 send.microad.jp
 0.0.0.0 sengokuixa.jp
+0.0.0.0 senmon.ochabi.ac.jp
 0.0.0.0 sennangyosei.jp
 0.0.0.0 senpaku.net
 0.0.0.0 senzusouhonten.owst.jp
@@ -2766,6 +2772,7 @@
 0.0.0.0 shoudensansou.wixsite.com
 0.0.0.0 shougai-nenkin119.com
 0.0.0.0 shoushutsuryoku-saiene-hoan.go.jp
+0.0.0.0 shouyumankichi.owst.jp
 0.0.0.0 shumei.ac.jp
 0.0.0.0 shunsai-tateyama.com
 0.0.0.0 shunsentanbou.pref.miyagi.jp
@@ -3809,6 +3816,7 @@
 0.0.0.0 www.denray.com
 0.0.0.0 www.densan-kikaku.co.jp
 0.0.0.0 www.dentsu.ed.jp
+0.0.0.0 www.dewars-jp.com
 0.0.0.0 www.dezao-reform.com
 0.0.0.0 www.df-sgs.co.jp
 0.0.0.0 www.dfs.com
@@ -5076,6 +5084,7 @@
 0.0.0.0 www.purestorage.com
 0.0.0.0 www.pwc.com
 0.0.0.0 www.qac.co.jp
+0.0.0.0 www.qchicken.co.jp
 0.0.0.0 www.qfox-japan.com
 0.0.0.0 www.qobuz.com
 0.0.0.0 www.qol-inc.com
@@ -5116,6 +5125,7 @@
 0.0.0.0 www.remotecall.com
 0.0.0.0 www.rendimento.com.br
 0.0.0.0 www.rengo-aichi.or.jp
+0.0.0.0 www.rengo-tokyo.gr.jp
 0.0.0.0 www.rentalpronto.net
 0.0.0.0 www.reply.com
 0.0.0.0 www.repohappy.com
@@ -5132,6 +5142,7 @@
 0.0.0.0 www.ristorante-espoir.net
 0.0.0.0 www.riviere.gr.jp
 0.0.0.0 www.rizaim.biz
+0.0.0.0 www.rizap-golf.jp
 0.0.0.0 www.roborock.jp
 0.0.0.0 www.robotpayment.co.jp
 0.0.0.0 www.robotplanet.site
@@ -5368,6 +5379,7 @@
 0.0.0.0 www.superdramatv.com
 0.0.0.0 www.supermicro.com
 0.0.0.0 www.supersports.com
+0.0.0.0 www.support-navi.metro.tokyo.lg.jp
 0.0.0.0 www.surfabudhabi.com
 0.0.0.0 www.surftripmagazine.com
 0.0.0.0 www.surpricenow.com
@@ -5428,6 +5440,7 @@
 0.0.0.0 www.tdk.com
 0.0.0.0 www.tds.co.jp
 0.0.0.0 www.teamlab.art
+0.0.0.0 www.techinsights.com
 0.0.0.0 www.technoassocie.co.jp
 0.0.0.0 www.teez.jp
 0.0.0.0 www.tejongde.jp
@@ -5574,6 +5587,7 @@
 0.0.0.0 www.unicef.or.jp
 0.0.0.0 www.unicontrols.co.jp
 0.0.0.0 www.uniqloichiropost.com
+0.0.0.0 www.united-person.jp
 0.0.0.0 www.universal-robots.com
 0.0.0.0 www.uno-dental.net
 0.0.0.0 www.unzen-mikado.net
