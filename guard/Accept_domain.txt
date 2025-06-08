@@ -4,16 +4,21 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Accept_domain.txt
 #
-# Last modified: 1 June 2025
+# Last modified: 8 June 2025
 #
 
 # [許可リクエスト]
+@@/d[0-9]*.cloudfront.net.lan/
 @@/d[0-9]*.cloudfront.net/
 @@/e[5-9].o.lencr.org/
 @@/gctok[0-9]*.exitgames.com/
 @@/i[1-9].ytimg.com/
 @@/r1[0-4].i.lencr.org/
 @@/r1[0-4].o.lencr.org/
+@@/sp-[0-9]*.apkrep.avcdn.net.lan/
+@@/sp-[0-9]*.apkrep.avcdn.net/
+@@/sp-[0-9]*.honzik.avcdn.net.lan/
+@@/sp-[0-9]*.honzik.avcdn.net/
 @@||aa-metrics.beauty.hotpepper.jp
 @@||abs.twimg.com
 @@||access-login.broadcom.com.cdn.cloudflare.net
@@ -25,6 +30,7 @@
 @@||aclog.itmedia.co.jp
 @@||airplane.kairogame.jp
 @@||ajax.googleapis.com
+@@||analytics.ff.avast.com
 @@||analytics.yay.space
 @@||analytics.yay.space.lan
 @@||androidattestationvalidation-pa.googleapis.com
@@ -47,6 +53,7 @@
 @@||astat.nikkei.com
 @@||atmarkit.itmedia.co.jp
 @@||auth.cid.capcom.com
+@@||auth.ff.avast.com
 @@||azurefd-t-prod.trafficmanager.net
 @@||bakmas.kairogame.jp
 @@||beauty.hotpepper.jp
@@ -71,8 +78,6 @@
 @@||chromewebstore.google.com
 @@||cid.capcom.com
 @@||clients.l.google.com
-@@||cloudfront.net
-@@||cloudfront.net.lan
 @@||coinlog.kairogame.jp
 @@||collector.github.com
 @@||configserver.platform.hicloud.com
@@ -89,6 +94,7 @@
 @@||dhc.demdex.net
 @@||digikey.jp
 @@||discord.com
+@@||docs.gl-inet.com
 @@||docs.google.com
 @@||dpm.demdex.net
 @@||dpm.demdex.net.lan
@@ -110,6 +116,7 @@
 @@||fc.itmedia.co.jp
 @@||federatedcompute-pa.googleapis.com
 @@||file.kanochat.jp
+@@||filerep-replica.ff.avast.com
 @@||firebase.googleapis.com
 @@||firebasedynamiclinks.googleapis.com
 @@||firebaseinappmessaging.googleapis.com
@@ -238,6 +245,9 @@
 @@||securl.nu
 @@||settings-cdn.yay.space
 @@||settings-cdn.yay.space.lan
+@@||shepherd.ff.avast.com
+@@||shepherd.sb.avast.com
+@@||shepherd.sb.avast.com.lan
 @@||shop.adidas.jp
 @@||special.sankei.com
 @@||spot-pa.googleapis.com
@@ -283,6 +293,7 @@
 @@||www.cecile.co.jp
 @@||www.dropbox.com
 @@||www.esupply.co.jp
+@@||www.gl-inet.com
 @@||www.google.co.jp
 @@||www.googleadservices.com
 @@||www.googleapis.com
@@ -863,3 +874,59 @@
 @@||yunz.yahooapis.jp
 @@||yunz.yahooapis.jp.lan
 @@||yvpub-bucket001-west.west.edge.storage-yahoo.jp
+
+# [reverse DNS]
+@@||110.174.217.172.in-addr.arpa
+@@||110.175.217.172.in-addr.arpa
+@@||110.196.250.142.in-addr.arpa
+@@||110.199.250.142.in-addr.arpa
+@@||110.207.250.142.in-addr.arpa
+@@||110.220.58.216.in-addr.arpa
+@@||120.38.239.216.in-addr.arpa
+@@||132.76.250.142.in-addr.arpa
+@@||14.175.217.172.in-addr.arpa
+@@||14.198.250.142.in-addr.arpa
+@@||14.207.250.142.in-addr.arpa
+@@||14.222.251.142.in-addr.arpa
+@@||142.196.250.142.in-addr.arpa
+@@||142.220.58.216.in-addr.arpa
+@@||142.31.217.172.in-addr.arpa
+@@||142.42.251.142.in-addr.arpa
+@@||142.76.250.142.in-addr.arpa
+@@||174.25.217.172.in-addr.arpa
+@@||174.31.217.172.in-addr.arpa
+@@||174.42.251.142.in-addr.arpa
+@@||196.206.250.142.in-addr.arpa
+@@||206.161.217.172.in-addr.arpa
+@@||206.206.250.142.in-addr.arpa
+@@||206.42.251.142.in-addr.arpa
+@@||238.161.217.172.in-addr.arpa
+@@||238.175.217.172.in-addr.arpa
+@@||238.206.250.142.in-addr.arpa
+@@||238.26.217.172.in-addr.arpa
+@@||46.161.217.172.in-addr.arpa
+@@||46.175.217.172.in-addr.arpa
+@@||46.207.250.142.in-addr.arpa
+@@||46.222.251.142.in-addr.arpa
+@@||78.161.217.172.in-addr.arpa
+@@||78.175.217.172.in-addr.arpa
+
+# [DNS-SD]
+# https://en.m.wikipedia.org/wiki/Service_discovery
+# http://www.dns-sd.org/
+@@||b._dns-sd._udp.0.8.168.192.in-addr.arpa
+@@||b._dns-sd._udp.125.144.124.100.in-addr.arpa
+@@||b._dns-sd._udp.69.127.125.100.in-addr.arpa
+@@||db._dns-sd._udp.0.8.168.192.in-addr.arpa
+@@||db._dns-sd._udp.125.144.124.100.in-addr.arpa
+@@||db._dns-sd._udp.69.127.125.100.in-addr.arpa
+@@||lb._dns-sd._udp.0.8.168.192.in-addr.arpa
+@@||lb._dns-sd._udp.125.144.124.100.in-addr.arpa
+@@||lb._dns-sd._udp.172.126.221.10.in-addr.arpa
+@@||lb._dns-sd._udp.185.187.222.10.in-addr.arpa
+@@||lb._dns-sd._udp.24.78.115.100.in-addr.arpa
+@@||lb._dns-sd._udp.47.175.74.10.in-addr.arpa
+@@||lb._dns-sd._udp.6.0.0.192.in-addr.arpa
+@@||lb._dns-sd._udp.69.127.125.100.in-addr.arpa
+@@||lb._dns-sd._udp.79.169.230.10.in-addr.arpa
+@@||lb._dns-sd._udp.81.117.221.10.in-addr.arpa
