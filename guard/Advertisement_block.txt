@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 8 June 2025
+# Last modified: 9 June 2025
 #
 
 # [広告全般]
@@ -514,6 +514,7 @@
 0.0.0.0 cocodeishigaki.com
 0.0.0.0 cocofull.net
 0.0.0.0 cocolis.caa.go.jp
+0.0.0.0 cocono-air.com
 0.0.0.0 colorful.futabanet.jp
 0.0.0.0 coloso.jp
 0.0.0.0 comic-walker.com
@@ -1312,6 +1313,7 @@
 0.0.0.0 japanese.visitkorea.or.kr
 0.0.0.0 japaneserestaurant-king.owst.jp
 0.0.0.0 japantax.tokyo
+0.0.0.0 japonicasecond.owst.jp
 0.0.0.0 jcloud.co.jp
 0.0.0.0 jetb.co.jp
 0.0.0.0 jewel-cafe.jp
@@ -1467,6 +1469,7 @@
 0.0.0.0 karadak.com
 0.0.0.0 karakubuy.com
 0.0.0.0 karaokeland.owst.jp
+0.0.0.0 karaokesakaya-repertory.owst.jp
 0.0.0.0 karen-kyoto.com
 0.0.0.0 karsee.com
 0.0.0.0 karte.io
@@ -1587,6 +1590,7 @@
 0.0.0.0 koukoukojitsu.com
 0.0.0.0 koumu-in.jp
 0.0.0.0 koundou.com
+0.0.0.0 kounotoriosaka.owst.jp
 0.0.0.0 kousa.co.jp
 0.0.0.0 kouseisaiyou.mhlw.go.jp
 0.0.0.0 kouseki-akita.com
@@ -1953,6 +1957,7 @@
 0.0.0.0 mojio-fukushimaten.owst.jp
 0.0.0.0 mokucolle.com
 0.0.0.0 mokutown.jp
+0.0.0.0 momoju-osaka.owst.jp
 0.0.0.0 momuriplus.com
 0.0.0.0 mone-pla.co.jp
 0.0.0.0 money-college.org
@@ -2331,6 +2336,7 @@
 0.0.0.0 portal.bizrisk.iij.jp
 0.0.0.0 portal.jamp.jiji.com
 0.0.0.0 portas-ins.jp
+0.0.0.0 portdouglasmotel.com.au
 0.0.0.0 porte.sport-school.com
 0.0.0.0 povo.jp
 0.0.0.0 pr-genic.com
@@ -3601,6 +3607,7 @@
 0.0.0.0 www.bayflow.jp
 0.0.0.0 www.bayfm.co.jp
 0.0.0.0 www.bb-aspiration.com
+0.0.0.0 www.bbbinternationalgroup.com
 0.0.0.0 www.bbq-nakanoya.com
 0.0.0.0 www.be4tech.com
 0.0.0.0 www.beams.co.jp
@@ -4616,6 +4623,7 @@
 0.0.0.0 www.ligne-roset.jp
 0.0.0.0 www.lim-kochi.com
 0.0.0.0 www.linemo.jp
+0.0.0.0 www.lineup.market
 0.0.0.0 www.link-snow.com
 0.0.0.0 www.linkage-japan.co.jp
 0.0.0.0 www.linkpskorea.com
@@ -5701,8 +5709,10 @@
 0.0.0.0 www.weilin.url.tw
 0.0.0.0 www.wella.co.jp
 0.0.0.0 www.weltec.jp
+0.0.0.0 www.westernunion.com
 0.0.0.0 www.westin-osaka.co.jp
 0.0.0.0 www.westjr.co.jp
+0.0.0.0 www.westpandi.com
 0.0.0.0 www.white-choco.top
 0.0.0.0 www.wickedthemusical.co.uk
 0.0.0.0 www.wills.co.jp
