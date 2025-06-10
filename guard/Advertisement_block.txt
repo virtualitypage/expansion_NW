@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 9 June 2025
+# Last modified: 10 June 2025
 #
 
 # [広告全般]
@@ -786,6 +786,7 @@
 0.0.0.0 exzeal.co.jp
 0.0.0.0 ezyremit.com
 0.0.0.0 f-cre.com
+0.0.0.0 f-reit.com
 0.0.0.0 f-webdesign.biz
 0.0.0.0 f1tokyofestival.com
 0.0.0.0 fa.toray-enter.co.jp
@@ -1573,6 +1574,7 @@
 0.0.0.0 komeko-times.jp
 0.0.0.0 kominami-nouen.co.jp
 0.0.0.0 konciwa.com
+0.0.0.0 koppuntenma.owst.jp
 0.0.0.0 koreabucketlist.com
 0.0.0.0 korop-siso.com
 0.0.0.0 kosavu.com
@@ -1739,6 +1741,7 @@
 0.0.0.0 lp.nuviasmiles.com
 0.0.0.0 lp.pepup.work
 0.0.0.0 lp.raksul.com
+0.0.0.0 lp.reikyaku-labo.com
 0.0.0.0 lp.resortbaito-dive.com
 0.0.0.0 lp.scala-com.jp
 0.0.0.0 lp.sienarose.jp
@@ -1830,6 +1833,7 @@
 0.0.0.0 marumi-lp.com
 0.0.0.0 marumugi.shop
 0.0.0.0 marunagaunyu-lp.com
+0.0.0.0 marushimahonten.owst.jp
 0.0.0.0 marusupro.com
 0.0.0.0 marusyunn.com
 0.0.0.0 masaomi-jyuku.masaomi-takao.com
@@ -2539,6 +2543,7 @@
 0.0.0.0 saito-zei-lp.com
 0.0.0.0 saitokikaku.co.jp
 0.0.0.0 saiyo-shoten.com
+0.0.0.0 sakabakokonikurebatennma.owst.jp
 0.0.0.0 sakai.jeep-dealer.jp
 0.0.0.0 sakancoubou.com
 0.0.0.0 sakedininglit.owst.jp
