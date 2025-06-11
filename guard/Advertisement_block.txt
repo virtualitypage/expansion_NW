@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 10 June 2025
+# Last modified: 11 June 2025
 #
 
 # [広告全般]
@@ -56,6 +56,7 @@
 0.0.0.0 abema.tv
 0.0.0.0 about.paypay.ne.jp
 0.0.0.0 abovejapan.top
+0.0.0.0 abysshabidecor.jp
 0.0.0.0 ac-kobo.jp
 0.0.0.0 accel-japan.com
 0.0.0.0 accretive-lp.jp
@@ -258,6 +259,7 @@
 0.0.0.0 asnavi.cersi.jp
 0.0.0.0 asobibar-shinjuku.net
 0.0.0.0 asp.hotel-story.ne.jp
+0.0.0.0 assisport-fd.com
 0.0.0.0 astmaxenergy.co.jp
 0.0.0.0 astrex8-yamikin.xyz
 0.0.0.0 at-living.press
@@ -1316,6 +1318,7 @@
 0.0.0.0 japantax.tokyo
 0.0.0.0 japonicasecond.owst.jp
 0.0.0.0 jcloud.co.jp
+0.0.0.0 jcommunication.net
 0.0.0.0 jetb.co.jp
 0.0.0.0 jewel-cafe.jp
 0.0.0.0 jewelreading.com
@@ -1625,6 +1628,7 @@
 0.0.0.0 kushiage-aiyo-sanjyosyoutengai.owst.jp
 0.0.0.0 kushio-miyako.owst.jp
 0.0.0.0 kushiyakisakaba-takeshi.owst.jp
+0.0.0.0 kushiyakisakabananbou.owst.jp
 0.0.0.0 kusjikatsusyokudoujiyan.owst.jp
 0.0.0.0 kutsurogiya.owst.jp
 0.0.0.0 kuwanagareed.theshop.jp
@@ -1790,6 +1794,7 @@
 0.0.0.0 madream.jp
 0.0.0.0 maekawaah.com
 0.0.0.0 mag.bess.jp
+0.0.0.0 magasinrecherche.com
 0.0.0.0 magazine.hitosara.com
 0.0.0.0 magcul.net
 0.0.0.0 magicjumper.myshopify.com
@@ -1971,6 +1976,7 @@
 0.0.0.0 monjayaoya.owst.jp
 0.0.0.0 monji.tech
 0.0.0.0 montecito.jp
+0.0.0.0 morihanten.owst.jp
 0.0.0.0 morimoto-lp.com
 0.0.0.0 moritec-lp.com
 0.0.0.0 moriya-contact.com
@@ -2504,6 +2510,7 @@
 0.0.0.0 roteigi-osaka.owst.jp
 0.0.0.0 roundi.us
 0.0.0.0 rousai-zangyou-bengoshi.com
+0.0.0.0 royaltiara.jp
 0.0.0.0 rs-mie.net
 0.0.0.0 rs-oita.net
 0.0.0.0 rsb14267.wixsite.com
@@ -3049,6 +3056,7 @@
 0.0.0.0 takuhai.daichi-m.co.jp
 0.0.0.0 takumikobo-japan.com
 0.0.0.0 takuminocaviar.com
+0.0.0.0 takutohonmachi.owst.jp
 0.0.0.0 takutoproperty-members.com
 0.0.0.0 takuya-kimura.jp
 0.0.0.0 talia-campaign.square.site
@@ -3235,6 +3243,7 @@
 0.0.0.0 uchiyama.c-efficacy.com
 0.0.0.0 uenui.com
 0.0.0.0 uetani-clinic.com
+0.0.0.0 uiwai.jp
 0.0.0.0 ujijujo-stamprally2024.com
 0.0.0.0 uma-quick.com
 0.0.0.0 uma-rank.net
@@ -3301,6 +3310,7 @@
 0.0.0.0 videpro-espec.jp
 0.0.0.0 vieconseils.com
 0.0.0.0 villa-hamanako.jp
+0.0.0.0 villa.vmg-kyoto.com
 0.0.0.0 vily-pbs.com
 0.0.0.0 violetllama42.sakura.ne.jp
 0.0.0.0 virtual-miraicity.kddi.com
@@ -5639,6 +5649,7 @@
 0.0.0.0 www.uehara-shinkyuin.com
 0.0.0.0 www.uhe.ac.jp
 0.0.0.0 www.uipath.com
+0.0.0.0 www.umashima.jp
 0.0.0.0 www.umemori-shop.com
 0.0.0.0 www.uminokyoto.jp
 0.0.0.0 www.uminosachi-yamato.co.jp
