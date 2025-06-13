@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 12 June 2025
+# Last modified: 13 June 2025
 #
 
 # [広告全般]
@@ -144,6 +144,7 @@
 0.0.0.0 akr8430289746.owst.jp
 0.0.0.0 akr8468139698.owst.jp
 0.0.0.0 akr8490227405.owst.jp
+0.0.0.0 akr8618687678.owst.jp
 0.0.0.0 akr9371764164.owst.jp
 0.0.0.0 akr9636581561.owst.jp
 0.0.0.0 al-mare.irodori-inc-okj.co.jp
@@ -311,6 +312,7 @@
 0.0.0.0 be-epilogue.jp
 0.0.0.0 be-saku.com
 0.0.0.0 be-win.co.jp
+0.0.0.0 beabloomstore.jp
 0.0.0.0 beacon.sp.gmossp-sp.jp
 0.0.0.0 beaute8.com
 0.0.0.0 beautedio.online
@@ -1201,6 +1203,7 @@
 0.0.0.0 ibarakishi-shaken.com
 0.0.0.0 ichigen.shop
 0.0.0.0 ichikawa-wt.co.jp
+0.0.0.0 ichinomon.jp
 0.0.0.0 ichirobe.kyoto.jp
 0.0.0.0 ichoice-coop.com
 0.0.0.0 id.asics.com
@@ -1497,6 +1500,7 @@
 0.0.0.0 katsuo-kourien.owst.jp
 0.0.0.0 katsuo-kyobashiminami.owst.jp
 0.0.0.0 katsurabina.shop
+0.0.0.0 katu-shimokitazawa.owst.jp
 0.0.0.0 kawanotajimaya.com
 0.0.0.0 kayo-corp.co.jp
 0.0.0.0 kaza-design.com
@@ -2316,6 +2320,7 @@
 0.0.0.0 pengguin.thebase.in
 0.0.0.0 penguin-spice.store
 0.0.0.0 pengy-magic.penguin-colony.net
+0.0.0.0 penmaru.com
 0.0.0.0 pension-cruise.com
 0.0.0.0 persol-hrpartners.co.jp
 0.0.0.0 personal.canon.jp
@@ -3182,6 +3187,7 @@
 0.0.0.0 toma-toma.owst.jp
 0.0.0.0 tomei-riso.jp
 0.0.0.0 tomei.c-nexco.co.jp
+0.0.0.0 tomikyu.net
 0.0.0.0 tomishiyaku.net
 0.0.0.0 tomitarashi.com
 0.0.0.0 tomizurusakaisenboku.owst.jp
@@ -3207,6 +3213,7 @@
 0.0.0.0 tottoreal-pavilion.jp
 0.0.0.0 toubyo.com
 0.0.0.0 touentei.com
+0.0.0.0 tounyuu.net
 0.0.0.0 toushi-up.com
 0.0.0.0 tovira.jp
 0.0.0.0 towa-corp.net
@@ -3442,6 +3449,7 @@
 0.0.0.0 www.2ndstreet.jp
 0.0.0.0 www.303select.com
 0.0.0.0 www.34insatsu.com
+0.0.0.0 www.38-8931.com
 0.0.0.0 www.39655.net
 0.0.0.0 www.39asset.co.jp
 0.0.0.0 www.3ei.co.jp
@@ -3754,6 +3762,7 @@
 0.0.0.0 www.cavy.co.jp
 0.0.0.0 www.cbw-expo.jp
 0.0.0.0 www.ccm.com.hk
+0.0.0.0 www.celio.co.jp
 0.0.0.0 www.centarahotelsresorts.com
 0.0.0.0 www.cerezo.jp
 0.0.0.0 www.cervin.co.jp
@@ -3956,6 +3965,7 @@
 0.0.0.0 www.ecc.jp
 0.0.0.0 www.eclipsetraveler.com
 0.0.0.0 www.ecnex.jp
+0.0.0.0 www.eco-brains.com
 0.0.0.0 www.ecocity.jp
 0.0.0.0 www.ecoflow.com
 0.0.0.0 www.ecomo-life.com
@@ -4043,6 +4053,7 @@
 0.0.0.0 www.fiat-jp.com
 0.0.0.0 www.figurekaitorido.com
 0.0.0.0 www.finbourne.com
+0.0.0.0 www.fineseal.net
 0.0.0.0 www.finetrack.com
 0.0.0.0 www.firsttechfed.com
 0.0.0.0 www.fismec.co.jp
@@ -4856,6 +4867,7 @@
 0.0.0.0 www.my9.jp
 0.0.0.0 www.myagentla.com
 0.0.0.0 www.myalcon.com
+0.0.0.0 www.myglo.com
 0.0.0.0 www.myremi.com
 0.0.0.0 www.myspec.com
 0.0.0.0 www.mystino.jp
@@ -4908,6 +4920,7 @@
 0.0.0.0 www.netsudan.jp
 0.0.0.0 www.netzchubu.co.jp
 0.0.0.0 www.newart.co.jp
+0.0.0.0 www.newotani.co.jp
 0.0.0.0 www.next-link.tokyo
 0.0.0.0 www.nexta.shop
 0.0.0.0 www.nextfactory.jp
@@ -5103,6 +5116,7 @@
 0.0.0.0 www.pbcruise.jp
 0.0.0.0 www.pc-webzine.com
 0.0.0.0 www.pc4353.net
+0.0.0.0 www.pc98factory.com
 0.0.0.0 www.pccs.co.jp
 0.0.0.0 www.pcollp.com
 0.0.0.0 www.pegasus-1021.com
@@ -5898,6 +5912,7 @@
 0.0.0.0 yamaguchifarm.co.jp
 0.0.0.0 yamahaladiesopenkatsuragi.com
 0.0.0.0 yamakei.b-smile.jp
+0.0.0.0 yamakou-suisan.shop
 0.0.0.0 yamanaka-kensetsu-lp.com
 0.0.0.0 yamanashi.media
 0.0.0.0 yamashiro-onlinestore.com
