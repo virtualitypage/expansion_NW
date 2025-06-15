@@ -1,5 +1,5 @@
-![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v6.4.13-blue?style=flat)
-![Release Date](https://img.shields.io/badge/Release_Date-June_8_2025-green?style=flat)
+![AdGuard_Filter Version](https://img.shields.io/badge/AdGuard_Filter-v6.5.0-blue?style=flat)
+![Release Date](https://img.shields.io/badge/Release_Date-June_15_2025-green?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/virtualitypage/expansion_NW)
 
 > Table of Contents
@@ -9,9 +9,9 @@
   - [Send e-mail from the router - Load a file for e-mail and send it by e-mail](#ルーターからメール送信を行う---メール用のファイルを読み込んでメール送信)
   - [Send e-mail from the router - Insert attached file](#ルーターからメール送信を行う---添付ファイルを挿入)
   - [Download files from a private Github repository](#github-のプライベートリポジトリからファイルをダウンロードする)
-  - [Use WakeOnLAN to activate devices in the network](#Wake-On-LAN-を使ってネットワーク内の装置を起動する)
-  - [How to add a cache invalidation setting for internal web sites](#内部-Web-サイトにおけるキャッシュ無効化設定の追加方法)
-  - [Computer to computer file transfer using FTP](#FTP-を使用したコンピュータ間ファイル転送)
+  - [Use WakeOnLAN to activate devices in the network](#wake-on-lan-を使ってネットワーク内の装置を起動する)
+  - [How to add a cache invalidation setting for internal web sites](#内部-web-サイトにおけるキャッシュ無効化設定の追加方法)
+  - [Computer to computer file transfer using FTP](#ftp-を使用したコンピュータ間ファイル転送)
 - [Document - Troubleshooting](#document---troubleshooting)
   - [Hide irregular log output](#不規則なログ出力を非表示にする)
   - [Hide irregular log output - Displays normal cron logs and hides target logs](#不規則なログ出力を非表示にする---通常の-cron-ログを表示しつつ対象のログを非表示にする)
@@ -20,7 +20,8 @@
   - [Unable to apply previous commit undo to remote repository](#直前のコミット取り消しをリモートリポジトリに適用できない)
   - [Authentication error occurs in "Push origin" in "GitHub Desktop.app"](#github-desktop-アプリの-push-origin-にて認証エラーが発生する)
   - [Authentication errors occur with "git clone", "git push origin main", etc.](#git-clone-や-git-push-origin-main-等で認証エラーが発生する)
-  - [The GL-MT3000 administration screen does not appear](gl-mt3000-の-admin-panel-が表示されない)
+  - [The GL-MT3000 administration screen does not appear](#gl-mt3000-の-admin-panel-が表示されない)
+  - [The IP address of client connected to the GL-MT3000 is changed](#gl-mt3000-に接続中のクライアント-ip-アドレスが変更される)
 - [Management Rules](#management-rules)
 - [SSH to Github](#ssh-to-github)
 
@@ -1039,6 +1040,32 @@ Resolving deltas: 100% (2/2), done.
 ```
 
 5. http://192.168.8.1/#/login にて Admin Panel が表示されたら完了です。
+
+---
+
+### GL-MT3000 に接続中のクライアント IP アドレスが変更される
+
+1. ターミナルを開いて SSH でルーターにログインします。
+
+　`$ ssh root@{ip_address|host_name}`
+
+2. 以下のコマンドを実行して `dhcp.leases` ファイルの `IP_address` 部分の値を編集します。
+
+　`$ vi /tmp/dhcp.leases`
+
+```
+1234567890 00:11:22:33:44:55 ip_address host_name 00:11:22:33:44:55
+```
+
+3. DHCP サーバーを再起動します。
+
+　`$ /etc/init.d/dnsmasq restart`
+
+4. http://192.168.8.1/#/clients にて対象のクライアントをブロックします。
+
+5. 手順 4 の画面にて対象のクライアントがオフラインになった事を確認し、ブロックを解除します。
+
+6. IP アドレスが 手順 2 で指定したものに変更されていたら完了です。
 
 ## Management Rules
 
