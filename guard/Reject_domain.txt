@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_domain.txt
 #
-# Last modified: 1 June 2025
+# Last modified: 15 June 2025
 #
 
 # [拒否リクエスト]
@@ -12,6 +12,7 @@
 /[a-z].amoad.com/
 /[a-z][a-z].amoad.com/
 /b9[0-9].yahoo.co.jp/
+/p[0-9]*.cedexis-test.com/
 /vulcan[1-9].branch.io.lan/
 /vulcan[1-9].branch.io/
 ||*.c.appier.net
@@ -39,8 +40,10 @@
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adexp.liftoff.io
+0.0.0.0 adg-data.kajicam.com
+0.0.0.0 adg.kajicam.com
 0.0.0.0 admanmedia.com
-0.0.0.0 ads.pubmatic.com
+0.0.0.0 ads.adjust-net.jp.lan
 0.0.0.0 adservice.google.com
 0.0.0.0 adx-tk.mtgglobals.com
 0.0.0.0 adx.g.doubleclick.net
@@ -56,6 +59,7 @@
 0.0.0.0 analytics.google.com
 0.0.0.0 ape-androids.isappcloud.com
 0.0.0.0 ape-androids.isappcloud.com.lan
+0.0.0.0 api-fe.supnovel.com
 0.0.0.0 api-sdk-tracking.beaconbank.jp
 0.0.0.0 api-sdk.beaconbank.jp
 0.0.0.0 api-sdk.beaconbank.jpapi-sdk.beaconbank.jp
@@ -114,6 +118,7 @@
 0.0.0.0 cdn.adsafeprotected.com
 0.0.0.0 cdn.atomex.net
 0.0.0.0 cdn.branch.io
+0.0.0.0 cdn.ihappyread.com
 0.0.0.0 cdn.jampp.com
 0.0.0.0 cdn.judge.me
 0.0.0.0 cdn.liftoff-creatives.io
@@ -152,8 +157,8 @@
 0.0.0.0 connectid.analytics.yahoo.com
 0.0.0.0 consent.adjust.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com.lan
 0.0.0.0 crcdn01.adnxs.com
-0.0.0.0 creativecdn.com
 0.0.0.0 cs.admanmedia.com
 0.0.0.0 cs.admanmedia.com.lan
 0.0.0.0 cs.nakanohito.jp
@@ -164,6 +169,8 @@
 0.0.0.0 d.adroll.com
 0.0.0.0 d.adroll.com.lan
 0.0.0.0 data.adsrvr.org
+0.0.0.0 data.flurry.com
+0.0.0.0 data.flurry.com.lan
 0.0.0.0 dcdn.adnxs.com
 0.0.0.0 direct.adsrvr.org
 0.0.0.0 dmp.adform.net
@@ -189,13 +196,14 @@
 0.0.0.0 g.alicdn.com
 0.0.0.0 g.doubleclick.net.lan
 0.0.0.0 g.doubleclick.net.tail06b0f8.ts.net
+0.0.0.0 gateway.instagram.com
+0.0.0.0 gateway.instagram.com.lan
 0.0.0.0 gj.gds.mmstat.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 global.apis.naver.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net.lan
 0.0.0.0 googleads4.g.doubleclick.net
-0.0.0.0 graph.facebook.com
 0.0.0.0 gui-server-sg.allawnos.com
 0.0.0.0 hybird.mtgglobals.com
 0.0.0.0 i18n.mclean.50union.com
@@ -245,6 +253,7 @@
 0.0.0.0 mads.amazon-adsystem.com.lan
 0.0.0.0 match.adsrvr.org
 0.0.0.0 match.adsrvr.org.lan
+0.0.0.0 materials.admaster.cc
 0.0.0.0 maxcdn.bootstrapcdn.com
 0.0.0.0 microad.net
 0.0.0.0 mobile-collector.newrelic.com
@@ -289,10 +298,13 @@
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pubads.g.doubleclick.net.lan
 0.0.0.0 pubsub.googleapis.com
+0.0.0.0 pubsub.googleapis.com.lan
+0.0.0.0 radar.cedexis.com
 0.0.0.0 rcm-fe.amazon-adsystem.com
 0.0.0.0 research-image-itmedia-co-jp.cdn.ampproject.org
 0.0.0.0 router.miwifi.com
 0.0.0.0 router.miwifi.com.lan
+0.0.0.0 rpt.cedexis.com
 0.0.0.0 rus-service-sg.allawnos.com
 0.0.0.0 s-cs.send.microad.jp
 0.0.0.0 s-rtb-pb.send.microad.jp
@@ -336,6 +348,7 @@
 0.0.0.0 ss-sg2.appiersig.com.akadns.net
 0.0.0.0 ss-use.appiersig.com
 0.0.0.0 ss-use.appiersig.com.akadns.net
+0.0.0.0 ssp.img-static.tech
 0.0.0.0 ssp.send.microad.jp
 0.0.0.0 ssp.send.microad.jp.lan
 0.0.0.0 stackpath.bootstrapcdn.com
@@ -422,6 +435,7 @@
 /image[0-9].pubmatic.com/
 ||*.sdk-hb.smaato.net
 0.0.0.0 ad.jp.ap.valuecommerce.com
+0.0.0.0 ads.mozilla.org
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.pubmatic.com.lan
 0.0.0.0 ads.rubiconproject.com
@@ -436,7 +450,9 @@
 0.0.0.0 api.asia-se1gcp1.pubnative.net
 0.0.0.0 api.opinew.com
 0.0.0.0 api.relaido.jp
+0.0.0.0 api.revenuecat.com
 0.0.0.0 api.rlcdn.com
+0.0.0.0 api.superwall.me
 0.0.0.0 api.tradplusad.com
 0.0.0.0 apis.usonar.jp
 0.0.0.0 apps.rokt.com
@@ -475,12 +491,14 @@
 0.0.0.0 cm.creativecdn.com
 0.0.0.0 cm.everesttech.net
 0.0.0.0 cm.smadex.com
+0.0.0.0 collector.superwall.me
 0.0.0.0 collector.tracking.io
 0.0.0.0 collector.tracking.io.lan
 0.0.0.0 config.ads.vungle.com
 0.0.0.0 config.ads.vungle.com.lan
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 connect.tapjoy.com.lan
+0.0.0.0 content-static.pstatic.net
 0.0.0.0 cookie.sync.usonar.jp
 0.0.0.0 creative.stackadapt.com
 0.0.0.0 creativecdn.com
@@ -681,6 +699,7 @@
 0.0.0.0 um.simpli.fi.lan
 0.0.0.0 us-east-win.srv.stackadapt.co
 0.0.0.0 us.creativecdn.com
+0.0.0.0 user-content.superwalleditor.com
 0.0.0.0 user-data-apac-jp.bidswitch.net
 0.0.0.0 va-trk.smadex.com
 0.0.0.0 vas.outbrain.com
@@ -689,6 +708,7 @@
 0.0.0.0 videoevents.outbrain.com
 0.0.0.0 videoexternalapi.outbrain.com
 0.0.0.0 videoexternalapi.outbrain.com.lan
+0.0.0.0 vita.pstatic.net
 0.0.0.0 vpaid.doubleverify.com
 0.0.0.0 vt.outbrain.com
 0.0.0.0 vt.outbrain.com.lan
@@ -841,8 +861,10 @@
 0.0.0.0 connect-dra.dbankcloud.cn
 0.0.0.0 contentcenter-dra.dbankcdn.cn
 0.0.0.0 dnkeeper.platform.dbankcloud.com
+0.0.0.0 dnkeeper.platform.dbankcloud.com.lan
 0.0.0.0 events-dra.op.dbankcloud.cn
 0.0.0.0 events-dra.op.dbankcloud.com
+0.0.0.0 events-dra.op.dbankcloud.com.lan
 0.0.0.0 grs.dbankcloud.asia
 0.0.0.0 grs.dbankcloud.cn
 0.0.0.0 grs.dbankcloud.com
@@ -860,6 +882,42 @@
 0.0.0.0 tsms-dra.security.dbankcloud.com
 0.0.0.0 videocontent-dra.himovie.dbankcloud.com
 0.0.0.0 weather-dre.weather.dbankcloud.com
+0.0.0.0 weather-dre.weather.dbankcloud.com.lan
+
+# [facebook]
+/ep[1-9].facebook.com/
+0.0.0.0 api.facebook.com
+0.0.0.0 api.facebook.com.lan
+0.0.0.0 b-api.facebook.com
+0.0.0.0 b-api.facebook.com.lan
+0.0.0.0 b-graph.facebook.com
+0.0.0.0 b-graph.facebook.com.lan
+0.0.0.0 edge-mqtt-fallback.facebook.com
+0.0.0.0 edge-mqtt-fallback.facebook.com.lan
+0.0.0.0 edge-mqtt.facebook.com
+0.0.0.0 edge-mqtt.facebook.com.lan
+0.0.0.0 graph-fallback.facebook.com
+0.0.0.0 graph-fallback.facebook.com.lan
+0.0.0.0 graph.facebook.com
+0.0.0.0 graph.facebook.com.lan
+0.0.0.0 kaios-d.facebook.com
+0.0.0.0 lookaside-fallback.facebook.com
+0.0.0.0 lookaside.facebook.com
+0.0.0.0 lookaside.facebook.com.lan
+0.0.0.0 mqtt-ig-p4.facebook.com
+0.0.0.0 mqtt-mini.facebook.com
+0.0.0.0 mqtt-mini.facebook.com.lan
+0.0.0.0 rupload.facebook.com
+0.0.0.0 star-mini.c10r.facebook.com
+0.0.0.0 star-mini.fallback.c10r.facebook.com
+0.0.0.0 star.c10r.facebook.com
+0.0.0.0 star.fallback.c10r.facebook.com
+0.0.0.0 web-fallback.facebook.com
+0.0.0.0 z-m-gateway.facebook.com
+0.0.0.0 z-m-gateway.facebook.com.lan
+0.0.0.0 z-p42-chat-e2ee-ig-fallback.facebook.com
+0.0.0.0 z-p42-chat-e2ee-ig-fallback.facebook.com.lan
+0.0.0.0 z-p42-chat-e2ee-ig.facebook.com
 
 # [inmobi (モバイル広告プラットフォーム)]
 0.0.0.0 ac.onedsp.inmobi.com
@@ -991,12 +1049,12 @@
 /p[0-9]*-amd-va.tiktokcdn.com/
 /p[0-9]*-sg.tiktokcdn.com.lan/
 /p[0-9]*-sg.tiktokcdn.com/
+/p[0-9]*-sign-va.tiktokcdn.com/
 /p[0-9]*-sign.tiktokcdn-us.com/
 /p[0-9]*-tiktokcdn-com.akamaized.net/
 /p[0-9]*-tiktokyoyo-va.ibyteimg.com/
 /p[0-9]*-useast2a.tiktokcdn.com/
 /p[0-9]*-webcast.tiktokcdn.com/
-/p[0-9]*-sign-va.tiktokcdn.com/
 /pitaya[0-9]*-normal-alisg.tiktokv.com/
 /rtlog[0-9]*-normal-alisg.tiktokv.com/
 /search[0-9]*-normal-c-alisg.tiktokv.com.lan/
@@ -1012,7 +1070,6 @@
 /tnc[0-9]*-platform-alisg.tiktokv.com/
 /tnc[0-9]*-platform-useast1a.tiktokv.com/
 /tos-d-alisg[0-9]*-up.tiktokcdn.com/
-/tos-my[0-9]*-up.tiktokcdn.com/
 /tos-my[0-9]*-up.tiktokcdn.com/
 /tos-quic-awsjp[0-9]*-up.tiktokcdn.com/
 /v[0-9]*-p.tiktokcdn.com/
@@ -1044,6 +1101,7 @@
 ||v*-jp.tiktokcdn.com
 ||v*.tiktokcdn.com
 0.0.0.0 analytics.tiktok.com
+0.0.0.0 analytics.tiktok.com.lan
 0.0.0.0 bsync-sg.tiktokv.com
 0.0.0.0 c2pa-cloud-server-sg.tiktokv.com^$client=~192.168.8.117
 0.0.0.0 f-p-va.isnssdk.com
@@ -1154,6 +1212,7 @@
 0.0.0.0 cdn.exp.xiaomi.com
 0.0.0.0 connect.intl.rom.miui.com
 0.0.0.0 find.api.micloud.xiaomi.net
+0.0.0.0 find.api.micloud.xiaomi.net.lan
 0.0.0.0 flash.sec.intl.miui.com
 0.0.0.0 gallery.market.xiaomi.com
 0.0.0.0 global.market.xiaomi.com
@@ -1409,3 +1468,7 @@
 0.0.0.0 cadmus.script.ac
 0.0.0.0 cadmus.script.ac.lan
 0.0.0.0 cadmus2.script.ac
+
+# [侵入型アプリケーション]
+# https://www.enigmasoftware.jp/clickservedartsearchnet-removal/
+0.0.0.0 clickserve.dartsearch.net
