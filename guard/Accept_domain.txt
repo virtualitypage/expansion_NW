@@ -4,21 +4,17 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Accept_domain.txt
 #
-# Last modified: 8 June 2025
+# Last modified: 15 June 2025
 #
 
 # [許可リクエスト]
-@@/d[0-9]*.cloudfront.net.lan/
-@@/d[0-9]*.cloudfront.net/
 @@/e[5-9].o.lencr.org/
-@@/gctok[0-9]*.exitgames.com/
 @@/i[1-9].ytimg.com/
 @@/r1[0-4].i.lencr.org/
 @@/r1[0-4].o.lencr.org/
-@@/sp-[0-9]*.apkrep.avcdn.net.lan/
-@@/sp-[0-9]*.apkrep.avcdn.net/
-@@/sp-[0-9]*.honzik.avcdn.net.lan/
-@@/sp-[0-9]*.honzik.avcdn.net/
+@@||*.blob.core.windows.net
+@@||*.cloudfront.net
+@@||*.cloudfront.net.lan
 @@||aa-metrics.beauty.hotpepper.jp
 @@||abs.twimg.com
 @@||access-login.broadcom.com.cdn.cloudflare.net
@@ -28,6 +24,8 @@
 @@||accounts.google.com
 @@||accuweather.com
 @@||aclog.itmedia.co.jp
+@@||acps-api.mixerbox.com
+@@||acps-api.mixerbox.com.cdn.cloudflare.net
 @@||airplane.kairogame.jp
 @@||ajax.googleapis.com
 @@||analytics.ff.avast.com
@@ -36,25 +34,32 @@
 @@||androidattestationvalidation-pa.googleapis.com
 @@||anshin.demdex.net
 @@||api-d.dropbox.com
+@@||api.bing.com
 @@||api.dropbox.com
 @@||api.dropboxapi.com
 @@||api.flightproxy.teams.trafficmanager.net
 @@||api.github.com
+@@||api.joyreadings.com
+@@||api.smartwaon.com
 @@||api.twitter.com
 @@||api.unnerv.app
+@@||api.vday.io
 @@||api.webpush.jp
 @@||api.x.com
 @@||api.yay.space
 @@||api.yay.space.lan
 @@||app-static.cf.radiko.jp
 @@||appli.kairogame.jp
+@@||appstoreanalyzer.norton.com
 @@||article-image-ix.nikkei.com
 @@||article-image.travel.navitime.jp
+@@||asia.tools.euroland.com
 @@||astat.nikkei.com
 @@||atmarkit.itmedia.co.jp
 @@||auth.cid.capcom.com
 @@||auth.ff.avast.com
 @@||azurefd-t-prod.trafficmanager.net
+@@||b-www.facebook.com
 @@||bakmas.kairogame.jp
 @@||beauty.hotpepper.jp
 @@||blogs.vmware.com
@@ -81,11 +86,16 @@
 @@||coinlog.kairogame.jp
 @@||collector.github.com
 @@||configserver.platform.hicloud.com
-@@||connectivitycheck.gstatic.com
+@@||connect.facebook.net
 @@||connectivitycheck.gstatic.com
 @@||connectivitycheck.gstatic.com.lan
+@@||connectivitycheck.platform.hicloud.com
+@@||connectivitycheck.platform.hicloud.com.lan
+@@||content-vita-api.snow.me
 @@||content.dropboxapi.com
 @@||controlplane.tailscale.com
+@@||cookpad.com
+@@||creators.facebook.com
 @@||csi.gstatic.com
 @@||csi.gstatic.com.lan
 @@||cx.api.itmedia.co.jp
@@ -93,9 +103,12 @@
 @@||dc.services.visualstudio.com
 @@||dhc.demdex.net
 @@||digikey.jp
+@@||digitalassetlinks.googleapis.com
+@@||digitalassetlinks.googleapis.com.lan
 @@||discord.com
 @@||docs.gl-inet.com
 @@||docs.google.com
+@@||downloader-api-service-eqiwquegnq-uc.a.run.app
 @@||dpm.demdex.net
 @@||dpm.demdex.net.lan
 @@||drive.google.com
@@ -111,8 +124,10 @@
 @@||event.rakuten.co.jp
 @@||event.travel.rakuten.co.jp
 @@||events.app-box.jp
+@@||example.org
 @@||expedia.co.jp
 @@||explainshell.com
+@@||facebook.com
 @@||fc.itmedia.co.jp
 @@||federatedcompute-pa.googleapis.com
 @@||file.kanochat.jp
@@ -140,13 +155,17 @@
 @@||fw.gl-inet.com
 @@||g*.gstatic.com
 @@||game.capcom.com
+@@||gameswhitelisted.googleapis.com.lan
 @@||gateway.devsisters.cloud
+@@||gctok*.exitgames.com
 @@||geomobileservices-pa.googleapis.com
 @@||gigafile.nu
+@@||global-web-assets.cpcdn.com
 @@||global.stun.twilio.com
 @@||global.stun.twilio.com.lan
 @@||global.turn.twilio.com
 @@||global.turn.twilio.com.lan
+@@||group.ntt
 @@||gstatic.com
 @@||help.apple.com
 @@||i-l-dsp-inmobicdn-net-tm.trafficmanager.net
@@ -159,6 +178,10 @@
 @@||image-itmedia-co-jp.cdn.ampproject.org
 @@||image.itmedia.co.jp
 @@||images-ext-1.discordapp.net
+@@||img-global-jp.cpcdn.com
+@@||img-global.cpcdn.com
+@@||img.retsta.jp
+@@||ipmcdn.avast.com.lan
 @@||ja.m.wikipedia.org
 @@||ja.wikipedia.org
 @@||jacuadpu1403.demdex.net
@@ -173,10 +196,12 @@
 @@||lh3.ggpht.com
 @@||lh6.ggpht.com
 @@||locationhistoryaggregates-pa.googleapis.com
+@@||log.snow.me
 @@||log.tailscale.io
 @@||logging.devsisters.cloud
 @@||logging.prod.devsisters.cloud
 @@||login.wikimedia.org
+@@||m.facebook.com
 @@||mail.google.com
 @@||map.unnerv.app
 @@||maps.googleapis.com
@@ -194,8 +219,11 @@
 @@||mmp.getdropbox.com
 @@||mobile-webview.gmail.com
 @@||mobile.events.data.trafficmanager.net
+@@||mobile.facebook.com
 @@||mobileconfiguration-pa.googleapis.com
 @@||mobilemaps.googleapis.com
+@@||mtalk.google.com
+@@||mtalk.google.com.lan
 @@||music.apple.com
 @@||myphonenumbers-pa.googleapis.com
 @@||n.yapp.li
@@ -208,12 +236,13 @@
 @@||notifications-pa.googleapis.com
 @@||notifications.unnerv.app
 @@||ocsp.digicert.com
-@@||ocsp.digicert.com
 @@||ocsp.edge.digicert.com
+@@||oms.norton.com
 @@||one.one.one.one
 @@||optimizationguide-pa.googleapis.com
 @@||p.typekit.net
 @@||paddock2.kairogame.jp
+@@||page.taponland.com
 @@||partsa.nikkei.com
 @@||passwordsleakcheck-pa.googleapis.com
 @@||payment.kanochat.jp
@@ -228,6 +257,9 @@
 @@||pp3-sdkdata-v2.profilepassport.jp
 @@||proactivebackend-pa.googleapis.com
 @@||probe.twitter.com
+@@||prod-api.pokapoka-farm.com
+@@||prod-client.pokapoka-farm.com
+@@||prod-socket.pokapoka-farm.com
 @@||program-static.cf.radiko.jp
 @@||proxy.safebrowsing.apple
 @@||query.hicloud.com
@@ -249,13 +281,20 @@
 @@||shepherd.sb.avast.com
 @@||shepherd.sb.avast.com.lan
 @@||shop.adidas.jp
+@@||sp-*.apkrep.avcdn.net
+@@||sp-*.apkrep.avcdn.net.lan
+@@||sp-*.honzik.avcdn.net
+@@||sp-*.honzik.avcdn.net.lan
 @@||special.sankei.com
 @@||spot-pa.googleapis.com
 @@||ssl.gstatic.com
 @@||stable.dl2.discordapp.net
 @@||static.app-box.jp
 @@||static.broadcom.com
+@@||static.cookpad.com
 @@||static.media.cld.navitime.jp
+@@||static.mercdn.net
+@@||static.mercdn.net.lan
 @@||status.itmedia.co.jp
 @@||steampowered.com
 @@||stream-log.profilepassport.jp
@@ -273,26 +312,34 @@
 @@||tr.api.itmedia.co.jp
 @@||travel.navitime.com
 @@||tver.jp
+@@||tweeload.aculix.net
 @@||twoucan.com
 @@||update.code.visualstudio.com
 @@||upload.wikimedia.org
+@@||us-central1-revnues.cloudfunctions.net
 @@||use.fontawesome.com
 @@||use.typekit.net
 @@||users.app-box.jp
-@@||v-pinimg-com-cloudfront-net.pinimg.com
 @@||vastproxy-brand-inmobi-comtm.trafficmanager.net
 @@||video-ft.twimg.com
 @@||video.twimg.com
 @@||virtualcurrency.kairogame.jp
 @@||wallet.yay.space
+@@||web-api.tapon.com
 @@||web.facebook.com
+@@||web.facebook.com.lan
+@@||workspace.google.com
 @@||worldaz.relay.teams.trafficmanager.net
 @@||www.adidas.jp
 @@||www.amazon.co.jp
+@@||www.asahibeer-cp.jp
+@@||www.bing.com
 @@||www.broadcom.com.cdn.cloudflare.net
 @@||www.cecile.co.jp
 @@||www.dropbox.com
 @@||www.esupply.co.jp
+@@||www.facebook.com
+@@||www.facebook.com.lan
 @@||www.gl-inet.com
 @@||www.google.co.jp
 @@||www.googleadservices.com
@@ -313,9 +360,11 @@
 @@||www.nikkei.com
 @@||www.nitori-net.jp
 @@||www.onamae.com
+@@||www.rd.ntt
 @@||www.recaptcha.net
 @@||www.sankei.com
 @@||www.smartnews.be
+@@||www.smartwaon.com
 @@||www.threads.net
 @@||www.tm.ak.prd.aadg.trafficmanager.net
 @@||www.topvalu.net
@@ -335,6 +384,7 @@
 @@||youtubei.googleapis.com
 @@||yt3.ggpht.com
 @@||yt4.ggpht.com
+@@||za.tapon.com
 @@||zozo.jp
 
 # [akamai]
@@ -390,8 +440,6 @@
 @@||api-glb-aapne1c.smoot.apple.com
 @@||api.smoot.apple.com
 @@||app-site-association.cdn-apple.com
-@@||app-site-association.cdn-apple.com
-@@||app-site-association.cdn-apple.com.akadns.net
 @@||app-site-association.cdn-apple.com.akadns.net
 @@||apps-mzstatic-cdn.itunes-apple.com.akadns.net
 @@||apps.apple.com
@@ -404,7 +452,10 @@
 @@||bag-cdn.itunes-apple.com.akadns.net
 @@||bag.itunes.apple.com
 @@||buy.itunes-apple.com.akadns.net
+@@||cabana-config.cdn-apple.com
+@@||cabana-config.g.aaplimg.com
 @@||captive.apple.com
+@@||captive.g.aaplimg.com
 @@||client-api.itunes.apple.com
 @@||cma.itunes-apple.com.akadns.net
 @@||cma.itunes.apple.com
@@ -548,7 +599,6 @@
 @@||analysys-a.w01.rcs.kddi.ne.jp
 @@||api.au-5g.auone.jp
 @@||api.au-data-storage.auone.jp
-@@||api.au-data-storage.auone.jp
 @@||api.portal.auone.jp
 @@||apl.opo.auone.jp
 @@||app-assets.au-5g.auone.jp
@@ -590,7 +640,6 @@
 @@||mobile.atlas.kddi.ne.jp.lan
 @@||news.kddi.com
 @@||oa.connect.auone.jp
-@@||param-d.data-storage.auone.jp
 @@||param-d.data-storage.auone.jp
 @@||param-d.data-storage.auone.jp.lan
 @@||pass.auone.jp
@@ -644,12 +693,15 @@
 @@||linevoom.line.me
 @@||lps-editor-570.landpress.line.me
 @@||manga.line.me
+@@||music-jp-api.line-apps.com
 @@||music.line.me
 @@||notice2.line.me
+@@||obs.line-scdn.net.lan
 @@||optout-api.tr.line.me
 @@||org-api-tyo-osk-2.line.me.akadns.net
 @@||profile.line-scdn.net
 @@||resource-jp-linemusic.line-scdn.net
+@@||seasonal.line-scdn.net
 @@||social-plugins.line.me
 @@||static.line-scdn.net
 @@||stickershop.line-scdn.net
@@ -657,6 +709,43 @@
 @@||tr.line.me
 @@||voom-obs.line-scdn.net
 @@||www.line.me
+
+# [nicovideo.jp]
+@@||account.nicovideo.jp
+@@||ads.nicovideo.jp
+@@||api-purchase-premium.nicovideo.jp
+@@||api.feed.nicovideo.jp
+@@||api.nicoad.nicovideo.jp
+@@||api.oshirasebox.nicovideo.jp
+@@||api.push.nicovideo.jp
+@@||asset.domand.nicovideo.jp
+@@||astral.nicovideo.jp
+@@||audition.nicovideo.jp
+@@||bff.app-point.nicovideo.jp
+@@||blog.nicovideo.jp
+@@||dcdn.cdn.nicovideo.jp
+@@||dcdn.cdn.nimg.jp
+@@||delivery.domand.nicovideo.jp
+@@||img.cdn.nimg.jp
+@@||ir.cdn.nimg.jp
+@@||listing-thumbnail.live.nicovideo.jp
+@@||log.recommend.nicovideo.jp
+@@||mjk.nicovideo.jp
+@@||mute-api.nicovideo.jp
+@@||nicovideo.cdn.nimg.jp
+@@||nvapi.nicovideo.jp
+@@||nvapi.video.nicovideo.jp
+@@||personalframe.nicovideo.jp
+@@||public.nvcomment.nicovideo.jp
+@@||res.ads.nicovideo.jp
+@@||resource.video.nimg.jp
+@@||secure-dcdn.cdn.nimg.jp
+@@||sug.search.nicovideo.jp
+@@||user-follow-api.nicovideo.jp
+@@||wktk.nicovideo.jp
+@@||wktk.nimg.jp
+@@||www.nicovideo.jp
+@@||www.video.nicovideo.jp
 
 # [microsoft]
 # https://learn.microsoft.com/ja-jp/azure/security/fundamentals/azure-domains
@@ -676,7 +765,6 @@
 @@/waws-prod-ty1-019.japaneast.cloudapp.azure.com/
 @@||clarity-ingest-eus-c-sc.eastus.cloudapp.azure.com
 @@||greenid-prod-pme.westus2.cloudapp.azure.com
-@@||www.clarity.ms
 @@||www.clarity.ms
 @@||www.clarity.ms.lan
 
@@ -756,7 +844,6 @@
 @@||collector.snowplow.supercell.com
 @@||event-assets.clashofclans.com
 @@||event-assets.clashroyale.com
-@@||event-assets.clashroyale.com
 @@||game-assets.clashofclans.com
 @@||game-assets.clashroyaleapp.com
 @@||game.clashroyaleapp.com
@@ -773,7 +860,6 @@
 @@||aag.yahooapis.jp
 @@||aai.yahooapis.jp
 @@||aai.yahooapis.jp.lan
-@@||api-proxy-ybrowser.yahooapis.jp
 @@||api-proxy-ybrowser.yahooapis.jp
 @@||apple-finance.query.yahoo.com
 @@||approach.yahooapis.jp
@@ -797,7 +883,6 @@
 @@||clb.yahooapis.jp.lan
 @@||common-yjapp.yahooapis.jp
 @@||contact.auctions.yahoo.co.jp
-@@||contact.auctions.yahoo.co.jp
 @@||datahub-search.yahooapis.jp
 @@||detail.chiebukuro.yahoo.co.jp
 @@||displayname-pctr.c.yimg.jp
@@ -817,7 +902,6 @@
 @@||map.yahoo.co.jp
 @@||mempf.yahoo.co.jp
 @@||mempf.yahooapis.jp
-@@||mfn.yahoo.co.jp
 @@||mfn.yahoo.co.jp
 @@||mfn.yahooapis.jp
 @@||mhd.yahoo.co.jp
