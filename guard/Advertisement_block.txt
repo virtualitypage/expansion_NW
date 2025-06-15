@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 14 June 2025
+# Last modified: 15 June 2025
 #
 
 # [広告全般]
@@ -451,6 +451,7 @@
 0.0.0.0 case-studies.ipa.go.jp
 0.0.0.0 casge-town.jp
 0.0.0.0 cashimu.jp
+0.0.0.0 cat.benesse.ne.jp
 0.0.0.0 catalog.toubi.co.jp
 0.0.0.0 caterbank.co.jp
 0.0.0.0 cattery-campanella.com
@@ -1310,6 +1311,7 @@
 0.0.0.0 iwgsp.com
 0.0.0.0 ix-ix.biz
 0.0.0.0 iyec.itoyokado.co.jp
+0.0.0.0 izakaya-kizunaan.owst.jp
 0.0.0.0 izakaya-yusuke.owst.jp
 0.0.0.0 izakayasyun.owst.jp
 0.0.0.0 izumi-posting.com
@@ -1962,6 +1964,7 @@
 0.0.0.0 mishima-jrtakatsuki.com
 0.0.0.0 mishima-minase.com
 0.0.0.0 mishimakagu.com
+0.0.0.0 misignal.jp
 0.0.0.0 mito-chuoh.com
 0.0.0.0 mitsuboshifarm.jp
 0.0.0.0 mitsui-art.com
@@ -2083,6 +2086,7 @@
 0.0.0.0 nejikemon-ebisu.owst.jp
 0.0.0.0 nekkoya.shop-pro.jp
 0.0.0.0 nemunokinoshita.com
+0.0.0.0 nengaku-panda.jp
 0.0.0.0 neonsigntyo.thebase.in
 0.0.0.0 nesta.click
 0.0.0.0 nesting-hokago.com
@@ -2422,6 +2426,7 @@
 0.0.0.0 pug.breeders.jp
 0.0.0.0 pure-soyprotein.jp
 0.0.0.0 puttoutgolf.jp
+0.0.0.0 pvot-apparel.com
 0.0.0.0 pws.blackstone.com
 0.0.0.0 pxofms.buzz
 0.0.0.0 q-one.jp
@@ -2645,6 +2650,7 @@
 0.0.0.0 sb-newz.musthave-magazine.tokyo
 0.0.0.0 sb-piece-of-cake.discover-news.tokyo
 0.0.0.0 sb-pr2rqnr.discover-news.tokyo
+0.0.0.0 sb-prulove.discover-news.tokyo
 0.0.0.0 sb-reemo-typex.newsanything.tokyo
 0.0.0.0 sb-seven.service-info.jp
 0.0.0.0 sb-tenal5.ourservice.jp
@@ -4080,6 +4086,7 @@
 0.0.0.0 www.fk-build.com
 0.0.0.0 www.flat35.com
 0.0.0.0 www.flexispot.jp
+0.0.0.0 www.floristjp.com
 0.0.0.0 www.flower-kajuen.net
 0.0.0.0 www.flyscoot.com
 0.0.0.0 www.fmworld.net
@@ -4438,6 +4445,7 @@
 0.0.0.0 www.j-walk.ne.jp
 0.0.0.0 www.ja-niigatashi.jp
 0.0.0.0 www.ja-town.com
+0.0.0.0 www.jaaf.or.jp
 0.0.0.0 www.jabank-ehime.or.jp
 0.0.0.0 www.jackery.jp
 0.0.0.0 www.jacksonhole.com
@@ -4942,6 +4950,7 @@
 0.0.0.0 www.netzchubu.co.jp
 0.0.0.0 www.newart.co.jp
 0.0.0.0 www.newotani.co.jp
+0.0.0.0 www.newzealandsouvenirs.com
 0.0.0.0 www.next-link.tokyo
 0.0.0.0 www.nexta.shop
 0.0.0.0 www.nextfactory.jp
@@ -5491,6 +5500,7 @@
 0.0.0.0 www.stgjapan.jp
 0.0.0.0 www.stonebeat.co.jp
 0.0.0.0 www.store.hitachi-ies.co.jp
+0.0.0.0 www.storus.jp
 0.0.0.0 www.strausfamilycreamery.com
 0.0.0.0 www.strawberrycones.com
 0.0.0.0 www.studio-1brood.com
