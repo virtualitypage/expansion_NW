@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 15 June 2025
+# Last modified: 16 June 2025
 #
 
 # [広告全般]
@@ -216,6 +216,7 @@
 0.0.0.0 api.affiliations.site
 0.0.0.0 apollostation-chubu.com
 0.0.0.0 apoyoyaku.com
+0.0.0.0 app.firmee.com
 0.0.0.0 app.kansai-maas.jp
 0.0.0.0 app.pixverse.ai
 0.0.0.0 applause-home.com
@@ -1029,6 +1030,7 @@
 0.0.0.0 gyozanokattyanhukushima.owst.jp
 0.0.0.0 gyozanokattyantakatuki.owst.jp
 0.0.0.0 gyukahachiba.owst.jp
+0.0.0.0 gyurikiya-tokiwadai.owst.jp
 0.0.0.0 gyutte.jp
 0.0.0.0 h-felice.com
 0.0.0.0 h-jp.fujifilm.com
@@ -1388,6 +1390,7 @@
 0.0.0.0 jp.jobrapido.com
 0.0.0.0 jp.kpop-artschool.com
 0.0.0.0 jp.loccitane.com
+0.0.0.0 jp.m.koreadepart.com
 0.0.0.0 jp.micron.com
 0.0.0.0 jp.misumi-ec.com
 0.0.0.0 jp.mixsearches.com
@@ -1529,6 +1532,7 @@
 0.0.0.0 kensei-baikyaku.jp
 0.0.0.0 kenseidayori-mie.com
 0.0.0.0 kensetsu-welcome.mhlw.go.jp
+0.0.0.0 kensetsust-fuchuoffce.tokyo.jp
 0.0.0.0 kensetsutenshokunavi.jp
 0.0.0.0 kentei.tokyo-cci.or.jp
 0.0.0.0 kenzai-kaitori.net
@@ -1641,6 +1645,7 @@
 0.0.0.0 kuri.shirokawa.jp
 0.0.0.0 kurochankitaguti.owst.jp
 0.0.0.0 kurock-seikotsu.com
+0.0.0.0 kurodenwa.owst.jp
 0.0.0.0 kurono-namba.com
 0.0.0.0 kurubell.com
 0.0.0.0 kurumeshi-regionalcareer.com
@@ -1900,6 +1905,7 @@
 0.0.0.0 medicaldoc.jp
 0.0.0.0 medicalnote.jp
 0.0.0.0 medusafragrance.com
+0.0.0.0 mee.ks-shared.jp
 0.0.0.0 megalos.co.jp
 0.0.0.0 meganestore.co.jp
 0.0.0.0 megaten5.jp
@@ -1947,6 +1953,7 @@
 0.0.0.0 mintoku.work
 0.0.0.0 miokuriteitaku.jp
 0.0.0.0 mirable1shop.stores.jp
+0.0.0.0 miraele.com
 0.0.0.0 mirai-compass.net
 0.0.0.0 mirai-denchi.jp
 0.0.0.0 mirai-dog.com
@@ -2219,6 +2226,7 @@
 0.0.0.0 okoze-yumekoubou.com
 0.0.0.0 okuaizu-suiryokukan.jp
 0.0.0.0 okuizumosoba-ippuku-itami.owst.jp
+0.0.0.0 olbee-kankyo.com
 0.0.0.0 oldisroad.com
 0.0.0.0 olubie.jp
 0.0.0.0 om-seishin.com
@@ -2287,6 +2295,7 @@
 0.0.0.0 otokujyoho.online
 0.0.0.0 otomachiuna.jp
 0.0.0.0 otonamuse.jp
+0.0.0.0 otonokobo.jp
 0.0.0.0 otori-hearing.com
 0.0.0.0 otori-office.com
 0.0.0.0 otori.ario.jp
@@ -3509,6 +3518,7 @@
 0.0.0.0 www.accenture.com
 0.0.0.0 www.acdoorfacility.com
 0.0.0.0 www.aceeatserve.com
+0.0.0.0 www.acess.jp
 0.0.0.0 www.achilles.jp
 0.0.0.0 www.actgroup.com
 0.0.0.0 www.activpayroll.com
@@ -3551,6 +3561,7 @@
 0.0.0.0 www.alba.co.jp
 0.0.0.0 www.allaroundmobilehomeservice.com
 0.0.0.0 www.allergy-i.jp
+0.0.0.0 www.allex.org
 0.0.0.0 www.allied-telesis.co.jp
 0.0.0.0 www.allsaints.jp
 0.0.0.0 www.alltech.com
@@ -3684,6 +3695,7 @@
 0.0.0.0 www.beishin-net.shop
 0.0.0.0 www.belles-fleurs-store.com
 0.0.0.0 www.benesse.co.jp
+0.0.0.0 www.benibana.co.jp
 0.0.0.0 www.benibana.jp
 0.0.0.0 www.bennri-da.com
 0.0.0.0 www.benscycle.com
@@ -3762,6 +3774,7 @@
 0.0.0.0 www.canvas-boardgamecafe.com
 0.0.0.0 www.canvasdiscount.com
 0.0.0.0 www.capital-gp.jp
+0.0.0.0 www.capitalgroup.com
 0.0.0.0 www.car-byebuy.com
 0.0.0.0 www.carappo-official.com
 0.0.0.0 www.caravan-coffee.jp
@@ -3882,6 +3895,7 @@
 0.0.0.0 www.coverland.co.jp
 0.0.0.0 www.cpu-net.co.jp
 0.0.0.0 www.cr.mufg.jp
+0.0.0.0 www.createkaru-kanri.com
 0.0.0.0 www.credor.com
 0.0.0.0 www.cresson.co.jp
 0.0.0.0 www.crie.co.jp
@@ -4765,6 +4779,7 @@
 0.0.0.0 www.marusan-union.com
 0.0.0.0 www.marusho-1819.com
 0.0.0.0 www.maruten-print.jp
+0.0.0.0 www.maruu-soba.com
 0.0.0.0 www.maruyohotel.com
 0.0.0.0 www.maruyone.co.jp
 0.0.0.0 www.maruzen.net
@@ -5039,6 +5054,7 @@
 0.0.0.0 www.office-com.jp
 0.0.0.0 www.office-freelive.com
 0.0.0.0 www.officedeyasai.jp
+0.0.0.0 www.oga-kengyo.com
 0.0.0.0 www.ogs-p.jp
 0.0.0.0 www.ogu.ac.jp
 0.0.0.0 www.ogurakonbu.co.jp
@@ -5393,10 +5409,12 @@
 0.0.0.0 www.shimonjuku.com
 0.0.0.0 www.shin3k.jyukatsukyo.or.jp
 0.0.0.0 www.shinbi-shika.net
+0.0.0.0 www.shinfuzen.com
 0.0.0.0 www.shinkyogaoka.jp
 0.0.0.0 www.shinkyokushinkai.co.jp
 0.0.0.0 www.shinmeishin-info.com
 0.0.0.0 www.shinmoku.jp
+0.0.0.0 www.shinnihon-music.co.jp
 0.0.0.0 www.shinozuka-hukajyou.net
 0.0.0.0 www.shinpur.store
 0.0.0.0 www.shinq-compass.jp
@@ -5929,6 +5947,7 @@
 0.0.0.0 yakiniku-fc.com
 0.0.0.0 yakiniku-guts-hanare.jp
 0.0.0.0 yakiniku-ichigyu.owst.jp
+0.0.0.0 yakiniku-ninjin-nishikawaguchi.owst.jp
 0.0.0.0 yakiniku-royal.com
 0.0.0.0 yakiniku-tanabata.owst.jp
 0.0.0.0 yakiniku-taru.owst.jp
