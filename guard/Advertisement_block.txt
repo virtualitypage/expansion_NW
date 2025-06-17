@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 16 June 2025
+# Last modified: 17 June 2025
 #
 
 # [広告全般]
@@ -576,6 +576,7 @@
 0.0.0.0 crosset.onward.co.jp
 0.0.0.0 crowdtech.jp
 0.0.0.0 cs-plaza.co.jp
+0.0.0.0 csujapan.com
 0.0.0.0 cucinaitalianaharu.owst.jp
 0.0.0.0 cupmap.net
 0.0.0.0 curama.jp
@@ -1025,6 +1026,7 @@
 0.0.0.0 guyrover.base.shop
 0.0.0.0 gxt-office.com
 0.0.0.0 gym.copin.co.jp
+0.0.0.0 gyoseishosi-yamaguchiyoichi.net
 0.0.0.0 gyoseisyoshi-kaigyou.com
 0.0.0.0 gyousei-saima.com
 0.0.0.0 gyozanokattyanhukushima.owst.jp
@@ -1136,6 +1138,7 @@
 0.0.0.0 hiroshima-souzoku.com
 0.0.0.0 hiroshimaforpeace.com
 0.0.0.0 hirotuku-shop.net
+0.0.0.0 hisataka.net
 0.0.0.0 hisense-cp2024s.com
 0.0.0.0 hit-t-mark.jp
 0.0.0.0 hitechno.jp
@@ -2192,6 +2195,7 @@
 0.0.0.0 oasishoteles.com
 0.0.0.0 oba-sr.com
 0.0.0.0 obanzai-anju.owst.jp
+0.0.0.0 oboromatsu.owst.jp
 0.0.0.0 oc.kki.ac.jp
 0.0.0.0 oceans.tokyo.jp
 0.0.0.0 ocjs.catholic-okinawa.ed.jp
@@ -2305,6 +2309,7 @@
 0.0.0.0 outbraker.com
 0.0.0.0 owk.lpro-chat.com
 0.0.0.0 owl-airplane.space
+0.0.0.0 oyakata.sr-serve.com
 0.0.0.0 oyakawa.alljob-test.net
 0.0.0.0 oyanozasshi.jp
 0.0.0.0 p-chi.tech
@@ -2493,6 +2498,7 @@
 0.0.0.0 recruit.shiftinc.jp
 0.0.0.0 recruit.takuichi.okinawa
 0.0.0.0 recruit.tsukui.net
+0.0.0.0 recruit.yamatogokorocareer.jp
 0.0.0.0 redcanyonsoftware.com
 0.0.0.0 reeing.co.jp
 0.0.0.0 refine-midori.net
@@ -2548,6 +2554,7 @@
 0.0.0.0 rocbankglobal.com
 0.0.0.0 rokkomeetsart.jp
 0.0.0.0 rokon.click
+0.0.0.0 rokunomiyadoutonbori.owst.jp
 0.0.0.0 roppongi-yamikin.ad-web.click
 0.0.0.0 roseoncheeks.com
 0.0.0.0 rosso-akashi.owst.jp
@@ -2614,6 +2621,7 @@
 0.0.0.0 sankotsu.jah.co.jp
 0.0.0.0 sankyutop.shop-pro.jp
 0.0.0.0 sanriku-jouban-umeemon.jp
+0.0.0.0 sanshiro.education
 0.0.0.0 santospastryschool.mykajabi.com
 0.0.0.0 sanwakeigoukin.co.jp
 0.0.0.0 sap-career.com
@@ -3273,6 +3281,7 @@
 0.0.0.0 tsujimoto-2007.com
 0.0.0.0 tsujishin.jp
 0.0.0.0 tsujiyo.jp
+0.0.0.0 tsumugu-matsubara.owst.jp
 0.0.0.0 tsuna-ag.com
 0.0.0.0 tsuna-ag.tsuna-ag.com
 0.0.0.0 tsunagaru-design.co.jp
@@ -3675,6 +3684,7 @@
 0.0.0.0 www.az-art.net
 0.0.0.0 www.b-conplaza.jp
 0.0.0.0 www.b-race.jp
+0.0.0.0 www.babaramen.com
 0.0.0.0 www.backyardhealers.com
 0.0.0.0 www.balbix.com
 0.0.0.0 www.balmuda.com
@@ -4053,6 +4063,7 @@
 0.0.0.0 www.eslead.co.jp
 0.0.0.0 www.esplanade.com
 0.0.0.0 www.est-ouest.co.jp
+0.0.0.0 www.estate-system.jp
 0.0.0.0 www.etungo.com.tw
 0.0.0.0 www.euclid-records.com
 0.0.0.0 www.evat.cz
@@ -4733,6 +4744,7 @@
 0.0.0.0 www.logi-co.co.jp
 0.0.0.0 www.logicool.co.jp
 0.0.0.0 www.londonmasteringstudio.co.uk
+0.0.0.0 www.longparts.co.jp
 0.0.0.0 www.loperaio.co.jp
 0.0.0.0 www.losstime.co.jp
 0.0.0.0 www.lpio.jp
@@ -5135,6 +5147,7 @@
 0.0.0.0 www.otsuka-shokai.co.jp
 0.0.0.0 www.otv.co.jp
 0.0.0.0 www.ouchiku.com
+0.0.0.0 www.ougi.co.jp
 0.0.0.0 www.ouj.ac.jp
 0.0.0.0 www.oujishop.jp
 0.0.0.0 www.ous.ac.jp
@@ -5420,6 +5433,7 @@
 0.0.0.0 www.shinq-compass.jp
 0.0.0.0 www.shinsakae-hotel.nagoya
 0.0.0.0 www.shinwaclimb.jp
+0.0.0.0 www.shinyokumiai.or.jp
 0.0.0.0 www.shionogi.com
 0.0.0.0 www.shiseido.co.jp
 0.0.0.0 www.shitate.net
@@ -5791,6 +5805,7 @@
 0.0.0.0 www.voc.ai
 0.0.0.0 www.vocalmaster.jp
 0.0.0.0 www.voyager.co.jp
+0.0.0.0 www.vqfit.com
 0.0.0.0 www.w-nexco.co.jp
 0.0.0.0 www.w2gym.jp
 0.0.0.0 www.wa-kukan-life.com
