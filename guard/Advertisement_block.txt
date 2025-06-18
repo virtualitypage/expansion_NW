@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 17 June 2025
+# Last modified: 18 June 2025
 #
 
 # [広告全般]
@@ -40,6 +40,7 @@
 0.0.0.0 6699.jp
 0.0.0.0 6ftmethod.com
 0.0.0.0 78kanteikyoku.jp
+0.0.0.0 79phuong-dong-restaurant.owst.jp
 0.0.0.0 7ticket.jp
 0.0.0.0 88423.co.jp
 0.0.0.0 888-hachimitsu.net
@@ -1280,6 +1281,7 @@
 0.0.0.0 ippachi-tennoji.owst.jp
 0.0.0.0 ipuse.owst.jp
 0.0.0.0 ircbike.jp
+0.0.0.0 irishpub-capalluisce.com
 0.0.0.0 irodori-akasaka.owst.jp
 0.0.0.0 iroiro2008.net
 0.0.0.0 iromiso.jp
@@ -1417,6 +1419,7 @@
 0.0.0.0 jpca-education.org
 0.0.0.0 jpn.nec.com
 0.0.0.0 jpn.pioneer
+0.0.0.0 jpn.tajimatool.co.jp
 0.0.0.0 jpstore.msi.com
 0.0.0.0 jpx.yslogistics.com.sg
 0.0.0.0 jra-fun.jp
@@ -3212,6 +3215,7 @@
 0.0.0.0 tohshin.net
 0.0.0.0 tokaiyajima-filtration.com
 0.0.0.0 tokitomo-tatami-lp.jp
+0.0.0.0 tokusensuzuki.com
 0.0.0.0 tokuyuuchin-kyoto.jp
 0.0.0.0 tokyo-kaveri.com
 0.0.0.0 tokyo-mansion.biz
@@ -3230,6 +3234,7 @@
 0.0.0.0 tomo3kaku.stores.jp
 0.0.0.0 tomohirokai.or.jp
 0.0.0.0 tomotaqu.com
+0.0.0.0 tomoyoshi-moriguti.owst.jp
 0.0.0.0 tonmani.owst.jp
 0.0.0.0 top-generator.com
 0.0.0.0 topgunairtx.com
@@ -3297,6 +3302,7 @@
 0.0.0.0 tyarimu-uehonmati.owst.jp
 0.0.0.0 tyre.dunlop.co.jp
 0.0.0.0 tyrian.es
+0.0.0.0 tyugokusyuro-tono.owst.jp
 0.0.0.0 tyuju.mabuchi.co.jp
 0.0.0.0 tyuko.kyoshin.co.jp
 0.0.0.0 tyunyuken.com
@@ -3537,6 +3543,7 @@
 0.0.0.0 www.adire-bkan.jp
 0.0.0.0 www.adire.jp
 0.0.0.0 www.adremover.org
+0.0.0.0 www.adtissue.jp
 0.0.0.0 www.advan-t.com
 0.0.0.0 www.advancelink.co.jp
 0.0.0.0 www.advertimes.com
@@ -4373,6 +4380,7 @@
 0.0.0.0 www.hutchgo.com.hk
 0.0.0.0 www.hyo-med.ac.jp
 0.0.0.0 www.hyogotoyota.co.jp
+0.0.0.0 www.hyperair.com
 0.0.0.0 www.hyponex.co.jp
 0.0.0.0 www.hyundai.com
 0.0.0.0 www.i-koike.jp
