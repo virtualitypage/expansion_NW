@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 18 June 2025
+# Last modified: 19 June 2025
 #
 
 # [広告全般]
@@ -111,6 +111,7 @@
 0.0.0.0 airregi.jp
 0.0.0.0 aiwakagu.jp
 0.0.0.0 aix-otofuke.owst.jp
+0.0.0.0 aixtal.com
 0.0.0.0 aiya-osaka.com
 0.0.0.0 akabekoland.buyshop.jp
 0.0.0.0 akabou-oasashouten.jp
@@ -416,7 +417,9 @@
 0.0.0.0 cacaosampaka-kitashinchi.com
 0.0.0.0 cafe-inn-hitoiki.com
 0.0.0.0 cafe-luminous.owst.jp
+0.0.0.0 cafe-restaurant-inasora.owst.jp
 0.0.0.0 cafe.anniversaire.co.jp
+0.0.0.0 cakeshop-keihansin.jimdofree.com
 0.0.0.0 calendo365.com
 0.0.0.0 camp-fire.jp
 0.0.0.0 camp.toilet-now.com
@@ -714,6 +717,7 @@
 0.0.0.0 eastsidemedinc.com
 0.0.0.0 easy-simulator.net
 0.0.0.0 eat7.co.il
+0.0.0.0 ebisubashi-magazine.com
 0.0.0.0 ec-force.com
 0.0.0.0 ec-myprecious.jp
 0.0.0.0 ec.eternam.co.jp
@@ -747,6 +751,7 @@
 0.0.0.0 en-ambi.com
 0.0.0.0 en-gage.net
 0.0.0.0 en.sungrowpower.com
+0.0.0.0 enablement.app
 0.0.0.0 enahome.co.jp
 0.0.0.0 encourage-inc.jp
 0.0.0.0 enemacoffeereview.com
@@ -888,6 +893,7 @@
 0.0.0.0 fukui-presentcpn.jp
 0.0.0.0 fukujuen.owst.jp
 0.0.0.0 fukukara.com
+0.0.0.0 fukukougen-nisihinakajima.owst.jp
 0.0.0.0 fukuoka-heya.jp
 0.0.0.0 fukuokapaint.com
 0.0.0.0 fukushi-iryo.denpa.jp
@@ -1104,6 +1110,7 @@
 0.0.0.0 heki.owst.jp
 0.0.0.0 hello-bbq.tokyo
 0.0.0.0 hello-renovation.jp
+0.0.0.0 help.dropbox.com
 0.0.0.0 henna.assemblage-hd.com
 0.0.0.0 hennge.com
 0.0.0.0 hephall.jp
@@ -1217,6 +1224,7 @@
 0.0.0.0 ichinomon.jp
 0.0.0.0 ichirobe.kyoto.jp
 0.0.0.0 ichoice-coop.com
+0.0.0.0 ict-miraiz.com
 0.0.0.0 id.asics.com
 0.0.0.0 id.seikowatches.com
 0.0.0.0 idc-direct.i17.bcart.jp
@@ -1360,6 +1368,7 @@
 0.0.0.0 jireidb.shougaisha-sabetukaishou.go.jp
 0.0.0.0 jishanoen.jp
 0.0.0.0 jitakukuyou.jp
+0.0.0.0 jma-no-denchu.com
 0.0.0.0 jnet-store.com
 0.0.0.0 job-gear.net
 0.0.0.0 job.axol.jp
@@ -1790,6 +1799,7 @@
 0.0.0.0 lp.zume-n.com
 0.0.0.0 lp2.fukushimaenergy.co.jp
 0.0.0.0 lp2.m-kun.com
+0.0.0.0 lp6.infinity-cpa.jp
 0.0.0.0 lps.plarium.com
 0.0.0.0 lucuaosaka-recruit.jp
 0.0.0.0 lululun.com
@@ -1851,6 +1861,7 @@
 0.0.0.0 mamanouotaka.owst.jp
 0.0.0.0 manabi-naoshi.mhlw.go.jp
 0.0.0.0 manda2100.com
+0.0.0.0 mandm.co.jp
 0.0.0.0 manga.piecedesign.net
 0.0.0.0 mangamatsuri.kodansha.co.jp
 0.0.0.0 mangasouko-shop.jp
@@ -2271,6 +2282,7 @@
 0.0.0.0 openhub.ntt.com
 0.0.0.0 orangehouse.co.jp
 0.0.0.0 order.ymobile.jp
+0.0.0.0 organic-land.stores.jp
 0.0.0.0 orgel-gallery.jp
 0.0.0.0 orientstar-watch.com
 0.0.0.0 orig-calendar.com
@@ -2612,6 +2624,7 @@
 0.0.0.0 sakura-ju.co.jp
 0.0.0.0 sakura-kozo.jp
 0.0.0.0 sakurabito.jp
+0.0.0.0 sakuraroastery.com
 0.0.0.0 sale.24028.jp
 0.0.0.0 sales-adventure.jp
 0.0.0.0 salon-de-alfurd.jp
@@ -3040,6 +3053,7 @@
 0.0.0.0 sumibinikumaru.owst.jp
 0.0.0.0 sumibitowine.com
 0.0.0.0 sumibiyakiniku-marutoku.owst.jp
+0.0.0.0 sumibiyakiniku-suzuya.owst.jp
 0.0.0.0 sumika.link
 0.0.0.0 sumikalog.bess.jp
 0.0.0.0 sumisho-tatemono-chuukai.net
@@ -3060,6 +3074,7 @@
 0.0.0.0 survey.qlifeweb.jp
 0.0.0.0 sus-recruit.com
 0.0.0.0 sushi-hasegawa.owst.jp
+0.0.0.0 sushidokoro-yuuki.owst.jp
 0.0.0.0 sushisyu.owst.jp
 0.0.0.0 sushitech-real.metro.tokyo.lg.jp
 0.0.0.0 sustainable.goturkiye.com
@@ -3161,6 +3176,7 @@
 0.0.0.0 tech.jp.sharp
 0.0.0.0 techgala.jp
 0.0.0.0 teclock.co.jp
+0.0.0.0 tei-nei.jp
 0.0.0.0 teian-enh.com
 0.0.0.0 teknitape.com
 0.0.0.0 teleboat-cp.jp
@@ -3927,6 +3943,7 @@
 0.0.0.0 www.cycling-oita.jp
 0.0.0.0 www.d-cart.jp
 0.0.0.0 www.d3-m.com
+0.0.0.0 www.daifukudo.co.jp
 0.0.0.0 www.daigakujuken.com
 0.0.0.0 www.daiichisankyo-hc.co.jp
 0.0.0.0 www.daiichisankyo.co.jp
@@ -4350,6 +4367,7 @@
 0.0.0.0 www.hokkokubank.co.jp
 0.0.0.0 www.hokuriku-u.ac.jp
 0.0.0.0 www.hokuyobank.co.jp
+0.0.0.0 www.holic-colordrinks.com
 0.0.0.0 www.holiday-cs.co.jp
 0.0.0.0 www.holmanusa.com
 0.0.0.0 www.home.saxo
@@ -4384,6 +4402,7 @@
 0.0.0.0 www.hyponex.co.jp
 0.0.0.0 www.hyundai.com
 0.0.0.0 www.i-koike.jp
+0.0.0.0 www.i-minamoto.com
 0.0.0.0 www.i-nac.ac.jp
 0.0.0.0 www.i-note.jp
 0.0.0.0 www.i-sihousyosi.jp
@@ -4588,6 +4607,7 @@
 0.0.0.0 www.kanzaipro.com
 0.0.0.0 www.kao.co.jp
 0.0.0.0 www.kaptax.jp
+0.0.0.0 www.karasirenkon.com
 0.0.0.0 www.karatshop.com.tw
 0.0.0.0 www.kasamart.jp
 0.0.0.0 www.kassel.co.jp
@@ -5974,6 +5994,7 @@
 0.0.0.0 yakiniku-royal.com
 0.0.0.0 yakiniku-tanabata.owst.jp
 0.0.0.0 yakiniku-taru.owst.jp
+0.0.0.0 yakiniku-tenngetsu.owst.jp
 0.0.0.0 yakinikukannkunn.owst.jp
 0.0.0.0 yakinikunandaimon.owst.jp
 0.0.0.0 yakisuki-saiin.owst.jp
