@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 20 June 2025
+# Last modified: 21 June 2025
 #
 
 # [広告全般]
@@ -162,6 +162,7 @@
 0.0.0.0 allergiesdog-gotof.jp
 0.0.0.0 allie-ai.kao-kirei.com
 0.0.0.0 allinclusive-collection.com
+0.0.0.0 allulose.co.jp
 0.0.0.0 alohadou.com
 0.0.0.0 alpensalz-2025cp.campar.jp
 0.0.0.0 alphamarine.co.jp
@@ -491,6 +492,7 @@
 0.0.0.0 chrysler-jeep.jp
 0.0.0.0 chuchubaby.jp
 0.0.0.0 chugakujuken-kokugo.jp
+0.0.0.0 chugokuryouri-toukaen-honmachi.owst.jp
 0.0.0.0 chuko-noki.com
 0.0.0.0 chuko.gakushukai.jp
 0.0.0.0 chunshappy.com
@@ -724,6 +726,7 @@
 0.0.0.0 ec.eternam.co.jp
 0.0.0.0 ec.jal.co.jp
 0.0.0.0 ec.petfoods.shop
+0.0.0.0 ec.saivision.jp
 0.0.0.0 ec.store.nec.co.jp
 0.0.0.0 ec.travel.jr-central.co.jp
 0.0.0.0 echool.tachibana-u.ac.jp
@@ -731,6 +734,7 @@
 0.0.0.0 eco-life-smile.com
 0.0.0.0 eco-mon.jp
 0.0.0.0 ecoloquia.co.jp
+0.0.0.0 edoboribeef.com
 0.0.0.0 edu.watch.impress.co.jp
 0.0.0.0 eeko-ju.com
 0.0.0.0 efex.co.jp
@@ -916,6 +920,7 @@
 0.0.0.0 furusato-karatsu.com
 0.0.0.0 furusato-yoichi.jp
 0.0.0.0 furyu-hm.com
+0.0.0.0 fuse1ban.owst.jp
 0.0.0.0 futon-tsuyuki-ec.com
 0.0.0.0 futoukou-sien.com
 0.0.0.0 fuwarii.com
@@ -1812,6 +1817,7 @@
 0.0.0.0 luvlit.jp
 0.0.0.0 luxmask.stores.jp
 0.0.0.0 luxsfront.com
+0.0.0.0 luzfragrance.com
 0.0.0.0 m-ihinseiri.jp
 0.0.0.0 m-ikimonogatari.com
 0.0.0.0 m.blog.naver.com
@@ -2411,6 +2417,7 @@
 0.0.0.0 portas-ins.jp
 0.0.0.0 portdouglasmotel.com.au
 0.0.0.0 porte.sport-school.com
+0.0.0.0 positive-counselor.org
 0.0.0.0 povo.jp
 0.0.0.0 pr-genic.com
 0.0.0.0 pr-lp.net
@@ -2679,6 +2686,7 @@
 0.0.0.0 sb-katimori.discover-news.tokyo
 0.0.0.0 sb-kazamakeigo.discover-news.tokyo
 0.0.0.0 sb-laaava.discover-news.tokyo
+0.0.0.0 sb-lacolacoco.discover-news.tokyo
 0.0.0.0 sb-locomopro.service-info.jp
 0.0.0.0 sb-loveavav.discover-news.tokyo
 0.0.0.0 sb-lucky-life.discover-news.tokyo
@@ -3418,6 +3426,7 @@
 0.0.0.0 vti-glovebox.com
 0.0.0.0 w-sphone.com
 0.0.0.0 wadainohon.com
+0.0.0.0 waguya.com
 0.0.0.0 wagyu-sumibiyakiniku-zyo.owst.jp
 0.0.0.0 wakaba-ac.jp
 0.0.0.0 wakayama.vc-dealer.jp
@@ -4228,6 +4237,7 @@
 0.0.0.0 www.gfo-sc.jp
 0.0.0.0 www.gineiden-neuesaga.com
 0.0.0.0 www.ginnabe.net
+0.0.0.0 www.ginori1735.com
 0.0.0.0 www.ginza-cruise.co.jp
 0.0.0.0 www.ginza-ochikochi.com
 0.0.0.0 www.gion-ryuan.com
@@ -5145,6 +5155,7 @@
 0.0.0.0 www.open-circuit.ne.jp
 0.0.0.0 www.opera-official.net
 0.0.0.0 www.ophthalmologytimes.com
+0.0.0.0 www.opm7.com
 0.0.0.0 www.oragamo.com
 0.0.0.0 www.oralb.braun.co.jp
 0.0.0.0 www.orangeroom.jp
@@ -5357,6 +5368,7 @@
 0.0.0.0 www.robotplanet.site
 0.0.0.0 www.rocelec.jp
 0.0.0.0 www.roland.com
+0.0.0.0 www.rolfline.jp
 0.0.0.0 www.roombra.jp
 0.0.0.0 www.roomie.jp
 0.0.0.0 www.rooms-taishodo.co.jp
@@ -5364,6 +5376,7 @@
 0.0.0.0 www.roppongihills.com
 0.0.0.0 www.rosemont-swiss.com
 0.0.0.0 www.roudousaigai.jp
+0.0.0.0 www.roukyouhou.mhlw.go.jp
 0.0.0.0 www.rtyfghgroup.com
 0.0.0.0 www.ruxur.net
 0.0.0.0 www.ryugei.co.jp
