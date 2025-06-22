@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 21 June 2025
+# Last modified: 22 June 2025
 #
 
 # [広告全般]
@@ -256,6 +256,7 @@
 0.0.0.0 asahidia-jewely.shop
 0.0.0.0 asahikawa-korpokkur.com
 0.0.0.0 asahikawa-nissan.com
+0.0.0.0 asahiname.co.jp
 0.0.0.0 asaichuzo.com
 0.0.0.0 asakusa-nagomi-baki.com
 0.0.0.0 asbestos-osaka.jp
@@ -836,6 +837,7 @@
 0.0.0.0 fegroup-fukui.jp
 0.0.0.0 fek-cosmos.com
 0.0.0.0 felice-create.com
+0.0.0.0 felivehome.co.jp
 0.0.0.0 feliz-malto.com
 0.0.0.0 feliz.okadanet.com
 0.0.0.0 feliznet.jp
@@ -1308,6 +1310,7 @@
 0.0.0.0 ishi-career.jp
 0.0.0.0 ishidashoutenhamagindoriten.owst.jp
 0.0.0.0 ishikansyu.com
+0.0.0.0 ishinyakiniku.owst.jp
 0.0.0.0 isj-enterprise.com
 0.0.0.0 islandjourney-wedding.jp
 0.0.0.0 islewhite.com
@@ -1576,6 +1579,7 @@
 0.0.0.0 kimono-yamato-furisode.com
 0.0.0.0 kingram.shop
 0.0.0.0 kinkaimasu.jp
+0.0.0.0 kinkimarine.co.jp
 0.0.0.0 kinkisain.co.jp
 0.0.0.0 kinshun.owst.jp
 0.0.0.0 kintone.cybozu.co.jp
@@ -1704,6 +1708,7 @@
 0.0.0.0 l-tike.com
 0.0.0.0 l-works.design
 0.0.0.0 labrador.breeders.jp
+0.0.0.0 ladysnayami.happy-cat.ne.jp
 0.0.0.0 lagblanc.com
 0.0.0.0 lagemayo.com
 0.0.0.0 lagged.com
@@ -2285,6 +2290,7 @@
 0.0.0.0 onlyoneafrica.com
 0.0.0.0 onlystory.co.jp
 0.0.0.0 oosakanikunokai.owst.jp
+0.0.0.0 opal-mania.net
 0.0.0.0 open-fave.com
 0.0.0.0 open-oita.jp
 0.0.0.0 opencampus.nagoya-wu.ac.jp
@@ -2551,6 +2557,7 @@
 0.0.0.0 research-panel.jp
 0.0.0.0 reservation.aetashotels.com
 0.0.0.0 reservation.medical-force.com
+0.0.0.0 reserve.489ban.net
 0.0.0.0 reserve.star7.jp
 0.0.0.0 respark.jp
 0.0.0.0 restrauntbeluga.owst.jp
@@ -4295,6 +4302,7 @@
 0.0.0.0 www.gyoseishosi-yamaguchiyoichi.net
 0.0.0.0 www.gyutoro.com
 0.0.0.0 www.h-bd.co.jp
+0.0.0.0 www.hachise.jp
 0.0.0.0 www.hacobell.com
 0.0.0.0 www.hagisol.co.jp
 0.0.0.0 www.hakata-ieh.jp
@@ -5897,6 +5905,7 @@
 0.0.0.0 www.wing-rev.co.jp
 0.0.0.0 www.wingontravel.com
 0.0.0.0 www.wintechjapan.com
+0.0.0.0 www.wipo.int
 0.0.0.0 www.wise-agent.com
 0.0.0.0 www.wmberg.com
 0.0.0.0 www.wonnesscompany.com
