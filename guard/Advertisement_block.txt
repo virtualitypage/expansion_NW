@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 22 June 2025
+# Last modified: 23 June 2025
 #
 
 # [広告全般]
@@ -138,6 +138,7 @@
 0.0.0.0 akr3864845762.owst.jp
 0.0.0.0 akr3886447014.owst.jp
 0.0.0.0 akr4061480779.owst.jp
+0.0.0.0 akr4470806645.owst.jp
 0.0.0.0 akr4640838739.owst.jp
 0.0.0.0 akr6493666829.owst.jp
 0.0.0.0 akr6827161385.owst.jp
@@ -424,6 +425,7 @@
 0.0.0.0 cafe.anniversaire.co.jp
 0.0.0.0 cakeshop-keihansin.jimdofree.com
 0.0.0.0 calendo365.com
+0.0.0.0 call.omnidatabank.jp
 0.0.0.0 camp-fire.jp
 0.0.0.0 camp.toilet-now.com
 0.0.0.0 campaign.nishigaki-group.com
@@ -575,6 +577,7 @@
 0.0.0.0 cp.manara.jp
 0.0.0.0 cpmaster.jp
 0.0.0.0 craftdesign.tokyo
+0.0.0.0 crazyland-by-cheval.com
 0.0.0.0 crcr.asia
 0.0.0.0 creditcard-entry.com
 0.0.0.0 creditcard-news.net
@@ -1169,6 +1172,7 @@
 0.0.0.0 hmhw8.hp.peraichi.com
 0.0.0.0 hobbyshow.co.jp
 0.0.0.0 hoikunosekai.com
+0.0.0.0 hojiro-firm.jp
 0.0.0.0 hoken-hikakunavi.com
 0.0.0.0 hoken-sweet.com
 0.0.0.0 hokengreat.net
@@ -2303,6 +2307,7 @@
 0.0.0.0 orig-calendar.com
 0.0.0.0 original-champagne.net
 0.0.0.0 oripa.clove.jp
+0.0.0.0 oripamarket.thebase.in
 0.0.0.0 oripaone.jp
 0.0.0.0 ortho-mouthpiece-jp.life
 0.0.0.0 os-insourcring.bluememe.jp
@@ -2765,6 +2770,7 @@
 0.0.0.0 secev.co.jp
 0.0.0.0 secure.proglab.education
 0.0.0.0 sei26.com
+0.0.0.0 seibuwood.jp
 0.0.0.0 seikatsu-daiji1616.biz
 0.0.0.0 seikatsu-shien.com
 0.0.0.0 seikatsusha-ddm.com
@@ -3025,12 +3031,14 @@
 0.0.0.0 stock-inv1.jp
 0.0.0.0 stockedges.com
 0.0.0.0 store-jp.nintendo.com
+0.0.0.0 store-kawamura.com
 0.0.0.0 store-visit.meo-one.com
 0.0.0.0 store.ace.jp
 0.0.0.0 store.alpen-group.jp
 0.0.0.0 store.ashleyfurniture.jp
 0.0.0.0 store.fix-it.jp
 0.0.0.0 store.hcproduce.co.jp
+0.0.0.0 store.hulsgallerytokyo.com
 0.0.0.0 store.maisontakuya.jp
 0.0.0.0 store.mens-null.net
 0.0.0.0 store.sanyo-shokai.co.jp
@@ -3618,6 +3626,7 @@
 0.0.0.0 www.allied-telesis.co.jp
 0.0.0.0 www.allsaints.jp
 0.0.0.0 www.alltech.com
+0.0.0.0 www.aloevera-honpo.com
 0.0.0.0 www.alohana-pauskirt.net
 0.0.0.0 www.alpen-route.com
 0.0.0.0 www.alpha-note.co.jp
@@ -5102,6 +5111,7 @@
 0.0.0.0 www.nttcoms.com
 0.0.0.0 www.nttud.co.jp
 0.0.0.0 www.nugu.jp
+0.0.0.0 www.nuigurumi-lab.com
 0.0.0.0 www.numo.or.jp
 0.0.0.0 www.numplerap.com
 0.0.0.0 www.nurse-secom.com
@@ -5920,6 +5930,7 @@
 0.0.0.0 www.wrapi.jp
 0.0.0.0 www.wrappixel.com
 0.0.0.0 www.xing-flower.com
+0.0.0.0 www.xmake-osaka.com
 0.0.0.0 www.xmtrading.com
 0.0.0.0 www.xprice.co.jp
 0.0.0.0 www.xronos-inc.co.jp
