@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 23 June 2025
+# Last modified: 24 June 2025
 #
 
 # [広告全般]
@@ -553,6 +553,7 @@
 0.0.0.0 conosur-lovers.jp
 0.0.0.0 consul-data-bank.com
 0.0.0.0 content.rview.com
+0.0.0.0 contestiva.io
 0.0.0.0 continental-automotive.com
 0.0.0.0 continentaltire.com
 0.0.0.0 converse.co.jp
@@ -720,6 +721,7 @@
 0.0.0.0 e-o.jp
 0.0.0.0 e4510.jp
 0.0.0.0 earol.co.uk
+0.0.0.0 earthing.jp
 0.0.0.0 earthrapport0407.com
 0.0.0.0 eastsidemedinc.com
 0.0.0.0 easy-simulator.net
@@ -1514,6 +1516,7 @@
 0.0.0.0 kanimitsu.com
 0.0.0.0 kankokuryori-anpan.owst.jp
 0.0.0.0 kankokuryourichingu.owst.jp
+0.0.0.0 kankokuyakinikuchou.owst.jp
 0.0.0.0 kankomirai-ouen.jp
 0.0.0.0 kansai-boatshow.jp
 0.0.0.0 kansai-elevator.co.jp
@@ -1772,6 +1775,7 @@
 0.0.0.0 living-revolution.onlinekyoto.com
 0.0.0.0 loans.life
 0.0.0.0 logimeets.jp
+0.0.0.0 logistics-tv.jp
 0.0.0.0 lohasplaza.com
 0.0.0.0 lonalona.jp
 0.0.0.0 longterm.kikagaku.ai
@@ -2166,6 +2170,7 @@
 0.0.0.0 niihama-coating.com
 0.0.0.0 niit-oc.com
 0.0.0.0 nijigennomori.com
+0.0.0.0 nijumaru-h.owst.jp
 0.0.0.0 nikko-nerima-recruit.com
 0.0.0.0 nikubarmuu.com
 0.0.0.0 nikudokoro-mo-shabutantan.owst.jp
@@ -2206,6 +2211,7 @@
 0.0.0.0 note-infomart.jp
 0.0.0.0 notfound.osaka
 0.0.0.0 notice.go.jp
+0.0.0.0 noujiruyokocho.com
 0.0.0.0 noukabanzai.jp
 0.0.0.0 noukatsu-shimbun.jp
 0.0.0.0 nova-ag.com
@@ -2504,6 +2510,7 @@
 0.0.0.0 railway.jr-central.co.jp
 0.0.0.0 rainbow-c.com
 0.0.0.0 rakugo-zanmai.pia.co.jp
+0.0.0.0 rakuhukui-gyozasakaba.owst.jp
 0.0.0.0 rakuori.com
 0.0.0.0 rakuraku-kimono.com
 0.0.0.0 rakurakusatei.com
@@ -2905,6 +2912,7 @@
 0.0.0.0 shopping.geocities.jp
 0.0.0.0 shopping.speedia-ost.com
 0.0.0.0 shopping.tbs.co.jp
+0.0.0.0 shops.sake-hayashi.com
 0.0.0.0 shosoin-ten.jp
 0.0.0.0 shoudensansou.wixsite.com
 0.0.0.0 shougai-nenkin119.com
@@ -3413,6 +3421,7 @@
 0.0.0.0 usukine.com
 0.0.0.0 ut-studyroom.com
 0.0.0.0 utattemita-collection.jp
+0.0.0.0 utiyasinnbasihanare.owst.jp
 0.0.0.0 uukikuudan.aseugame.com
 0.0.0.0 uwaki-pro.com
 0.0.0.0 uzusado.jp
@@ -3886,7 +3895,9 @@
 0.0.0.0 www.chitetsu.co.jp
 0.0.0.0 www.chogin-nishi.com
 0.0.0.0 www.choice-hotels.jp
+0.0.0.0 www.choose-g.jp
 0.0.0.0 www.choujuan.co.jp
+0.0.0.0 www.chrisanne-clover.jp
 0.0.0.0 www.chugin.co.jp
 0.0.0.0 www.chuo-u.ac.jp
 0.0.0.0 www.cielia.com
@@ -4522,6 +4533,7 @@
 0.0.0.0 www.ivs.events
 0.0.0.0 www.ivy-tech.co.jp
 0.0.0.0 www.iwaiwa.jp
+0.0.0.0 www.iwaki-shouten.com
 0.0.0.0 www.ixol.co.jp
 0.0.0.0 www.iyobank.co.jp
 0.0.0.0 www.iyotetsu-takashimaya.co.jp
@@ -4836,6 +4848,7 @@
 0.0.0.0 www.magionet.co.jp
 0.0.0.0 www.magna-tokyo.com
 0.0.0.0 www.magokoro-bento.com
+0.0.0.0 www.maguromeijin.com
 0.0.0.0 www.mainichi-foods.jp
 0.0.0.0 www.makersbasetokyo.com
 0.0.0.0 www.makuake.com
@@ -4876,6 +4889,7 @@
 0.0.0.0 www.maybournebeverlyhills.com
 0.0.0.0 www.mblqs.com
 0.0.0.0 www.mbsr-study-group.com
+0.0.0.0 www.mcs-seminar.com
 0.0.0.0 www.mdsol.co.jp
 0.0.0.0 www.mealzeropay.com
 0.0.0.0 www.mecsumai.com
