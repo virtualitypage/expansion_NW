@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 24 June 2025
+# Last modified: 25 June 2025
 #
 
 # [広告全般]
@@ -1191,6 +1191,7 @@
 0.0.0.0 hondacars.link
 0.0.0.0 honkaku-coco.com
 0.0.0.0 hoom-furniture.com
+0.0.0.0 hopstand-mosaic.owst.jp
 0.0.0.0 horseracing-tipsters.biz
 0.0.0.0 hoshi.cocoloni.jp
 0.0.0.0 hoshikare.jp
@@ -1659,6 +1660,7 @@
 0.0.0.0 kouseisaiyou.mhlw.go.jp
 0.0.0.0 kouseki-akita.com
 0.0.0.0 koutoku.ac.jp
+0.0.0.0 koyo.jtekt.co.jp
 0.0.0.0 kpmg.com
 0.0.0.0 kritikazero-dmg.pmang.jp
 0.0.0.0 ks-factory.soueisha.net
@@ -1684,6 +1686,7 @@
 0.0.0.0 kurumeshi-regionalcareer.com
 0.0.0.0 kurupika-coating.com
 0.0.0.0 kusakariki.com
+0.0.0.0 kushi-ageha.owst.jp
 0.0.0.0 kushi-tanaka.com
 0.0.0.0 kushiage-aiyo-sanjyosyoutengai.owst.jp
 0.0.0.0 kushio-miyako.owst.jp
@@ -1810,6 +1813,7 @@
 0.0.0.0 lp.reikyaku-labo.com
 0.0.0.0 lp.resortbaito-dive.com
 0.0.0.0 lp.scala-com.jp
+0.0.0.0 lp.senri-sc.com
 0.0.0.0 lp.sienarose.jp
 0.0.0.0 lp.sokuwork.com
 0.0.0.0 lp.studyinternational.com
@@ -2025,6 +2029,7 @@
 0.0.0.0 mizoguchi-saiten.co.jp
 0.0.0.0 mizunopack.com
 0.0.0.0 mizusympo2024.sakura.ne.jp
+0.0.0.0 mktg.nexmedia24.jp
 0.0.0.0 mlifefurniture.jp
 0.0.0.0 mlogic.tax
 0.0.0.0 mmsharehouse.com
@@ -2095,6 +2100,7 @@
 0.0.0.0 nadi-leaf.jp
 0.0.0.0 nadwuri.owst.jp
 0.0.0.0 naganokaitai.net
+0.0.0.0 nagaoshi.pref.nagasaki.jp
 0.0.0.0 nagaro-fudosan.jp
 0.0.0.0 nagawa.co.jp
 0.0.0.0 nagoya-camera.mikawa.ne.jp
@@ -2105,6 +2111,7 @@
 0.0.0.0 naisen.jp
 0.0.0.0 naiteikun-corp.com
 0.0.0.0 naka4.com
+0.0.0.0 nakafuji.owst.jp
 0.0.0.0 nakagawa-mishin.com
 0.0.0.0 nakamuraworks-ad.com
 0.0.0.0 nakanishiseni.com
@@ -3072,6 +3079,7 @@
 0.0.0.0 sudachi.support
 0.0.0.0 sudaku-osaka.owst.jp
 0.0.0.0 sugamokai.co.jp
+0.0.0.0 sugidama-tarumi.owst.jp
 0.0.0.0 sugimoto-shinkyu.com
 0.0.0.0 suginoi.orixhotelsandresorts.com
 0.0.0.0 suginoko-people.com
@@ -3346,6 +3354,7 @@
 0.0.0.0 tsutaya.tsite.jp
 0.0.0.0 tsuyama-lp.com
 0.0.0.0 tunageru-p.jp
+0.0.0.0 tuneforest.jp
 0.0.0.0 turboterminaltractors.com
 0.0.0.0 turutaya.com
 0.0.0.0 tw-img.vpon.com
@@ -5865,6 +5874,7 @@
 0.0.0.0 www.us-owners.com
 0.0.0.0 www.usaycompare.co.uk
 0.0.0.0 www.uscloud.com
+0.0.0.0 www.used.ne.jp
 0.0.0.0 www.ushio.net
 0.0.0.0 www.utsuwayayuuyuu.com
 0.0.0.0 www.vakenelli.com
