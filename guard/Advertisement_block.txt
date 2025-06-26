@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 25 June 2025
+# Last modified: 26 June 2025
 #
 
 # [広告全般]
@@ -416,6 +416,7 @@
 0.0.0.0 buy.watchnian.com
 0.0.0.0 byd-ibaraki.co.jp
 0.0.0.0 byd.co.jp
+0.0.0.0 ca-at.net
 0.0.0.0 ca-morita.co.jp
 0.0.0.0 ca.nihon-trim.co.jp
 0.0.0.0 cacaosampaka-kitashinchi.com
@@ -426,6 +427,7 @@
 0.0.0.0 cakeshop-keihansin.jimdofree.com
 0.0.0.0 calendo365.com
 0.0.0.0 call.omnidatabank.jp
+0.0.0.0 callidus.jp
 0.0.0.0 camp-fire.jp
 0.0.0.0 camp.toilet-now.com
 0.0.0.0 campaign.nishigaki-group.com
@@ -436,6 +438,7 @@
 0.0.0.0 campanola.jp
 0.0.0.0 camparijapan.com
 0.0.0.0 can-yuu.com
+0.0.0.0 canadajobbank.org
 0.0.0.0 canadiancafe.owst.jp
 0.0.0.0 canalworks.jp
 0.0.0.0 canbadge-arc.com
@@ -1677,6 +1680,7 @@
 0.0.0.0 kurashinobenriyasan.com
 0.0.0.0 kuraudojyuusou.owst.jp
 0.0.0.0 kurayoga.com
+0.0.0.0 kurega.jp
 0.0.0.0 kuri.shirokawa.jp
 0.0.0.0 kurochankitaguti.owst.jp
 0.0.0.0 kurock-seikotsu.com
@@ -2368,6 +2372,7 @@
 0.0.0.0 paddle-consultant.co.jp
 0.0.0.0 padpadsports.padpad.jp
 0.0.0.0 page.tapon.com
+0.0.0.0 page.titleist.co.jp
 0.0.0.0 pages.vaio.com
 0.0.0.0 pair-loan.com
 0.0.0.0 paircraft.jp
@@ -2520,6 +2525,7 @@
 0.0.0.0 rakuhukui-gyozasakaba.owst.jp
 0.0.0.0 rakuori.com
 0.0.0.0 rakuraku-kimono.com
+0.0.0.0 rakuraku.kango-gakusei-channel.com
 0.0.0.0 rakurakusatei.com
 0.0.0.0 rakushifu.jp
 0.0.0.0 randb.jp
@@ -3667,6 +3673,7 @@
 0.0.0.0 www.ana.co.jp
 0.0.0.0 www.anabuki-style.com
 0.0.0.0 www.anabuki-style.com.lan
+0.0.0.0 www.analogtech.co.jp
 0.0.0.0 www.andkomachi.com
 0.0.0.0 www.andperse.com
 0.0.0.0 www.ankerjapan.com
@@ -5041,6 +5048,7 @@
 0.0.0.0 www.napolipizza.jp
 0.0.0.0 www.napori.jp
 0.0.0.0 www.nara-access-navi.com
+0.0.0.0 www.narakenminkyosai.com
 0.0.0.0 www.narimatsuya.com
 0.0.0.0 www.narisup.com
 0.0.0.0 www.natsusapa.com
