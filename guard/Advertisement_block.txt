@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 26 June 2025
+# Last modified: 27 June 2025
 #
 
 # [広告全般]
@@ -874,6 +874,7 @@
 0.0.0.0 fortune-moon.net
 0.0.0.0 four-foods.com
 0.0.0.0 fp-professional.com
+0.0.0.0 fpmjapan.com
 0.0.0.0 fptsoftware.jp
 0.0.0.0 franomista.tohogas.co.jp
 0.0.0.0 freeb-fis.co.jp
@@ -1664,6 +1665,7 @@
 0.0.0.0 kouseki-akita.com
 0.0.0.0 koutoku.ac.jp
 0.0.0.0 koyo.jtekt.co.jp
+0.0.0.0 kozuko-juso.owst.jp
 0.0.0.0 kpmg.com
 0.0.0.0 kritikazero-dmg.pmang.jp
 0.0.0.0 ks-factory.soueisha.net
@@ -2191,6 +2193,7 @@
 0.0.0.0 nikunotakumi-chitaya.owst.jp
 0.0.0.0 nikusho-ichie.com
 0.0.0.0 nikuzushi-sennichimae.owst.jp
+0.0.0.0 nilaina-holidays.com
 0.0.0.0 nill.jp
 0.0.0.0 ningyou-nishioka.com
 0.0.0.0 ninja-takayama.com
@@ -2791,6 +2794,7 @@
 0.0.0.0 secure.proglab.education
 0.0.0.0 sei26.com
 0.0.0.0 seibuwood.jp
+0.0.0.0 seiho-navi.net
 0.0.0.0 seikatsu-daiji1616.biz
 0.0.0.0 seikatsu-shien.com
 0.0.0.0 seikatsusha-ddm.com
@@ -2866,6 +2870,7 @@
 0.0.0.0 shingon.jp
 0.0.0.0 shinjuku-4510.jp
 0.0.0.0 shinjuku-will.jp
+0.0.0.0 shinsakokketanumeda.owst.jp
 0.0.0.0 shinsengumi-noda.owst.jp
 0.0.0.0 shinten-kyoto.owst.jp
 0.0.0.0 shinya0129.info
@@ -5984,6 +5989,7 @@
 0.0.0.0 www.yamamotogiken-kohki.co.jp
 0.0.0.0 www.yamamotonouen.jp
 0.0.0.0 www.yamano-music.co.jp
+0.0.0.0 www.yamanoie1965.com
 0.0.0.0 www.yamato-u.ac.jp
 0.0.0.0 www.yane-takumi.net
 0.0.0.0 www.yanmar.com
@@ -6083,6 +6089,7 @@
 0.0.0.0 yamahaladiesopenkatsuragi.com
 0.0.0.0 yamakei.b-smile.jp
 0.0.0.0 yamakou-suisan.shop
+0.0.0.0 yamamijyozo.com
 0.0.0.0 yamanaka-kensetsu-lp.com
 0.0.0.0 yamanashi.media
 0.0.0.0 yamashiro-onlinestore.com
