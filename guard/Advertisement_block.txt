@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 27 June 2025
+# Last modified: 28 June 2025
 #
 
 # [広告全般]
@@ -87,6 +87,7 @@
 0.0.0.0 adt.rokunomiya.jp
 0.0.0.0 advan0824.my.canva.site
 0.0.0.0 ae-company.co.jp
+0.0.0.0 aerospace.honeywell.com
 0.0.0.0 af-inoac.jp
 0.0.0.0 affordable-mileage.jp
 0.0.0.0 afi-support.com
@@ -437,6 +438,7 @@
 0.0.0.0 campanel.jp
 0.0.0.0 campanola.jp
 0.0.0.0 camparijapan.com
+0.0.0.0 campofelice.owst.jp
 0.0.0.0 can-yuu.com
 0.0.0.0 canadajobbank.org
 0.0.0.0 canadiancafe.owst.jp
@@ -482,10 +484,12 @@
 0.0.0.0 chana-company.com
 0.0.0.0 channkonabekasuga.owst.jp
 0.0.0.0 chapup-sc.click
+0.0.0.0 cheerskitchenkyoto.owst.jp
 0.0.0.0 chemeon.com
 0.0.0.0 chester-tax.com
 0.0.0.0 chico-online.com
 0.0.0.0 chihuahua.breeders.jp
+0.0.0.0 chika-kodomo.com
 0.0.0.0 chikaramoti-kochi.com
 0.0.0.0 chikudenchi-asahi.com
 0.0.0.0 chill-cam.com
@@ -541,6 +545,7 @@
 0.0.0.0 cocono-air.com
 0.0.0.0 colorful.futabanet.jp
 0.0.0.0 coloso.jp
+0.0.0.0 comfort-archi.com
 0.0.0.0 comic-walker.com
 0.0.0.0 comic.iowl.jp
 0.0.0.0 comic.k-manga.jp
@@ -675,6 +680,7 @@
 0.0.0.0 dog-vacation.art
 0.0.0.0 dog.benesse.ne.jp
 0.0.0.0 dogst.theshop.jp
+0.0.0.0 dokaun-motteru.com
 0.0.0.0 dokugyodo.com
 0.0.0.0 dolcebeauty.base.shop
 0.0.0.0 dongri-manzara.owst.jp
@@ -1089,6 +1095,7 @@
 0.0.0.0 hanawa-yoho.jp
 0.0.0.0 hands.net
 0.0.0.0 haneda-shopping.jp
+0.0.0.0 hanjan.owst.jp
 0.0.0.0 hanshinboys.com
 0.0.0.0 hansol.owst.jp
 0.0.0.0 hanzou-nanba.owst.jp
@@ -1184,6 +1191,7 @@
 0.0.0.0 hokengreat.net
 0.0.0.0 hokkaido-j.com
 0.0.0.0 hokuriku.c-nexco.co.jp
+0.0.0.0 hokuto-fudousan.com
 0.0.0.0 hokuyu-ryokuti.com
 0.0.0.0 holo-bell.com
 0.0.0.0 home-design-schmidt.uk
@@ -1983,6 +1991,7 @@
 0.0.0.0 million-sales.com
 0.0.0.0 mimi-kyokai.jp
 0.0.0.0 mimitsubo-diet.or.jp
+0.0.0.0 mimizukueasybar.owst.jp
 0.0.0.0 minamiasagaya.ryusei-sekkotuin.net
 0.0.0.0 minamino.itami-hagukumi.work
 0.0.0.0 minase-ep.jp
@@ -3306,6 +3315,7 @@
 0.0.0.0 tomohirokai.or.jp
 0.0.0.0 tomotaqu.com
 0.0.0.0 tomoyoshi-moriguti.owst.jp
+0.0.0.0 tomurashinshinan.owst.jp
 0.0.0.0 tonmani.owst.jp
 0.0.0.0 top-generator.com
 0.0.0.0 topgunairtx.com
@@ -3326,6 +3336,7 @@
 0.0.0.0 tottoreal-pavilion.jp
 0.0.0.0 toubyo.com
 0.0.0.0 touentei.com
+0.0.0.0 touki-a.com
 0.0.0.0 tounyuu.net
 0.0.0.0 toushi-up.com
 0.0.0.0 tovira.jp
@@ -3724,6 +3735,7 @@
 0.0.0.0 www.asahi-netshop.com
 0.0.0.0 www.asahi-shoes.co.jp
 0.0.0.0 www.asahi.com
+0.0.0.0 www.asakoclinic.com
 0.0.0.0 www.asakuma.farm
 0.0.0.0 www.asheet.co.jp
 0.0.0.0 www.ashifumi.jp
@@ -5009,6 +5021,7 @@
 0.0.0.0 www.motionape.com
 0.0.0.0 www.motu-ooyama.com
 0.0.0.0 www.mouse-jp.co.jp
+0.0.0.0 www.mrkm.cc
 0.0.0.0 www.mrpro.co.jp
 0.0.0.0 www.ms-ins.com
 0.0.0.0 www.ms-j.jp
@@ -5916,6 +5929,7 @@
 0.0.0.0 www.w2gym.jp
 0.0.0.0 www.wa-kukan-life.com
 0.0.0.0 www.wabitas.com
+0.0.0.0 www.wacom.com
 0.0.0.0 www.wadakohsan.info
 0.0.0.0 www.waf-seminar.de
 0.0.0.0 www.waiper.co.jp
@@ -5966,6 +5980,7 @@
 0.0.0.0 www.wowbao.com
 0.0.0.0 www.wrapi.jp
 0.0.0.0 www.wrappixel.com
+0.0.0.0 www.wts-c.co.jp
 0.0.0.0 www.xing-flower.com
 0.0.0.0 www.xmake-osaka.com
 0.0.0.0 www.xmtrading.com
