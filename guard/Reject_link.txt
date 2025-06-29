@@ -4,7 +4,7 @@
 # References: https://meiwakumail.jp/
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_link.txt
 #
-# Last modified: 18 May 2025
+# Last modified: 29 June 2025
 #
 
 # [迷惑メールのURLリンク(目的不明)]
@@ -2331,7 +2331,6 @@
 0.0.0.0 www.aeom5.ey4ixap7r.com
 0.0.0.0 www.afbpt.y8ifbhd3x.com
 0.0.0.0 www.after-blank.com
-0.0.0.0 www.amazon.co.jp
 0.0.0.0 www.aua8j.h5rki4fhn.com
 0.0.0.0 www.ba9jducy4.com
 0.0.0.0 www.bloom-s.co.jp
