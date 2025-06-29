@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 28 June 2025
+# Last modified: 29 June 2025
 #
 
 # [広告全般]
@@ -620,6 +620,7 @@
 0.0.0.0 danshin-smile.cardif.co.jp
 0.0.0.0 daran-eyebeauty.com
 0.0.0.0 darts-strix.owst.jp
+0.0.0.0 datten.owst.jp
 0.0.0.0 daybaskesoccar.com
 0.0.0.0 daytona-mcgarage.com
 0.0.0.0 deagostini.jp
@@ -861,6 +862,7 @@
 0.0.0.0 firmbond.co.jp
 0.0.0.0 firstairlines.jp
 0.0.0.0 firstgolf.world
+0.0.0.0 fit365.jp
 0.0.0.0 flag-ads.fun
 0.0.0.0 flare.network
 0.0.0.0 flasharkracing.com
@@ -1075,6 +1077,7 @@
 0.0.0.0 hagamen.jp
 0.0.0.0 hagoogi.com
 0.0.0.0 hairvino.com
+0.0.0.0 haisha-yoyaku-blog.jp
 0.0.0.0 hakabanogarou.jp
 0.0.0.0 hakatamotunabetoyakimono-hajime.owst.jp
 0.0.0.0 hakkaexam.hakka.gov.tw
@@ -1542,6 +1545,7 @@
 0.0.0.0 karen-kyoto.com
 0.0.0.0 karsee.com
 0.0.0.0 karte.io
+0.0.0.0 karuizawa.holidayinnresorts.com
 0.0.0.0 kascogolf.com
 0.0.0.0 kasetani-kagu.co.jp
 0.0.0.0 kashiwa-fujimotosyokudou.owst.jp
@@ -2067,6 +2071,7 @@
 0.0.0.0 monjayaoya.owst.jp
 0.0.0.0 monji.tech
 0.0.0.0 montecito.jp
+0.0.0.0 morgan.tagaya.co.jp
 0.0.0.0 morihanten.owst.jp
 0.0.0.0 morimoto-lp.com
 0.0.0.0 moritec-lp.com
@@ -2178,6 +2183,7 @@
 0.0.0.0 nextengineer-benext.jp
 0.0.0.0 nextfocus.online
 0.0.0.0 nextpro.shop
+0.0.0.0 nfdt.metro.tokyo.lg.jp
 0.0.0.0 ngdl.jp
 0.0.0.0 ni-deau.jp
 0.0.0.0 niche-strategy.co.jp
@@ -2651,6 +2657,7 @@
 0.0.0.0 s.shufoo.net
 0.0.0.0 s.weddingpark.net
 0.0.0.0 s1.quizdays.com
+0.0.0.0 s1awards.com
 0.0.0.0 s88.co.jp
 0.0.0.0 sa-benriya.com
 0.0.0.0 sa-mobility.com
@@ -3483,6 +3490,7 @@
 0.0.0.0 wadainohon.com
 0.0.0.0 waguya.com
 0.0.0.0 wagyu-sumibiyakiniku-zyo.owst.jp
+0.0.0.0 wagyusteak-hiro-kawaramachi.owst.jp
 0.0.0.0 wakaba-ac.jp
 0.0.0.0 wakayama.vc-dealer.jp
 0.0.0.0 wakegai.jp
@@ -4758,6 +4766,7 @@
 0.0.0.0 www.kobeshingakukai.jp
 0.0.0.0 www.kobetsu.co.jp
 0.0.0.0 www.kobo-shinshu.com
+0.0.0.0 www.kobonemi.com
 0.0.0.0 www.kochi-daihatsu.co.jp
 0.0.0.0 www.kochi-daimaru.co.jp
 0.0.0.0 www.kochiken-shakyo.or.jp
@@ -4956,6 +4965,7 @@
 0.0.0.0 www.michiluno.jp
 0.0.0.0 www.michitabi.com
 0.0.0.0 www.mignon-eyelash-recruit.com
+0.0.0.0 www.mihama-jutaku.co.jp
 0.0.0.0 www.miinhair.com
 0.0.0.0 www.mikahara.com
 0.0.0.0 www.mikazuki.co.jp
@@ -5072,6 +5082,7 @@
 0.0.0.0 www.natsusapa.com
 0.0.0.0 www.natureworld.jp
 0.0.0.0 www.navit-j.com
+0.0.0.0 www.ncl.com
 0.0.0.0 www.ne.jp
 0.0.0.0 www.nec-lavie.jp
 0.0.0.0 www.nec-solutioninnovators.co.jp
@@ -5798,6 +5809,7 @@
 0.0.0.0 www.tokyo-kasei.ac.jp
 0.0.0.0 www.tokyo-repair.jp
 0.0.0.0 www.tokyo-skytree.jp
+0.0.0.0 www.tokyocitykeiba.com
 0.0.0.0 www.tokyodomecity.anitouch.com
 0.0.0.0 www.tokyointerior.co.jp
 0.0.0.0 www.tokyomk.com
