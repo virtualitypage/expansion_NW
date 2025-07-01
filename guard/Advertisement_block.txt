@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 30 June 2025
+# Last modified: 1 July 2025
 #
 
 # [広告全般]
@@ -31,6 +31,7 @@
 0.0.0.0 3m.commerceconnector.net
 0.0.0.0 3mk2r3.com
 0.0.0.0 3rd-shutter.photo
+0.0.0.0 4510-mw.com
 0.0.0.0 47095986.form.kintoneapp.com
 0.0.0.0 4seasonsgallery.jp
 0.0.0.0 4u-cosmetics.com
@@ -928,6 +929,7 @@
 0.0.0.0 fukutoku.ed.jp
 0.0.0.0 fukutujishiki.com
 0.0.0.0 fukuyoshiodasaga.owst.jp
+0.0.0.0 fulect.com
 0.0.0.0 fun.asahi-gf.co.jp
 0.0.0.0 funbuy-shop.com
 0.0.0.0 fundsearch.jp
@@ -1032,6 +1034,7 @@
 0.0.0.0 goooodhome.gifu.jp
 0.0.0.0 gorillada.automotive.panasonic.com
 0.0.0.0 gorogoromanga.jp
+0.0.0.0 gp-matsubara.jp
 0.0.0.0 gpc-gr.com
 0.0.0.0 gradsguide.jp
 0.0.0.0 grand-mercure-awajiisland-resortandspa.jp
@@ -2845,6 +2848,7 @@
 0.0.0.0 setonaikaikisen.co.jp
 0.0.0.0 setupnext-project.com
 0.0.0.0 sev-tsuhan.com
+0.0.0.0 sfda.metro.tokyo.lg.jp
 0.0.0.0 sg.rtb.vestomedia.com
 0.0.0.0 sg.steelcase.com
 0.0.0.0 sg.tcacoustic.asia
@@ -3532,6 +3536,7 @@
 0.0.0.0 web.tsite.jp
 0.0.0.0 webagre.com
 0.0.0.0 webcast.net-ir.ne.jp
+0.0.0.0 webcp01.boltray.com
 0.0.0.0 webdesk.jsa.or.jp
 0.0.0.0 webstore.ansi.org
 0.0.0.0 webx-asia.com
@@ -5245,6 +5250,7 @@
 0.0.0.0 www.oragamo.com
 0.0.0.0 www.oralb.braun.co.jp
 0.0.0.0 www.orangeroom.jp
+0.0.0.0 www.orbiter1.jp
 0.0.0.0 www.orbussoftware.com
 0.0.0.0 www.orchidliveseafood.com.sg
 0.0.0.0 www.ordercurtain.co.jp
@@ -6160,6 +6166,7 @@
 0.0.0.0 yoridoko-kanko.co.jp
 0.0.0.0 yorkie.breeders.jp
 0.0.0.0 yorokobishop.com
+0.0.0.0 yosakura.studio.site
 0.0.0.0 yoshida.co.th
 0.0.0.0 yoshino-gypsum.com
 0.0.0.0 yoshiokajimusho.net
