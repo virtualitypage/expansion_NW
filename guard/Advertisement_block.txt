@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 1 July 2025
+# Last modified: 2 July 2025
 #
 
 # [広告全般]
@@ -142,6 +142,7 @@
 0.0.0.0 akr4061480779.owst.jp
 0.0.0.0 akr4470806645.owst.jp
 0.0.0.0 akr4640838739.owst.jp
+0.0.0.0 akr5753440825.owst.jp
 0.0.0.0 akr6493666829.owst.jp
 0.0.0.0 akr6827161385.owst.jp
 0.0.0.0 akr7779880273.owst.jp
@@ -361,6 +362,7 @@
 0.0.0.0 biryuhyakkaweb.jp
 0.0.0.0 bisha-ema.com
 0.0.0.0 bistria-uotalian.owst.jp
+0.0.0.0 bistrogamin.owst.jp
 0.0.0.0 bix.exparo.com
 0.0.0.0 biz.renta-mobile.com
 0.0.0.0 bizextras.com
@@ -2715,6 +2717,7 @@
 0.0.0.0 sasaki-kougyo.com
 0.0.0.0 sasatto.jp
 0.0.0.0 sassa-shop.com
+0.0.0.0 satto.me
 0.0.0.0 sauna-rezone.com
 0.0.0.0 saunavi.net
 0.0.0.0 savorjapan.com
@@ -3347,6 +3350,7 @@
 0.0.0.0 totalrepair.jp
 0.0.0.0 totoseven.owst.jp
 0.0.0.0 tottoreal-pavilion.jp
+0.0.0.0 tottotto-namba.owst.jp
 0.0.0.0 toubyo.com
 0.0.0.0 touentei.com
 0.0.0.0 touki-a.com
@@ -3602,6 +3606,7 @@
 0.0.0.0 www.3ei.co.jp
 0.0.0.0 www.3m.com
 0.0.0.0 www.3qcut.com
+0.0.0.0 www.41-4009.net
 0.0.0.0 www.47club.jp
 0.0.0.0 www.47news.jp
 0.0.0.0 www.4green.dental
@@ -4494,6 +4499,7 @@
 0.0.0.0 www.huiaiqingganvip.com
 0.0.0.0 www.hunimed.eu
 0.0.0.0 www.hutchgo.com.hk
+0.0.0.0 www.hyatt.com
 0.0.0.0 www.hyo-med.ac.jp
 0.0.0.0 www.hyogotoyota.co.jp
 0.0.0.0 www.hyperair.com
@@ -5819,6 +5825,7 @@
 0.0.0.0 www.tokuteigino.work
 0.0.0.0 www.tokuyama-sc.jp
 0.0.0.0 www.tokyo-aff.or.jp
+0.0.0.0 www.tokyo-co2down.jp
 0.0.0.0 www.tokyo-dome.co.jp
 0.0.0.0 www.tokyo-kasei.ac.jp
 0.0.0.0 www.tokyo-repair.jp
@@ -5842,6 +5849,7 @@
 0.0.0.0 www.torus.co.jp
 0.0.0.0 www.toshiba-lifestyle.com
 0.0.0.0 www.toshin-online.com
+0.0.0.0 www.toshin.com
 0.0.0.0 www.tosico.co.jp
 0.0.0.0 www.totalrepair-fukasawa.com
 0.0.0.0 www.tourboxtech.com
