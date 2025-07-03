@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 2 July 2025
+# Last modified: 3 July 2025
 #
 
 # [広告全般]
@@ -1936,6 +1936,7 @@
 0.0.0.0 marusupro.com
 0.0.0.0 marusyunn.com
 0.0.0.0 marutaka-nori.co.jp
+0.0.0.0 maruyahonten-osakaumekita.com
 0.0.0.0 masaomi-jyuku.masaomi-takao.com
 0.0.0.0 masaya-pawnshop.com
 0.0.0.0 mash-c.jp
@@ -2271,9 +2272,11 @@
 0.0.0.0 obanzai-anju.owst.jp
 0.0.0.0 oboromatsu.owst.jp
 0.0.0.0 oc.kki.ac.jp
+0.0.0.0 occhialioga.owst.jp
 0.0.0.0 oceans.tokyo.jp
 0.0.0.0 ocjs.catholic-okinawa.ed.jp
 0.0.0.0 odennya-sanntokurokumi.owst.jp
+0.0.0.0 odhackathon.metro.tokyo.lg.jp
 0.0.0.0 oem.shichifuku-towel.co.jp
 0.0.0.0 ofcosmetics.co.jp
 0.0.0.0 office-premiumfrozen.jp
@@ -4699,6 +4702,7 @@
 0.0.0.0 www.kakinomi.jp
 0.0.0.0 www.kameido-kura.com
 0.0.0.0 www.kamine.co.jp
+0.0.0.0 www.kamitake.net
 0.0.0.0 www.kamoshikanet.com
 0.0.0.0 www.kanagawa-subaru.com
 0.0.0.0 www.kanagawa-u.ac.jp
@@ -5704,6 +5708,7 @@
 0.0.0.0 www.superdramatv.com
 0.0.0.0 www.supermicro.com
 0.0.0.0 www.supersports.com
+0.0.0.0 www.supplement-chuicare.com
 0.0.0.0 www.support-navi.metro.tokyo.lg.jp
 0.0.0.0 www.surfabudhabi.com
 0.0.0.0 www.surftripmagazine.com
