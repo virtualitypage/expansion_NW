@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 3 July 2025
+# Last modified: 4 July 2025
 #
 
 # [広告全般]
@@ -1611,6 +1611,7 @@
 0.0.0.0 kinkaimasu.jp
 0.0.0.0 kinkimarine.co.jp
 0.0.0.0 kinkisain.co.jp
+0.0.0.0 kinnryuukaku.owst.jp
 0.0.0.0 kinshun.owst.jp
 0.0.0.0 kintone.cybozu.co.jp
 0.0.0.0 kintorihiki-hikaku.com
@@ -1800,6 +1801,7 @@
 0.0.0.0 lively-villa.jp
 0.0.0.0 liveviewing.jp
 0.0.0.0 living-revolution.onlinekyoto.com
+0.0.0.0 lo-kizuna-kobe.hp.peraichi.com
 0.0.0.0 loans.life
 0.0.0.0 logimeets.jp
 0.0.0.0 logistics-tv.jp
@@ -1829,6 +1831,7 @@
 0.0.0.0 lp.kaitori-daikichi.jp
 0.0.0.0 lp.kanna4u.com
 0.0.0.0 lp.leadpad.io
+0.0.0.0 lp.litalico-works.jp
 0.0.0.0 lp.mediacloudtech.com
 0.0.0.0 lp.merpay.com
 0.0.0.0 lp.nuviasmiles.com
@@ -4261,6 +4264,7 @@
 0.0.0.0 www.frewa.jp
 0.0.0.0 www.front-ia.com
 0.0.0.0 www.frontier-direct.jp
+0.0.0.0 www.frontierconsul.net
 0.0.0.0 www.fsa.go.jp
 0.0.0.0 www.fudosha.com
 0.0.0.0 www.fudousan-iranai.com
