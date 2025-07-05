@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 4 July 2025
+# Last modified: 5 July 2025
 #
 
 # [広告全般]
@@ -382,6 +382,7 @@
 0.0.0.0 bmccancer.biomedcentral.com
 0.0.0.0 boatzon.com
 0.0.0.0 bobcard.co.in
+0.0.0.0 bodrum.goturkiye.com
 0.0.0.0 bodyshop-fukuhisa.com
 0.0.0.0 bonesandbeyond.com
 0.0.0.0 bonsai-kaitori.work
@@ -469,6 +470,7 @@
 0.0.0.0 case-studies.ipa.go.jp
 0.0.0.0 casge-town.jp
 0.0.0.0 cashimu.jp
+0.0.0.0 castello.owst.jp
 0.0.0.0 cat.benesse.ne.jp
 0.0.0.0 catalog.toubi.co.jp
 0.0.0.0 caterbank.co.jp
@@ -589,6 +591,7 @@
 0.0.0.0 cp.manara.jp
 0.0.0.0 cpmaster.jp
 0.0.0.0 craftdesign.tokyo
+0.0.0.0 craftest.jp
 0.0.0.0 crazyland-by-cheval.com
 0.0.0.0 crcr.asia
 0.0.0.0 creditcard-entry.com
@@ -973,6 +976,7 @@
 0.0.0.0 gemer.jp
 0.0.0.0 genba-dojo.net
 0.0.0.0 gendai.media
+0.0.0.0 genkian-store.com
 0.0.0.0 gentosha-go.com
 0.0.0.0 geo.8984.jp
 0.0.0.0 gero-present.com
@@ -2084,6 +2088,7 @@
 0.0.0.0 morgan.tagaya.co.jp
 0.0.0.0 morihanten.owst.jp
 0.0.0.0 morimoto-lp.com
+0.0.0.0 morinotiisanarestaurantpecopeco.owst.jp
 0.0.0.0 moritec-lp.com
 0.0.0.0 moriya-contact.com
 0.0.0.0 motherfood.co.uk
@@ -2296,6 +2301,7 @@
 0.0.0.0 oishi-kenko.com
 0.0.0.0 oishii-izumo.jp
 0.0.0.0 oiuvoice.com
+0.0.0.0 ojyosan-kitahama.owst.jp
 0.0.0.0 oka-d-art.com
 0.0.0.0 okadatoukisokuryou.com
 0.0.0.0 okaido.clare.jp
@@ -3384,6 +3390,7 @@
 0.0.0.0 tropical-hawaiianfestival.jp
 0.0.0.0 trubridge.com
 0.0.0.0 truckland.jp
+0.0.0.0 trust-mf.or.jp
 0.0.0.0 try-edge.infield95.com
 0.0.0.0 tsplus.asahi.co.jp
 0.0.0.0 tsugunavi.funaisoken.co.jp
@@ -3576,6 +3583,7 @@
 0.0.0.0 woman-lifecp.metro.tokyo.lg.jp
 0.0.0.0 woman.chintai
 0.0.0.0 wood-u.co.jp
+0.0.0.0 wood.co.jp
 0.0.0.0 wooparoo.hangame.com
 0.0.0.0 work-holiday.mhlw.go.jp
 0.0.0.0 work-p.com
@@ -6152,6 +6160,7 @@
 0.0.0.0 yamamijyozo.com
 0.0.0.0 yamanaka-kensetsu-lp.com
 0.0.0.0 yamanashi.media
+0.0.0.0 yamaneya.jp
 0.0.0.0 yamashiro-onlinestore.com
 0.0.0.0 yamataku-consulting.com
 0.0.0.0 yamatane-museum.com
