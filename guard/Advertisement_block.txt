@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 5 July 2025
+# Last modified: 6 July 2025
 #
 
 # [広告全般]
@@ -140,6 +140,7 @@
 0.0.0.0 akr3864845762.owst.jp
 0.0.0.0 akr3886447014.owst.jp
 0.0.0.0 akr4061480779.owst.jp
+0.0.0.0 akr4253438533.owst.jp
 0.0.0.0 akr4470806645.owst.jp
 0.0.0.0 akr4640838739.owst.jp
 0.0.0.0 akr5753440825.owst.jp
@@ -636,6 +637,7 @@
 0.0.0.0 delta-umeda.owst.jp
 0.0.0.0 dementia-osaka.com
 0.0.0.0 demo.buruburu.app
+0.0.0.0 den-zen.jp
 0.0.0.0 dengekibunko.jp
 0.0.0.0 denka-agri.jp
 0.0.0.0 denkiworks.com
@@ -1152,6 +1154,7 @@
 0.0.0.0 hephall.jp
 0.0.0.0 her-onlinestore.com
 0.0.0.0 herbareyou.jp
+0.0.0.0 hetre-g.jp
 0.0.0.0 hey-choshikun.com
 0.0.0.0 heyheyship.jp
 0.0.0.0 hha.hitachi-hightech.com
@@ -1575,6 +1578,7 @@
 0.0.0.0 kayo-corp.co.jp
 0.0.0.0 kaza-design.com
 0.0.0.0 kazoku-shintaku.org
+0.0.0.0 kb-kintai.jp
 0.0.0.0 kddi.smartdrone.co.jp
 0.0.0.0 keiei-shinri.or.jp
 0.0.0.0 keigo-group-job.com
@@ -1609,6 +1613,7 @@
 0.0.0.0 kigkt.cersi.jp
 0.0.0.0 kigyousien2025.pref.kagoshima.jp
 0.0.0.0 kikuchikouso.net
+0.0.0.0 kimioterasu-community.jp
 0.0.0.0 kimono-ice.com
 0.0.0.0 kimono-yamato-furisode.com
 0.0.0.0 kingram.shop
@@ -1944,6 +1949,7 @@
 0.0.0.0 marusyunn.com
 0.0.0.0 marutaka-nori.co.jp
 0.0.0.0 maruyahonten-osakaumekita.com
+0.0.0.0 mary0902mary.com
 0.0.0.0 masaomi-jyuku.masaomi-takao.com
 0.0.0.0 masaya-pawnshop.com
 0.0.0.0 mash-c.jp
@@ -2461,6 +2467,7 @@
 0.0.0.0 pitariko.jp
 0.0.0.0 pitat-house.info
 0.0.0.0 pitathouse-nishinagahori.jp
+0.0.0.0 pivotjp.com
 0.0.0.0 pl.machibiz.info
 0.0.0.0 plan.117.co.jp
 0.0.0.0 planetarium-cafebar-misora.owst.jp
@@ -2645,6 +2652,7 @@
 0.0.0.0 rmc-mori.jp
 0.0.0.0 robatatokamameshiryu.owst.jp
 0.0.0.0 robatayaki-isshin-nishinakajima.owst.jp
+0.0.0.0 robenstent.shop-pro.jp
 0.0.0.0 robofork.kolec.co.jp
 0.0.0.0 rocbankglobal.com
 0.0.0.0 rokkomeetsart.jp
@@ -2907,6 +2915,7 @@
 0.0.0.0 shingon.jp
 0.0.0.0 shinjuku-4510.jp
 0.0.0.0 shinjuku-will.jp
+0.0.0.0 shinonomesyoudo.owst.jp
 0.0.0.0 shinsakokketanumeda.owst.jp
 0.0.0.0 shinsengumi-noda.owst.jp
 0.0.0.0 shinten-kyoto.owst.jp
@@ -3286,6 +3295,7 @@
 0.0.0.0 terai-hajime.com
 0.0.0.0 tetra.jp
 0.0.0.0 tettirilaboshonai.owst.jp
+0.0.0.0 tgp-koumutenn.com
 0.0.0.0 the-japanese-spirit.com
 0.0.0.0 the-knitbar.com
 0.0.0.0 the-law-office.jp
@@ -3859,6 +3869,7 @@
 0.0.0.0 www.bikekan.jp
 0.0.0.0 www.billion-home.jp
 0.0.0.0 www.biofermin.co.jp
+0.0.0.0 www.birumen-navi.com
 0.0.0.0 www.bishouen.com
 0.0.0.0 www.bitecglobal.com
 0.0.0.0 www.biyoushinkyuu.com
@@ -3869,6 +3880,7 @@
 0.0.0.0 www.boatrace-amagasaki.jp
 0.0.0.0 www.boatrace-sp.com
 0.0.0.0 www.bodyfit-mpn.com
+0.0.0.0 www.bond-street.jp
 0.0.0.0 www.bondjewelry.net
 0.0.0.0 www.bookoff.co.jp
 0.0.0.0 www.boomerang-online.jp
@@ -4152,6 +4164,7 @@
 0.0.0.0 www.eclipsetraveler.com
 0.0.0.0 www.ecnex.jp
 0.0.0.0 www.eco-brains.com
+0.0.0.0 www.eco-hyogo.jp
 0.0.0.0 www.ecocity.jp
 0.0.0.0 www.ecoflow.com
 0.0.0.0 www.ecomo-life.com
