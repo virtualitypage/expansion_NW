@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Accept_domain.txt
 #
-# Last modified: 29 June 2025
+# Last modified: 6 July 2025
 #
 
 # [許可リクエスト]
@@ -20,10 +20,14 @@
 @@||a.pixiv.org
 @@||a3.shared.global.fastly.net
 @@||aa-metrics.beauty.hotpepper.jp
+@@||aapi.buzzsight.co
+@@||abema.go.link
 @@||abs.twimg.com
 @@||access-login.broadcom.com.cdn.cloudflare.net
 @@||access.broadcom.com
 @@||account.prod.devsisters.cloud
+@@||account.proton.me
+@@||account.protonvpn.com
 @@||accounts.google.com
 @@||accounts.pixiv.net
 @@||accounts.youtube.com
@@ -55,6 +59,8 @@
 @@||api.kickoffo.site
 @@||api.mapbox.com
 @@||api.mercari.jp.lan
+@@||api.plugin.myideal.jp
+@@||api.rudderstack.com
 @@||api.smartwaon.com
 @@||api.twitter.com
 @@||api.unnerv.app
@@ -65,7 +71,9 @@
 @@||api.yay.space.lan
 @@||app-api.pixiv.net
 @@||app-static.cf.radiko.jp
+@@||app.bspace.jp
 @@||app.paypay.ne.jp
+@@||app.plugin.myideal.jp
 @@||app4.paypay.ne.jp
 @@||appassets.androidplatform.net
 @@||appassets.androidplatform.net.lan
@@ -110,6 +118,8 @@
 @@||cable.yay.space
 @@||cac-ocsp.digicert.com.edgekey.net
 @@||cacerts.digicert.com
+@@||capi.tigmedia.jp
+@@||capig.stape.jp
 @@||card-ropng.img.sus-staging.com
 @@||cas.yay.space
 @@||cdn-content.ampproject.org
@@ -118,9 +128,11 @@
 @@||cdn.dropboxexperiment.com
 @@||cdn.esupply.co.jp
 @@||cdn.ibispaint.com
+@@||cdn.kusurinomadoguchi.com
 @@||cdn.paypay-card.co.jp
 @@||cdn.smartnews.com
 @@||cdn.st-note.com
+@@||cdn.tigmedia.jp
 @@||cdn.webpush.jp
 @@||cdn.yay.space
 @@||cfl.dropboxstatic.com
@@ -133,6 +145,8 @@
 @@||clients.l.google.com
 @@||cloudfront.net
 @@||cloudfront.net.lan
+@@||cm.nordvpn.com
+@@||cnobi.jp.lan
 @@||coinlog.kairogame.jp
 @@||collector.github.com
 @@||config.mapbox.com
@@ -147,6 +161,7 @@
 @@||contents.app.cocacola.co.jp
 @@||controlplane.tailscale.com
 @@||cookpad.com
+@@||coupon.smartnews.com
 @@||couponbank.relo.jp
 @@||cp10.cloudflare.com
 @@||creative-hozon.com
@@ -157,6 +172,7 @@
 @@||csm.cxpublic.com
 @@||cx.api.itmedia.co.jp
 @@||d.dropbox.com
+@@||d.nordvpn.com
 @@||data.api.streaks.jp
 @@||dc.services.visualstudio.com
 @@||detectportal.firefox.com
@@ -198,14 +214,18 @@
 @@||facebook.com
 @@||fair-navi.com
 @@||fc.itmedia.co.jp
+@@||file.123chat.jp
 @@||file.imanara.jp
 @@||file.kanochat.jp
+@@||file.keycolle.jp
 @@||filerep-replica.ff.avast.com
 @@||flightproxy-apac-teams.trafficmanager.net
 @@||fm-games.zendesk.com
 @@||fonts.gstatic.com
 @@||fonts.gstatic.com.lan
+@@||fotolia-prod-templates.global.ssl.fastly.net
 @@||fp.dropbox.com
+@@||free.buzzsight.co
 @@||fw.gl-inet.com
 @@||g*.gstatic.com
 @@||gacha-lineup.pokapoka-farm.com
@@ -222,6 +242,7 @@
 @@||global.stun.twilio.com.lan
 @@||global.turn.twilio.com
 @@||global.turn.twilio.com.lan
+@@||gm.nijiyome.jp
 @@||golazo1978.net
 @@||group.ntt
 @@||gstatic.com
@@ -234,6 +255,7 @@
 @@||i.ytimg.com
 @@||i.ytimg.com.lan
 @@||ibispaint.com
+@@||ic.nordcdn.com
 @@||id-info.jihs.go.jp
 @@||id.sonyentertainmentnetwork.com
 @@||idlink.cdp.app-box.jp
@@ -241,10 +263,12 @@
 @@||image.itmedia.co.jp
 @@||image.paypay.ne.jp
 @@||images-ext-1.discordapp.net
+@@||images.ctfassets.net
 @@||imanara.jp
 @@||img-global-jp.cpcdn.com
 @@||img-global.cpcdn.com
 @@||img-sketch.pximg.net
+@@||img.buzzsight.co
 @@||img.retsta.jp
 @@||imp.pixiv.net
 @@||instagram.fdel1-4.fna.fbcdn.net
@@ -268,6 +292,7 @@
 @@||kanochat.jp
 @@||kao.demdex.net
 @@||key.streaks.jp
+@@||kit.fontawesome.com
 @@||kochi-univ-med-hosp-api.devglow.net
 @@||kyujin.navitime.co.jp
 @@||l.threads.net
@@ -276,6 +301,7 @@
 @@||live-tver-simul-*.streaks.jp
 @@||live-tver-simul-tbs.streaks.jp
 @@||location.nhk.or.jp
+@@||log.nordot.jp
 @@||log.shufoo.net
 @@||log.snow.me
 @@||log.tailscale.io
@@ -314,6 +340,7 @@
 @@||mtalk.google.com
 @@||mtalk.google.com.lan
 @@||mtcs.nhk.or.jp
+@@||my-coupon-static.smartnews.com
 @@||n.yapp.li
 @@||navismithapis-cdn.com
 @@||newsapi.nhk.or.jp
@@ -324,6 +351,7 @@
 @@||nlab-itmedia-co-jp.cdn.ampproject.org
 @@||nlab.itmedia.co.jp
 @@||noodle2.kairogame.jp
+@@||nordvpn.com
 @@||norton.com
 @@||note.com
 @@||notifications.unnerv.app
@@ -347,6 +375,8 @@
 @@||pai-gm-prod.paypay.ne.jp
 @@||partsa.nikkei.com
 @@||pay.google.com
+@@||pay.sandbox.google.com
+@@||payment.123chat.jp
 @@||payment.kanochat.jp
 @@||payments-graph.instagram.com
 @@||paypay.ne.jp
@@ -375,6 +405,8 @@
 @@||prod.globalsign.map.fastly.net
 @@||program-static.cf.radiko.jp
 @@||program-static.radiko.jp
+@@||proton.me
+@@||protonvpn.com
 @@||proxy.safebrowsing.apple
 @@||prs.paypay.ne.jp
 @@||public-img-comic.pximg.net
@@ -387,22 +419,28 @@
 @@||rainradar.smartnews.com
 @@||realtimesupport.clients6.google.com
 @@||recruitrikunabinext.demdex.net
+@@||reiwa-shinsengumi.com
 @@||remotedesktop.google.com
+@@||reports.proton.me
 @@||retty.me
 @@||ropng.img.sus-staging.com
 @@||s.pximg.net
 @@||s.w.org
 @@||s.ytimg.com
 @@||s0.wp.com
+@@||s1.nordcdn.com
 @@||s3.dualstack.ap-southeast-1.amazonaws.com
 @@||safebrowsing.g.applimg.com
 @@||sakura-checker.jp
+@@||sb.nordcdn.com
+@@||sc-static.net
 @@||scontent-bkk1-1.cdninstagram.com
 @@||scontent-itm1-1.cdninstagram.com.lan
 @@||scontent-itm1-1.scontent-ssn1-1.cdninstagram.com
 @@||scontent-itm1-1.xx.fbcdn.net
 @@||scontent-nrt1-1.cdninstagram.com
 @@||scontent-nrt1-2.cdninstagram.com
+@@||scontent-sin2-3.cdninstagram.com
 @@||sdk.hellouniweb.com
 @@||sdk.rum.aliyuncs.com
 @@||seal.digicert.com
@@ -424,12 +462,14 @@
 @@||sp-*.apkrep.avcdn.net.lan
 @@||sp-*.honzik.avcdn.net
 @@||sp-*.honzik.avcdn.net.lan
+@@||sp-trk.com
 @@||special.sankei.com
 @@||ssai-manifest.streaks.jp
 @@||ssai-variants.streaks.jp
 @@||ssai.api.streaks.jp
 @@||ssl.gstatic.com
 @@||stable.dl2.discordapp.net
+@@||static.addtoany.com
 @@||static.api.virtusize.com
 @@||static.api.virtusize.jp
 @@||static.app-box.jp
@@ -437,6 +477,7 @@
 @@||static.byoinnavi.jp
 @@||static.cdninstagram.com
 @@||static.cookpad.com
+@@||static.line.naver.jp
 @@||static.media.cld.navitime.jp
 @@||static.mercdn.net
 @@||static.mercdn.net.lan
@@ -452,9 +493,12 @@
 @@||sync.im-apps.net
 @@||t.co
 @@||t*.gstatic.com
+@@||t1.diggfun.co
 @@||teams-events-data.trafficmanager.net
 @@||techdocs.broadcom.com
+@@||telemetry.protonvpn.com
 @@||tenor.com
+@@||terms.snow.me
 @@||thumbnail.smartnews.com
 @@||time.windows.com
 @@||timecheck.imanara.jp
@@ -464,6 +508,7 @@
 @@||tracks.streaks.jp
 @@||translate.google.com
 @@||travel.navitime.com
+@@||tsutaeru.cloud
 @@||tunnel.googlezip.net
 @@||tver-metrics.streaks.jp
 @@||tver-metrics.streaks.jp.lan
@@ -482,6 +527,7 @@
 @@||users.app-box.jp
 @@||variants.streaks.jp
 @@||vastproxy-brand-inmobi-comtm.trafficmanager.net
+@@||vday.io
 @@||vec-adm-rain.newsapp.nhk.or.jp
 @@||video-ft.twimg.com
 @@||video-itm1-1.xx.fbcdn.net
@@ -491,9 +537,12 @@
 @@||video.xx.fbcdn.net
 @@||virtualcurrency.kairogame.jp
 @@||vod-tver-*.streaks.jp
+@@||voguecrew.net
+@@||vpncdn.protonweb.com
 @@||w.cf.radiko.jp.cdn.cloudflare.net
 @@||wallet.google.com
 @@||wallet.yay.space
+@@||web-api.nordvpn.com
 @@||web-api.tapon.com
 @@||web.facebook.com
 @@||web.facebook.com.lan
@@ -501,6 +550,7 @@
 @@||workspace.google.com
 @@||worldaz.relay.teams.trafficmanager.net
 @@||www-famitsu-com.cdn.ampproject.org
+@@||www.123chat.jp
 @@||www.adidas.jp
 @@||www.agrinews.co.jp
 @@||www.amazon.co.jp
@@ -508,10 +558,12 @@
 @@||www.bing.com
 @@||www.broadcom.com.cdn.cloudflare.net
 @@||www.cecile.co.jp
+@@||www.city.kami.lg.jp
 @@||www.dropbox.com
 @@||www.ehimeshiryo.com
 @@||www.ekiten.jp
 @@||www.esupply.co.jp
+@@||www.expressvpn.com
 @@||www.facebook.com
 @@||www.facebook.com.lan
 @@||www.gl-inet.com
@@ -522,24 +574,30 @@
 @@||www.icloud.com
 @@||www.instagram.com
 @@||www.itmedia.co.jp
+@@||www.jabank-kochi.jp
 @@||www.jabank.org
 @@||www.jtb.co.jp
 @@||www.juststarz.com
 @@||www.kanochat.jp
+@@||www.keycolle.jp
 @@||www.kfc.co.jp
 @@||www.kochi-u.ac.jp
 @@||www.kochinews.co.jp
 @@||www.kojima.net
 @@||www.komeri.com
 @@||www.kurashiru.com
+@@||www.kusurinomadoguchi.com
 @@||www.lady-drug.co.jp
 @@||www.lawson.co.jp
 @@||www.lifemag.jp
+@@||www.merupero.com
 @@||www.monotaro.com
 @@||www.navitime.co.jp
 @@||www.newsapp.nhk.or.jp
 @@||www.nhk.or.jp
 @@||www.niid.jihs.go.jp
+@@||www.nijiyome.com
+@@||www.nijiyome.jp
 @@||www.nikkei.com
 @@||www.nitori-net.jp
 @@||www.onamae.com
@@ -549,6 +607,7 @@
 @@||www.rd.ntt
 @@||www.recaptcha.net
 @@||www.sankei.com
+@@||www.shikoku.co.jp
 @@||www.shingakunavi.ne.jp
 @@||www.smartnews.be
 @@||www.smartwaon.com
@@ -568,6 +627,9 @@
 @@||www3-nhk-or-jp.cdn.ampproject.org
 @@||x.com
 @@||xandr-g-geo.trafficmanager.net
+@@||xv.imgix.net
+@@||xvdrop.imgix.net
+@@||xvp.imgix.net
 @@||yamato-hd.co.jp
 @@||yapp.li
 @@||youtu.be
@@ -614,8 +676,10 @@
 @@||e35058.api2.akamaiedge.net
 @@||e3811.e9.akamaiedge.net
 @@||gameclub-fp.akamaized.net
+@@||giga-images-makeshop-jp.akamaized.net
 @@||kayzencdn.akamaized.net
 @@||ln-cdn.akamaized.net
+@@||makeshop-multi-images.akamaized.net
 @@||melonbooks.akamaized.net
 @@||p16-sg-default.akamaized.net
 @@||p16-tiktokcdn-com.akamaized.net
@@ -647,12 +711,15 @@
 @@||amp-api.music.apple.com
 @@||apac-asia-courier-4.push-apple.com.akadns.net
 @@||apac-mask.wrr.mask.apple-dns.net
+@@||apac-mask.wrr.me.apple-dns.net
 @@||api-glb-aapne1a.smoot.apple.com
 @@||api-glb-aapne1c.smoot.apple.com
 @@||api-safari-aapne1c.smoot.apple.com
 @@||api.smoot.apple.com
+@@||apis.apple.map.fastly.net
 @@||app-site-association.cdn-apple.com
 @@||app-site-association.cdn-apple.com.akadns.net
+@@||applepay.cdn-apple.com
 @@||apps-mzstatic-cdn.itunes-apple.com.akadns.net
 @@||apps.apple.com
 @@||apptrailers-ssl.itunes.apple.com
@@ -670,6 +737,8 @@
 @@||captive.apple.com
 @@||captive.g.aaplimg.com
 @@||cdn.icloud-content.com
+@@||cdn.smoot.g.aaplimg.com
+@@||cdn2.smoot.apple.com
 @@||cdsassets.apple.com
 @@||client-api.itunes.apple.com
 @@||cma.itunes-apple.com.akadns.net
@@ -682,6 +751,8 @@
 @@||courier-ab-vs.push.apple.com
 @@||croissant.cdn-apple.com
 @@||cstat.cdn-apple.com
+@@||current.jposa3.me.apple-dns.net
+@@||current.jptyo12.me.apple-dns.net
 @@||device-config.pcms.apple.com
 @@||doh.dns.apple.com
 @@||doh.dns.apple.com.v.aaplimg.com
@@ -744,6 +815,7 @@
 @@||mesu-cdn.apple.com.akadns.net
 @@||mesu-cdn.origin-apple.com.akadns.net
 @@||mesu.apple.com
+@@||metricsedge-continent-wrr-cutover.v.aaplimg.com
 @@||ml.cdn-apple.com
 @@||music.apple.com
 @@||musicstatus-apac-s.edge-itunes-apple.com.akadns.net
@@ -882,7 +954,9 @@
 @@||digitalassetlinks.googleapis.com.lan
 @@||discover-pa.googleapis.com
 @@||discover-pa.googleapis.com.lan
+@@||driveactivity.googleapis.com
 @@||drivefrontend-pa.googleapis.com
+@@||drivesharefrontend-pa.googleapis.com
 @@||embeddedassistant-frontend-youtube.googleapis.com
 @@||embeddedassistant.googleapis.com
 @@||familymanagement-pa.googleapis.com
@@ -1121,6 +1195,7 @@
 @@||idpw.data-storage.auone.jp
 @@||imap01.au.com
 @@||img.view.lmd.connect.auone.jp
+@@||k.oprc.jp
 @@||ka-msgcallblock.tobila.com
 @@||kantan-cpn.auone.jp
 @@||kantan-detail.auone.jp
@@ -1175,11 +1250,16 @@
 @@||a.line.me
 @@||a.line.me.akadns.net
 @@||access.line.me
+@@||account-center-fe.line-scdn.net
 @@||ad.line-scdn.net.lan
+@@||ai-friends-api-server.line-apps.com
+@@||ai-friends-web.line-apps.com
 @@||api.line.me
 @@||cac-obs.line-scdn.net.line-zero.akadns.net
 @@||cdn-manga-stf-router-api.line-scdn.net
+@@||cdp.livedoor.com
 @@||ch-news.line-apps.com
+@@||chatapp-admin.line-scdn.net
 @@||crs-event.line.me
 @@||d.line-scdn.net
 @@||game-api.line.me
@@ -1192,10 +1272,13 @@
 @@||lap-click.tr.line.me
 @@||lgw.line-scdn.net
 @@||liff.line.me
+@@||line-manga.blog.jp
 @@||line.me
 @@||linemanga-obs.line-scdn.net
 @@||linemusic-webapp.landpress.line.me
 @@||linevoom.line.me
+@@||livedoor.blogimg.jp
+@@||livedoor.sp.blogimg.jp
 @@||lps-editor-570.landpress.line.me
 @@||lyprec.line-scdn.net
 @@||manga.line.me
@@ -1209,6 +1292,7 @@
 @@||optout-api.tr.line.me
 @@||org-api-tyo-osk-2.line.me.akadns.net
 @@||page.line-scdn.net
+@@||parts.blog.livedoor.jp
 @@||poigacha-api.line-apps.com
 @@||poigacha.line-apps.com
 @@||profile.line-scdn.net
@@ -1227,6 +1311,7 @@
 @@||voom-obs.line-scdn.net
 @@||vos.line-scdn.net
 @@||vos.line-scdn.net.lan
+@@||www.line-website.com
 @@||www.line.me
 @@||yuki-cdn.line-apps.com
 

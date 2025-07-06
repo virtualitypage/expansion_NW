@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_domain.txt
 #
-# Last modified: 29 June 2025
+# Last modified: 6 July 2025
 #
 
 # [拒否リクエスト]
@@ -37,6 +37,7 @@
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 acdn.adnxs.com.lan
+0.0.0.0 ad-nex.com.lan
 0.0.0.0 ad-proxy-reward-rakuten-co-jp.gslb.rdcnw.net
 0.0.0.0 ad.adsrvr.org
 0.0.0.0 ad.appier.net
@@ -63,6 +64,7 @@
 0.0.0.0 aes.ap-southeast.3px.axp.amazon-adsystem.com.lan
 0.0.0.0 aes.fe.ono.axp.amazon-adsystem.com
 0.0.0.0 afs.googleusercontent.com
+0.0.0.0 aggregator.service.usercentrics.eu.lan
 0.0.0.0 aid.send.microad.jp
 0.0.0.0 am.yahoo.co.jp
 0.0.0.0 analytics-h5.rayjump.com
@@ -81,15 +83,18 @@
 0.0.0.0 api.bidmachine.io
 0.0.0.0 api.btrbdf.com
 0.0.0.0 api.bytegle.site
+0.0.0.0 api.flipdesk.jp
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.onegg.site
 0.0.0.0 api.reproio.com
 0.0.0.0 api.rpdt.net
 0.0.0.0 api.smartnews-ads.com
+0.0.0.0 api.snapx.info
 0.0.0.0 api2.branch.io
 0.0.0.0 api3.4dvertible.com
 0.0.0.0 apis.naver.com
 0.0.0.0 apis.naver.com.lan
+0.0.0.0 apiv3-prod.flipdesk.jp
 0.0.0.0 apm.yahoo.co.jp
 0.0.0.0 app-measurement.com
 0.0.0.0 app.adjust.com
@@ -131,6 +136,7 @@
 0.0.0.0 b.im-apps.net
 0.0.0.0 b.logly.co.jp
 0.0.0.0 b.logly.co.jp.lan
+0.0.0.0 b.sharethrough.com
 0.0.0.0 b1.nel.goog
 0.0.0.0 b6.im-apps.net
 0.0.0.0 bid.g.doubleclick.net
@@ -179,6 +185,7 @@
 0.0.0.0 cf.im-apps.net
 0.0.0.0 check-tcp.mtgglobals.com
 0.0.0.0 check-tcp.rayjump.com
+0.0.0.0 check-tcp.rayjump.com.lan
 0.0.0.0 checkout-api.worldshopping.jp
 0.0.0.0 chet.rayjump.com
 0.0.0.0 cksync.yahoo.co.jp
@@ -207,6 +214,7 @@
 0.0.0.0 conn-service-us-05.allawnos.com
 0.0.0.0 conn-service-us-05.allawnos.com.lan
 0.0.0.0 connectid.analytics.yahoo.com
+0.0.0.0 consent-api.service.consent.usercentrics.eu
 0.0.0.0 consent.adjust.com
 0.0.0.0 control.smbeat.jp
 0.0.0.0 control.smbeat.jp.lan
@@ -240,6 +248,7 @@
 0.0.0.0 dmp.im-apps.net.lan
 0.0.0.0 doubleclick.net
 0.0.0.0 doubleclick.net.lan
+0.0.0.0 dr-gate-city-heaven-v2.shinobi.jp
 0.0.0.0 dsb.yahoo.co.jp
 0.0.0.0 dsb.yahooapis.jp
 0.0.0.0 dsb.yahooapis.jp.lan
@@ -279,7 +288,9 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net.lan
 0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 graphql.usercentrics.eu
 0.0.0.0 grp15-ias-rakuten-co-jp.rdcnw.net.akadns.net
+0.0.0.0 gsspat.jp.lan
 0.0.0.0 gui-server-sg.allawnos.com
 0.0.0.0 gw.geoedge.be
 0.0.0.0 h.accesstrade.net
@@ -306,12 +317,14 @@
 0.0.0.0 imp-al-ap.jampp.com
 0.0.0.0 imp-lb-us2.jampp.com
 0.0.0.0 imp-ru-ap.jampp.com
+0.0.0.0 imp.dynalyst.jp
 0.0.0.0 imp.u.send.microad.jp
 0.0.0.0 impression-ap.adikteev.com
 0.0.0.0 impression-asia.liftoff.io
 0.0.0.0 impression-east.liftoff.io
 0.0.0.0 in.treasuredata.com
 0.0.0.0 ins.freevideodownload.pro
+0.0.0.0 inshot.cc
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 iota702.rtb.appier.net
@@ -325,8 +338,10 @@
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js.ademon.net
 0.0.0.0 js.ademon.net.lan
+0.0.0.0 js.chargebee.com
 0.0.0.0 js.dsp.reemo-ad.jp
 0.0.0.0 js.istact.jp
+0.0.0.0 kapetracking.com
 0.0.0.0 kenga.tech
 0.0.0.0 kr-col-ext.nelo.navercorp.com
 0.0.0.0 l.logly.co.jp
@@ -334,6 +349,8 @@
 0.0.0.0 lax1-ib.adnxs.com
 0.0.0.0 lazy-tcp.mtgglobals.com
 0.0.0.0 lazy-tcp.rayjump.com
+0.0.0.0 lazy-tcp.rayjump.com.lan
+0.0.0.0 lf-cdn.coze.cn
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.radiko.jp
 0.0.0.0 log2.radiko.jp
@@ -362,6 +379,7 @@
 0.0.0.0 mt-usw.appiersig.com
 0.0.0.0 mt-usw.appiersig.com.lan
 0.0.0.0 mtg-h5.mtgglobals.com
+0.0.0.0 mtg-h5.mtgglobals.com.lan
 0.0.0.0 mtg-native.mtgglobals.com
 0.0.0.0 mtrack.mtgglobals.com
 0.0.0.0 nam.veta.naver.com
@@ -399,6 +417,7 @@
 0.0.0.0 pm.yahoo.jp
 0.0.0.0 policy-tcp.mtgglobals.com
 0.0.0.0 policy-tcp.rayjump.com
+0.0.0.0 policy-tcp.rayjump.com.lan
 0.0.0.0 poplink-f.probo.biz
 0.0.0.0 pp3-sdkdata-v2-ut.profilepassport.jp
 0.0.0.0 pr-bh.ybp.yahoo.com
@@ -416,6 +435,7 @@
 0.0.0.0 radiomap.vcdn.pos.here.com
 0.0.0.0 rapids.rpdt.net
 0.0.0.0 rcm-fe.amazon-adsystem.com
+0.0.0.0 rd.dynalyst.jp
 0.0.0.0 res.adx.opera.com
 0.0.0.0 research-image-itmedia-co-jp.cdn.ampproject.org
 0.0.0.0 resource5-cdn.ocolt.com
@@ -424,6 +444,7 @@
 0.0.0.0 rpt.cedexis.com
 0.0.0.0 rt.dsp.reemo-ad.jp
 0.0.0.0 rtbtrack-asia.rtblab.net
+0.0.0.0 rtbtrack-asia.rtblab.net.lan
 0.0.0.0 rumcdn.geoedge.be
 0.0.0.0 rus-service-sg.allawnos.com
 0.0.0.0 s-ad.rmp.rakuten.co.jp
@@ -440,6 +461,7 @@
 0.0.0.0 s.logly.co.jp
 0.0.0.0 s.update.adsrvr.org
 0.0.0.0 s0.2mdn.net
+0.0.0.0 s0.sgpstatp.com
 0.0.0.0 s1.adform.net
 0.0.0.0 s2.adform.net
 0.0.0.0 s2s.adjust.com
@@ -536,6 +558,8 @@
 0.0.0.0 tracking.isappcloud.com
 0.0.0.0 trk.atomex.net
 0.0.0.0 ts.amazon-adsystem.com
+0.0.0.0 ts.foisonad.com
+0.0.0.0 uct.service.usercentrics.eu
 0.0.0.0 uh.nakanohito.jp
 0.0.0.0 unified.adsafeprotected.com
 0.0.0.0 universe.send.microad.jp
@@ -548,7 +572,6 @@
 0.0.0.0 user-profile.isappcloud.com
 0.0.0.0 users.popinfo.jp
 0.0.0.0 ut.rd.linksynergy.com
-0.0.0.0 v16m-default.akamaized.net
 0.0.0.0 vad-bid.adsrvr.org
 0.0.0.0 vam-bid.adsrvr.org
 0.0.0.0 vc-brain.ndcpp-os.com
@@ -585,6 +608,7 @@
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www.npttech.com
+0.0.0.0 wwwc.netcrew-analysis.jp
 0.0.0.0 x9.shinobi.jp
 0.0.0.0 xa.shinobi.jp
 0.0.0.0 yads.c.yimg.jp
@@ -643,6 +667,7 @@
 0.0.0.0 assets-popup.article.squadbeyond.com
 0.0.0.0 assets-v2.article.squadbeyond.com
 0.0.0.0 assets.jivox.com
+0.0.0.0 assets.mintegral.com.lan
 0.0.0.0 at.outbrain.com
 0.0.0.0 at.outbrain.com.lan
 0.0.0.0 at.teads.tv
@@ -696,6 +721,8 @@
 0.0.0.0 content-static.pstatic.net
 0.0.0.0 contextual.media.net
 0.0.0.0 cookie.sync.usonar.jp
+0.0.0.0 creative-cdn77.bidease.com
+0.0.0.0 creative-redirect.bidease.com
 0.0.0.0 creative.stackadapt.com
 0.0.0.0 creativecdn.com
 0.0.0.0 creativecdn.com.lan
@@ -747,9 +774,12 @@
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 ghent-gce-jp.bidswitch.net
 0.0.0.0 got.asia-se1gcp1.pubnative.net
+0.0.0.0 graph-fallback.instagram.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 graph.instagram.com.lan
 0.0.0.0 grid.bidswitch.net
+0.0.0.0 groundcontrol.rendering.sharethrough.com
+0.0.0.0 hblg.media.net
 0.0.0.0 hbopenbid-nrt10.pubmatic.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hbopenbid.pubmatic.com.lan
@@ -803,6 +833,7 @@
 0.0.0.0 micro.rubiconproject.com
 0.0.0.0 micro.rubiconproject.com.lan
 0.0.0.0 mobile-api.rokt.com
+0.0.0.0 mobile-api.rokt.com.lan
 0.0.0.0 ms-ads-events-apne1.prod.cloud.ogury.io
 0.0.0.0 ms-ads-monitoring-events.prod.cloud.ogury.io
 0.0.0.0 ms-ads.prod.cloud.ogury.io
@@ -816,6 +847,7 @@
 0.0.0.0 ow.pubmatic.com.lan
 0.0.0.0 p.teads.tv
 0.0.0.0 paid.outbrain.com
+0.0.0.0 phone-manager-gl.heytapmobile.com
 0.0.0.0 pix.adrta.com
 0.0.0.0 pixel-apac.rubiconproject.com
 0.0.0.0 pixel-apac.rubiconproject.com.lan
@@ -825,8 +857,11 @@
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel.rubiconproject.com.lan
 0.0.0.0 placements.tapjoy.com
+0.0.0.0 play.mintegral.com
+0.0.0.0 playable.mintegral.com
 0.0.0.0 playercdn.jivox.com
 0.0.0.0 pm.w55c.net
+0.0.0.0 pok.mintegral.net
 0.0.0.0 prebid-a.rubiconproject.com
 0.0.0.0 prebid-asia.creativecdn.com
 0.0.0.0 prebid-asia.creativecdn.com.lan
@@ -945,6 +980,7 @@
 0.0.0.0 vt.outbrain.com
 0.0.0.0 vt.outbrain.com.lan
 0.0.0.0 vtrk.doubleverify.com
+0.0.0.0 warp.media.net
 0.0.0.0 wave.outbrain.com
 0.0.0.0 wcscv.valuecommerce.com
 0.0.0.0 widget-pixels.outbrain.com
@@ -1012,6 +1048,7 @@
 0.0.0.0 qbhozv-gcdsdk.appsflyersdk.com
 0.0.0.0 qkjbfq-gcdsdk.appsflyersdk.com
 0.0.0.0 statgw.devtodev.com.lan
+0.0.0.0 tys9m3-dlsdk.appsflyersdk.com
 0.0.0.0 upj2lp-pia.appsflyersdk.com
 0.0.0.0 viap.appsflyersdk.com
 0.0.0.0 wa.appsflyer.com
@@ -1249,6 +1286,7 @@
 0.0.0.0 vast-events.inner-active.mobi.lan
 0.0.0.0 waterfall.inner-active.mobi
 0.0.0.0 wv.inner-active.mobi
+0.0.0.0 wv.inner-active.mobi.lan
 
 # [netease]
 0.0.0.0 acsdk.gameyw.easebar.com
@@ -1268,7 +1306,10 @@
 # [pangle (TikTok for Business が運営するアドネットワーク)]
 0.0.0.0 api16-access-sg.pangle.io
 0.0.0.0 api16-access-sg.pangle.io.lan
+0.0.0.0 api16-access-ttp-b.tiktokpangle.us
+0.0.0.0 api16-access-ttp.tiktokpangle-b.us
 0.0.0.0 api16-access-ttp.tiktokpangle.us
+0.0.0.0 api16-access-ttp.tiktokpangle.us.lan
 0.0.0.0 api16-dual-event-sg2.pangle.io
 0.0.0.0 api16-dual-event-sg2.pangle.io.lan
 0.0.0.0 api16-event-sg2.pangle.io
@@ -1325,6 +1366,7 @@
 /mssdk[0-9]*-normal-alisg.tiktokv.com/
 /oec[0-9]*-normal-alisg.tiktokv.com/
 /p[0-9]*-amd-va.tiktokcdn.com/
+/p[0-9]*-h1-sign-sg.ibyteimg.com/
 /p[0-9]*-sg.tiktokcdn.com.lan/
 /p[0-9]*-sg.tiktokcdn.com/
 /p[0-9]*-sign-va.tiktokcdn.com/
@@ -1332,8 +1374,13 @@
 /p[0-9]*-tiktokcdn-com.akamaized.net/
 /p[0-9]*-tiktokyoyo-va.ibyteimg.com/
 /p[0-9]*-useast2a.tiktokcdn.com/
+/p[0-9]*-vimo-sg.ibyteimg.com/
 /p[0-9]*-webcast.tiktokcdn.com/
 /pitaya[0-9]*-normal-alisg.tiktokv.com/
+/pull-flv-f[0-9]*-sg01.tiktokcdn.com.lan/
+/pull-flv-l[0-9]*-sg01.tiktokrow-cdn.com/
+/pull-flv-l[0-9]*-va01.tiktokcdn.com.lan/
+/pull-hls-f[0-9]*-sg01.tiktokcdn.com.lan/
 /rtlog[0-9]*-normal-alisg.tiktokv.com/
 /search[0-9]*-normal-c-alisg.tiktokv.com.lan/
 /search[0-9]*-normal-c-alisg.tiktokv.com/
@@ -1437,6 +1484,9 @@
 0.0.0.0 pitaya-sg.tiktokv.com
 0.0.0.0 pitaya-sg.tiktokv.com.lan
 0.0.0.0 pitaya.tiktokv.com
+0.0.0.0 pull-o5-sg01.tiktokrow-cdn.com
+0.0.0.0 pull-o5-va01.tiktokrow-cdn.com
+0.0.0.0 push-rtmp-l1-sg01.tiktokrow-cdn.com
 0.0.0.0 sf-hs-sg.ibytedtos.com
 0.0.0.0 sf-i18n-resources.tiktokcdn.com.ttdns2.com^$client=~192.168.8.117
 0.0.0.0 sf-static.tiktokcdn.com^$client=~192.168.8.117
