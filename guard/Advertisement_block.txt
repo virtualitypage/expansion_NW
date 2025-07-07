@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 6 July 2025
+# Last modified: 7 July 2025
 #
 
 # [広告全般]
@@ -516,6 +516,7 @@
 0.0.0.0 chusho-invoice.go.jp
 0.0.0.0 chuwincle.co.jp
 0.0.0.0 ciensee.com
+0.0.0.0 cilel.jp
 0.0.0.0 citizen.jp
 0.0.0.0 city.living.jp
 0.0.0.0 citybearnippori.owst.jp
@@ -1236,6 +1237,7 @@
 0.0.0.0 housefreedom.co.jp
 0.0.0.0 housing-garden.jp
 0.0.0.0 housing.hicbc.com
+0.0.0.0 howaitey.owst.jp
 0.0.0.0 howdyplus.com
 0.0.0.0 hoyeon.plaync.com
 0.0.0.0 hr-basis.com
@@ -1386,6 +1388,7 @@
 0.0.0.0 jafplaza.com
 0.0.0.0 jagoo.co.jp
 0.0.0.0 jammarineclub.com
+0.0.0.0 jankara.ne.jp
 0.0.0.0 japan-food.guide
 0.0.0.0 japan-staff.jp
 0.0.0.0 japanbusonline.com
@@ -1545,6 +1548,7 @@
 0.0.0.0 kanimitsu.com
 0.0.0.0 kankokuryori-anpan.owst.jp
 0.0.0.0 kankokuryourichingu.owst.jp
+0.0.0.0 kankokuushinabesenta.owst.jp
 0.0.0.0 kankokuyakinikuchou.owst.jp
 0.0.0.0 kankomirai-ouen.jp
 0.0.0.0 kansai-boatshow.jp
@@ -1731,6 +1735,7 @@
 0.0.0.0 kuwanagareed.theshop.jp
 0.0.0.0 kuzira-mizu.com
 0.0.0.0 kyodonewsprwire.jp
+0.0.0.0 kyoei-lp.com
 0.0.0.0 kyokamaboko.co.jp
 0.0.0.0 kyokuto-boueki.com
 0.0.0.0 kyomachi-icchyoume.owst.jp
@@ -1883,6 +1888,7 @@
 0.0.0.0 m.shein.com
 0.0.0.0 m.sumitaie.co.jp
 0.0.0.0 m.unove.jp
+0.0.0.0 m.woolaa.com
 0.0.0.0 m001.mljinc.jp
 0.0.0.0 m004.arj7177.jp
 0.0.0.0 m004.yamanashi-bmw.com
@@ -2257,6 +2263,7 @@
 0.0.0.0 nomie.jp
 0.0.0.0 nomisukeyasu.owst.jp
 0.0.0.0 nonno.hpplus.jp
+0.0.0.0 noom-grandfrontosaka.owst.jp
 0.0.0.0 northernterritory.com
 0.0.0.0 norudake-kyoto.com
 0.0.0.0 note-infomart.jp
@@ -2444,6 +2451,7 @@
 0.0.0.0 pengy-magic.penguin-colony.net
 0.0.0.0 penmaru.com
 0.0.0.0 pension-cruise.com
+0.0.0.0 penthousesbell.owst.jp
 0.0.0.0 persol-hrpartners.co.jp
 0.0.0.0 personal.canon.jp
 0.0.0.0 pestalozzi-tech.com
@@ -3200,6 +3208,7 @@
 0.0.0.0 systema.lion.co.jp
 0.0.0.0 syugao.com
 0.0.0.0 t.afi-b.com
+0.0.0.0 t.pia.jp
 0.0.0.0 tabe-repo.net
 0.0.0.0 tabihaku2025.com
 0.0.0.0 tabiiro.jp
@@ -4550,6 +4559,7 @@
 0.0.0.0 www.icturn4.com
 0.0.0.0 www.idaten.ne.jp
 0.0.0.0 www.idc.hinet.net
+0.0.0.0 www.ids-soft.co.jp
 0.0.0.0 www.idumi-s.com
 0.0.0.0 www.ie-miru.jp
 0.0.0.0 www.ienavi-osaka.net
@@ -5202,6 +5212,7 @@
 0.0.0.0 www.nomura-am.co.jp
 0.0.0.0 www.nomura-landport.com
 0.0.0.0 www.nondact89.com
+0.0.0.0 www.nonopiano.com
 0.0.0.0 www.nordsonmedical.com
 0.0.0.0 www.nostimia.com
 0.0.0.0 www.notalone-cao.go.jp
@@ -6025,6 +6036,7 @@
 0.0.0.0 www.westin-osaka.co.jp
 0.0.0.0 www.westjr.co.jp
 0.0.0.0 www.westpandi.com
+0.0.0.0 www.whatz.info
 0.0.0.0 www.white-choco.top
 0.0.0.0 www.wickedthemusical.co.uk
 0.0.0.0 www.wills.co.jp
@@ -6179,6 +6191,7 @@
 0.0.0.0 yamatane-museum.com
 0.0.0.0 yamato-signage.com
 0.0.0.0 yamatonikudori-sakurahara.owst.jp
+0.0.0.0 yamatsugu-kinkakuji.owst.jp
 0.0.0.0 yamatsujiiin.com
 0.0.0.0 yamawake-estate.jp
 0.0.0.0 yamawarau.owst.jp
