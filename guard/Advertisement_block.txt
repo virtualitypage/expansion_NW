@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 7 July 2025
+# Last modified: 8 July 2025
 #
 
 # [広告全般]
@@ -528,6 +528,7 @@
 0.0.0.0 cl.unisize.makip.co.jp
 0.0.0.0 clean-labo.net
 0.0.0.0 cleanapovn.com
+0.0.0.0 cleanlife-center.com
 0.0.0.0 cleanup.jp
 0.0.0.0 cledit.jp
 0.0.0.0 cleverly-kochi.com
@@ -785,6 +786,7 @@
 0.0.0.0 enahome.co.jp
 0.0.0.0 encourage-inc.jp
 0.0.0.0 enemacoffeereview.com
+0.0.0.0 enemanex.jp
 0.0.0.0 eneos-cl.com
 0.0.0.0 energy-kyoiku.meti.go.jp
 0.0.0.0 enfant.living.jp
@@ -1091,6 +1093,8 @@
 0.0.0.0 hairvino.com
 0.0.0.0 haisha-yoyaku-blog.jp
 0.0.0.0 hakabanogarou.jp
+0.0.0.0 hakata-shomon.owst.jp
+0.0.0.0 hakata-tobiuo.com
 0.0.0.0 hakatamotunabetoyakimono-hajime.owst.jp
 0.0.0.0 hakkaexam.hakka.gov.tw
 0.0.0.0 hakoban.com
@@ -1616,6 +1620,7 @@
 0.0.0.0 kidukikagayaki.owst.jp
 0.0.0.0 kigkt.cersi.jp
 0.0.0.0 kigyousien2025.pref.kagoshima.jp
+0.0.0.0 kijin.owst.jp
 0.0.0.0 kikuchikouso.net
 0.0.0.0 kimioterasu-community.jp
 0.0.0.0 kimono-ice.com
@@ -2232,6 +2237,7 @@
 0.0.0.0 nikudokoro-mo-shabutantan.owst.jp
 0.0.0.0 nikudokorodebeso.owst.jp
 0.0.0.0 nikunoikezawa.shop-pro.jp
+0.0.0.0 nikunoirie.owst.jp
 0.0.0.0 nikunotajimatsuhan.com
 0.0.0.0 nikunotakumi-chitaya.owst.jp
 0.0.0.0 nikusho-ichie.com
@@ -2718,6 +2724,7 @@
 0.0.0.0 sakancoubou.com
 0.0.0.0 sakedininglit.owst.jp
 0.0.0.0 sakeikki.base.shop
+0.0.0.0 saketomeshi-tiger.owst.jp
 0.0.0.0 sakura-ju.co.jp
 0.0.0.0 sakura-kozo.jp
 0.0.0.0 sakurabito.jp
@@ -3080,6 +3087,7 @@
 0.0.0.0 spianato1618.base.shop
 0.0.0.0 spibrg.jp
 0.0.0.0 spicaglow.jp
+0.0.0.0 spiceshokudothreestar.owst.jp
 0.0.0.0 spidoor.jp
 0.0.0.0 spikomi.net
 0.0.0.0 splus.website
@@ -3300,6 +3308,7 @@
 0.0.0.0 tensei-osaka.com
 0.0.0.0 tenshoku.mynavi.jp
 0.0.0.0 teppannyakisyokudouren.owst.jp
+0.0.0.0 teppansakenokigaru.owst.jp
 0.0.0.0 teppantaisyuusakabayoshikawa.owst.jp
 0.0.0.0 terai-hajime.com
 0.0.0.0 tetra.jp
@@ -3368,6 +3377,7 @@
 0.0.0.0 topgunairtx.com
 0.0.0.0 toptoon.jp
 0.0.0.0 topwing.jp
+0.0.0.0 toraiz.jp
 0.0.0.0 toranoana-lab.co.jp
 0.0.0.0 torcroftlodges.com
 0.0.0.0 torihamannenohatsutenjin.owst.jp
@@ -3475,6 +3485,7 @@
 0.0.0.0 unicorn-overlord.com
 0.0.0.0 unima.co.jp
 0.0.0.0 united-clinic.com
+0.0.0.0 unity-2008.com
 0.0.0.0 universe-co.com
 0.0.0.0 uno-hotel.com
 0.0.0.0 unove.jp
@@ -3833,6 +3844,7 @@
 0.0.0.0 www.axis-net.co.jp
 0.0.0.0 www.ayano-craft.co.jp
 0.0.0.0 www.az-art.net
+0.0.0.0 www.azuri-group.co.jp
 0.0.0.0 www.b-conplaza.jp
 0.0.0.0 www.b-race.jp
 0.0.0.0 www.babaramen.com
@@ -4551,6 +4563,7 @@
 0.0.0.0 www.iaagamego.com
 0.0.0.0 www.ibexair.co.jp
 0.0.0.0 www.ice-yoji.com
+0.0.0.0 www.ichifuji-f.jp
 0.0.0.0 www.ichijo-homeloan.jp
 0.0.0.0 www.ichijo.co.jp
 0.0.0.0 www.ichinoyu.co.jp
@@ -5324,6 +5337,7 @@
 0.0.0.0 www.osg.co.jp
 0.0.0.0 www.oshimaya.jp
 0.0.0.0 www.osoujihonpo.com
+0.0.0.0 www.otabisyo-fukuoka.com
 0.0.0.0 www.otafuku.co.jp
 0.0.0.0 www.otakaraya.jp
 0.0.0.0 www.otani.ac.jp
@@ -6131,6 +6145,7 @@
 0.0.0.0 www.zeczec.com
 0.0.0.0 www.zei119.co.jp
 0.0.0.0 www.zeiri4.com
+0.0.0.0 www.zendesk.co.jp
 0.0.0.0 www.zenrosai.coop
 0.0.0.0 www.zentaku.or.jp
 0.0.0.0 www.zero-office.biz
@@ -6166,6 +6181,7 @@
 0.0.0.0 yakiniku-ichigyu.owst.jp
 0.0.0.0 yakiniku-ninjin-nishikawaguchi.owst.jp
 0.0.0.0 yakiniku-royal.com
+0.0.0.0 yakiniku-sanku.owst.jp
 0.0.0.0 yakiniku-tanabata.owst.jp
 0.0.0.0 yakiniku-taru.owst.jp
 0.0.0.0 yakiniku-tenngetsu.owst.jp
