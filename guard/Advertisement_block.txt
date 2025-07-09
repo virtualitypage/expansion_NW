@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 8 July 2025
+# Last modified: 9 July 2025
 #
 
 # [広告全般]
@@ -132,6 +132,7 @@
 0.0.0.0 akr1440658677.owst.jp
 0.0.0.0 akr1443183977.owst.jp
 0.0.0.0 akr1520790650.owst.jp
+0.0.0.0 akr1776211008.owst.jp
 0.0.0.0 akr2241836267.owst.jp
 0.0.0.0 akr2486995891.owst.jp
 0.0.0.0 akr3187181130.owst.jp
@@ -890,6 +891,7 @@
 0.0.0.0 form.run
 0.0.0.0 form2024.shinkin-cp.com
 0.0.0.0 forms.office.com
+0.0.0.0 forseasons-group.com
 0.0.0.0 fortune-moon.net
 0.0.0.0 four-foods.com
 0.0.0.0 fp-professional.com
@@ -999,6 +1001,7 @@
 0.0.0.0 gion-museum.com
 0.0.0.0 gkk-campaign.jp
 0.0.0.0 glampicks.jp
+0.0.0.0 glassartkuroki-shop.com
 0.0.0.0 global-content.co
 0.0.0.0 global.beautyloungeclinic.com
 0.0.0.0 global.jr-central.co.jp
@@ -1557,6 +1560,7 @@
 0.0.0.0 kankomirai-ouen.jp
 0.0.0.0 kansai-boatshow.jp
 0.0.0.0 kansai-elevator.co.jp
+0.0.0.0 kant-tokyo.com
 0.0.0.0 kao-welcia.campar.jp
 0.0.0.0 kappodo.com
 0.0.0.0 karadak.com
@@ -2236,6 +2240,7 @@
 0.0.0.0 nikubarmuu.com
 0.0.0.0 nikudokoro-mo-shabutantan.owst.jp
 0.0.0.0 nikudokorodebeso.owst.jp
+0.0.0.0 nikumarusannnomiya.owst.jp
 0.0.0.0 nikunoikezawa.shop-pro.jp
 0.0.0.0 nikunoirie.owst.jp
 0.0.0.0 nikunotajimatsuhan.com
@@ -2664,6 +2669,7 @@
 0.0.0.0 rivertrain-forest.click
 0.0.0.0 rlx.jp
 0.0.0.0 rmc-mori.jp
+0.0.0.0 robata-yutaka.owst.jp
 0.0.0.0 robatatokamameshiryu.owst.jp
 0.0.0.0 robatayaki-isshin-nishinakajima.owst.jp
 0.0.0.0 robenstent.shop-pro.jp
@@ -3372,6 +3378,7 @@
 0.0.0.0 tomotaqu.com
 0.0.0.0 tomoyoshi-moriguti.owst.jp
 0.0.0.0 tomurashinshinan.owst.jp
+0.0.0.0 tomyoden.com
 0.0.0.0 tonmani.owst.jp
 0.0.0.0 top-generator.com
 0.0.0.0 topgunairtx.com
@@ -4658,6 +4665,7 @@
 0.0.0.0 www.jabank-ehime.or.jp
 0.0.0.0 www.jackery.jp
 0.0.0.0 www.jacksonhole.com
+0.0.0.0 www.jaguar-landrover-fukuoka.net
 0.0.0.0 www.jaguar.co.jp
 0.0.0.0 www.jaguarcatfood.jp
 0.0.0.0 www.jaist.ac.jp
@@ -4851,6 +4859,7 @@
 0.0.0.0 www.kokuchpro.com
 0.0.0.0 www.kokushikan.ac.jp
 0.0.0.0 www.kolkatabeckons.com.sg
+0.0.0.0 www.koma-ke.com
 0.0.0.0 www.komeda.co.jp
 0.0.0.0 www.kominami.co.jp
 0.0.0.0 www.komyokaku.jp
@@ -5102,6 +5111,7 @@
 0.0.0.0 www.motionape.com
 0.0.0.0 www.motu-ooyama.com
 0.0.0.0 www.mouse-jp.co.jp
+0.0.0.0 www.moveon-jpn.com
 0.0.0.0 www.mrkm.cc
 0.0.0.0 www.mrpro.co.jp
 0.0.0.0 www.ms-ins.com
@@ -5609,6 +5619,7 @@
 0.0.0.0 www.shabu-yuzuan.jp
 0.0.0.0 www.shadow-garden-mog.jp
 0.0.0.0 www.shakker.ai
+0.0.0.0 www.shangri-la.com
 0.0.0.0 www.sharecoto.co.jp
 0.0.0.0 www.sharkninja.jp
 0.0.0.0 www.shc.co.jp
@@ -5855,6 +5866,7 @@
 0.0.0.0 www.tiger-corporation.com
 0.0.0.0 www.tigerairtw.com
 0.0.0.0 www.tileshop-tamagawa.com
+0.0.0.0 www.tioj.or.jp
 0.0.0.0 www.tir.ac.jp
 0.0.0.0 www.tirepit.jp
 0.0.0.0 www.tirewheel-ec.com
@@ -6216,6 +6228,7 @@
 0.0.0.0 yanase-audi.com
 0.0.0.0 yanba-rikimaru.com
 0.0.0.0 yanyuetong.com.hk
+0.0.0.0 yaojihakatahotel-holyblue.owst.jp
 0.0.0.0 yaoya-sannomiya.owst.jp
 0.0.0.0 yappari-hawaii.jp
 0.0.0.0 yasuda-ltd.jp
