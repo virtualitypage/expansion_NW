@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 9 July 2025
+# Last modified: 10 July 2025
 #
 
 # [広告全般]
@@ -180,6 +180,7 @@
 0.0.0.0 amanitadesign.com
 0.0.0.0 amann55.com
 0.0.0.0 amarekyoto.owst.jp
+0.0.0.0 amato-urananba.owst.jp
 0.0.0.0 ambercorp.co.jp
 0.0.0.0 american-accent-course.teachable.com
 0.0.0.0 ametelas.owst.jp
@@ -1014,6 +1015,7 @@
 0.0.0.0 glowonline.jp
 0.0.0.0 gmobb.jp
 0.0.0.0 gng.thebase.in
+0.0.0.0 go-highschool.com
 0.0.0.0 go-ihghotels.reservation.jp
 0.0.0.0 go-makesense.com
 0.0.0.0 go-taiwan.net
@@ -1876,6 +1878,7 @@
 0.0.0.0 lp2.m-kun.com
 0.0.0.0 lp6.infinity-cpa.jp
 0.0.0.0 lps.plarium.com
+0.0.0.0 lucky-bed.com
 0.0.0.0 lucuaosaka-recruit.jp
 0.0.0.0 lululun.com
 0.0.0.0 luna-ashiya.com
@@ -2953,6 +2956,7 @@
 0.0.0.0 shokai-walker.jp
 0.0.0.0 shokouzan.com
 0.0.0.0 shokumitennka.owst.jp
+0.0.0.0 sholayered.jp
 0.0.0.0 shonan-dining.com
 0.0.0.0 shop-bargain.site
 0.0.0.0 shop-list.com
@@ -3278,6 +3282,7 @@
 0.0.0.0 tarezou.com
 0.0.0.0 targety.jp
 0.0.0.0 tarspay.com
+0.0.0.0 tarzanweb.jp
 0.0.0.0 tasaki-s.co.jp
 0.0.0.0 taslab.jp
 0.0.0.0 taste-europe.asia
@@ -3317,6 +3322,7 @@
 0.0.0.0 teppansakenokigaru.owst.jp
 0.0.0.0 teppantaisyuusakabayoshikawa.owst.jp
 0.0.0.0 terai-hajime.com
+0.0.0.0 teramachi-kura.owst.jp
 0.0.0.0 tetra.jp
 0.0.0.0 tettirilaboshonai.owst.jp
 0.0.0.0 tgp-koumutenn.com
@@ -3441,6 +3447,7 @@
 0.0.0.0 tsuruyoshi-jinbocho.owst.jp
 0.0.0.0 tsutaya.tsite.jp
 0.0.0.0 tsuyama-lp.com
+0.0.0.0 tukinagomi.owst.jp
 0.0.0.0 tunageru-p.jp
 0.0.0.0 tuneforest.jp
 0.0.0.0 turboterminaltractors.com
@@ -4153,9 +4160,11 @@
 0.0.0.0 www.dominos.jp
 0.0.0.0 www.dospara.co.jp
 0.0.0.0 www.dot-st.com
+0.0.0.0 www.dotabis.com
 0.0.0.0 www.dr-navip.jp
 0.0.0.0 www.dream-stage.net
 0.0.0.0 www.dreammail.jp
+0.0.0.0 www.dreamwks.com
 0.0.0.0 www.drgc.jp
 0.0.0.0 www.drinkkohodo.com
 0.0.0.0 www.driver-haken.com
@@ -5441,6 +5450,7 @@
 0.0.0.0 www.pref.osaka.lg.jp
 0.0.0.0 www.pref.saitama.lg.jp
 0.0.0.0 www.pref.tottori.lg.jp
+0.0.0.0 www.premiere-grp.com
 0.0.0.0 www.premiumoutlets.co.jp
 0.0.0.0 www.pressance-arge.com
 0.0.0.0 www.pressance-group.jp
@@ -5909,6 +5919,7 @@
 0.0.0.0 www.tomei-riso.jp
 0.0.0.0 www.tomesode-myselect.com
 0.0.0.0 www.tomiya.co.jp
+0.0.0.0 www.tomsawyer-club.jp
 0.0.0.0 www.tomshuppan.co.jp
 0.0.0.0 www.toolmarq.com
 0.0.0.0 www.topcard.co.jp
@@ -5941,6 +5952,7 @@
 0.0.0.0 www.trekbikes.com
 0.0.0.0 www.trendmicro.com
 0.0.0.0 www.trialfoods.jp
+0.0.0.0 www.tripbasestyle.com
 0.0.0.0 www.tripetonlineshop.com.tw
 0.0.0.0 www.triumphmotorcycles.jp
 0.0.0.0 www.trivago.jp
