@@ -4,7 +4,7 @@
 # References: querylog
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Restricted_domain.txt
 #
-# Last modified: 15 June 2025
+# Last modified: 13 July 2025
 #
 
 # [Restricted Domain]
@@ -122,7 +122,6 @@
 @@||tnc*-normal-my.tiktokv.com^$client=192.168.8.117
 @@||tos-quic-kix1b.tiktokcdn.com^$client=192.168.8.117
 @@||translate.mpsdk.easebar.com^$client=192.168.8.117
-@@||twicomi.com^$client=192.168.8.117
 @@||twiman.net^$client=192.168.8.117
 @@||unisdk.proxima.nie.easebar.com^$client=192.168.8.117
 @@||unisdk.update.easebar.com^$client=192.168.8.117
