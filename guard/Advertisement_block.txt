@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 12 July 2025
+# Last modified: 13 July 2025
 #
 
 # [広告全般]
@@ -475,6 +475,7 @@
 0.0.0.0 case-studies.ipa.go.jp
 0.0.0.0 casge-town.jp
 0.0.0.0 cashimu.jp
+0.0.0.0 castel.jp
 0.0.0.0 castello.owst.jp
 0.0.0.0 cat.benesse.ne.jp
 0.0.0.0 catalog.toubi.co.jp
@@ -1451,6 +1452,7 @@
 0.0.0.0 joshinweb.jp
 0.0.0.0 joto-yuzunoki-hoikuen.com
 0.0.0.0 jovialse.store
+0.0.0.0 joydot.org
 0.0.0.0 joyfit-west.jp
 0.0.0.0 joylife.alsok.co.jp
 0.0.0.0 jp.apkpac.com
@@ -1662,6 +1664,7 @@
 0.0.0.0 kitaosaka-souzoku-center.com
 0.0.0.0 kitashinchi-hashimoto.owst.jp
 0.0.0.0 kitashinnchiushinozennpremium.owst.jp
+0.0.0.0 kizuna-community.com
 0.0.0.0 kj8-thegame.com
 0.0.0.0 kk-takada.com
 0.0.0.0 kklounge.karaokekan.jp
@@ -1999,6 +2002,7 @@
 0.0.0.0 matsuyama.citroen-dealer.jp
 0.0.0.0 matsuzukigyouseisyoshi.com
 0.0.0.0 maunakealiving.com
+0.0.0.0 maxworld.co.jp
 0.0.0.0 mayutan.com
 0.0.0.0 mb-hakata.com
 0.0.0.0 mbcc-c.com
@@ -2028,6 +2032,7 @@
 0.0.0.0 meimontakumi.owst.jp
 0.0.0.0 meitsu97.jp
 0.0.0.0 mellobaby.net
+0.0.0.0 meltingpotdb.com
 0.0.0.0 mens-cut.net
 0.0.0.0 mens-rinx.jp
 0.0.0.0 mens.datsumo-hikaku.jp
@@ -2409,6 +2414,7 @@
 0.0.0.0 oripamarket.thebase.in
 0.0.0.0 oripaone.jp
 0.0.0.0 ortho-mouthpiece-jp.life
+0.0.0.0 oryouri-ginro.owst.jp
 0.0.0.0 os-insourcring.bluememe.jp
 0.0.0.0 os.sinto.co.jp
 0.0.0.0 osaka-classic-car-expo.jp
@@ -2574,6 +2580,7 @@
 0.0.0.0 ps.nikkei.com
 0.0.0.0 pspo.jp
 0.0.0.0 psta.co.jp
+0.0.0.0 psycology-of-finance.com
 0.0.0.0 pt-eye.com
 0.0.0.0 public-connect.jp
 0.0.0.0 public.lec-jp.com
@@ -3347,6 +3354,7 @@
 0.0.0.0 teppannyakisyokudouren.owst.jp
 0.0.0.0 teppansakenokigaru.owst.jp
 0.0.0.0 teppantaisyuusakabayoshikawa.owst.jp
+0.0.0.0 teppou-kyouto.owst.jp
 0.0.0.0 terai-hajime.com
 0.0.0.0 teramachi-kura.owst.jp
 0.0.0.0 tetra.jp
@@ -3392,6 +3400,7 @@
 0.0.0.0 tokitomo-tatami-lp.jp
 0.0.0.0 tokusensuzuki.com
 0.0.0.0 tokuyuuchin-kyoto.jp
+0.0.0.0 tokyo-cinderella.jp
 0.0.0.0 tokyo-kaveri.com
 0.0.0.0 tokyo-mansion.biz
 0.0.0.0 tokyo-medical.jp
@@ -3727,6 +3736,7 @@
 0.0.0.0 www.accent-aigu.com
 0.0.0.0 www.accenture.com
 0.0.0.0 www.acdoorfacility.com
+0.0.0.0 www.ace.jp
 0.0.0.0 www.aceeatserve.com
 0.0.0.0 www.acess.jp
 0.0.0.0 www.achilles.jp
@@ -4794,6 +4804,7 @@
 0.0.0.0 www.kaitaitochigi.com
 0.0.0.0 www.kaitori-daikichi.jp
 0.0.0.0 www.kaitori-massan.com
+0.0.0.0 www.kaitori-world.jp
 0.0.0.0 www.kaitoritop.jp
 0.0.0.0 www.kaji-kawa.jp
 0.0.0.0 www.kakiharafamily.com
@@ -5219,6 +5230,7 @@
 0.0.0.0 www.nenkin.go.jp
 0.0.0.0 www.nerima.co.jp
 0.0.0.0 www.net-bizs.jp
+0.0.0.0 www.net-qp.com
 0.0.0.0 www.netbk.co.jp
 0.0.0.0 www.netchina.jp
 0.0.0.0 www.netsudan.jp
@@ -5543,6 +5555,7 @@
 0.0.0.0 www.raymon.co.jp
 0.0.0.0 www.rbbtoday.com
 0.0.0.0 www.rbma.org
+0.0.0.0 www.realforce.co.jp
 0.0.0.0 www.recruit.co.jp
 0.0.0.0 www.recx.jp
 0.0.0.0 www.recycle-izumi.net
@@ -5864,6 +5877,7 @@
 0.0.0.0 www.takinogawa.ed.jp
 0.0.0.0 www.takumipress.jp
 0.0.0.0 www.tanaka-denki.co.jp
+0.0.0.0 www.tanakadent.com
 0.0.0.0 www.tanakagakushukai.com
 0.0.0.0 www.tangrachinese.com.sg
 0.0.0.0 www.tannowahouse.jp
@@ -6043,6 +6057,7 @@
 0.0.0.0 www.uno-dental.net
 0.0.0.0 www.unzen-mikado.net
 0.0.0.0 www.uob.com.sg
+0.0.0.0 www.uoken-fukuoka.com
 0.0.0.0 www.up-room2.com
 0.0.0.0 www.uqwimax.jp
 0.0.0.0 www.ur-net.go.jp
@@ -6256,6 +6271,7 @@
 0.0.0.0 yakisuki-saiin.owst.jp
 0.0.0.0 yakitori-kozou.owst.jp
 0.0.0.0 yakitorisuginoya.com
+0.0.0.0 yakitoritakamiya-yakuin.owst.jp
 0.0.0.0 yamadahomes.jp
 0.0.0.0 yamadahomes.resv.jp
 0.0.0.0 yamaguchi-kogyoyosui.jp
@@ -6306,6 +6322,7 @@
 0.0.0.0 yoshino-gypsum.com
 0.0.0.0 yoshiokajimusho.net
 0.0.0.0 yotasteshop.com
+0.0.0.0 you-umeda.com
 0.0.0.0 youin.jp
 0.0.0.0 youngjump.jp
 0.0.0.0 yourkins.com
