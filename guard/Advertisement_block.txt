@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 13 July 2025
+# Last modified: 14 July 2025
 #
 
 # [広告全般]
@@ -609,6 +609,7 @@
 0.0.0.0 crossborderadvisorysolutions.com
 0.0.0.0 crosset.onward.co.jp
 0.0.0.0 crowdtech.jp
+0.0.0.0 cryosauna.jp
 0.0.0.0 cs-plaza.co.jp
 0.0.0.0 csujapan.com
 0.0.0.0 cucinaitalianaharu.owst.jp
@@ -3616,6 +3617,7 @@
 0.0.0.0 warungtropis.owst.jp
 0.0.0.0 washington.jp
 0.0.0.0 washoku.site
+0.0.0.0 wat.pt
 0.0.0.0 watashinodeban.net
 0.0.0.0 watashiplus.shiseidogroup.cn
 0.0.0.0 watch-yoshida.co.jp
@@ -5186,6 +5188,7 @@
 0.0.0.0 www.mystino.jp
 0.0.0.0 www.mywaytours.co.jp
 0.0.0.0 www.n-make.co.jp
+0.0.0.0 www.nabrain.com
 0.0.0.0 www.nagaodai.jp
 0.0.0.0 www.nagasaki-ichiba.com
 0.0.0.0 www.nagasakistadiumcity.com
@@ -5644,6 +5647,7 @@
 0.0.0.0 www.sat.co.jp
 0.0.0.0 www.sateraito.jp
 0.0.0.0 www.satofull.jp
+0.0.0.0 www.sawada.cn
 0.0.0.0 www.sbc-marketing.co.jp
 0.0.0.0 www.sbi.co.jp
 0.0.0.0 www.sbifxt.co.jp
@@ -6243,6 +6247,7 @@
 0.0.0.0 www3.jeed.go.jp
 0.0.0.0 www3.kawasaki-motors.com
 0.0.0.0 www3.nissan.co.jp
+0.0.0.0 www5.489pro.com
 0.0.0.0 wwwsp.himawari-life.co.jp
 0.0.0.0 xbotgochameleon.jp
 0.0.0.0 xcuu.jp
@@ -6302,6 +6307,7 @@
 0.0.0.0 yaoya-sannomiya.owst.jp
 0.0.0.0 yappari-hawaii.jp
 0.0.0.0 yasuda-ltd.jp
+0.0.0.0 yataiokamoto.com
 0.0.0.0 yg-tax.net
 0.0.0.0 yhtop.co
 0.0.0.0 yks0620-lp.com
