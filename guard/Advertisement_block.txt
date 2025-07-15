@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 14 July 2025
+# Last modified: 15 July 2025
 #
 
 # [広告全般]
@@ -100,6 +100,7 @@
 0.0.0.0 agent.chizaijuku.com
 0.0.0.0 agent.dousan.tokyo
 0.0.0.0 agfblendy-campaign.jp
+0.0.0.0 agiru.owst.jp
 0.0.0.0 agri.mynavi.jp
 0.0.0.0 ahamo.com
 0.0.0.0 ahokuds.com
@@ -389,6 +390,7 @@
 0.0.0.0 bobcard.co.in
 0.0.0.0 bodrum.goturkiye.com
 0.0.0.0 bodyshop-fukuhisa.com
+0.0.0.0 bones2.jp
 0.0.0.0 bonesandbeyond.com
 0.0.0.0 bonsai-kaitori.work
 0.0.0.0 book.yamazen.co.jp
@@ -1190,6 +1192,7 @@
 0.0.0.0 hikariharvest.com
 0.0.0.0 himedai.net
 0.0.0.0 himeji-greenfamily.net
+0.0.0.0 himeji-jlo.com
 0.0.0.0 himo-toku.jp
 0.0.0.0 hinata-kyoto.owst.jp
 0.0.0.0 hinata-life.jp
@@ -1948,6 +1951,7 @@
 0.0.0.0 main.tsubaki-app.com
 0.0.0.0 mainichi.doda.jp
 0.0.0.0 mainichi.nosh.jp
+0.0.0.0 maintenance-speed.net
 0.0.0.0 maisontanuki.owst.jp
 0.0.0.0 make-mastery.com
 0.0.0.0 makinushi-tk.com
@@ -2434,6 +2438,7 @@
 0.0.0.0 osakastationcity.com
 0.0.0.0 osh-clinic.jp
 0.0.0.0 osho-research.co.jp
+0.0.0.0 osoujihonpo-abenoekimae-lp.com
 0.0.0.0 ost-honeypot-1.oreillyauto.com
 0.0.0.0 ota-mice-guide.jp
 0.0.0.0 otameshi-agri.com
@@ -2506,6 +2511,7 @@
 0.0.0.0 pianoplazawebshop.com
 0.0.0.0 pias-recruit-fresh.com
 0.0.0.0 piecebox.jp
+0.0.0.0 piers-cafe-rooftop.com
 0.0.0.0 pikminbloom.com
 0.0.0.0 pilache.jp
 0.0.0.0 pinf.shopselect.net
@@ -3065,6 +3071,7 @@
 0.0.0.0 skystonegallery.com
 0.0.0.0 skyticket.jp
 0.0.0.0 slash-fishing.jp
+0.0.0.0 sleep.airweave.jp
 0.0.0.0 sleepytofu.co.jp
 0.0.0.0 smapano2.com
 0.0.0.0 smappy-if.com
@@ -3611,6 +3618,7 @@
 0.0.0.0 wana-bros.com
 0.0.0.0 warabimochipompom.com
 0.0.0.0 waraigushi-oji.owst.jp
+0.0.0.0 warajinrokkoumititen.owst.jp
 0.0.0.0 waraya88.owst.jp
 0.0.0.0 warm-i.com
 0.0.0.0 warp.city
@@ -4031,6 +4039,7 @@
 0.0.0.0 www.ccm.com.hk
 0.0.0.0 www.celio.co.jp
 0.0.0.0 www.centarahotelsresorts.com
+0.0.0.0 www.centifolia.jp
 0.0.0.0 www.cerezo.jp
 0.0.0.0 www.cervin.co.jp
 0.0.0.0 www.cetaphil.jp
@@ -4966,6 +4975,7 @@
 0.0.0.0 www.lasana.net
 0.0.0.0 www.le-trois.jp
 0.0.0.0 www.lebledor.com
+0.0.0.0 www.leco-gyosei.com
 0.0.0.0 www.lecreuset.co.jp
 0.0.0.0 www.lectit.com
 0.0.0.0 www.lenovo.com
@@ -5974,6 +5984,7 @@
 0.0.0.0 www.tokyoshigoto.jp
 0.0.0.0 www.tokyosoundbox.com
 0.0.0.0 www.tokyoupdates.metro.tokyo.lg.jp
+0.0.0.0 www.tokyu-logiq.com
 0.0.0.0 www.tomas.co.jp
 0.0.0.0 www.tomei-riso.jp
 0.0.0.0 www.tomesode-myselect.com
@@ -6248,6 +6259,7 @@
 0.0.0.0 www3.kawasaki-motors.com
 0.0.0.0 www3.nissan.co.jp
 0.0.0.0 www5.489pro.com
+0.0.0.0 wwws.airfrance.co.jp
 0.0.0.0 wwwsp.himawari-life.co.jp
 0.0.0.0 xbotgochameleon.jp
 0.0.0.0 xcuu.jp
