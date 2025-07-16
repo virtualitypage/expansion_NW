@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 15 July 2025
+# Last modified: 16 July 2025
 #
 
 # [広告全般]
@@ -87,6 +87,7 @@
 0.0.0.0 ads.kaipoke.biz
 0.0.0.0 adt.rokunomiya.jp
 0.0.0.0 advan0824.my.canva.site
+0.0.0.0 adworld.co.jp
 0.0.0.0 ae-company.co.jp
 0.0.0.0 aerospace.honeywell.com
 0.0.0.0 af-inoac.jp
@@ -151,6 +152,7 @@
 0.0.0.0 akr6827161385.owst.jp
 0.0.0.0 akr7779880273.owst.jp
 0.0.0.0 akr7827636977.owst.jp
+0.0.0.0 akr7970043166.owst.jp
 0.0.0.0 akr8178987612.owst.jp
 0.0.0.0 akr8430289746.owst.jp
 0.0.0.0 akr8468139698.owst.jp
@@ -181,6 +183,7 @@
 0.0.0.0 amanism.jp
 0.0.0.0 amanitadesign.com
 0.0.0.0 amann55.com
+0.0.0.0 amanogawablueberry.com
 0.0.0.0 amarekyoto.owst.jp
 0.0.0.0 amato-urananba.owst.jp
 0.0.0.0 ambercorp.co.jp
@@ -218,6 +221,7 @@
 0.0.0.0 answerbox.jp
 0.0.0.0 anytool.jp
 0.0.0.0 anzco-fuji-2025cp.campar.jp
+0.0.0.0 aoaokichijitsu-syokutabi.jp
 0.0.0.0 aoba-jb.com
 0.0.0.0 aoki-hamono.co.jp
 0.0.0.0 aomorimai-cp2025.com
@@ -637,6 +641,7 @@
 0.0.0.0 danshin-smile.cardif.co.jp
 0.0.0.0 daran-eyebeauty.com
 0.0.0.0 darts-strix.owst.jp
+0.0.0.0 datca.goturkiye.com
 0.0.0.0 datten.owst.jp
 0.0.0.0 daybaskesoccar.com
 0.0.0.0 daytona-mcgarage.com
@@ -2086,6 +2091,7 @@
 0.0.0.0 mirai-mugen-recipe.hp.peraichi.com
 0.0.0.0 mirai-work.life
 0.0.0.0 miraikuuchou-lp.com
+0.0.0.0 mirailifecreation.office-kuranosuke.com
 0.0.0.0 mirairo.space
 0.0.0.0 miraiyu-career.com
 0.0.0.0 mirakuken-sannomiya.owst.jp
@@ -2221,6 +2227,7 @@
 0.0.0.0 navi.jobpal.jp
 0.0.0.0 navi.kankou-matsue.jp
 0.0.0.0 navitabi.co.jp
+0.0.0.0 nazobao.owst.jp
 0.0.0.0 nd118.com
 0.0.0.0 neith.tokyo
 0.0.0.0 nejikemon-ebisu.owst.jp
@@ -2371,6 +2378,7 @@
 0.0.0.0 okoze-yumekoubou.com
 0.0.0.0 okuaizu-suiryokukan.jp
 0.0.0.0 okuizumosoba-ippuku-itami.owst.jp
+0.0.0.0 okuruma.asia
 0.0.0.0 olbee-kankyo.com
 0.0.0.0 oldisroad.com
 0.0.0.0 olubie.jp
@@ -2514,6 +2522,7 @@
 0.0.0.0 piers-cafe-rooftop.com
 0.0.0.0 pikminbloom.com
 0.0.0.0 pilache.jp
+0.0.0.0 pilatesstudiotou.com
 0.0.0.0 pinf.shopselect.net
 0.0.0.0 pingcap.co.jp
 0.0.0.0 pinklush.jp
@@ -2528,6 +2537,7 @@
 0.0.0.0 platte.jp
 0.0.0.0 pleproduct.jp
 0.0.0.0 plus-work.net
+0.0.0.0 plus.shinbi-shika.net
 0.0.0.0 plus.tobemori.com
 0.0.0.0 plusone-fukushi-lp.com
 0.0.0.0 plustee-golf.com
@@ -3443,6 +3453,7 @@
 0.0.0.0 torinoichi1.owst.jp
 0.0.0.0 torinomiya.owst.jp
 0.0.0.0 toriton.owst.jp
+0.0.0.0 torius.owst.jp
 0.0.0.0 toriyakishougun-kawachieiwa.owst.jp
 0.0.0.0 torras.co.jp
 0.0.0.0 tosei-hotel.co.jp
@@ -3917,6 +3928,7 @@
 0.0.0.0 www.balmuda.com
 0.0.0.0 www.band-ya.com
 0.0.0.0 www.bank-daiwa.co.jp
+0.0.0.0 www.barriercrack.com
 0.0.0.0 www.base-goto.com
 0.0.0.0 www.baus-web.jp
 0.0.0.0 www.bayflow.jp
@@ -3973,6 +3985,7 @@
 0.0.0.0 www.bosai.yomiuri.co.jp
 0.0.0.0 www.boston-apple.jp
 0.0.0.0 www.bousai.pref.fukuoka.jp
+0.0.0.0 www.brainet-consul.com
 0.0.0.0 www.branchera.com
 0.0.0.0 www.brandsuitdirect.com
 0.0.0.0 www.braun.jp
@@ -4214,6 +4227,7 @@
 0.0.0.0 www.dot-st.com
 0.0.0.0 www.dotabis.com
 0.0.0.0 www.dr-navip.jp
+0.0.0.0 www.drbuho.com
 0.0.0.0 www.dream-stage.net
 0.0.0.0 www.dreammail.jp
 0.0.0.0 www.dreamwks.com
@@ -4638,6 +4652,7 @@
 0.0.0.0 www.ichijo.co.jp
 0.0.0.0 www.ichinoyu.co.jp
 0.0.0.0 www.ichiyanagi-sougu.co.jp
+0.0.0.0 www.icmssol.co.jp
 0.0.0.0 www.icsics.co.jp
 0.0.0.0 www.icturn4.com
 0.0.0.0 www.idaten.ne.jp
@@ -4742,6 +4757,7 @@
 0.0.0.0 www.jawfp.org
 0.0.0.0 www.jbcc.co.jp
 0.0.0.0 www.jbcchd.co.jp
+0.0.0.0 www.jbig.com
 0.0.0.0 www.jcb.jp
 0.0.0.0 www.jcom.co.jp
 0.0.0.0 www.jeed.go.jp
@@ -4882,6 +4898,7 @@
 0.0.0.0 www.kinsoku.ac.jp
 0.0.0.0 www.kintetsu.co.jp
 0.0.0.0 www.kinuami.com
+0.0.0.0 www.kinzei.or.jp
 0.0.0.0 www.kioicho.jp
 0.0.0.0 www.kireca-ec.shop
 0.0.0.0 www.kirishima.co.jp
@@ -5488,6 +5505,7 @@
 0.0.0.0 www.plumsteadvilleinn.com
 0.0.0.0 www.pluscasa.com
 0.0.0.0 www.plusone-re.com
+0.0.0.0 www.plusonecamp.com
 0.0.0.0 www.pm-kentei.com
 0.0.0.0 www.pmark.jp
 0.0.0.0 www.pocketfolder.co.jp
@@ -5524,6 +5542,7 @@
 0.0.0.0 www.privateblue-seto.com
 0.0.0.0 www.prkcps.com
 0.0.0.0 www.pro-bank.co.jp
+0.0.0.0 www.propcoupon.com
 0.0.0.0 www.propertyagent.co.jp
 0.0.0.0 www.proud-web.jp
 0.0.0.0 www.proxy-cheap.com
@@ -5808,6 +5827,7 @@
 0.0.0.0 www.star-guys.jp
 0.0.0.0 www.star-m.jp
 0.0.0.0 www.star-programming-school.com
+0.0.0.0 www.starcable.jp
 0.0.0.0 www.starkeyjp.com
 0.0.0.0 www.startup-roudou.mhlw.go.jp
 0.0.0.0 www.stat.go.jp
@@ -6122,6 +6142,7 @@
 0.0.0.0 www.wakamatsuya.co.jp
 0.0.0.0 www.wakamoto-pharm.co.jp
 0.0.0.0 www.wakayamaumeshu.jp
+0.0.0.0 www.wako-dou-store.com
 0.0.0.0 www.walkerplus.com
 0.0.0.0 www.wanwan-house.net
 0.0.0.0 www.waplus-shop.jp
@@ -6213,6 +6234,7 @@
 0.0.0.0 www.yoriso.com
 0.0.0.0 www.yorisoi-office.com
 0.0.0.0 www.yoshidaseizai.co.jp
+0.0.0.0 www.yoshimatsu-kaikei.net
 0.0.0.0 www.yoshinoya.com
 0.0.0.0 www.yoshito.shop
 0.0.0.0 www.yosuga-law.net
