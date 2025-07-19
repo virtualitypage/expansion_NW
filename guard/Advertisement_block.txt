@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 18 July 2025
+# Last modified: 19 July 2025
 #
 
 # [広告全般]
@@ -713,6 +713,7 @@
 0.0.0.0 dokaun-motteru.com
 0.0.0.0 dokugyodo.com
 0.0.0.0 dolcebeauty.base.shop
+0.0.0.0 dondokohero.goatgames.com
 0.0.0.0 dongri-manzara.owst.jp
 0.0.0.0 doremi-international.com
 0.0.0.0 doridori.co.jp
@@ -1013,6 +1014,7 @@
 0.0.0.0 getnews.jp
 0.0.0.0 gghouse.co.jp
 0.0.0.0 ghibli-park.jp
+0.0.0.0 gibierno-choroku.com
 0.0.0.0 gicjp.com
 0.0.0.0 gifunavi.jp
 0.0.0.0 gifuya-namba.owst.jp
@@ -2463,6 +2465,7 @@
 0.0.0.0 osh-clinic.jp
 0.0.0.0 osho-research.co.jp
 0.0.0.0 osoujihonpo-abenoekimae-lp.com
+0.0.0.0 oss-yorozu.sios.jp
 0.0.0.0 ost-honeypot-1.oreillyauto.com
 0.0.0.0 ota-mice-guide.jp
 0.0.0.0 otameshi-agri.com
@@ -3312,6 +3315,7 @@
 0.0.0.0 taijouhoushin-yobou.jp
 0.0.0.0 tainenji.net
 0.0.0.0 taipeiyoichishinjyuku.owst.jp
+0.0.0.0 taishusakaba-nakatsu.owst.jp
 0.0.0.0 taishuubistoroharadaya.owst.jp
 0.0.0.0 taisyusakabaafro.owst.jp
 0.0.0.0 taiwancyayanana.owst.jp
@@ -3505,6 +3509,7 @@
 0.0.0.0 traib.net
 0.0.0.0 tramsystem.co.jp
 0.0.0.0 transformation-showcase.com
+0.0.0.0 trattoria-fiero.owst.jp
 0.0.0.0 travel.willer.co.jp
 0.0.0.0 treefinancial.co.jp
 0.0.0.0 tripmall.online
@@ -5482,6 +5487,7 @@
 0.0.0.0 www.oujishop.jp
 0.0.0.0 www.ous.ac.jp
 0.0.0.0 www.outlethome.jp
+0.0.0.0 www.oyc.co.jp
 0.0.0.0 www.ozekihibachi2u.com
 0.0.0.0 www.p-minerva.com
 0.0.0.0 www.pachislot-summit.com
@@ -6400,6 +6406,7 @@
 0.0.0.0 yoshiokajimusho.net
 0.0.0.0 yotasteshop.com
 0.0.0.0 you-umeda.com
+0.0.0.0 youganyaki-yakitori-torifuji.owst.jp
 0.0.0.0 youin.jp
 0.0.0.0 youngjump.jp
 0.0.0.0 yourkins.com
