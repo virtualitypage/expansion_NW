@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 19 July 2025
+# Last modified: 20 July 2025
 #
 
 # [広告全般]
@@ -1583,6 +1583,7 @@
 0.0.0.0 kamome.asia
 0.0.0.0 kamposhop.kracie.co.jp
 0.0.0.0 kamukura-recruit.jp
+0.0.0.0 kamukura.co.jp
 0.0.0.0 kan-dora.com
 0.0.0.0 kan-fin.org
 0.0.0.0 kanaeruphoto-studio.com
@@ -2022,6 +2023,7 @@
 0.0.0.0 matsui-express-job.jp
 0.0.0.0 matsumoto.city
 0.0.0.0 matsumototravel.com
+0.0.0.0 matsuriya.owst.jp
 0.0.0.0 matsusaka-kanpo.jp
 0.0.0.0 matsuyama.citroen-dealer.jp
 0.0.0.0 matsuzukigyouseisyoshi.com
@@ -2835,6 +2837,7 @@
 0.0.0.0 sawatdii-kha.info
 0.0.0.0 sawatec.co.jp
 0.0.0.0 sb-apo-buster3.discover-news.tokyo
+0.0.0.0 sb-beauty-lab-plus.discover-news.tokyo
 0.0.0.0 sb-beauty-labo.ourpage.jp
 0.0.0.0 sb-beauty-popu.discover-news.tokyo
 0.0.0.0 sb-bremounq01.musthave-magazine.tokyo
@@ -3641,6 +3644,7 @@
 0.0.0.0 vrcon.forum8.co.jp
 0.0.0.0 vti-glovebox.com
 0.0.0.0 w-sphone.com
+0.0.0.0 wada-shoten.co.jp
 0.0.0.0 wadainohon.com
 0.0.0.0 waguya.com
 0.0.0.0 wagyu-sumibiyakiniku-zyo.owst.jp
@@ -3672,6 +3676,7 @@
 0.0.0.0 watch-yoshida.co.jp
 0.0.0.0 watchrepair.com.sg
 0.0.0.0 watchsalon-fukuoka.com
+0.0.0.0 waterone.jp
 0.0.0.0 web-cam.jp
 0.0.0.0 web-marketing-kyoto.biz
 0.0.0.0 web.anabuki-college.ac.jp
@@ -3940,6 +3945,7 @@
 0.0.0.0 www.audiotech.jp
 0.0.0.0 www.austria.info
 0.0.0.0 www.autobacs-weblp.com
+0.0.0.0 www.autodesk.com
 0.0.0.0 www.automesse.jp
 0.0.0.0 www.autotrace.info
 0.0.0.0 www.awashima.design
@@ -4702,6 +4708,7 @@
 0.0.0.0 www.iijmio.jp
 0.0.0.0 www.iizuka-auto.jp
 0.0.0.0 www.ijyu.pref.mie.lg.jp
+0.0.0.0 www.ik-c.co.jp
 0.0.0.0 www.ikea.com
 0.0.0.0 www.ikebukuro-higashi.com
 0.0.0.0 www.ikehikoshop.jp
@@ -5027,6 +5034,7 @@
 0.0.0.0 www.landrover.co.jp
 0.0.0.0 www.lanps.jp
 0.0.0.0 www.lasana.net
+0.0.0.0 www.layers.co.jp
 0.0.0.0 www.le-trois.jp
 0.0.0.0 www.lebledor.com
 0.0.0.0 www.leco-gyosei.com
@@ -5691,6 +5699,7 @@
 0.0.0.0 www.saintepure.co.jp
 0.0.0.0 www.saishinchirashi.jp
 0.0.0.0 www.saison-am.co.jp
+0.0.0.0 www.saiyou2.metro.tokyo.lg.jp
 0.0.0.0 www.salesforce.com
 0.0.0.0 www.salo-ka.com
 0.0.0.0 www.salonpas.jp
@@ -5951,6 +5960,7 @@
 0.0.0.0 www.takiishi.co.jp
 0.0.0.0 www.takinogawa.ed.jp
 0.0.0.0 www.takumipress.jp
+0.0.0.0 www.tamurohonmaru.com
 0.0.0.0 www.tanaka-denki.co.jp
 0.0.0.0 www.tanakadent.com
 0.0.0.0 www.tanakagakushukai.com
@@ -6272,6 +6282,7 @@
 0.0.0.0 www.yokdee.com
 0.0.0.0 www.yokota-ks.jp
 0.0.0.0 www.yomiuriland.com
+0.0.0.0 www.yomo-ehon.com
 0.0.0.0 www.yonoton.com
 0.0.0.0 www.yoriso.com
 0.0.0.0 www.yorisoi-office.com
