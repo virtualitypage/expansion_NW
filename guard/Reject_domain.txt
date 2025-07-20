@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_domain.txt
 #
-# Last modified: 13 July 2025
+# Last modified: 20 July 2025
 #
 
 # [拒否リクエスト]
@@ -109,6 +109,7 @@
 0.0.0.0 apis.naver.com.lan
 0.0.0.0 apiv3-prod.flipdesk.jp
 0.0.0.0 apm.yahoo.co.jp
+0.0.0.0 apm.yahoo.co.jp.lan
 0.0.0.0 app-measurement.com
 0.0.0.0 app-measurement.com.lan
 0.0.0.0 app.adjust.com
@@ -145,6 +146,7 @@
 0.0.0.0 automate-frontend.linksynergy.com
 0.0.0.0 automate-k8s.linksynergy.com
 0.0.0.0 automate.linksynergy.com
+0.0.0.0 aws.inshot.cc
 0.0.0.0 az416426.vo.msecnd.net
 0.0.0.0 b.adnxs.com
 0.0.0.0 b.im-apps.net
@@ -321,8 +323,10 @@
 0.0.0.0 gateway.instagram.com
 0.0.0.0 gateway.instagram.com.lan
 0.0.0.0 gcmast-cdn.goldspotmedia.com
+0.0.0.0 gcmast-cdn.goldspotmedia.com.lan
 0.0.0.0 gdl.news-cdn.site
 0.0.0.0 gdl.youngle.tech
+0.0.0.0 gdl.youngle.tech.lan
 0.0.0.0 gen2.glssp.net
 0.0.0.0 genieedmp.com
 0.0.0.0 gj.gds.mmstat.com
@@ -367,16 +371,20 @@
 0.0.0.0 img.dsp.bance.jp
 0.0.0.0 imgstorage2.lndpy.com
 0.0.0.0 imgx.jampp.com
+0.0.0.0 imp-adedge.i-mobile.co.jp
 0.0.0.0 imp-ae-ap.jampp.com
 0.0.0.0 imp-al-ap.jampp.com
+0.0.0.0 imp-bidapi.i-mobile.co.jp
 0.0.0.0 imp-lb-us2.jampp.com
 0.0.0.0 imp-ru-ap.jampp.com
 0.0.0.0 imp.dynalyst.jp
 0.0.0.0 imp.u.send.microad.jp
 0.0.0.0 impression-ap.adikteev.com
 0.0.0.0 impression-asia.liftoff.io
+0.0.0.0 impression-asia.liftoff.io.lan
 0.0.0.0 impression-east.liftoff.io
 0.0.0.0 in.treasuredata.com
+0.0.0.0 innosmartlife.com
 0.0.0.0 ins.freevideodownload.pro
 0.0.0.0 inshot.cc
 0.0.0.0 insight.adsrvr.org
@@ -502,7 +510,6 @@
 0.0.0.0 pubsub.googleapis.com
 0.0.0.0 pubsub.googleapis.com.lan
 0.0.0.0 radar.cedexis.com
-0.0.0.0 radiomap.vcdn.pos.here.com
 0.0.0.0 rapids.rpdt.net
 0.0.0.0 rcm-fe.amazon-adsystem.com
 0.0.0.0 rcv.ust-ad.com
@@ -575,13 +582,20 @@
 0.0.0.0 so.tpocdm.com
 0.0.0.0 socdm.com
 0.0.0.0 spdmg2.i-mobile.co.jp
+0.0.0.0 spimgv1.i-mobile.co.jp
+0.0.0.0 spnativeapi-direct.i-mobile.co.jp
+0.0.0.0 spnativeapi-tls.i-mobile.co.jp
+0.0.0.0 spnativeapi-tls.i-mobile.co.jp.lan
+0.0.0.0 spnativeapi.i-mobile.co.jp
 0.0.0.0 ss-jp2.appiersig.com
+0.0.0.0 ss-jp2.appiersig.com.lan
 0.0.0.0 ss-sg.appiersig.com
 0.0.0.0 ss-sg.appiersig.com.akadns.net
 0.0.0.0 ss-sg2.appiersig.com
 0.0.0.0 ss-sg2.appiersig.com.akadns.net
 0.0.0.0 ss-use.appiersig.com
 0.0.0.0 ss-use.appiersig.com.akadns.net
+0.0.0.0 ssp-bidapi.i-mobile.co.jp
 0.0.0.0 ssp.img-static.tech
 0.0.0.0 ssp.send.microad.jp
 0.0.0.0 ssp.send.microad.jp.lan
@@ -737,6 +751,7 @@
 0.0.0.0 aml.valuecommerce.com
 0.0.0.0 aml.valuecommerce.com.lan
 0.0.0.0 amplify.outbrain.com
+0.0.0.0 analytics-tcp.mintegral.net.lan
 0.0.0.0 ap.srv.stackadapt.com
 0.0.0.0 ap.srv.stackadapt.com.lan
 0.0.0.0 apac-jp-sync.bidswitch.net
@@ -808,6 +823,7 @@
 0.0.0.0 chartbeat.net
 0.0.0.0 cl-data-f.ads.heytapmobile.com
 0.0.0.0 cl-data-sg.ads.heytapmobi.com
+0.0.0.0 cl-data-sg.ads.heytapmobi.com.lan
 0.0.0.0 cm.creativecdn.com
 0.0.0.0 cm.everesttech.net
 0.0.0.0 cm.smadex.com
@@ -841,6 +857,7 @@
 0.0.0.0 dalc.valuecommerce.com.lan
 0.0.0.0 dc-dragate-sg.heytapmobile.com
 0.0.0.0 dc-dragate-sg.heytapmobile.com.lan
+0.0.0.0 dcc-awareness-sg.heytapmobile.com
 0.0.0.0 displayf-tm.everesttech.net
 0.0.0.0 dl.listdl.com
 0.0.0.0 dossier.chartboost.com
@@ -984,6 +1001,7 @@
 0.0.0.0 playercdn.jivox.com
 0.0.0.0 pm.w55c.net
 0.0.0.0 pok.mintegral.net
+0.0.0.0 pok.mintegral.net.lan
 0.0.0.0 prebid-a.rubiconproject.com
 0.0.0.0 prebid-asia.creativecdn.com
 0.0.0.0 prebid-asia.creativecdn.com.lan
@@ -1134,6 +1152,7 @@
 0.0.0.0 inmobi-asia-imp.aarki.net
 0.0.0.0 mintegral-asia-imp.aarki.net
 0.0.0.0 rm-hk.aarki.net
+0.0.0.0 rm-hk.aarki.net.lan
 0.0.0.0 rm.aarki.net
 0.0.0.0 spire.aarki.net
 0.0.0.0 spire.aarki.net.lan
@@ -1254,6 +1273,7 @@
 0.0.0.0 sf16-static.i18n-pglstatp.com.bytegeo.akadns.net
 0.0.0.0 sf16-static.i18n-pglstatp.com.lan
 0.0.0.0 sf19-static.i18n-pglstatp.com
+0.0.0.0 sf19-static.i18n-pglstatp.com.lan
 0.0.0.0 sgali-mcs.byteoversea.com
 0.0.0.0 starling-sg.byteoversea.com
 0.0.0.0 tnc16-useast1a.byteoversea.com
@@ -1284,6 +1304,7 @@
 0.0.0.0 grs.platform.dbankcloud.ru.lan
 0.0.0.0 h5hosting.dbankcdn.com
 0.0.0.0 map-dra.platform.dbankcloud.cn
+0.0.0.0 map-dra.platform.dbankcloud.com
 0.0.0.0 openlocation-dra.platform.dbankcloud.com
 0.0.0.0 openlocation-dra.platform.dbankcloud.com.lan
 0.0.0.0 pushtrs6.push.dbankcloud.com
@@ -1359,6 +1380,7 @@
 0.0.0.0 query.hicloud.com.lan
 0.0.0.0 sdkserver-dra.op.hicloud.com
 0.0.0.0 sdkserver-dra.op.hicloud.com.lan
+0.0.0.0 sdkserver-dre.op.hicloud.com.lan
 0.0.0.0 store.hispace.hicloud.com
 0.0.0.0 store.hispace.hicloud.com.lan
 
@@ -1457,7 +1479,9 @@
 0.0.0.0 api16-access-sg.pangle.io
 0.0.0.0 api16-access-sg.pangle.io.lan
 0.0.0.0 api16-access-ttp-b.tiktokpangle-b.us
+0.0.0.0 api16-access-ttp-b.tiktokpangle-b.us.lan
 0.0.0.0 api16-access-ttp-b.tiktokpangle.us
+0.0.0.0 api16-access-ttp-b.tiktokpangle.us.lan
 0.0.0.0 api16-access-ttp.tiktokpangle-b.us
 0.0.0.0 api16-access-ttp.tiktokpangle.us
 0.0.0.0 api16-access-ttp.tiktokpangle.us.lan
@@ -1528,10 +1552,25 @@
 /p[0-9]*-vimo-sg.ibyteimg.com/
 /p[0-9]*-webcast.tiktokcdn.com/
 /pitaya[0-9]*-normal-alisg.tiktokv.com/
-/pull-flv-f[0-9]*-sg01.tiktokcdn.com.lan/
-/pull-flv-l[0-9]*-sg01.tiktokrow-cdn.com/
-/pull-flv-l[0-9]*-va01.tiktokcdn.com.lan/
-/pull-hls-f[0-9]*-sg01.tiktokcdn.com.lan/
+/pull-cmaf-l[0-9]*-gcp[0-9]*.tiktokcdn.com.lan/
+/pull-f[0-9]*-sg[0-9]*.tiktokrow-cdn.com/
+/pull-f[0-9]*-tt[0-9]*.tiktokrow-cdn.com/
+/pull-f[0-9]*-va[0-9]*.tiktokrow-cdn.com/
+/pull-flv-f[0-9]*-gcp[0-9]*.tiktokcdn.com.lan/
+/pull-flv-f[0-9]*-sg[0-9]*.tiktokcdn.com.lan/
+/pull-flv-f[0-9]*-tt04.tiktokcdn.com.lan/
+/pull-flv-l[0-9]*-sg[0-9]*.tiktokrow-cdn.com/
+/pull-flv-l[0-9]*-va[0-9]*.tiktokcdn.com.lan/
+/pull-flv-l[0-9]*-va[0-9]*.tiktokrow-cdn.com/
+/pull-flv-w[0-9]*-va[0-9]*.tiktokcdn.com.lan/
+/pull-hls-f[0-9]*-sg[0-9]*.tiktokcdn.com.lan/
+/pull-q[0-9]*-sg[0-9]*.tiktokrow-cdn.com/
+/pull-q[0-9]*-va[0-9]*.tiktokrow-cdn.com/
+/pull-w[0-9]*-sg[0-9]*.tiktokrow-cdn.com/
+/pull-w[0-9]*-va[0-9]*.tiktokcdn.com.lan/
+/pull-w[0-9]*-va[0-9]*.tiktokrow-cdn.com/
+/push-rtmp-f[0-9]*-sg[0-9]*.tiktokrow-cdn.com/
+/push-rtmp-l[0-9]*-sg[0-9]*.tiktokrow-cdn.com/
 /rtlog[0-9]*-normal-alisg.tiktokv.com/
 /search[0-9]*-normal-c-alisg.tiktokv.com.lan/
 /search[0-9]*-normal-c-alisg.tiktokv.com/
@@ -1690,6 +1729,7 @@
 0.0.0.0 content.offerwall.unity3d.com
 0.0.0.0 events.mz.unity3d.com
 0.0.0.0 gateway.unityads.unity3d.com
+0.0.0.0 gateway.unityads.unity3d.com.lan
 0.0.0.0 gw-ext.mediation.unity3d.com
 0.0.0.0 gw-is.iads.unity3d.com
 0.0.0.0 gw-rv.iads.unity3d.com
@@ -1699,6 +1739,7 @@
 0.0.0.0 hbevents-public.mz.unity3d.com
 0.0.0.0 html-uap.iads.unity3d.com
 0.0.0.0 httpkafka.unityads.unity3d.com
+0.0.0.0 httpkafka.unityads.unity3d.com.lan
 0.0.0.0 i-adq.mediation.unity3d.com
 0.0.0.0 i-adq.mediation.unity3d.com.lan
 0.0.0.0 i-sdk.mediation.unity3d.com
@@ -1736,6 +1777,7 @@
 0.0.0.0 api.video.intl.xiaomi.com
 0.0.0.0 api.zhuti.intl.xiaomi.com
 0.0.0.0 app.chat.global.xiaomi.net
+0.0.0.0 app.chat.global.xiaomi.net.lan
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 browser.cdn.intl.miui.com
 0.0.0.0 cdn-file.hyperos.mi.com
@@ -1896,6 +1938,7 @@
 0.0.0.0 k.zucks.net
 0.0.0.0 kakakucom-d.openx.net
 0.0.0.0 ksk.t.zucks.net
+0.0.0.0 ksk.t.zucks.net.lan
 0.0.0.0 log.fivecdm.com
 0.0.0.0 ly.my.sentry.io
 0.0.0.0 ly.my.sentry.io.lan
@@ -1932,6 +1975,8 @@
 0.0.0.0 rubicon.socdm.com
 0.0.0.0 s-adserver.cxad.cxense.com
 0.0.0.0 s.side3.zucks.net
+0.0.0.0 s3bizprd.ukw.jp
+0.0.0.0 s3bizprdgcp.ukw.jp
 0.0.0.0 scdn.cxense.com
 0.0.0.0 script.4dex.io
 0.0.0.0 sdk.fra-02.braze.eu
@@ -1956,6 +2001,7 @@
 0.0.0.0 static.criteo.net
 0.0.0.0 static.jp2.vip.prod.criteo.net
 0.0.0.0 static.zucks.net.zimg.jp
+0.0.0.0 static.zucks.net.zimg.jp.lan
 0.0.0.0 staticassets-creator-design.criteo.net
 0.0.0.0 stats-collector.cxense.com
 0.0.0.0 sync-t1.taboola.com
