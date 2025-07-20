@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Accept_domain.txt
 #
-# Last modified: 13 July 2025
+# Last modified: 20 July 2025
 #
 
 # [許可リクエスト]
@@ -44,8 +44,10 @@
 @@||acps-api.mixerbox.com
 @@||acps-api.mixerbox.com.cdn.cloudflare.net
 @@||ad-segments-proxy.streaks.jp
+@@||adm-srch.newsapp.nhk.or.jp
 @@||airplane.kairogame.jp
 @@||ajax.cloudflare.com
+@@||alt6-mtalk.google.com.lan
 @@||amzn.to
 @@||analytics.ff.avast.com
 @@||analytics.yay.space
@@ -98,6 +100,7 @@
 @@||as-api-ws-cdn-1.tdacestudio.com
 @@||asia.tools.euroland.com
 @@||asp.shufoo.net
+@@||assets-game-prinai-com.cdn-dena.com
 @@||assets.goodnovel.com
 @@||assets.goodnovel.com.lan
 @@||assets.smartnews.com
@@ -137,6 +140,7 @@
 @@||cable.yay.space
 @@||cac-ocsp.digicert.com.edgekey.net
 @@||cacerts.digicert.com
+@@||cacerts.geotrust.com
 @@||caloo.jp
 @@||capi.tigmedia.jp
 @@||capig.stape.jp
@@ -149,6 +153,8 @@
 @@||cdn.discordapp.com
 @@||cdn.dropboxexperiment.com
 @@||cdn.esupply.co.jp
+@@||cdn.gcore.ldoe-static.kefirgames.com
+@@||cdn.gcore.ldoe-static.kefirgames.com.lan
 @@||cdn.globalsigncdn.com.cdn.cloudflare.net
 @@||cdn.ibispaint.com
 @@||cdn.kusurinomadoguchi.com
@@ -171,6 +177,7 @@
 @@||choices.truste.com
 @@||chromewebstore.google.com
 @@||cid.capcom.com
+@@||cl.sourcenext.com
 @@||clients.l.google.com
 @@||cloudfront.net
 @@||cloudfront.net.lan
@@ -295,6 +302,7 @@
 @@||gz0.googleusercontent.com
 @@||help.apple.com
 @@||help.twitter.com
+@@||helper-api-m-prod.prinai.com
 @@||i-l-dsp-inmobicdn-net-tm.trafficmanager.net
 @@||i-l-inmobicdn-net-tm.trafficmanager.net
 @@||i.instagram.com
@@ -350,6 +358,7 @@
 @@||kakakucom.demdex.net
 @@||kanochat.jp
 @@||kao.demdex.net
+@@||kddi-h.assetsadobe3.com
 @@||key.streaks.jp
 @@||kit.fontawesome.com
 @@||kn.nice-news.net
@@ -375,6 +384,7 @@
 @@||logging.devsisters.cloud
 @@||logging.prod.devsisters.cloud
 @@||login.wikimedia.org
+@@||lookaside.fbsbx.com
 @@||m.facebook.com
 @@||m.goodnovel.com
 @@||m1.nintendo.net
@@ -417,6 +427,7 @@
 @@||n.yapp.li
 @@||navismithapis-cdn.com
 @@||navismithapis.com
+@@||news-in.feednews.com
 @@||news.google.com
 @@||newsapi.nhk.or.jp
 @@||ngp.virpro.com
@@ -433,6 +444,7 @@
 @@||note.com
 @@||notifications.unnerv.app
 @@||nrs.norton.com
+@@||ns.photonengine.io
 @@||oauth.secure.pixiv.net
 @@||ocsp.comodoca.com
 @@||ocsp.comodoca.com.cdn.cloudflare.net
@@ -475,6 +487,8 @@
 @@||pixiv.pximg.net
 @@||pixon.ads-pixiv.net
 @@||playback.api.streaks.jp
+@@||playdreams.online
+@@||player-api-m-prod.prinai.com
 @@||poi-static-map.cld.navitime.jp
 @@||pool.ntp.org
 @@||postserve.trafficmanager.net
@@ -498,6 +512,7 @@
 @@||prs.paypay.ne.jp
 @@||public-api.wordpress.com
 @@||public-img-comic.pximg.net
+@@||push-area.newsapp.nhk.or.jp
 @@||push-config.paypay.ne.jp
 @@||push-config.paypay.ne.jp.lan
 @@||push-signal.paypay.ne.jp
@@ -510,6 +525,7 @@
 @@||qiita.com
 @@||query.hicloud.com
 @@||r.nikkei.com
+@@||radiomap.vcdn.pos.here.com
 @@||rainradar.smartnews.com
 @@||realtimesupport.clients6.google.com
 @@||recruitrikunabinext.demdex.net
@@ -522,6 +538,7 @@
 @@||ropng.img.sus-staging.com
 @@||ropng.sus-game.com
 @@||ropng.sus-game.com.lan
+@@||rum.hlx.page
 @@||s-part-0018.t-0009.fb-t-msedge.net
 @@||s-part-0018.t-0009.t-msedge.net
 @@||s-part-0019.t-0009.fb-t-msedge.net
@@ -532,6 +549,7 @@
 @@||s.ytimg.com
 @@||s0.wp.com
 @@||s1.nordcdn.com
+@@||s3.ap-northeast-1.amazonaws.com
 @@||s3.dualstack.ap-southeast-1.amazonaws.com
 @@||safebrowsing.g.applimg.com
 @@||sakura-checker.jp
@@ -539,6 +557,7 @@
 @@||sb.nordcdn.com
 @@||sc-static.net
 @@||scontent-bkk1-1.cdninstagram.com
+@@||scontent-cgk1-2.cdninstagram.com
 @@||scontent-itm1-1.cdninstagram.com.lan
 @@||scontent-itm1-1.scontent-ssn1-1.cdninstagram.com
 @@||scontent-itm1-1.xx.fbcdn.net
@@ -569,7 +588,10 @@
 @@||shop.gofuku-ishihara.com
 @@||smartnews-assets.s3.ap-northeast-1.amazonaws.com
 @@||sn-proxy.smartnews.com
+@@||sodium.slp.pos.here.com
+@@||sodium.slp.pos.here.com.lan
 @@||source.pixiv.net
+@@||sourcenext-recommend.data-lab-pg.com
 @@||sp-*.apkrep.avcdn.net
 @@||sp-*.apkrep.avcdn.net.lan
 @@||sp-*.honzik.avcdn.net
@@ -635,6 +657,7 @@
 @@||tver.jp
 @@||tweeload.aculix.net
 @@||twicomi.com
+@@||twincle.schanbeauty.com
 @@||twoucan.com
 @@||tx.lbg.play.naver.jp
 @@||unpkg.com
@@ -703,6 +726,8 @@
 @@||www.gl-inet.com
 @@||www.goodnovel.com
 @@||www.google.co.jp
+@@||www.google.us
+@@||www.google.us.lan
 @@||www.googleadservices.com
 @@||www.gstatic.com
 @@||www.gstatic.com.lan
@@ -747,6 +772,8 @@
 @@||www.shingakunavi.ne.jp
 @@||www.smartnews.be
 @@||www.smartwaon.com
+@@||www.sourcenext.com
+@@||www.sponichi.co.jp
 @@||www.threads.net
 @@||www.tm.ak.prd.aadg.trafficmanager.net
 @@||www.topvalu.net
@@ -923,6 +950,7 @@
 @@||fmipmobile.fe2.apple-dns.net
 @@||fpinit-apac-n.edge-itunes-apple.com.akadns.net
 @@||fpinit-apac-s.edge-itunes-apple.com.akadns.net
+@@||fpinit-apac.edge-itunes-apple.com.akadns.net
 @@||fpinit.itunes.apple.com
 @@||friend.gc.apple.com
 @@||gateway-asset.icloud-content.com
@@ -954,6 +982,7 @@
 @@||inappcheck.itunes.apple.com
 @@||init-cdn-lb.ess-apple.com.akadns.net
 @@||init-cdn.itunes-apple.com.akadns.net
+@@||init.ess.g.aaplimg.com
 @@||init.gc.apple.com
 @@||init.itunes.apple.com
 @@||init.push-apple.com.akadns.net
@@ -973,6 +1002,7 @@
 @@||mesu.apple.com
 @@||metricsedge-continent-wrr-cutover.v.aaplimg.com
 @@||ml.cdn-apple.com
+@@||ml.cdn-apple.g.aaplimg.com
 @@||music.apple.com
 @@||musicstatus-apac-s.edge-itunes-apple.com.akadns.net
 @@||musicstatus.edge-itunes-apple.com.akadns.net
@@ -996,6 +1026,7 @@
 @@||pba.v.aaplimg.com
 @@||pba0.apple.com
 @@||pba0.g.aaplimg.com
+@@||pd-lb.itunes-apple.com.akadns.net
 @@||pd.itunes.apple.com
 @@||pds-init.ess.apple.com
 @@||pds.ess.apple.com
@@ -1442,6 +1473,7 @@
 @@||livedoor.sp.blogimg.jp
 @@||lps-editor-570.landpress.line.me
 @@||lyprec.line-scdn.net
+@@||manga-api-gateway.line-apps.com.lan
 @@||manga.line.me
 @@||music-jp-api.line-apps.com
 @@||music.line.me
@@ -1607,6 +1639,7 @@
 @@||www-pinterest-com-edgekey-staging-net.pinterest.com
 @@||www-pinterest-com.gslb.pinterest.com
 @@||www-prod-pinterest-global-map-fastly-net.pinterest.com
+@@||www.pinterest.com.lan^$client=~192.168.8.117
 @@||www.pinterest.com^$client=~192.168.8.117
 
 # [radiko]
@@ -1810,6 +1843,7 @@
 @@||cdn.id.supercell.com.lan
 @@||clashofclans-api.inbox.supercell.com
 @@||clashofclans.inbox.supercell.com
+@@||clashofclans.scescdn.com
 @@||clashroyale.inbox.supercell.com
 @@||collector.snowplow.supercell.com
 @@||event-assets.clashofclans.com
@@ -1866,6 +1900,7 @@
 @@||feapi-yvpub.yahooapis.jp
 @@||follow-pctr.c.yimg.jp
 @@||follow-stock.yahooapis.jp
+@@||follow.yahooapis.jp
 @@||geo-applefinance-cache.internal.query.g03.yahoodns.net
 @@||gw-yvpub.yahoo.co.jp
 @@||i.ebayimg.com
