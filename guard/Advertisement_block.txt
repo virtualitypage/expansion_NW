@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 20 July 2025
+# Last modified: 21 July 2025
 #
 
 # [広告全般]
@@ -1026,6 +1026,7 @@
 0.0.0.0 gion-museum.com
 0.0.0.0 gkk-campaign.jp
 0.0.0.0 glampicks.jp
+0.0.0.0 glampingstyle.jp
 0.0.0.0 glassartkuroki-shop.com
 0.0.0.0 global-content.co
 0.0.0.0 global.beautyloungeclinic.com
@@ -1710,6 +1711,7 @@
 0.0.0.0 kochi02.kyoukaikenpo.or.jp
 0.0.0.0 kochimonthly.com
 0.0.0.0 kodamaannai.p-kit.com
+0.0.0.0 kogiseoul.owst.jp
 0.0.0.0 koharubiyoricafe.jimdo.com
 0.0.0.0 kojinsoken.co.jp
 0.0.0.0 kojosoko-koniken.com
@@ -1870,6 +1872,7 @@
 0.0.0.0 loans.life
 0.0.0.0 logimeets.jp
 0.0.0.0 logistics-tv.jp
+0.0.0.0 logmi.jp
 0.0.0.0 lohasplaza.com
 0.0.0.0 lonalona.jp
 0.0.0.0 longterm.kikagaku.ai
@@ -2086,6 +2089,7 @@
 0.0.0.0 minamino.itami-hagukumi.work
 0.0.0.0 minase-ep.jp
 0.0.0.0 minato-motomachi.jp
+0.0.0.0 minatoya.com
 0.0.0.0 mindwind.tokyo
 0.0.0.0 mineo-ambassador.com
 0.0.0.0 mineo.jp
@@ -3281,6 +3285,7 @@
 0.0.0.0 sushi-amato.owst.jp
 0.0.0.0 sushi-hasegawa.owst.jp
 0.0.0.0 sushidokoro-yuuki.owst.jp
+0.0.0.0 sushimiyabi.owst.jp
 0.0.0.0 sushisyu.owst.jp
 0.0.0.0 sushitech-real.metro.tokyo.lg.jp
 0.0.0.0 sustainable.goturkiye.com
@@ -3741,6 +3746,7 @@
 0.0.0.0 www.03nouen.com
 0.0.0.0 www.0551353133.com
 0.0.0.0 www.0918717288.com
+0.0.0.0 www.0985907616.url.tw
 0.0.0.0 www.10516.org
 0.0.0.0 www.114154.com
 0.0.0.0 www.11i.co.jp
@@ -4651,6 +4657,7 @@
 0.0.0.0 www.homes.com
 0.0.0.0 www.honda.co.jp
 0.0.0.0 www.hondaism.com
+0.0.0.0 www.honma-seisakusyo.jp
 0.0.0.0 www.hop-job.com
 0.0.0.0 www.horidashi.jp
 0.0.0.0 www.hoshino-oto.jp
@@ -4662,6 +4669,7 @@
 0.0.0.0 www.hotstaff.co.jp
 0.0.0.0 www.hotty.co.jp
 0.0.0.0 www.housedo.com
+0.0.0.0 www.housing-exp.com
 0.0.0.0 www.housing-messe.com
 0.0.0.0 www.howabank.co.jp
 0.0.0.0 www.hrdesign.co.jp
@@ -5051,6 +5059,7 @@
 0.0.0.0 www.liebherr.com
 0.0.0.0 www.life-n.jp
 0.0.0.0 www.life8739.co.jp
+0.0.0.0 www.lightcosmo.com
 0.0.0.0 www.lighthouse-safety.com
 0.0.0.0 www.ligne-roset.jp
 0.0.0.0 www.lim-kochi.com
