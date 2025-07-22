@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 21 July 2025
+# Last modified: 22 July 2025
 #
 
 # [広告全般]
@@ -114,6 +114,7 @@
 0.0.0.0 aino.support
 0.0.0.0 aionacademy.com
 0.0.0.0 airregi.jp
+0.0.0.0 airweave.jp
 0.0.0.0 aiwakagu.jp
 0.0.0.0 aix-otofuke.owst.jp
 0.0.0.0 aixtal.com
@@ -159,6 +160,7 @@
 0.0.0.0 akr8468139698.owst.jp
 0.0.0.0 akr8490227405.owst.jp
 0.0.0.0 akr8618687678.owst.jp
+0.0.0.0 akr8989707750.owst.jp
 0.0.0.0 akr9371764164.owst.jp
 0.0.0.0 akr9636581561.owst.jp
 0.0.0.0 al-mare.irodori-inc-okj.co.jp
@@ -1173,6 +1175,7 @@
 0.0.0.0 hata.support
 0.0.0.0 hataraku-search.com
 0.0.0.0 hatarakujob.com
+0.0.0.0 hatihati.hatenablog.jp
 0.0.0.0 hayabusa-kk.com
 0.0.0.0 hayatahome.com
 0.0.0.0 hayatejpncorp.com
@@ -1711,6 +1714,7 @@
 0.0.0.0 kochi02.kyoukaikenpo.or.jp
 0.0.0.0 kochimonthly.com
 0.0.0.0 kodamaannai.p-kit.com
+0.0.0.0 kodawaritei.owst.jp
 0.0.0.0 kogiseoul.owst.jp
 0.0.0.0 koharubiyoricafe.jimdo.com
 0.0.0.0 kojinsoken.co.jp
@@ -1986,6 +1990,7 @@
 0.0.0.0 mamanouotaka.owst.jp
 0.0.0.0 manabi-naoshi.mhlw.go.jp
 0.0.0.0 manda2100.com
+0.0.0.0 mandalaybay.mgmresorts.com
 0.0.0.0 mandm.co.jp
 0.0.0.0 manga.piecedesign.net
 0.0.0.0 mangamatsuri.kodansha.co.jp
@@ -1993,6 +1998,7 @@
 0.0.0.0 manoamano87.jp
 0.0.0.0 mantenlab.com
 0.0.0.0 manulife-gaika.jp
+0.0.0.0 manzara-kyoto.owst.jp
 0.0.0.0 manzara-nishiki.owst.jp
 0.0.0.0 manzara.co.jp
 0.0.0.0 maple1010.com
@@ -2380,6 +2386,7 @@
 0.0.0.0 ohatunojucchuhakku.owst.jp
 0.0.0.0 ohbacorp.com
 0.0.0.0 ohka-kobe.owst.jp
+0.0.0.0 ohkifudosan.com
 0.0.0.0 ohmiyanishiguchi.com
 0.0.0.0 ohnoseijyo.com
 0.0.0.0 ohtani-shotime.com
@@ -3131,6 +3138,7 @@
 0.0.0.0 sneakerbunko.jp
 0.0.0.0 so-graceclinic.com
 0.0.0.0 soba-masudaya.jp
+0.0.0.0 sobakirihorimoto.com
 0.0.0.0 sobre.jp
 0.0.0.0 socialnews-ai.com
 0.0.0.0 sodaigomi-kaishu.com
@@ -4282,6 +4290,7 @@
 0.0.0.0 www.droom-daiwaliving.net
 0.0.0.0 www.drscholl.jp
 0.0.0.0 www.drumgarage.net
+0.0.0.0 www.ds-seibido.co.jp
 0.0.0.0 www.dsautomobiles.jp
 0.0.0.0 www.dss365.com
 0.0.0.0 www.ducati.com
