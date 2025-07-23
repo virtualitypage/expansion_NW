@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 22 July 2025
+# Last modified: 23 July 2025
 #
 
 # [広告全般]
@@ -323,6 +323,7 @@
 0.0.0.0 bananarepublic.gap.co.jp
 0.0.0.0 bank-loan-ranking.com
 0.0.0.0 bark-shigino.owst.jp
+0.0.0.0 basasiya.com
 0.0.0.0 basefood.co.jp
 0.0.0.0 bashotoru.com
 0.0.0.0 bath.tagaya.co.jp
@@ -480,6 +481,7 @@
 0.0.0.0 careerjp.work
 0.0.0.0 careers.fromsoftware.jp
 0.0.0.0 carioca.owst.jp
+0.0.0.0 carmatch-osakatoyonaka.com
 0.0.0.0 carshare.earth-car.com
 0.0.0.0 casadangela-anhuit.com
 0.0.0.0 case-studies.ipa.go.jp
@@ -512,6 +514,7 @@
 0.0.0.0 chico-online.com
 0.0.0.0 chihuahua.breeders.jp
 0.0.0.0 chika-kodomo.com
+0.0.0.0 chikachicken-temma.owst.jp
 0.0.0.0 chikaramoti-kochi.com
 0.0.0.0 chikudenchi-asahi.com
 0.0.0.0 chill-cam.com
@@ -1067,6 +1070,7 @@
 0.0.0.0 golfrangeluana.jp
 0.0.0.0 gomiyashiki.speed-trouble.com
 0.0.0.0 gomu-kinzoku-shisaku.com
+0.0.0.0 good-line-housing.com
 0.0.0.0 gooda.brangista.com
 0.0.0.0 gooday.nikkei.co.jp
 0.0.0.0 goodconnect-sales.jp
@@ -1694,6 +1698,7 @@
 0.0.0.0 kizuna-community.com
 0.0.0.0 kj8-thegame.com
 0.0.0.0 kk-takada.com
+0.0.0.0 kk.hokkaido-np.co.jp
 0.0.0.0 kklounge.karaokekan.jp
 0.0.0.0 kkmatsusho.net
 0.0.0.0 klimt-cairnhill.contact-us.sg
@@ -1801,6 +1806,7 @@
 0.0.0.0 kyoso-coaching.com
 0.0.0.0 kyoto-hatoya.jp
 0.0.0.0 kyoto-kimonorental.com
+0.0.0.0 kyoto-sushiichi.owst.jp
 0.0.0.0 kyoto.brightonhotels.co.jp
 0.0.0.0 kyoto.vc-dealer.jp
 0.0.0.0 kyotofu-shoene.jp
@@ -2416,6 +2422,7 @@
 0.0.0.0 om-seishin.com
 0.0.0.0 omedeto.hp.peraichi.com
 0.0.0.0 omise-ningyo.com
+0.0.0.0 omotesando-skin.jp
 0.0.0.0 omurakyotei.jp
 0.0.0.0 omutsuclub.com
 0.0.0.0 on-pro.jp
@@ -3091,6 +3098,7 @@
 0.0.0.0 shoushutsuryoku-saiene-hoan.go.jp
 0.0.0.0 shouyumankichi.owst.jp
 0.0.0.0 shumei.ac.jp
+0.0.0.0 shunka-nishiakashi.owst.jp
 0.0.0.0 shunsai-tateyama.com
 0.0.0.0 shunsentanbou.pref.miyagi.jp
 0.0.0.0 shuten-kyodan.com
@@ -5475,6 +5483,7 @@
 0.0.0.0 www.ordercurtain.co.jp
 0.0.0.0 www.ordermaku.com
 0.0.0.0 www.oreillyauto.com
+0.0.0.0 www.oreno.co.jp
 0.0.0.0 www.orient-watch.jp
 0.0.0.0 www.oriental-hotels.com
 0.0.0.0 www.orientalmotor.co.th
