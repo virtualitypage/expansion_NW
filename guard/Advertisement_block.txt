@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 23 July 2025
+# Last modified: 24 July 2025
 #
 
 # [広告全般]
@@ -1456,6 +1456,7 @@
 0.0.0.0 jh.shijonawate-gakuen.ac.jp
 0.0.0.0 jibunmakura.com
 0.0.0.0 jicamagazine.jica.go.jp
+0.0.0.0 jidokko-obanzai-kiki.owst.jp
 0.0.0.0 jijimisakaba.owst.jp
 0.0.0.0 jinennjo.com
 0.0.0.0 jinentai.com
@@ -1656,6 +1657,7 @@
 0.0.0.0 kensetsu-welcome.mhlw.go.jp
 0.0.0.0 kensetsust-fuchuoffce.tokyo.jp
 0.0.0.0 kensetsutenshokunavi.jp
+0.0.0.0 kenshin.babacli.com
 0.0.0.0 kentei.tokyo-cci.or.jp
 0.0.0.0 kenzai-kaitori.net
 0.0.0.0 kenzenuk.com
@@ -1695,6 +1697,7 @@
 0.0.0.0 kitaosaka-souzoku-center.com
 0.0.0.0 kitashinchi-hashimoto.owst.jp
 0.0.0.0 kitashinnchiushinozennpremium.owst.jp
+0.0.0.0 kitayoshi2929.owst.jp
 0.0.0.0 kizuna-community.com
 0.0.0.0 kj8-thegame.com
 0.0.0.0 kk-takada.com
@@ -2048,6 +2051,7 @@
 0.0.0.0 mb-hakata.com
 0.0.0.0 mbcc-c.com
 0.0.0.0 mcafee-cb.campaign-pr.jp
+0.0.0.0 mcafeepresent.jp
 0.0.0.0 mcafeepromo.jp
 0.0.0.0 mcl.sbk.jp
 0.0.0.0 mcs-ainoie.com
@@ -2360,6 +2364,7 @@
 0.0.0.0 nova-ag.com
 0.0.0.0 novaassessoriatelefonica.jp
 0.0.0.0 noz-shop.com
+0.0.0.0 nozomi-resort.jp
 0.0.0.0 nposalvage.com
 0.0.0.0 ns-saitama.nissan-dealer.jp
 0.0.0.0 nsc-9340.com
@@ -2571,6 +2576,7 @@
 0.0.0.0 pivotjp.com
 0.0.0.0 pl.machibiz.info
 0.0.0.0 plan.117.co.jp
+0.0.0.0 planet-ballet.jimdosite.com
 0.0.0.0 planetarium-cafebar-misora.owst.jp
 0.0.0.0 plansclinic.jp
 0.0.0.0 platte.jp
@@ -2956,6 +2962,7 @@
 0.0.0.0 seiko-engineering.co.jp
 0.0.0.0 seima-dragon.com
 0.0.0.0 seirei-junior-high-school-openschool.com
+0.0.0.0 seishinkaiplus.com
 0.0.0.0 seisukeknifekappabashi.com
 0.0.0.0 seitaiya-wujing2022.hp.peraichi.com
 0.0.0.0 seiwa-kindergarten.jp
@@ -3200,6 +3207,7 @@
 0.0.0.0 sports.dunlop.co.jp
 0.0.0.0 sportskart.com
 0.0.0.0 sportspavilion.taiwantrade.com
+0.0.0.0 spring3.jp
 0.0.0.0 spur.hpplus.jp
 0.0.0.0 spyera.com
 0.0.0.0 sq-institute.com
@@ -3957,6 +3965,7 @@
 0.0.0.0 www.atlas-web.jp
 0.0.0.0 www.atlus.co.jp
 0.0.0.0 www.atpress.ne.jp
+0.0.0.0 www.attaka-houkan.net
 0.0.0.0 www.aucklandtourhouse.com
 0.0.0.0 www.aucnet.jp
 0.0.0.0 www.audi-ikebukuro.jp
@@ -4096,6 +4105,7 @@
 0.0.0.0 www.careerlinkfactory.co.jp
 0.0.0.0 www.caresoku.com
 0.0.0.0 www.carestar.co.jp
+0.0.0.0 www.carna-medsalon.jp
 0.0.0.0 www.carsensor.net
 0.0.0.0 www.carseven.co.jp
 0.0.0.0 www.carshares.jp
@@ -6375,6 +6385,7 @@
 0.0.0.0 yacnee.co.jp
 0.0.0.0 yadorigilab.com
 0.0.0.0 yaeyama-rentacar.com
+0.0.0.0 yaichi.co
 0.0.0.0 yakiniku-fc.com
 0.0.0.0 yakiniku-guts-hanare.jp
 0.0.0.0 yakiniku-hidaka-syouten-tenma.owst.jp
