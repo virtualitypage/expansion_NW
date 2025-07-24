@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 24 July 2025
+# Last modified: 25 July 2025
 #
 
 # [広告全般]
@@ -1042,6 +1042,7 @@
 0.0.0.0 globalxetfs.co.jp
 0.0.0.0 globe-inc.shop-pro.jp
 0.0.0.0 globe.asahi.com
+0.0.0.0 glocalnet.jp
 0.0.0.0 glowonline.jp
 0.0.0.0 gmobb.jp
 0.0.0.0 gng.thebase.in
@@ -1271,6 +1272,7 @@
 0.0.0.0 horseracing-tipsters.biz
 0.0.0.0 hoshi.cocoloni.jp
 0.0.0.0 hoshikare.jp
+0.0.0.0 hoshinoniwatennouji.owst.jp
 0.0.0.0 hoshuya.com
 0.0.0.0 hotelmonterey-grasmereosaka.jp
 0.0.0.0 hotelmonterey-himeji.jp
@@ -2608,6 +2610,7 @@
 0.0.0.0 pr.weissratings.jp
 0.0.0.0 pr1.takami-labo.com
 0.0.0.0 pr2.go2senkyo.com
+0.0.0.0 pragra123.com
 0.0.0.0 praise-amagasaki.com
 0.0.0.0 pre.ujoygames.com
 0.0.0.0 premiere-jp.com
@@ -2729,6 +2732,7 @@
 0.0.0.0 renoman-shinjuku.com
 0.0.0.0 renove.inove.co.jp
 0.0.0.0 rensim-store.com
+0.0.0.0 rensintenma.owst.jp
 0.0.0.0 renta-life.jp
 0.0.0.0 rental-coin.com
 0.0.0.0 rental-pallet.net
@@ -3377,6 +3381,7 @@
 0.0.0.0 talia-campaign.square.site
 0.0.0.0 tamaichiisaku.owst.jp
 0.0.0.0 tamaichitengo.owst.jp
+0.0.0.0 tamakona.co.jp
 0.0.0.0 tamarusaryo.jp
 0.0.0.0 tamatani-tenroku.com
 0.0.0.0 tamaya1950.shop-pro.jp
@@ -5854,6 +5859,7 @@
 0.0.0.0 www.sinfonia-recruit.com
 0.0.0.0 www.singaporeair.com
 0.0.0.0 www.sinto.co.jp
+0.0.0.0 www.sinyi.co.jp
 0.0.0.0 www.siretta.com
 0.0.0.0 www.sitepublis.net
 0.0.0.0 www.sizenshokken.co.jp
