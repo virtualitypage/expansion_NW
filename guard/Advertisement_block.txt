@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 25 July 2025
+# Last modified: 26 July 2025
 #
 
 # [広告全般]
@@ -199,6 +199,7 @@
 0.0.0.0 ampmedia.jp
 0.0.0.0 amu-kyoto.jp
 0.0.0.0 amy-med.com
+0.0.0.0 anacli.gabia.io
 0.0.0.0 anaheim20.jp
 0.0.0.0 anajinzai.recruitment.jp
 0.0.0.0 ananti.kr
@@ -264,6 +265,7 @@
 0.0.0.0 artglorieux.jp
 0.0.0.0 artisanfactory.jp
 0.0.0.0 artmac.co.jp
+0.0.0.0 artmakebeautyacademy-osaka.com
 0.0.0.0 artvivant-fantasyart.net
 0.0.0.0 aruyo22.jp
 0.0.0.0 arwrk.net
@@ -375,6 +377,7 @@
 0.0.0.0 bird-ship.com
 0.0.0.0 biryuhyakkaweb.jp
 0.0.0.0 bisha-ema.com
+0.0.0.0 bisket.shop
 0.0.0.0 bistria-uotalian.owst.jp
 0.0.0.0 bistrogamin.owst.jp
 0.0.0.0 bistrosakaba-yuzu-kitahamahonten.owst.jp
@@ -837,6 +840,7 @@
 0.0.0.0 eras-and-allies-civilization.2k.com
 0.0.0.0 eretz.jp
 0.0.0.0 es-hanjan.owst.jp
+0.0.0.0 es-magiccontrol.com
 0.0.0.0 es4.easyerin.top
 0.0.0.0 esnet-tax.com
 0.0.0.0 esp-smart.jp
@@ -856,6 +860,7 @@
 0.0.0.0 everygoodnews.com
 0.0.0.0 excelhome-y.com
 0.0.0.0 exerurgentcare.com
+0.0.0.0 exosome-salon-bidou.my.canva.site
 0.0.0.0 exothelab.jp
 0.0.0.0 expa-official.jp
 0.0.0.0 explore.arenasolutions.com
@@ -986,6 +991,7 @@
 0.0.0.0 futon-tsuyuki-ec.com
 0.0.0.0 futoukou-sien.com
 0.0.0.0 fuwarii.com
+0.0.0.0 fy.harvest-green.com
 0.0.0.0 g-house.osaka.jp
 0.0.0.0 g-prep.co.jp
 0.0.0.0 g-w-j.co.jp
@@ -1181,6 +1187,7 @@
 0.0.0.0 hataraku-search.com
 0.0.0.0 hatarakujob.com
 0.0.0.0 hatihati.hatenablog.jp
+0.0.0.0 hawaiimemorial.jp
 0.0.0.0 hayabusa-kk.com
 0.0.0.0 hayatahome.com
 0.0.0.0 hayatejpncorp.com
@@ -1369,6 +1376,7 @@
 0.0.0.0 iningyo.com
 0.0.0.0 inkjet-maku.com
 0.0.0.0 inline.app
+0.0.0.0 innaorganic.com
 0.0.0.0 inoue-hachiouji.com
 0.0.0.0 inquiry.renosy.com
 0.0.0.0 insta-beauty.net
@@ -1581,6 +1589,7 @@
 0.0.0.0 kaitoribuyer.com
 0.0.0.0 kaiyutei-gion.owst.jp
 0.0.0.0 kajima-kyoren.com
+0.0.0.0 kakurega-izakaya-nomaie.owst.jp
 0.0.0.0 kakushelter.com
 0.0.0.0 kakuteishinkoku-zeirishi.jp
 0.0.0.0 kakuuchitomennbansan.owst.jp
@@ -1636,6 +1645,7 @@
 0.0.0.0 katsuo-taisyo.owst.jp
 0.0.0.0 katsurabina.shop
 0.0.0.0 katu-shimokitazawa.owst.jp
+0.0.0.0 kawaguchi.bess.jp
 0.0.0.0 kawanotajimaya.com
 0.0.0.0 kayo-corp.co.jp
 0.0.0.0 kaza-design.com
@@ -1697,6 +1707,7 @@
 0.0.0.0 kitamoto.click
 0.0.0.0 kitanoburn.owst.jp
 0.0.0.0 kitaosaka-souzoku-center.com
+0.0.0.0 kitasenjunikuzushi.owst.jp
 0.0.0.0 kitashinchi-hashimoto.owst.jp
 0.0.0.0 kitashinnchiushinozennpremium.owst.jp
 0.0.0.0 kitayoshi2929.owst.jp
@@ -2090,6 +2101,7 @@
 0.0.0.0 metaxpayments.com
 0.0.0.0 metric10421051535.mydmportal.com
 0.0.0.0 metsa-hanno.com
+0.0.0.0 mfbooks.jp
 0.0.0.0 mfrt.rehouse.co.jp
 0.0.0.0 mi-mollet.com
 0.0.0.0 micekc.com
@@ -2383,6 +2395,7 @@
 0.0.0.0 oasishoteles.com
 0.0.0.0 oba-sr.com
 0.0.0.0 obanzai-anju.owst.jp
+0.0.0.0 oboro-yakiniku.owst.jp
 0.0.0.0 oboromatsu.owst.jp
 0.0.0.0 oc.kki.ac.jp
 0.0.0.0 occhialioga.owst.jp
@@ -2956,6 +2969,7 @@
 0.0.0.0 search.sbisec.co.jp
 0.0.0.0 sec.pandanet.co.jp
 0.0.0.0 secev.co.jp
+0.0.0.0 secret-belle.com
 0.0.0.0 secure.proglab.education
 0.0.0.0 sei26.com
 0.0.0.0 seibuwood.jp
@@ -2975,6 +2989,7 @@
 0.0.0.0 sekokan-labo.jp
 0.0.0.0 sekokan-next.worldcorp-jp.com
 0.0.0.0 selcohome.jp
+0.0.0.0 selif.jp
 0.0.0.0 semaurusyokudou-nakano.owst.jp
 0.0.0.0 seminar.rakurakuseisan.jp
 0.0.0.0 sen8senjya.jp
@@ -3483,6 +3498,7 @@
 0.0.0.0 tokaiyajima-filtration.com
 0.0.0.0 tokitomo-tatami-lp.jp
 0.0.0.0 tokusensuzuki.com
+0.0.0.0 tokusuru-88.com
 0.0.0.0 tokuyuuchin-kyoto.jp
 0.0.0.0 tokyo-cinderella.jp
 0.0.0.0 tokyo-kaveri.com
@@ -3525,12 +3541,14 @@
 0.0.0.0 tosei-hotel.co.jp
 0.0.0.0 totalrepair.jp
 0.0.0.0 totoseven.owst.jp
+0.0.0.0 totteoki-iwaki.jp
 0.0.0.0 tottoreal-pavilion.jp
 0.0.0.0 tottotto-namba.owst.jp
 0.0.0.0 toubyo.com
 0.0.0.0 touentei.com
 0.0.0.0 touki-a.com
 0.0.0.0 tounyuu.net
+0.0.0.0 tour.l-tike.com
 0.0.0.0 toushi-up.com
 0.0.0.0 tovira.jp
 0.0.0.0 towa-corp.net
@@ -3563,6 +3581,7 @@
 0.0.0.0 tsujimoto-2007.com
 0.0.0.0 tsujishin.jp
 0.0.0.0 tsujiyo.jp
+0.0.0.0 tsuki-no-yufune-summer2025.hp.peraichi.com
 0.0.0.0 tsumugu-matsubara.owst.jp
 0.0.0.0 tsuna-ag.com
 0.0.0.0 tsuna-ag.tsuna-ag.com
@@ -3871,6 +3890,7 @@
 0.0.0.0 www.ajhh.jp
 0.0.0.0 www.ajinomoto.co.jp
 0.0.0.0 www.alba.co.jp
+0.0.0.0 www.albase.skin
 0.0.0.0 www.allaroundmobilehomeservice.com
 0.0.0.0 www.allergy-i.jp
 0.0.0.0 www.allex.org
@@ -4592,6 +4612,7 @@
 0.0.0.0 www.hachise.jp
 0.0.0.0 www.hacobell.com
 0.0.0.0 www.hagisol.co.jp
+0.0.0.0 www.haier.com
 0.0.0.0 www.hakata-ieh.jp
 0.0.0.0 www.hakken.pro
 0.0.0.0 www.hakkenden.jp
@@ -5797,6 +5818,7 @@
 0.0.0.0 www.seiyu-home.com
 0.0.0.0 www.sekisuiheim.com
 0.0.0.0 www.sekisuihouse-f-tokyo.co.jp
+0.0.0.0 www.sekisuihouse.co.jp
 0.0.0.0 www.sekiya-giken.com
 0.0.0.0 www.sendai-bridalring.com
 0.0.0.0 www.senju-museum.jp
@@ -5878,6 +5900,7 @@
 0.0.0.0 www.smartcross.jp
 0.0.0.0 www.smauto.co.jp
 0.0.0.0 www.smbc-card.com
+0.0.0.0 www.smf.or.jp
 0.0.0.0 www.smfg.co.jp
 0.0.0.0 www.smilecare.co.jp
 0.0.0.0 www.snk-corp.co.jp
@@ -6308,6 +6331,7 @@
 0.0.0.0 www.yamamotonouen.jp
 0.0.0.0 www.yamano-music.co.jp
 0.0.0.0 www.yamanoie1965.com
+0.0.0.0 www.yamarent.com
 0.0.0.0 www.yamato-u.ac.jp
 0.0.0.0 www.yane-takumi.net
 0.0.0.0 www.yanmar.com
@@ -6343,6 +6367,7 @@
 0.0.0.0 www.yskjet.com
 0.0.0.0 www.ytj.gr.jp
 0.0.0.0 www.yuanta.com.tw
+0.0.0.0 www.yugafu.co.jp
 0.0.0.0 www.yui-mall.jp
 0.0.0.0 www.yuifactory.co.jp
 0.0.0.0 www.yuki-darumaru.com
