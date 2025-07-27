@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 26 July 2025
+# Last modified: 27 July 2025
 #
 
 # [広告全般]
@@ -33,6 +33,7 @@
 0.0.0.0 3rd-shutter.photo
 0.0.0.0 4510-mw.com
 0.0.0.0 47095986.form.kintoneapp.com
+0.0.0.0 4nature.co.jp
 0.0.0.0 4seasonsgallery.jp
 0.0.0.0 4u-cosmetics.com
 0.0.0.0 4years.asahi.com
@@ -660,6 +661,7 @@
 0.0.0.0 daytona-mcgarage.com
 0.0.0.0 deagostini.jp
 0.0.0.0 dealer.bydauto.co.jp
+0.0.0.0 debesoharimaya.owst.jp
 0.0.0.0 deep2031.com
 0.0.0.0 delivery-shizuoka-sakuraan.com
 0.0.0.0 delta-umeda.owst.jp
@@ -1386,6 +1388,7 @@
 0.0.0.0 invest.takuto-investment.com
 0.0.0.0 investor-a.com
 0.0.0.0 investsspot.com
+0.0.0.0 invox.jp
 0.0.0.0 iot-usecase.com
 0.0.0.0 ipc-re.co.jp
 0.0.0.0 ippachi-tennoji.owst.jp
@@ -1876,6 +1879,7 @@
 0.0.0.0 life.miele.co.jp
 0.0.0.0 life.oricon.co.jp
 0.0.0.0 lifeenergy.shop-pro.jp
+0.0.0.0 lifestage-timework.studio.site
 0.0.0.0 lifestyle-habit.com
 0.0.0.0 lifestyle-medicine.heart-coaching.org
 0.0.0.0 lifetunes-mall.jp
@@ -1959,6 +1963,7 @@
 0.0.0.0 luzfragrance.com
 0.0.0.0 m-ihinseiri.jp
 0.0.0.0 m-ikimonogatari.com
+0.0.0.0 nam.veta.naver.com.lan
 0.0.0.0 m.blog.naver.com
 0.0.0.0 m.bullang.jp
 0.0.0.0 m.chitetsu.co.jp
@@ -2275,6 +2280,7 @@
 0.0.0.0 natalie.mu
 0.0.0.0 natgeo.nikkeibp.co.jp
 0.0.0.0 natto-cookie.com
+0.0.0.0 nattokujoho.com
 0.0.0.0 naturalchange.jp
 0.0.0.0 navi.jobpal.jp
 0.0.0.0 navi.kankou-matsue.jp
@@ -2435,11 +2441,14 @@
 0.0.0.0 okoze-yumekoubou.com
 0.0.0.0 okuaizu-suiryokukan.jp
 0.0.0.0 okuizumosoba-ippuku-itami.owst.jp
+0.0.0.0 okuribito-delivery.com
 0.0.0.0 okuruma.asia
 0.0.0.0 olbee-kankyo.com
 0.0.0.0 oldisroad.com
+0.0.0.0 oldschooldining.owst.jp
 0.0.0.0 olubie.jp
 0.0.0.0 om-seishin.com
+0.0.0.0 omah.hp.peraichi.com
 0.0.0.0 omedeto.hp.peraichi.com
 0.0.0.0 omise-ningyo.com
 0.0.0.0 omotesando-skin.jp
@@ -2566,6 +2575,7 @@
 0.0.0.0 persol-hrpartners.co.jp
 0.0.0.0 personal.canon.jp
 0.0.0.0 pestalozzi-tech.com
+0.0.0.0 pet-inori.com
 0.0.0.0 petbakery.jp
 0.0.0.0 petelect.jp
 0.0.0.0 petfoods.shop
@@ -2690,6 +2700,7 @@
 0.0.0.0 r1-usc1.zemanta.com
 0.0.0.0 r25.jp
 0.0.0.0 race.nishinippon.co.jp
+0.0.0.0 radononsen.co.jp
 0.0.0.0 raichoshrine.owst.jp
 0.0.0.0 railway.jr-central.co.jp
 0.0.0.0 rainbow-c.com
@@ -3107,6 +3118,7 @@
 0.0.0.0 shop.shimogamosaryo.co.jp
 0.0.0.0 shop.shoyeido.co.jp
 0.0.0.0 shop.soundfun.co.jp
+0.0.0.0 shop.swing-jewelry.com
 0.0.0.0 shop.takara-online.com
 0.0.0.0 shop.tennomeshi.com
 0.0.0.0 shop.uyeki.co.jp
@@ -3220,6 +3232,7 @@
 0.0.0.0 spicaglow.jp
 0.0.0.0 spiceshokudothreestar.owst.jp
 0.0.0.0 spidoor.jp
+0.0.0.0 spieler.jp
 0.0.0.0 spikomi.net
 0.0.0.0 splus.website
 0.0.0.0 spopita.jp
@@ -3355,6 +3368,7 @@
 0.0.0.0 t.afi-b.com
 0.0.0.0 t.pia.jp
 0.0.0.0 tabe-repo.net
+0.0.0.0 tabelop.com
 0.0.0.0 tabihaku2025.com
 0.0.0.0 tabiiro.jp
 0.0.0.0 tabiken-ryugaku.co.jp
@@ -3449,6 +3463,7 @@
 0.0.0.0 tenroku.ai-shinkyuuin-sekkotsuin.jp
 0.0.0.0 tensei-osaka.com
 0.0.0.0 tenshoku.mynavi.jp
+0.0.0.0 tents-tarps-marquees.co.za
 0.0.0.0 teppannyakisyokudouren.owst.jp
 0.0.0.0 teppansakenokigaru.owst.jp
 0.0.0.0 teppantaisyuusakabayoshikawa.owst.jp
@@ -3730,6 +3745,7 @@
 0.0.0.0 watchrepair.com.sg
 0.0.0.0 watchsalon-fukuoka.com
 0.0.0.0 waterone.jp
+0.0.0.0 waveslash.net
 0.0.0.0 web-cam.jp
 0.0.0.0 web-marketing-kyoto.biz
 0.0.0.0 web.anabuki-college.ac.jp
@@ -4109,6 +4125,7 @@
 0.0.0.0 www.ca-japan.co.jp
 0.0.0.0 www.cadjapan.com
 0.0.0.0 www.cafe-ring.com
+0.0.0.0 www.calimalamilano.com
 0.0.0.0 www.callawaygolf.jp
 0.0.0.0 www.camcast7.co.jp
 0.0.0.0 www.cameranonaniwa.co.jp
@@ -4366,6 +4383,7 @@
 0.0.0.0 www.eco-hyogo.jp
 0.0.0.0 www.ecocity.jp
 0.0.0.0 www.ecoflow.com
+0.0.0.0 www.ecolecriollo.co.jp
 0.0.0.0 www.ecomo-life.com
 0.0.0.0 www.ecomott.co.jp
 0.0.0.0 www.ecoplan2001.com
@@ -4871,6 +4889,7 @@
 0.0.0.0 www.jhf.go.jp
 0.0.0.0 www.jhl.co.jp
 0.0.0.0 www.jidaigekinet.com
+0.0.0.0 www.jiho.co.jp
 0.0.0.0 www.jimotohome.jp
 0.0.0.0 www.jinken-library.jp
 0.0.0.0 www.jinrayworld.com
@@ -4999,6 +5018,7 @@
 0.0.0.0 www.kindai.ac.jp
 0.0.0.0 www.kindaikagaku.co.jp
 0.0.0.0 www.kinoshita-koumuten.co.jp
+0.0.0.0 www.kinoyuka.net
 0.0.0.0 www.kinsoku.ac.jp
 0.0.0.0 www.kintetsu.co.jp
 0.0.0.0 www.kinuami.com
@@ -5009,6 +5029,7 @@
 0.0.0.0 www.kirizai.jp
 0.0.0.0 www.kitchencar-kyushu.com
 0.0.0.0 www.kitzmf.com
+0.0.0.0 www.kiw.co.jp
 0.0.0.0 www.kiyobank.co.jp
 0.0.0.0 www.kjtd.co.jp
 0.0.0.0 www.kkr.mlit.go.jp
@@ -5448,6 +5469,7 @@
 0.0.0.0 www.nttud.co.jp
 0.0.0.0 www.nugu.jp
 0.0.0.0 www.nuigurumi-lab.com
+0.0.0.0 www.numazu-hillsideterrace.com
 0.0.0.0 www.numo.or.jp
 0.0.0.0 www.numplerap.com
 0.0.0.0 www.nurse-secom.com
@@ -5872,6 +5894,7 @@
 0.0.0.0 www.showrooming-online.com
 0.0.0.0 www.shozan.co.jp
 0.0.0.0 www.shozankaku.jp
+0.0.0.0 www.shudo-u.ac.jp
 0.0.0.0 www.shure.com
 0.0.0.0 www.shutoko.jp
 0.0.0.0 www.sightsaversusa.org
@@ -5929,6 +5952,7 @@
 0.0.0.0 www.sousou.jp
 0.0.0.0 www.southbank.org
 0.0.0.0 www.souzoku-rescue.net
+0.0.0.0 www.space-hyakka.com
 0.0.0.0 www.spacemarket.com
 0.0.0.0 www.spf21.net
 0.0.0.0 www.spglobal.com
