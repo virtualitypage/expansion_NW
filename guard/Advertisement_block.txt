@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 27 July 2025
+# Last modified: 28 July 2025
 #
 
 # [広告全般]
@@ -381,6 +381,7 @@
 0.0.0.0 bisket.shop
 0.0.0.0 bistria-uotalian.owst.jp
 0.0.0.0 bistrogamin.owst.jp
+0.0.0.0 bistropin.owst.jp
 0.0.0.0 bistrosakaba-yuzu-kitahamahonten.owst.jp
 0.0.0.0 bix.exparo.com
 0.0.0.0 biz.renta-mobile.com
@@ -578,6 +579,7 @@
 0.0.0.0 colorful.futabanet.jp
 0.0.0.0 coloso.jp
 0.0.0.0 comfort-archi.com
+0.0.0.0 comfort-hiroshima.com
 0.0.0.0 comic-walker.com
 0.0.0.0 comic.iowl.jp
 0.0.0.0 comic.k-manga.jp
@@ -624,6 +626,7 @@
 0.0.0.0 crcr.asia
 0.0.0.0 creditcard-entry.com
 0.0.0.0 creditcard-news.net
+0.0.0.0 crescent.owst.jp
 0.0.0.0 crestrich.net
 0.0.0.0 crosroad.com
 0.0.0.0 crossborderadvisorysolutions.com
@@ -1124,6 +1127,7 @@
 0.0.0.0 gyozanokattyantakatuki.owst.jp
 0.0.0.0 gyukahachiba.owst.jp
 0.0.0.0 gyurikiya-tokiwadai.owst.jp
+0.0.0.0 gyutan-sennno-oomiya.owst.jp
 0.0.0.0 gyutte.jp
 0.0.0.0 h-felice.com
 0.0.0.0 h-jp.fujifilm.com
@@ -1240,8 +1244,10 @@
 0.0.0.0 hiroki-plus-gakuentoshi.owst.jp
 0.0.0.0 hirose-fx.co.jp
 0.0.0.0 hirose-fx.jp
+0.0.0.0 hiroshima-densuke.owst.jp
 0.0.0.0 hiroshima-souzoku.com
 0.0.0.0 hiroshimaforpeace.com
+0.0.0.0 hiroshimahan.owst.jp
 0.0.0.0 hirotuku-shop.net
 0.0.0.0 hisataka.net
 0.0.0.0 hisense-cp2024s.com
@@ -1275,6 +1281,7 @@
 0.0.0.0 hon-gakko.com
 0.0.0.0 hondacars.jp
 0.0.0.0 hondacars.link
+0.0.0.0 honetukidoritorihana.owst.jp
 0.0.0.0 honkaku-coco.com
 0.0.0.0 hoom-furniture.com
 0.0.0.0 hopstand-mosaic.owst.jp
@@ -1592,6 +1599,7 @@
 0.0.0.0 kaitoribuyer.com
 0.0.0.0 kaiyutei-gion.owst.jp
 0.0.0.0 kajima-kyoren.com
+0.0.0.0 kakidenhiroshima.owst.jp
 0.0.0.0 kakurega-izakaya-nomaie.owst.jp
 0.0.0.0 kakushelter.com
 0.0.0.0 kakuteishinkoku-zeirishi.jp
@@ -1681,6 +1689,7 @@
 0.0.0.0 kgg-nanporo4.hp.peraichi.com
 0.0.0.0 khiang-osaka.owst.jp
 0.0.0.0 kichi.bar
+0.0.0.0 kicho-daikou.com
 0.0.0.0 kids.tipness.co.jp
 0.0.0.0 kidsdesignaward.jp
 0.0.0.0 kidski.kidsna.com
@@ -1963,7 +1972,6 @@
 0.0.0.0 luzfragrance.com
 0.0.0.0 m-ihinseiri.jp
 0.0.0.0 m-ikimonogatari.com
-0.0.0.0 nam.veta.naver.com.lan
 0.0.0.0 m.blog.naver.com
 0.0.0.0 m.bullang.jp
 0.0.0.0 m.chitetsu.co.jp
@@ -2220,6 +2228,7 @@
 0.0.0.0 mugenmeat-catering.com
 0.0.0.0 mugla.goturkiye.com
 0.0.0.0 multi-water.com
+0.0.0.0 multilingual.uttori-amemura.com
 0.0.0.0 munimuni.owst.jp
 0.0.0.0 muqbel.jp
 0.0.0.0 musashi-kikaiyuso.com
@@ -2267,6 +2276,7 @@
 0.0.0.0 nakanodental-cl.com
 0.0.0.0 nakka-art.jp
 0.0.0.0 nakosa.theshop.jp
+0.0.0.0 nam.veta.naver.com.lan
 0.0.0.0 namaeire.ocnk.net
 0.0.0.0 namahorumonitadaki-honmachi.owst.jp
 0.0.0.0 nana-company.vercel.app
@@ -2534,6 +2544,7 @@
 0.0.0.0 oyakata.sr-serve.com
 0.0.0.0 oyakawa.alljob-test.net
 0.0.0.0 oyanozasshi.jp
+0.0.0.0 oysterandsmokedbarsango.owst.jp
 0.0.0.0 p-chi.tech
 0.0.0.0 p-project.jp
 0.0.0.0 p-town.dmm.com
@@ -3073,6 +3084,7 @@
 0.0.0.0 shinya0129.info
 0.0.0.0 shisaku-kiban.com
 0.0.0.0 shisas-cafe-bbq.com
+0.0.0.0 shishifunjinbekkan.owst.jp
 0.0.0.0 shisu.gengakusoudan.com
 0.0.0.0 shizuclear.jp
 0.0.0.0 shizuoka-norin-u.ac.jp
@@ -3135,6 +3147,7 @@
 0.0.0.0 shougai-nenkin119.com
 0.0.0.0 shoushutsuryoku-saiene-hoan.go.jp
 0.0.0.0 shouyumankichi.owst.jp
+0.0.0.0 shred18.com
 0.0.0.0 shumei.ac.jp
 0.0.0.0 shunka-nishiakashi.owst.jp
 0.0.0.0 shunsai-tateyama.com
@@ -3325,6 +3338,7 @@
 0.0.0.0 sumitoma.tokyo
 0.0.0.0 sumiyaginzo.owst.jp
 0.0.0.0 sumiyakikitchen-toriko.owst.jp
+0.0.0.0 sumiyakitakadaya.owst.jp
 0.0.0.0 sumiyayotsuba.owst.jp
 0.0.0.0 sumusite.sekisuihouse.co.jp
 0.0.0.0 sun-asset.eco.to
@@ -3413,6 +3427,7 @@
 0.0.0.0 tamakona.co.jp
 0.0.0.0 tamarusaryo.jp
 0.0.0.0 tamatani-tenroku.com
+0.0.0.0 tamaya-nagarekawa.owst.jp
 0.0.0.0 tamaya1950.shop-pro.jp
 0.0.0.0 tamayakk.com
 0.0.0.0 tanaka501.com
@@ -3824,6 +3839,7 @@
 0.0.0.0 www.303select.com
 0.0.0.0 www.34insatsu.com
 0.0.0.0 www.38-8931.com
+0.0.0.0 www.384.co.jp
 0.0.0.0 www.39655.net
 0.0.0.0 www.39asset.co.jp
 0.0.0.0 www.3ei.co.jp
@@ -4118,6 +4134,7 @@
 0.0.0.0 www.business-crew.co.jp
 0.0.0.0 www.businessweekly.com.tw
 0.0.0.0 www.buysellonline.jp
+0.0.0.0 www.c-ai.co.jp
 0.0.0.0 www.c-and-rm.com
 0.0.0.0 www.c-cube.cc
 0.0.0.0 www.c21mercury.com
