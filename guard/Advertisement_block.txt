@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 28 July 2025
+# Last modified: 29 July 2025
 #
 
 # [広告全般]
@@ -162,6 +162,7 @@
 0.0.0.0 akr8490227405.owst.jp
 0.0.0.0 akr8618687678.owst.jp
 0.0.0.0 akr8989707750.owst.jp
+0.0.0.0 akr9232352916.owst.jp
 0.0.0.0 akr9371764164.owst.jp
 0.0.0.0 akr9636581561.owst.jp
 0.0.0.0 al-mare.irodori-inc-okj.co.jp
@@ -348,6 +349,7 @@
 0.0.0.0 bec-fin.jp
 0.0.0.0 beds24.com
 0.0.0.0 beeffrompoland.pl
+0.0.0.0 beerus.jp
 0.0.0.0 beira.shop
 0.0.0.0 belinda-clinic.site
 0.0.0.0 belindaclinic-shinjuku.net
@@ -399,6 +401,7 @@
 0.0.0.0 blog.webproduct-lab.com
 0.0.0.0 blueblueakashi.blue
 0.0.0.0 bluemoon-dog.com
+0.0.0.0 bluevoyage.goturkiye.com
 0.0.0.0 bmccancer.biomedcentral.com
 0.0.0.0 boatzon.com
 0.0.0.0 bobcard.co.in
@@ -474,6 +477,7 @@
 0.0.0.0 canbadge-arc44.com
 0.0.0.0 canbadge-arc76.com
 0.0.0.0 canow.tokyo
+0.0.0.0 canup.dog
 0.0.0.0 capricciosa.com
 0.0.0.0 car-audio.ne.jp
 0.0.0.0 carboncredits.com
@@ -1308,6 +1312,7 @@
 0.0.0.0 hoyeon.plaync.com
 0.0.0.0 hr-basis.com
 0.0.0.0 hr.techbiz.com
+0.0.0.0 hrmos.co
 0.0.0.0 htd.kaikaikiki.com
 0.0.0.0 htm.sf-express.com
 0.0.0.0 hubble-ban-yan-tree-terrace.owst.jp
@@ -1351,6 +1356,7 @@
 0.0.0.0 ii.tokyu.co.jp
 0.0.0.0 ikedahearinggear.com
 0.0.0.0 iki-online.com
+0.0.0.0 ikinaniku-funabashi.owst.jp
 0.0.0.0 ikusei-youchien.ed.jp
 0.0.0.0 il-villa-ggio.com
 0.0.0.0 ilandtower-clinic.jp
@@ -1419,6 +1425,7 @@
 0.0.0.0 islandjourney-wedding.jp
 0.0.0.0 islewhite.com
 0.0.0.0 isodashika.com
+0.0.0.0 isolasmeralda.owst.jp
 0.0.0.0 isshin-moriguchi.owst.jp
 0.0.0.0 issho-ueno.com
 0.0.0.0 issyou-nishikujyou.owst.jp
@@ -1434,6 +1441,7 @@
 0.0.0.0 ito-ec.jp
 0.0.0.0 itookashiki.com
 0.0.0.0 itp.ne.jp
+0.0.0.0 iwasou.jp
 0.0.0.0 iwata-yuzunoki-hoikuen.com
 0.0.0.0 iwateya-shop.jp
 0.0.0.0 iwgsp.com
@@ -1458,11 +1466,13 @@
 0.0.0.0 jafplaza.com
 0.0.0.0 jagoo.co.jp
 0.0.0.0 jammarineclub.com
+0.0.0.0 jamon.owst.jp
 0.0.0.0 jankara.ne.jp
 0.0.0.0 japan-food.guide
 0.0.0.0 japan-staff.jp
 0.0.0.0 japanbusonline.com
 0.0.0.0 japanese.visitkorea.or.kr
+0.0.0.0 japaneserestaurant-chiqkenya.com
 0.0.0.0 japaneserestaurant-king.owst.jp
 0.0.0.0 japantax.tokyo
 0.0.0.0 japonicasecond.owst.jp
@@ -1590,6 +1600,7 @@
 0.0.0.0 kaigojj.com
 0.0.0.0 kaigyoyushi-osaka.jp
 0.0.0.0 kainuma.org
+0.0.0.0 kairi-ebisu.owst.jp
 0.0.0.0 kaitori-king.tokyo
 0.0.0.0 kaitori-meijin.com
 0.0.0.0 kaitori.brandoff.co.jp
@@ -1702,6 +1713,7 @@
 0.0.0.0 kimioterasu-community.jp
 0.0.0.0 kimono-ice.com
 0.0.0.0 kimono-yamato-furisode.com
+0.0.0.0 kimuragotanda.owst.jp
 0.0.0.0 kingram.shop
 0.0.0.0 kinkaimasu.jp
 0.0.0.0 kinkimarine.co.jp
@@ -2030,6 +2042,7 @@
 0.0.0.0 manga.piecedesign.net
 0.0.0.0 mangamatsuri.kodansha.co.jp
 0.0.0.0 mangasouko-shop.jp
+0.0.0.0 mangenshuka.owst.jp
 0.0.0.0 manoamano87.jp
 0.0.0.0 mantenlab.com
 0.0.0.0 manulife-gaika.jp
@@ -2235,6 +2248,7 @@
 0.0.0.0 mushimushi-busters.jp
 0.0.0.0 mushinkoku.com
 0.0.0.0 music.kawai.jp
+0.0.0.0 mutsuhiro.owst.jp
 0.0.0.0 my-career.co.jp
 0.0.0.0 my.royalcanin.jp
 0.0.0.0 mybabiie.com
@@ -2276,7 +2290,6 @@
 0.0.0.0 nakanodental-cl.com
 0.0.0.0 nakka-art.jp
 0.0.0.0 nakosa.theshop.jp
-0.0.0.0 nam.veta.naver.com.lan
 0.0.0.0 namaeire.ocnk.net
 0.0.0.0 namahorumonitadaki-honmachi.owst.jp
 0.0.0.0 nana-company.vercel.app
@@ -2622,6 +2635,7 @@
 0.0.0.0 plus.tobemori.com
 0.0.0.0 plusone-fukushi-lp.com
 0.0.0.0 plustee-golf.com
+0.0.0.0 point-news.jp
 0.0.0.0 point.zensho.co.jp
 0.0.0.0 pokedebi.com
 0.0.0.0 pokeka-kaitori-collectors.jp
@@ -2996,6 +3010,7 @@
 0.0.0.0 sei26.com
 0.0.0.0 seibuwood.jp
 0.0.0.0 seiho-navi.net
+0.0.0.0 seikahome.com
 0.0.0.0 seikatsu-daiji1616.biz
 0.0.0.0 seikatsu-shien.com
 0.0.0.0 seikatsusha-ddm.com
@@ -4937,6 +4952,7 @@
 0.0.0.0 www.jreast.co.jp
 0.0.0.0 www.jri.co.jp
 0.0.0.0 www.jsa.or.jp
+0.0.0.0 www.jsk.kojo.ed.jp
 0.0.0.0 www.jsol-recruit.com
 0.0.0.0 www.jsy.jp
 0.0.0.0 www.jtbcorp.jp
@@ -5433,6 +5449,7 @@
 0.0.0.0 www.nikahome.jp
 0.0.0.0 www.nikon-image.com
 0.0.0.0 www.nilaina-holidays.com
+0.0.0.0 www.ninas-marieantoinette.jp
 0.0.0.0 www.ninkatsuka.metro.tokyo.lg.jp
 0.0.0.0 www.nipponham.co.jp
 0.0.0.0 www.nipponkaigishitsu.com
@@ -5711,6 +5728,7 @@
 0.0.0.0 www.qac.co.jp
 0.0.0.0 www.qchicken.co.jp
 0.0.0.0 www.qfox-japan.com
+0.0.0.0 www.qlcle.info
 0.0.0.0 www.qobuz.com
 0.0.0.0 www.qol-inc.com
 0.0.0.0 www.qoo10.jp
@@ -6112,6 +6130,7 @@
 0.0.0.0 www.tgsc.tokyo
 0.0.0.0 www.the-cushion.com
 0.0.0.0 www.the-pathfinder.com
+0.0.0.0 www.theclamjp.com
 0.0.0.0 www.thefingerseams.com
 0.0.0.0 www.themalaygolfer.com
 0.0.0.0 www.thepiel.com
