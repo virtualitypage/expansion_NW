@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 29 July 2025
+# Last modified: 30 July 2025
 #
 
 # [広告全般]
@@ -196,6 +196,7 @@
 0.0.0.0 ametelas.owst.jp
 0.0.0.0 amiami-as331.com
 0.0.0.0 amiblo.jp
+0.0.0.0 amihamasyokudou.owst.jp
 0.0.0.0 amlead.co.jp
 0.0.0.0 amnibus.com
 0.0.0.0 ampmedia.jp
@@ -420,6 +421,7 @@
 0.0.0.0 bostonterrier.breeders.jp
 0.0.0.0 bosyu-will.com
 0.0.0.0 bouquet-24.com
+0.0.0.0 bouz.owst.jp
 0.0.0.0 bownim.base.shop
 0.0.0.0 bra.almado.jp
 0.0.0.0 brand.taisho.co.jp
@@ -638,6 +640,7 @@
 0.0.0.0 crowdtech.jp
 0.0.0.0 cryosauna.jp
 0.0.0.0 cs-plaza.co.jp
+0.0.0.0 csnet-apps.net
 0.0.0.0 csujapan.com
 0.0.0.0 cucinaitalianaharu.owst.jp
 0.0.0.0 cupmap.net
@@ -1441,6 +1444,7 @@
 0.0.0.0 ito-ec.jp
 0.0.0.0 itookashiki.com
 0.0.0.0 itp.ne.jp
+0.0.0.0 iwamoto.owst.jp
 0.0.0.0 iwasou.jp
 0.0.0.0 iwata-yuzunoki-hoikuen.com
 0.0.0.0 iwateya-shop.jp
@@ -1634,6 +1638,7 @@
 0.0.0.0 kanehachi-soba.stores.jp
 0.0.0.0 kanekaq10pr.com
 0.0.0.0 kanimitsu.com
+0.0.0.0 kanjuro.owst.jp
 0.0.0.0 kankokuryori-anpan.owst.jp
 0.0.0.0 kankokuryourichingu.owst.jp
 0.0.0.0 kankokuushinabesenta.owst.jp
@@ -2348,6 +2353,7 @@
 0.0.0.0 nichizei-journal.com
 0.0.0.0 nico-d.net
 0.0.0.0 nigawa.co.jp
+0.0.0.0 nigiriyakenta.owst.jp
 0.0.0.0 nihonjyuutaku.co.jp
 0.0.0.0 nihonkeizaishindoi.com
 0.0.0.0 niigata-akiyasoudan.com
@@ -3347,6 +3353,7 @@
 0.0.0.0 sumibiyakiniku-marutoku.owst.jp
 0.0.0.0 sumibiyakiniku-suzuya.owst.jp
 0.0.0.0 sumibiyakitori-kizuna.owst.jp
+0.0.0.0 sumibiyakitori-niiya.owst.jp
 0.0.0.0 sumika.link
 0.0.0.0 sumikalog.bess.jp
 0.0.0.0 sumisho-tatemono-chuukai.net
@@ -3494,6 +3501,7 @@
 0.0.0.0 tensei-osaka.com
 0.0.0.0 tenshoku.mynavi.jp
 0.0.0.0 tents-tarps-marquees.co.za
+0.0.0.0 teppannaniwa.owst.jp
 0.0.0.0 teppannyakisyokudouren.owst.jp
 0.0.0.0 teppansakenokigaru.owst.jp
 0.0.0.0 teppantaisyuusakabayoshikawa.owst.jp
@@ -3778,6 +3786,7 @@
 0.0.0.0 waveslash.net
 0.0.0.0 web-cam.jp
 0.0.0.0 web-marketing-kyoto.biz
+0.0.0.0 web.3yb.jp
 0.0.0.0 web.anabuki-college.ac.jp
 0.0.0.0 web.c4connect.co.jp
 0.0.0.0 web.citroen.jp
@@ -4134,6 +4143,7 @@
 0.0.0.0 www.bridge-and-brothers.com
 0.0.0.0 www.brilliantearth.com
 0.0.0.0 www.brita.co.jp
+0.0.0.0 www.bros-stove.com
 0.0.0.0 www.brother.co.jp
 0.0.0.0 www.bruker.com
 0.0.0.0 www.bscycle.co.jp
@@ -4619,6 +4629,7 @@
 0.0.0.0 www.goallpayx.com
 0.0.0.0 www.goda-j.co.jp
 0.0.0.0 www.gofuku-kaitori.com
+0.0.0.0 www.gokuraku-agura.com
 0.0.0.0 www.gold.org
 0.0.0.0 www.goldwin.co.jp
 0.0.0.0 www.golfzonwave.com
@@ -4834,6 +4845,7 @@
 0.0.0.0 www.innocalsolutions.com
 0.0.0.0 www.innodisk.com
 0.0.0.0 www.inoue-haisya.jp
+0.0.0.0 www.inove-style.jp
 0.0.0.0 www.ins-saison.co.jp
 0.0.0.0 www.ins-vision.co.jp
 0.0.0.0 www.insight.com
@@ -4845,6 +4857,7 @@
 0.0.0.0 www.interschool.jp
 0.0.0.0 www.inui-consulting.com
 0.0.0.0 www.invesco.com
+0.0.0.0 www.invisalignjapan-find-a-doctor.jp
 0.0.0.0 www.io-shin.com
 0.0.0.0 www.ipet-direct.com
 0.0.0.0 www.iprimo.jp
@@ -5044,6 +5057,7 @@
 0.0.0.0 www.kikaiboshi.jp
 0.0.0.0 www.kikubari.com
 0.0.0.0 www.kikyonooka.or.jp
+0.0.0.0 www.kimchi88.com
 0.0.0.0 www.kimioku.online
 0.0.0.0 www.kimono-mikawa.com
 0.0.0.0 www.kimurajuku.co.jp
@@ -5110,6 +5124,7 @@
 0.0.0.0 www.koshin-ltd.jp
 0.0.0.0 www.kossetsucare.com
 0.0.0.0 www.kosugi-tire.com
+0.0.0.0 www.kotomukeyawasu.jp
 0.0.0.0 www.kouenirai.com
 0.0.0.0 www.koushihaken.com
 0.0.0.0 www.kouya-tofu.com
@@ -6542,6 +6557,7 @@
 0.0.0.0 yorokobishop.com
 0.0.0.0 yosakura.studio.site
 0.0.0.0 yoshida.co.th
+0.0.0.0 yoshimoto.jp
 0.0.0.0 yoshino-gypsum.com
 0.0.0.0 yoshiokajimusho.net
 0.0.0.0 yotasteshop.com
