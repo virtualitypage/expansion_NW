@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 30 July 2025
+# Last modified: 31 July 2025
 #
 
 # [広告全般]
@@ -1808,6 +1808,7 @@
 0.0.0.0 kritikazero-dmg.pmang.jp
 0.0.0.0 ks-factory.soueisha.net
 0.0.0.0 ktv-housing.com
+0.0.0.0 kuchiran.jp
 0.0.0.0 kudan-tokyo.jp
 0.0.0.0 kugahara.clinic
 0.0.0.0 kumajob.jp
@@ -2513,6 +2514,7 @@
 0.0.0.0 opencampus.nagoya-wu.ac.jp
 0.0.0.0 openhub.ntt.com
 0.0.0.0 orangehouse.co.jp
+0.0.0.0 orankyahonten.owst.jp
 0.0.0.0 order.ymobile.jp
 0.0.0.0 organic-land.stores.jp
 0.0.0.0 orgel-gallery.jp
@@ -2618,6 +2620,7 @@
 0.0.0.0 pianoplazawebshop.com
 0.0.0.0 pias-recruit-fresh.com
 0.0.0.0 piecebox.jp
+0.0.0.0 pienosettimo.owst.jp
 0.0.0.0 piers-cafe-rooftop.com
 0.0.0.0 pikminbloom.com
 0.0.0.0 pilache.jp
@@ -3728,6 +3731,7 @@
 0.0.0.0 uzusado.jp
 0.0.0.0 vda.afkjourney.com
 0.0.0.0 vegasvegas-recruit.com
+0.0.0.0 ven0tures.co.jp
 0.0.0.0 verde8-18-28-24.com
 0.0.0.0 verger-ouchi-gift.shop
 0.0.0.0 vermeermountainwest.com
@@ -4234,6 +4238,7 @@
 0.0.0.0 www.chrisanne-clover.jp
 0.0.0.0 www.chugin.co.jp
 0.0.0.0 www.chuo-u.ac.jp
+0.0.0.0 www.ci-labo.com
 0.0.0.0 www.cielia.com
 0.0.0.0 www.cinemasunshine.co.jp
 0.0.0.0 www.citroen.jp
@@ -4359,6 +4364,7 @@
 0.0.0.0 www.dezao-reform.com
 0.0.0.0 www.df-sgs.co.jp
 0.0.0.0 www.dfs.com
+0.0.0.0 www.diamond-sr.co.jp
 0.0.0.0 www.dic-global.com
 0.0.0.0 www.difstory.com
 0.0.0.0 www.digiraku.com
@@ -4580,6 +4586,7 @@
 0.0.0.0 www.furusato-web.jp
 0.0.0.0 www.fusaki.com
 0.0.0.0 www.fushioukaku.co.jp
+0.0.0.0 www.futabasha.co.jp
 0.0.0.0 www.futakiya.com
 0.0.0.0 www.futuremarketinsights.com
 0.0.0.0 www.fxpro.investments
@@ -4851,6 +4858,7 @@
 0.0.0.0 www.insight.com
 0.0.0.0 www.insightcordlesslighting.jp
 0.0.0.0 www.inspirekorea.com
+0.0.0.0 www.integra-biosciences.com
 0.0.0.0 www.intel.co.jp
 0.0.0.0 www.inter-edu.com
 0.0.0.0 www.interial.jp
@@ -5976,6 +5984,7 @@
 0.0.0.0 www.smf.or.jp
 0.0.0.0 www.smfg.co.jp
 0.0.0.0 www.smilecare.co.jp
+0.0.0.0 www.smilenavigator.jp
 0.0.0.0 www.snk-corp.co.jp
 0.0.0.0 www.snowflake.com
 0.0.0.0 www.snowrecords.jp
@@ -6494,6 +6503,7 @@
 0.0.0.0 yaichi.co
 0.0.0.0 yakiniku-fc.com
 0.0.0.0 yakiniku-guts-hanare.jp
+0.0.0.0 yakiniku-gyusuien.owst.jp
 0.0.0.0 yakiniku-hidaka-syouten-tenma.owst.jp
 0.0.0.0 yakiniku-ichigyu.owst.jp
 0.0.0.0 yakiniku-ninjin-nishikawaguchi.owst.jp
