@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 31 July 2025
+# Last modified: 1 August 2025
 #
 
 # [広告全般]
@@ -480,6 +480,7 @@
 0.0.0.0 canbadge-arc76.com
 0.0.0.0 canow.tokyo
 0.0.0.0 canup.dog
+0.0.0.0 cappadocia.goturkiye.com
 0.0.0.0 capricciosa.com
 0.0.0.0 car-audio.ne.jp
 0.0.0.0 carboncredits.com
@@ -825,6 +826,7 @@
 0.0.0.0 en.sungrowpower.com
 0.0.0.0 enablement.app
 0.0.0.0 enahome.co.jp
+0.0.0.0 enbudou.owst.jp
 0.0.0.0 encourage-inc.jp
 0.0.0.0 enemacoffeereview.com
 0.0.0.0 enemanex.jp
@@ -1412,6 +1414,7 @@
 0.0.0.0 ircbike.jp
 0.0.0.0 irishpub-capalluisce.com
 0.0.0.0 irodori-akasaka.owst.jp
+0.0.0.0 iroha-kochi.owst.jp
 0.0.0.0 iroiro2008.net
 0.0.0.0 iromiso.jp
 0.0.0.0 irorinookkyagari.owst.jp
@@ -2515,6 +2518,7 @@
 0.0.0.0 openhub.ntt.com
 0.0.0.0 orangehouse.co.jp
 0.0.0.0 orankyahonten.owst.jp
+0.0.0.0 orankyaotesuji.owst.jp
 0.0.0.0 order.ymobile.jp
 0.0.0.0 organic-land.stores.jp
 0.0.0.0 orgel-gallery.jp
@@ -3729,6 +3733,7 @@
 0.0.0.0 uukikuudan.aseugame.com
 0.0.0.0 uwaki-pro.com
 0.0.0.0 uzusado.jp
+0.0.0.0 vamir.kr
 0.0.0.0 vda.afkjourney.com
 0.0.0.0 vegasvegas-recruit.com
 0.0.0.0 ven0tures.co.jp
@@ -4090,6 +4095,7 @@
 0.0.0.0 www.bbq-nakanoya.com
 0.0.0.0 www.be4tech.com
 0.0.0.0 www.beams.co.jp
+0.0.0.0 www.bear-cafe.com
 0.0.0.0 www.beautiful-world.store
 0.0.0.0 www.beauty-park.jp
 0.0.0.0 www.bebab.kr
@@ -5127,6 +5133,7 @@
 0.0.0.0 www.komyokaku.jp
 0.0.0.0 www.konaka-jp.com
 0.0.0.0 www.konami.com
+0.0.0.0 www.konohazuk.com
 0.0.0.0 www.konoike.ac.jp
 0.0.0.0 www.koshida-suisan.com
 0.0.0.0 www.koshin-ltd.jp
@@ -6549,6 +6556,7 @@
 0.0.0.0 yaoya-sannomiya.owst.jp
 0.0.0.0 yappari-hawaii.jp
 0.0.0.0 yasuda-ltd.jp
+0.0.0.0 yasunigoutenn.owst.jp
 0.0.0.0 yataiokamoto.com
 0.0.0.0 yg-tax.net
 0.0.0.0 yhtop.co
