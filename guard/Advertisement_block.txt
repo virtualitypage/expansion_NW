@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 2 August 2025
+# Last modified: 3 August 2025
 #
 
 # [広告全般]
@@ -20,6 +20,7 @@
 0.0.0.0 241217.my.canva.site
 0.0.0.0 2525sweets.base.shop
 0.0.0.0 2ndtable.com
+0.0.0.0 3-peace.biz
 0.0.0.0 3000gamepix.com
 0.0.0.0 3016clinic.com
 0.0.0.0 321.inc
@@ -142,6 +143,7 @@
 0.0.0.0 akr1776211008.owst.jp
 0.0.0.0 akr2241836267.owst.jp
 0.0.0.0 akr2486995891.owst.jp
+0.0.0.0 akr2607596039.owst.jp
 0.0.0.0 akr3187181130.owst.jp
 0.0.0.0 akr3236363035.owst.jp
 0.0.0.0 akr3470120455.owst.jp
@@ -759,6 +761,7 @@
 0.0.0.0 drilnews.com
 0.0.0.0 drinco.jp
 0.0.0.0 driveforyou.jp
+0.0.0.0 drivenets.com
 0.0.0.0 drone-procrew.com
 0.0.0.0 dronekyoka.com
 0.0.0.0 drplus-japan.com
@@ -849,6 +852,7 @@
 0.0.0.0 entrata-chayamachi.com
 0.0.0.0 entrenet.jp
 0.0.0.0 entry.s-axol.jp
+0.0.0.0 enyahiroshima.owst.jp
 0.0.0.0 eonet.jp
 0.0.0.0 epiphyllum.thebase.in
 0.0.0.0 episodebrick.com
@@ -1040,6 +1044,7 @@
 0.0.0.0 geo.8984.jp
 0.0.0.0 gero-present.com
 0.0.0.0 getnews.jp
+0.0.0.0 getsurin.owst.jp
 0.0.0.0 gghouse.co.jp
 0.0.0.0 ghibli-park.jp
 0.0.0.0 gibierno-choroku.com
@@ -1281,6 +1286,7 @@
 0.0.0.0 hojiro-firm.jp
 0.0.0.0 hoken-hikakunavi.com
 0.0.0.0 hoken-sweet.com
+0.0.0.0 hoken.coopdeli.coop
 0.0.0.0 hokengreat.net
 0.0.0.0 hokkaido-j.com
 0.0.0.0 hokuriku.c-nexco.co.jp
@@ -1670,6 +1676,7 @@
 0.0.0.0 kashiwa-fujimotosyokudou.owst.jp
 0.0.0.0 kashiyama1927.jp
 0.0.0.0 kasuyashika.com
+0.0.0.0 kataomoi-kochi.owst.jp
 0.0.0.0 katatiya.owst.jp
 0.0.0.0 katene.chuden.jp
 0.0.0.0 katsubedc-nanmori.com
@@ -1948,6 +1955,7 @@
 0.0.0.0 lovelyhall.com
 0.0.0.0 lp-ai.ccreb.jp
 0.0.0.0 lp-mk-2.makuake.com
+0.0.0.0 lp-yubien.com
 0.0.0.0 lp.alc-non.com
 0.0.0.0 lp.chocozap.jp
 0.0.0.0 lp.cloudydrive.net
@@ -2095,6 +2103,7 @@
 0.0.0.0 matsui-express-job.jp
 0.0.0.0 matsumoto.city
 0.0.0.0 matsumototravel.com
+0.0.0.0 matsuoka-juken-lp.com
 0.0.0.0 matsuriya.owst.jp
 0.0.0.0 matsusaka-kanpo.jp
 0.0.0.0 matsuyama.citroen-dealer.jp
@@ -2206,6 +2215,7 @@
 0.0.0.0 miyagi-aw2024.com
 0.0.0.0 miyagi-daihatsu.co.jp
 0.0.0.0 miyakojima-mobipa.jp
+0.0.0.0 miyamae-hanare.owst.jp
 0.0.0.0 miyanokenchiku.co.jp
 0.0.0.0 miyazaki-base.jp
 0.0.0.0 mizoguchi-saiten.co.jp
@@ -2528,6 +2538,7 @@
 0.0.0.0 orankyahonten.owst.jp
 0.0.0.0 orankyaotesuji.owst.jp
 0.0.0.0 order.ymobile.jp
+0.0.0.0 oremeshi-hasimoto.owst.jp
 0.0.0.0 organic-land.stores.jp
 0.0.0.0 orgel-gallery.jp
 0.0.0.0 orientstar-watch.com
@@ -2898,6 +2909,7 @@
 0.0.0.0 sakedininglit.owst.jp
 0.0.0.0 sakeikki.base.shop
 0.0.0.0 saketomeshi-tiger.owst.jp
+0.0.0.0 sakidori.co
 0.0.0.0 sakura-ju.co.jp
 0.0.0.0 sakura-kozo.jp
 0.0.0.0 sakurabito.jp
@@ -3139,6 +3151,7 @@
 0.0.0.0 shop.archelis.com
 0.0.0.0 shop.bancdor-saitama.com
 0.0.0.0 shop.basefood.co.jp
+0.0.0.0 shop.cos-parfait.com
 0.0.0.0 shop.delca.jp
 0.0.0.0 shop.fumakilla.jp
 0.0.0.0 shop.fuwarii.com
@@ -3200,6 +3213,7 @@
 0.0.0.0 singaporeseafood-umeda.owst.jp
 0.0.0.0 sinyokohama-ebinomise.owst.jp
 0.0.0.0 sirok.jp
+0.0.0.0 site.wepage.com
 0.0.0.0 sites.google.com
 0.0.0.0 sixon-web.co.jp
 0.0.0.0 sjhierq.top
@@ -3418,6 +3432,7 @@
 0.0.0.0 syriusrobotics.co.jp
 0.0.0.0 systema.lion.co.jp
 0.0.0.0 syugao.com
+0.0.0.0 syunsaiyamaeno.owst.jp
 0.0.0.0 t.afi-b.com
 0.0.0.0 t.pia.jp
 0.0.0.0 tabe-repo.net
@@ -3561,6 +3576,7 @@
 0.0.0.0 tjniigata.jp
 0.0.0.0 tkcp-premium-tire-sale-5ab30bb4478c.herokuapp.com
 0.0.0.0 tkingdomsjp.lnhy988.com
+0.0.0.0 tkm-maioka.com
 0.0.0.0 to-hand.com
 0.0.0.0 tofu.matsumasa.org
 0.0.0.0 tohei-ya.com
@@ -3601,6 +3617,7 @@
 0.0.0.0 topwing.jp
 0.0.0.0 toraiz.jp
 0.0.0.0 toranoana-lab.co.jp
+0.0.0.0 toratouma.owst.jp
 0.0.0.0 torcroftlodges.com
 0.0.0.0 toriconagai.owst.jp
 0.0.0.0 torihamannenohatsutenjin.owst.jp
@@ -3721,6 +3738,7 @@
 0.0.0.0 uodon-fukushima.com
 0.0.0.0 uokuni-recruit.jp
 0.0.0.0 uonuma20.com
+0.0.0.0 uotakasusaki.owst.jp
 0.0.0.0 uoya-saburo-sannomiya.owst.jp
 0.0.0.0 upcafe.owst.jp
 0.0.0.0 update-inc.jp
@@ -3783,6 +3801,7 @@
 0.0.0.0 wakegai.jp
 0.0.0.0 wakka-kyobashi.owst.jp
 0.0.0.0 wakohhomes.com
+0.0.0.0 wakool.games
 0.0.0.0 wakupaku.jp
 0.0.0.0 wakurino.work
 0.0.0.0 walar.co.jp
@@ -5792,6 +5811,7 @@
 0.0.0.0 www.raccion.net
 0.0.0.0 www.racingmaster.game
 0.0.0.0 www.radishbo-ya.co.jp
+0.0.0.0 www.raffles.com
 0.0.0.0 www.rakudaya-furudougu.com
 0.0.0.0 www.rakugare.com
 0.0.0.0 www.rakurakuhanbai.jp
@@ -6612,6 +6632,7 @@
 0.0.0.0 yukihira-akashi.owst.jp
 0.0.0.0 yumekitchen-arioyao.owst.jp
 0.0.0.0 yumekitchen.jp
+0.0.0.0 yumyum8686.owst.jp
 0.0.0.0 yurayura.owst.jp
 0.0.0.0 yururi-nikori.owst.jp
 0.0.0.0 yusho-kyoto.owst.jp
