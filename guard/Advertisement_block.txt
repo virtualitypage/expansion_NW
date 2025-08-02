@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 1 August 2025
+# Last modified: 2 August 2025
 #
 
 # [広告全般]
@@ -47,6 +47,7 @@
 0.0.0.0 88423.co.jp
 0.0.0.0 888-hachimitsu.net
 0.0.0.0 8984.jp
+0.0.0.0 8dfe7.hp.peraichi.com
 0.0.0.0 8proud.jp
 0.0.0.0 9000.jp
 0.0.0.0 a-c-as.com
@@ -144,6 +145,7 @@
 0.0.0.0 akr3187181130.owst.jp
 0.0.0.0 akr3236363035.owst.jp
 0.0.0.0 akr3470120455.owst.jp
+0.0.0.0 akr3763002168.owst.jp
 0.0.0.0 akr3864845762.owst.jp
 0.0.0.0 akr3886447014.owst.jp
 0.0.0.0 akr4061480779.owst.jp
@@ -659,6 +661,7 @@
 0.0.0.0 d-starjob.com
 0.0.0.0 dachs.breeders.jp
 0.0.0.0 daiei-corporation.com
+0.0.0.0 daikuma.owst.jp
 0.0.0.0 daiohs-saiyou.net
 0.0.0.0 daishoren.org
 0.0.0.0 danball-hompo.com
@@ -1169,6 +1172,7 @@
 0.0.0.0 hamanakaiin.com
 0.0.0.0 hamanocontact-multifocal.com
 0.0.0.0 hamanocontact-nanbacity.com
+0.0.0.0 hamayakitaro-kochi.owst.jp
 0.0.0.0 hamieru.co.jp
 0.0.0.0 hana-home.com
 0.0.0.0 hanaiyoukei.com
@@ -1459,6 +1463,7 @@
 0.0.0.0 izakaya-yanokura.owst.jp
 0.0.0.0 izakaya-yusuke.owst.jp
 0.0.0.0 izakayasyun.owst.jp
+0.0.0.0 izakayatosairorirobatayairo.owst.jp
 0.0.0.0 izumi-posting.com
 0.0.0.0 izumisano-film.com
 0.0.0.0 izumozine.jp
@@ -1894,6 +1899,7 @@
 0.0.0.0 learn.mashingup.org
 0.0.0.0 leconte.photo
 0.0.0.0 ledope-official.com
+0.0.0.0 lee-en.owst.jp
 0.0.0.0 leisure-japan.jp
 0.0.0.0 lemino.docomo.ne.jp
 0.0.0.0 lemonhome.co.jp
@@ -2331,6 +2337,7 @@
 0.0.0.0 net-fine.com
 0.0.0.0 netcafe-cocone.jp
 0.0.0.0 netglean.com
+0.0.0.0 netis.green-admoffice.com
 0.0.0.0 nettaishokudo-takatsuki.owst.jp
 0.0.0.0 netzfukuoka.jp
 0.0.0.0 new-tips.net
@@ -2411,6 +2418,7 @@
 0.0.0.0 note-infomart.jp
 0.0.0.0 notfound.osaka
 0.0.0.0 notice.go.jp
+0.0.0.0 noto-kanazawa-yakiniku-ushippo.owst.jp
 0.0.0.0 noujiruyokocho.com
 0.0.0.0 noukabanzai.jp
 0.0.0.0 noukatsu-shimbun.jp
@@ -3067,6 +3075,7 @@
 0.0.0.0 shakenkobac.com
 0.0.0.0 shaktimat.co.jp
 0.0.0.0 shamozen.owst.jp
+0.0.0.0 shanghaitanpao-nishiginza.owst.jp
 0.0.0.0 sharecar.muchapp.jp
 0.0.0.0 shareway.jp
 0.0.0.0 sharkclean.co.uk
@@ -3403,6 +3412,7 @@
 0.0.0.0 symphonics.jp
 0.0.0.0 syogetuhukakusaten.owst.jp
 0.0.0.0 syoku-navi.com
+0.0.0.0 syokurakuizumi.owst.jp
 0.0.0.0 syokusainobo-bettei.owst.jp
 0.0.0.0 syoukichinanba.owst.jp
 0.0.0.0 syriusrobotics.co.jp
@@ -3426,6 +3436,7 @@
 0.0.0.0 taishusakaba-nakatsu.owst.jp
 0.0.0.0 taishuubistoroharadaya.owst.jp
 0.0.0.0 taisyusakabaafro.owst.jp
+0.0.0.0 taisyusumibisakabakuroiwa.owst.jp
 0.0.0.0 taiwancyayanana.owst.jp
 0.0.0.0 taiyou-clinic.jp
 0.0.0.0 takadaseed.com
@@ -3440,6 +3451,7 @@
 0.0.0.0 takatori-sannomiyahonten.owst.jp
 0.0.0.0 takayamado.shop
 0.0.0.0 takayamaseihun.co.jp
+0.0.0.0 takeharanoaji-peace.owst.jp
 0.0.0.0 takenowashokudo.owst.jp
 0.0.0.0 takeo.tokyo
 0.0.0.0 takuhai-kaitori.hardoff.co.jp
@@ -3534,6 +3546,7 @@
 0.0.0.0 thisischiffoncake.com
 0.0.0.0 three-match.com
 0.0.0.0 three-v-amenity.co.jp
+0.0.0.0 threewood.jp
 0.0.0.0 thyself.jp
 0.0.0.0 tib.metro.tokyo.lg.jp
 0.0.0.0 ticket.skyperfectv.co.jp
@@ -3726,6 +3739,7 @@
 0.0.0.0 usagi-online.com
 0.0.0.0 user--first.jp
 0.0.0.0 ushinozensenri.owst.jp
+0.0.0.0 ushitatsu.owst.jp
 0.0.0.0 usukine.com
 0.0.0.0 ut-studyroom.com
 0.0.0.0 utattemita-collection.jp
@@ -3776,6 +3790,7 @@
 0.0.0.0 wamell.co.jp
 0.0.0.0 wamon-kyotoekimae.owst.jp
 0.0.0.0 wana-bros.com
+0.0.0.0 wankonowa.com
 0.0.0.0 warabimochipompom.com
 0.0.0.0 waraigushi-oji.owst.jp
 0.0.0.0 warajinrokkoumititen.owst.jp
@@ -3838,6 +3853,7 @@
 0.0.0.0 woman-lifecp.metro.tokyo.lg.jp
 0.0.0.0 woman.chintai
 0.0.0.0 wood-u.co.jp
+0.0.0.0 wood-yan.com
 0.0.0.0 wood.co.jp
 0.0.0.0 wooparoo.hangame.com
 0.0.0.0 work-holiday.mhlw.go.jp
@@ -4984,6 +5000,7 @@
 0.0.0.0 www.jsy.jp
 0.0.0.0 www.jtbcorp.jp
 0.0.0.0 www.juken-center.com
+0.0.0.0 www.julius-k9.jp
 0.0.0.0 www.julliaolger.jp
 0.0.0.0 www.jurassicworld.jp
 0.0.0.0 www.justanswer.jp
@@ -5715,6 +5732,7 @@
 0.0.0.0 www.popy.jp
 0.0.0.0 www.porsche.co.jp
 0.0.0.0 www.potto-has.com
+0.0.0.0 www.poundcakeandcafe.net
 0.0.0.0 www.prada.com
 0.0.0.0 www.prageru.com
 0.0.0.0 www.preciousplatinum.jp
@@ -5833,6 +5851,7 @@
 0.0.0.0 www.roudousaigai.jp
 0.0.0.0 www.roukyouhou.mhlw.go.jp
 0.0.0.0 www.rtyfghgroup.com
+0.0.0.0 www.ruby-dev.jp
 0.0.0.0 www.ruxur.net
 0.0.0.0 www.ryugei.co.jp
 0.0.0.0 www.ryukakusan.co.jp
