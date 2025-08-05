@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 3 August 2025
+# Last modified: 5 August 2025
 #
 
 # [広告全般]
@@ -157,6 +157,7 @@
 0.0.0.0 akr5753440825.owst.jp
 0.0.0.0 akr6493666829.owst.jp
 0.0.0.0 akr6827161385.owst.jp
+0.0.0.0 akr7498815564.owst.jp
 0.0.0.0 akr7779880273.owst.jp
 0.0.0.0 akr7827636977.owst.jp
 0.0.0.0 akr7970043166.owst.jp
@@ -164,6 +165,7 @@
 0.0.0.0 akr8430289746.owst.jp
 0.0.0.0 akr8468139698.owst.jp
 0.0.0.0 akr8490227405.owst.jp
+0.0.0.0 akr8510151029.owst.jp
 0.0.0.0 akr8618687678.owst.jp
 0.0.0.0 akr8989707750.owst.jp
 0.0.0.0 akr9232352916.owst.jp
@@ -410,6 +412,7 @@
 0.0.0.0 bmccancer.biomedcentral.com
 0.0.0.0 boatzon.com
 0.0.0.0 bobcard.co.in
+0.0.0.0 bocchantyayamachi.owst.jp
 0.0.0.0 bodrum.goturkiye.com
 0.0.0.0 bodyshop-fukuhisa.com
 0.0.0.0 bones2.jp
@@ -429,6 +432,7 @@
 0.0.0.0 bownim.base.shop
 0.0.0.0 bra.almado.jp
 0.0.0.0 brand.taisho.co.jp
+0.0.0.0 brandjewelry.net
 0.0.0.0 brandsecurity.gmo
 0.0.0.0 bright-app.com
 0.0.0.0 brightage.jp
@@ -921,6 +925,7 @@
 0.0.0.0 feliz.okadanet.com
 0.0.0.0 feliznet.jp
 0.0.0.0 ferry.co.jp
+0.0.0.0 ff-oosaka.owst.jp
 0.0.0.0 fieldsuite-hakuba.com
 0.0.0.0 finance.logmi.jp
 0.0.0.0 finance.techbiz.com
@@ -940,6 +945,7 @@
 0.0.0.0 food-match-japan.campaign.europa.eu
 0.0.0.0 food-platform.pref.kochi.lg.jp
 0.0.0.0 foodingjournal.com
+0.0.0.0 forest.ecweb.jp
 0.0.0.0 form.jotform.com
 0.0.0.0 form.run
 0.0.0.0 form2024.shinkin-cp.com
@@ -1140,6 +1146,7 @@
 0.0.0.0 gyoseishosi-yamaguchiyoichi.net
 0.0.0.0 gyoseisyoshi-kaigyou.com
 0.0.0.0 gyousei-saima.com
+0.0.0.0 gyozakacchantsukamoto.owst.jp
 0.0.0.0 gyozanokattyanhukushima.owst.jp
 0.0.0.0 gyozanokattyantakatuki.owst.jp
 0.0.0.0 gyukahachiba.owst.jp
@@ -1777,6 +1784,7 @@
 0.0.0.0 kochi-fukushijobfestival.com
 0.0.0.0 kochi-kenkochallenge.jp
 0.0.0.0 kochi02.kyoukaikenpo.or.jp
+0.0.0.0 kochike-shobo.net
 0.0.0.0 kochimonthly.com
 0.0.0.0 kodamaannai.p-kit.com
 0.0.0.0 kodawaritei.owst.jp
@@ -2330,6 +2338,7 @@
 0.0.0.0 natto-cookie.com
 0.0.0.0 nattokujoho.com
 0.0.0.0 naturalchange.jp
+0.0.0.0 naturalproducts.co.jp
 0.0.0.0 navi.jobpal.jp
 0.0.0.0 navi.kankou-matsue.jp
 0.0.0.0 navitabi.co.jp
@@ -2377,6 +2386,7 @@
 0.0.0.0 nigiriyakenta.owst.jp
 0.0.0.0 nihonjyuutaku.co.jp
 0.0.0.0 nihonkeizaishindoi.com
+0.0.0.0 nihonsyu47todofuken.owst.jp
 0.0.0.0 niigata-akiyasoudan.com
 0.0.0.0 niihama-coating.com
 0.0.0.0 niit-oc.com
@@ -2681,6 +2691,7 @@
 0.0.0.0 portdouglasmotel.com.au
 0.0.0.0 porte.sport-school.com
 0.0.0.0 positive-counselor.org
+0.0.0.0 pound-house-osaka.owst.jp
 0.0.0.0 povo.jp
 0.0.0.0 pr-genic.com
 0.0.0.0 pr-lp.net
@@ -2744,6 +2755,7 @@
 0.0.0.0 qoo8you.com
 0.0.0.0 quanshuiwetmarket.com
 0.0.0.0 quartermail.jp
+0.0.0.0 queenshanbok.com
 0.0.0.0 questant.jp
 0.0.0.0 questetra.com
 0.0.0.0 quick-royal.misseyedor.jp
@@ -2930,6 +2942,7 @@
 0.0.0.0 sanshiro.education
 0.0.0.0 santospastryschool.mykajabi.com
 0.0.0.0 sanwakeigoukin.co.jp
+0.0.0.0 sanzanya.owst.jp
 0.0.0.0 sap-career.com
 0.0.0.0 sapporo-nissan.com
 0.0.0.0 sapporotoyota-northernbox.jp
@@ -3113,6 +3126,7 @@
 0.0.0.0 shikinouta-sannomiya.owst.jp
 0.0.0.0 shikisaisai.net
 0.0.0.0 shiko-shiko.jp
+0.0.0.0 shikocool.com
 0.0.0.0 shima-corp.com
 0.0.0.0 shimane.dd.daihatsu.co.jp
 0.0.0.0 shimanezumifarm.com
@@ -3502,6 +3516,7 @@
 0.0.0.0 taste-europe.asia
 0.0.0.0 tatansweets.com
 0.0.0.0 tateyoko-kazuma.com
+0.0.0.0 tatsunomiya-shinsaibasiten.owst.jp
 0.0.0.0 tavopets.com
 0.0.0.0 tax.actvision.jp
 0.0.0.0 taxisaiyo.entetsu.co.jp
@@ -3621,6 +3636,7 @@
 0.0.0.0 torcroftlodges.com
 0.0.0.0 toriconagai.owst.jp
 0.0.0.0 torihamannenohatsutenjin.owst.jp
+0.0.0.0 toriichizu-hukaebashi.owst.jp
 0.0.0.0 torikinumeda.owst.jp
 0.0.0.0 torinoichi1.owst.jp
 0.0.0.0 torinomiya.owst.jp
@@ -4278,6 +4294,7 @@
 0.0.0.0 www.choujuan.co.jp
 0.0.0.0 www.chrisanne-clover.jp
 0.0.0.0 www.chugin.co.jp
+0.0.0.0 www.chuman.jp
 0.0.0.0 www.chuo-u.ac.jp
 0.0.0.0 www.ci-labo.com
 0.0.0.0 www.cielia.com
@@ -4836,6 +4853,7 @@
 0.0.0.0 www.howabank.co.jp
 0.0.0.0 www.hrdesign.co.jp
 0.0.0.0 www.hs-orange.com
+0.0.0.0 www.hs-sonpo.co.jp
 0.0.0.0 www.hs.bgu.ac.jp
 0.0.0.0 www.htv.ne.jp
 0.0.0.0 www.huiaiqingganvip.com
@@ -5096,6 +5114,7 @@
 0.0.0.0 www.kenko-webshop.jp
 0.0.0.0 www.kensanpin.org
 0.0.0.0 www.kentaku.co.jp
+0.0.0.0 www.kenwood.com
 0.0.0.0 www.kewpie.co.jp
 0.0.0.0 www.keyence-foundation.or.jp
 0.0.0.0 www.keystonesymposia.org
@@ -5576,6 +5595,7 @@
 0.0.0.0 www.nursejinzaibank.com
 0.0.0.0 www.nursepower.co.jp
 0.0.0.0 www.nuttari-re.jp
+0.0.0.0 www.nv-s.jp
 0.0.0.0 www.oakplaza.jp
 0.0.0.0 www.oas.ac.jp
 0.0.0.0 www.obc.co.jp
@@ -5960,6 +5980,7 @@
 0.0.0.0 www.sharkninja.jp
 0.0.0.0 www.shc.co.jp
 0.0.0.0 www.shibaura-rent.com
+0.0.0.0 www.shiga-glamping.com
 0.0.0.0 www.shigotoarimasu.com
 0.0.0.0 www.shigotozaidan.or.jp
 0.0.0.0 www.shiho-sato.com
@@ -6220,6 +6241,7 @@
 0.0.0.0 www.tissotwatches.com
 0.0.0.0 www.titleist.co.jp
 0.0.0.0 www.tm-c.jp
+0.0.0.0 www.tm-flavor.com
 0.0.0.0 www.tn7.co
 0.0.0.0 www.to-kousya.or.jp
 0.0.0.0 www.toabio.co.jp
@@ -6519,6 +6541,7 @@
 0.0.0.0 www.zero-office.biz
 0.0.0.0 www.zeroa-o.com
 0.0.0.0 www.zface.jp
+0.0.0.0 www.zhong-tu.com.tw
 0.0.0.0 www.zissen-mw.jp
 0.0.0.0 www.zoff.co.jp
 0.0.0.0 www.zojirushi.co.jp
