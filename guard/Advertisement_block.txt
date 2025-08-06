@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 5 August 2025
+# Last modified: 6 August 2025
 #
 
 # [広告全般]
@@ -132,6 +132,7 @@
 0.0.0.0 akr0105417763.owst.jp
 0.0.0.0 akr0183451813.owst.jp
 0.0.0.0 akr0293028974.owst.jp
+0.0.0.0 akr0355247354.owst.jp
 0.0.0.0 akr0674735414.owst.jp
 0.0.0.0 akr0827128845.owst.jp
 0.0.0.0 akr0890795977.owst.jp
@@ -154,6 +155,7 @@
 0.0.0.0 akr4253438533.owst.jp
 0.0.0.0 akr4470806645.owst.jp
 0.0.0.0 akr4640838739.owst.jp
+0.0.0.0 akr5647956445.owst.jp
 0.0.0.0 akr5753440825.owst.jp
 0.0.0.0 akr6493666829.owst.jp
 0.0.0.0 akr6827161385.owst.jp
@@ -333,6 +335,7 @@
 0.0.0.0 banana-paper.jp
 0.0.0.0 bananarepublic.gap.co.jp
 0.0.0.0 bank-loan-ranking.com
+0.0.0.0 banquethallsunshine.owst.jp
 0.0.0.0 bark-shigino.owst.jp
 0.0.0.0 basasiya.com
 0.0.0.0 basefood.co.jp
@@ -459,6 +462,7 @@
 0.0.0.0 ca-morita.co.jp
 0.0.0.0 ca.nihon-trim.co.jp
 0.0.0.0 cacaosampaka-kitashinchi.com
+0.0.0.0 cache.send.microad.jp
 0.0.0.0 cafe-inn-hitoiki.com
 0.0.0.0 cafe-luminous.owst.jp
 0.0.0.0 cafe-restaurant-inasora.owst.jp
@@ -1184,6 +1188,7 @@
 0.0.0.0 hamanakaiin.com
 0.0.0.0 hamanocontact-multifocal.com
 0.0.0.0 hamanocontact-nanbacity.com
+0.0.0.0 hamaya-osaka.owst.jp
 0.0.0.0 hamayakitaro-kochi.owst.jp
 0.0.0.0 hamieru.co.jp
 0.0.0.0 hana-home.com
@@ -1658,6 +1663,7 @@
 0.0.0.0 kando.tv
 0.0.0.0 kanehachi-soba.stores.jp
 0.0.0.0 kanekaq10pr.com
+0.0.0.0 kanimatubara.owst.jp
 0.0.0.0 kanimitsu.com
 0.0.0.0 kanjuro.owst.jp
 0.0.0.0 kankokuryori-anpan.owst.jp
@@ -2401,6 +2407,7 @@
 0.0.0.0 nikunoirie.owst.jp
 0.0.0.0 nikunotajimatsuhan.com
 0.0.0.0 nikunotakumi-chitaya.owst.jp
+0.0.0.0 nikusawa.owst.jp
 0.0.0.0 nikusho-ichie.com
 0.0.0.0 nikuzushi-sennichimae.owst.jp
 0.0.0.0 nilaina-holidays.com
@@ -2486,6 +2493,7 @@
 0.0.0.0 ohtomari.hp.peraichi.com
 0.0.0.0 oishi-kenko.com
 0.0.0.0 oishii-izumo.jp
+0.0.0.0 oita-essentials.com
 0.0.0.0 oiuvoice.com
 0.0.0.0 ojyosan-kitahama.owst.jp
 0.0.0.0 oka-d-art.com
@@ -2766,6 +2774,7 @@
 0.0.0.0 r-style.eco.coocan.jp
 0.0.0.0 r.casalemedia.com
 0.0.0.0 r.gnavi.co.jp
+0.0.0.0 r.goope.jp
 0.0.0.0 r1-usc1.zemanta.com
 0.0.0.0 r25.jp
 0.0.0.0 race.nishinippon.co.jp
@@ -2875,6 +2884,7 @@
 0.0.0.0 roundi.us
 0.0.0.0 rousai-zangyou-bengoshi.com
 0.0.0.0 royaltiara.jp
+0.0.0.0 roziurasakaba-tonbo.owst.jp
 0.0.0.0 rs-mie.net
 0.0.0.0 rs-oita.net
 0.0.0.0 rsb14267.wixsite.com
@@ -3398,6 +3408,8 @@
 0.0.0.0 sumibiyakiniku-suzuya.owst.jp
 0.0.0.0 sumibiyakitori-kizuna.owst.jp
 0.0.0.0 sumibiyakitori-niiya.owst.jp
+0.0.0.0 sumibiyakiyamachan-honmachi.owst.jp
+0.0.0.0 sumiginjyo-tenjin.owst.jp
 0.0.0.0 sumika.link
 0.0.0.0 sumikalog.bess.jp
 0.0.0.0 sumisho-tatemono-chuukai.net
@@ -3507,6 +3519,7 @@
 0.0.0.0 tanimachikujira.owst.jp
 0.0.0.0 tanoshiiosake.jp
 0.0.0.0 tansei-legaloffice.jp
+0.0.0.0 tantoharaminakadoriten.owst.jp
 0.0.0.0 tarezou.com
 0.0.0.0 targety.jp
 0.0.0.0 tarspay.com
@@ -3649,6 +3662,7 @@
 0.0.0.0 totoseven.owst.jp
 0.0.0.0 totteoki-iwaki.jp
 0.0.0.0 tottoreal-pavilion.jp
+0.0.0.0 tottori-iyashitabi.com
 0.0.0.0 tottotto-namba.owst.jp
 0.0.0.0 toubyo.com
 0.0.0.0 touentei.com
@@ -3658,6 +3672,7 @@
 0.0.0.0 toushi-up.com
 0.0.0.0 tovira.jp
 0.0.0.0 towa-corp.net
+0.0.0.0 towel-original.co.jp
 0.0.0.0 toyama-ryoushin.info
 0.0.0.0 toyokeizai.net
 0.0.0.0 toyonishi-store.com
@@ -3897,6 +3912,7 @@
 0.0.0.0 world-natural-heritage.jp
 0.0.0.0 world-wing.info
 0.0.0.0 world.hello-gesher.com
+0.0.0.0 worldbartsubasa.owst.jp
 0.0.0.0 wowclassic.blizzard.com
 0.0.0.0 wp.i-voce.jp
 0.0.0.0 ww4.izakaya-kiichi.com
@@ -4007,6 +4023,8 @@
 0.0.0.0 www.ajinomoto.co.jp
 0.0.0.0 www.alba.co.jp
 0.0.0.0 www.albase.skin
+0.0.0.0 www.alconix.com
+0.0.0.0 www.alfalaval.com
 0.0.0.0 www.allaroundmobilehomeservice.com
 0.0.0.0 www.allergy-i.jp
 0.0.0.0 www.allex.org
@@ -4174,10 +4192,12 @@
 0.0.0.0 www.bikeboy.jp
 0.0.0.0 www.bikekan.jp
 0.0.0.0 www.billion-home.jp
+0.0.0.0 www.bio-rad.com
 0.0.0.0 www.biofermin.co.jp
 0.0.0.0 www.birumen-navi.com
 0.0.0.0 www.bishouen.com
 0.0.0.0 www.bitecglobal.com
+0.0.0.0 www.biwako-memorial.jp
 0.0.0.0 www.biyoushinkyuu.com
 0.0.0.0 www.bizreach.jp
 0.0.0.0 www.bk.mufg.jp
@@ -6575,15 +6595,18 @@
 0.0.0.0 yakiniku-gyusuien.owst.jp
 0.0.0.0 yakiniku-hidaka-syouten-tenma.owst.jp
 0.0.0.0 yakiniku-ichigyu.owst.jp
+0.0.0.0 yakiniku-ittogyu.owst.jp
 0.0.0.0 yakiniku-ninjin-nishikawaguchi.owst.jp
 0.0.0.0 yakiniku-royal.com
 0.0.0.0 yakiniku-sanku.owst.jp
 0.0.0.0 yakiniku-tanabata.owst.jp
 0.0.0.0 yakiniku-taru.owst.jp
 0.0.0.0 yakiniku-tenngetsu.owst.jp
+0.0.0.0 yakiniku-toranoyuya.owst.jp
 0.0.0.0 yakinikuishida-toaload.owst.jp
 0.0.0.0 yakinikukannkunn.owst.jp
 0.0.0.0 yakinikunandaimon.owst.jp
+0.0.0.0 yakinikushinchan.owst.jp
 0.0.0.0 yakisuki-saiin.owst.jp
 0.0.0.0 yakitori-kozou.owst.jp
 0.0.0.0 yakitorisuginoya.com
