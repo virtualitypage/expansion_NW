@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 6 August 2025
+# Last modified: 7 August 2025
 #
 
 # [広告全般]
@@ -1381,6 +1381,7 @@
 0.0.0.0 igolfstudio.jp
 0.0.0.0 ihin-asul.com
 0.0.0.0 ii.tokyu.co.jp
+0.0.0.0 ikechan.owst.jp
 0.0.0.0 ikedahearinggear.com
 0.0.0.0 iki-online.com
 0.0.0.0 ikinaniku-funabashi.owst.jp
@@ -1715,6 +1716,7 @@
 0.0.0.0 keijiro-lifecoach.com
 0.0.0.0 keirin.by-onko-chishin.com
 0.0.0.0 keishuku-reha.com
+0.0.0.0 kemuriki-jyuso.owst.jp
 0.0.0.0 kenjin-recruit.info
 0.0.0.0 kenkoudo.darm.co.jp
 0.0.0.0 kenminforum-aomori.com
@@ -2328,6 +2330,7 @@
 0.0.0.0 nakanishiseni.com
 0.0.0.0 nakanodental-cl.com
 0.0.0.0 nakka-art.jp
+0.0.0.0 nakkopuse-cyukumi-tsuruhashi.owst.jp
 0.0.0.0 nakosa.theshop.jp
 0.0.0.0 namaeire.ocnk.net
 0.0.0.0 namahorumonitadaki-honmachi.owst.jp
@@ -3966,6 +3969,7 @@
 0.0.0.0 www.a-cial.com
 0.0.0.0 www.a-hosho.co.jp
 0.0.0.0 www.a-living.jp
+0.0.0.0 www.a-ok-english.com
 0.0.0.0 www.a-one.co.jp
 0.0.0.0 www.a1-plan.com
 0.0.0.0 www.abarth.jp
@@ -4598,6 +4602,7 @@
 0.0.0.0 www.finbourne.com
 0.0.0.0 www.fineseal.net
 0.0.0.0 www.finetrack.com
+0.0.0.0 www.first-roof.com
 0.0.0.0 www.firsttechfed.com
 0.0.0.0 www.fismec.co.jp
 0.0.0.0 www.fit24.jp
@@ -5274,6 +5279,7 @@
 0.0.0.0 www.lightcosmo.com
 0.0.0.0 www.lighthouse-safety.com
 0.0.0.0 www.ligne-roset.jp
+0.0.0.0 www.likejapan.com
 0.0.0.0 www.lim-kochi.com
 0.0.0.0 www.linemo.jp
 0.0.0.0 www.lineup.market
@@ -6163,6 +6169,7 @@
 0.0.0.0 www.suzuki.co.jp
 0.0.0.0 www.suzuran-jyuutaku.com
 0.0.0.0 www.swan-kg.com
+0.0.0.0 www.swedenhouse.co.jp
 0.0.0.0 www.sy32.jp
 0.0.0.0 www.symphonyhall.jp
 0.0.0.0 www.syokunomori.com
@@ -6643,6 +6650,7 @@
 0.0.0.0 yasuda-ltd.jp
 0.0.0.0 yasunigoutenn.owst.jp
 0.0.0.0 yataiokamoto.com
+0.0.0.0 yawaragidokoro-ichi.owst.jp
 0.0.0.0 yg-tax.net
 0.0.0.0 yhtop.co
 0.0.0.0 yks0620-lp.com
