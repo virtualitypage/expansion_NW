@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 7 August 2025
+# Last modified: 8 August 2025
 #
 
 # [広告全般]
@@ -109,6 +109,7 @@
 0.0.0.0 agri.mynavi.jp
 0.0.0.0 ahamo.com
 0.0.0.0 ahokuds.com
+0.0.0.0 ai-edu.deepsquare.jp
 0.0.0.0 ai-koumuten.info
 0.0.0.0 aibo.sony.jp
 0.0.0.0 aigarden.com
@@ -122,6 +123,7 @@
 0.0.0.0 aix-otofuke.owst.jp
 0.0.0.0 aixtal.com
 0.0.0.0 aiya-osaka.com
+0.0.0.0 ajibiru-kashin-umeda.owst.jp
 0.0.0.0 akabekoland.buyshop.jp
 0.0.0.0 akabou-oasashouten.jp
 0.0.0.0 akari-shinkoiwa.owst.jp
@@ -199,6 +201,7 @@
 0.0.0.0 amanogawablueberry.com
 0.0.0.0 amarekyoto.owst.jp
 0.0.0.0 amato-urananba.owst.jp
+0.0.0.0 amatoohatuttenzin.owst.jp
 0.0.0.0 ambercorp.co.jp
 0.0.0.0 american-accent-course.teachable.com
 0.0.0.0 ametelas.owst.jp
@@ -722,6 +725,7 @@
 0.0.0.0 dining-bar-rire.owst.jp
 0.0.0.0 dining-masayoshi.com
 0.0.0.0 diningbar-conte.owst.jp
+0.0.0.0 diningbarzu-ho.owst.jp
 0.0.0.0 diplomat-jpn.com
 0.0.0.0 direct-teleshop.jp
 0.0.0.0 direct.ajinomoto.co.jp
@@ -2412,6 +2416,7 @@
 0.0.0.0 nikunotakumi-chitaya.owst.jp
 0.0.0.0 nikusawa.owst.jp
 0.0.0.0 nikusho-ichie.com
+0.0.0.0 nikutakumiwataru.owst.jp
 0.0.0.0 nikuzushi-sennichimae.owst.jp
 0.0.0.0 nilaina-holidays.com
 0.0.0.0 nill.jp
@@ -2963,6 +2968,7 @@
 0.0.0.0 sasa.osaka
 0.0.0.0 sasaki-kougyo.com
 0.0.0.0 sasatto.jp
+0.0.0.0 sashihata.jp
 0.0.0.0 sassa-shop.com
 0.0.0.0 satto.me
 0.0.0.0 sauna-rezone.com
