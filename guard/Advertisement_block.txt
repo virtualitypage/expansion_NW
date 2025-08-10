@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 9 August 2025
+# Last modified: 10 August 2025
 #
 
 # [広告全般]
@@ -143,6 +143,7 @@
 0.0.0.0 akr1440658677.owst.jp
 0.0.0.0 akr1443183977.owst.jp
 0.0.0.0 akr1520790650.owst.jp
+0.0.0.0 akr1609972039.owst.jp
 0.0.0.0 akr1776211008.owst.jp
 0.0.0.0 akr2241836267.owst.jp
 0.0.0.0 akr2486995891.owst.jp
@@ -1135,6 +1136,7 @@
 0.0.0.0 grand-mercure-lakehamana-resortandspa.jp
 0.0.0.0 grand-mercure-wakayamaminabe-resortandspa.jp
 0.0.0.0 grandparkotaru.com
+0.0.0.0 graphitedesign.gd-inc.co.jp
 0.0.0.0 gravitypark.jp
 0.0.0.0 graychat.net
 0.0.0.0 greenkankyo.com
@@ -1199,6 +1201,7 @@
 0.0.0.0 hamieru.co.jp
 0.0.0.0 hana-home.com
 0.0.0.0 hanaiyoukei.com
+0.0.0.0 hanako-okonomiyaki.owst.jp
 0.0.0.0 hanawa-yoho.jp
 0.0.0.0 hanazakari-ekiminami.owst.jp
 0.0.0.0 hands.net
@@ -2194,6 +2197,7 @@
 0.0.0.0 mimizukueasybar.owst.jp
 0.0.0.0 minamiasagaya.ryusei-sekkotuin.net
 0.0.0.0 minamino.itami-hagukumi.work
+0.0.0.0 minamiya1.owst.jp
 0.0.0.0 minase-ep.jp
 0.0.0.0 minato-motomachi.jp
 0.0.0.0 minatoya.com
@@ -2997,6 +3001,7 @@
 0.0.0.0 sb-beauty-popu.discover-news.tokyo
 0.0.0.0 sb-bremounq01.musthave-magazine.tokyo
 0.0.0.0 sb-cccdomani.service-info.jp
+0.0.0.0 sb-cir.discover-news.tokyo
 0.0.0.0 sb-create.ourpage.jp
 0.0.0.0 sb-dani.myown-page.com
 0.0.0.0 sb-danidaidanidanidanidanidanidanidanidanidanidani.discover-news.tokyo
@@ -3140,6 +3145,7 @@
 0.0.0.0 shashinten.info
 0.0.0.0 shashoku.com
 0.0.0.0 shelldome.jp
+0.0.0.0 shelter.owst.jp
 0.0.0.0 shiba.breeders.jp
 0.0.0.0 shibainu-shop.net
 0.0.0.0 shibayama-truckers.co.jp
@@ -3900,6 +3906,7 @@
 0.0.0.0 webcast.net-ir.ne.jp
 0.0.0.0 webcp01.boltray.com
 0.0.0.0 webdesk.jsa.or.jp
+0.0.0.0 webflyer.info
 0.0.0.0 webstore.ansi.org
 0.0.0.0 webx-asia.com
 0.0.0.0 wedding-seminar.com
@@ -4228,6 +4235,7 @@
 0.0.0.0 www.biyoushinkyuu.com
 0.0.0.0 www.bizreach.jp
 0.0.0.0 www.bk.mufg.jp
+0.0.0.0 www.bliss.ne.jp
 0.0.0.0 www.blue-design.co.jp
 0.0.0.0 www.blue-dolphins.net
 0.0.0.0 www.bmw-motorrad.co.uk
@@ -4971,6 +4979,7 @@
 0.0.0.0 www.integra-biosciences.com
 0.0.0.0 www.intel.co.jp
 0.0.0.0 www.inter-edu.com
+0.0.0.0 www.interactivebrokers.co.jp
 0.0.0.0 www.interial.jp
 0.0.0.0 www.interschool.jp
 0.0.0.0 www.inui-consulting.com
