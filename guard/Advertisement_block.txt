@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 10 August 2025
+# Last modified: 11 August 2025
 #
 
 # [広告全般]
@@ -165,6 +165,7 @@
 0.0.0.0 akr7498815564.owst.jp
 0.0.0.0 akr7779880273.owst.jp
 0.0.0.0 akr7827636977.owst.jp
+0.0.0.0 akr7912549276.owst.jp
 0.0.0.0 akr7970043166.owst.jp
 0.0.0.0 akr8178987612.owst.jp
 0.0.0.0 akr8430289746.owst.jp
@@ -676,6 +677,7 @@
 0.0.0.0 d-starjob.com
 0.0.0.0 dachs.breeders.jp
 0.0.0.0 daiei-corporation.com
+0.0.0.0 daiko-service.co.jp
 0.0.0.0 daikuma.owst.jp
 0.0.0.0 daiohs-saiyou.net
 0.0.0.0 daishoren.org
@@ -906,6 +908,7 @@
 0.0.0.0 expo2025-malaysia.miti.gov.my
 0.0.0.0 expo2025.nikkei.co.jp
 0.0.0.0 expotokushima.jp
+0.0.0.0 exterior-mie.jp
 0.0.0.0 exzeal.co.jp
 0.0.0.0 ezyremit.com
 0.0.0.0 f-cre.com
@@ -1169,6 +1172,7 @@
 0.0.0.0 h-jp.fujifilm.com
 0.0.0.0 h.cgg4game.com
 0.0.0.0 h20547.www2.hp.com
+0.0.0.0 habuandmangusu.owst.jp
 0.0.0.0 hachiemon.net
 0.0.0.0 haco-renovation.jp
 0.0.0.0 hacochef.cqree.jp
@@ -2850,6 +2854,7 @@
 0.0.0.0 reglas.base.shop
 0.0.0.0 rekisiru.com
 0.0.0.0 rekitabi.jp
+0.0.0.0 rekitee.com
 0.0.0.0 relax-job.com
 0.0.0.0 relegate-sprout.work
 0.0.0.0 remax-japan.jp
@@ -6170,6 +6175,7 @@
 0.0.0.0 www.stepup-school.net
 0.0.0.0 www.stevenstone.co.uk
 0.0.0.0 www.stgjapan.jp
+0.0.0.0 www.stikensa.com
 0.0.0.0 www.stonebeat.co.jp
 0.0.0.0 www.store.hitachi-ies.co.jp
 0.0.0.0 www.storus.jp
