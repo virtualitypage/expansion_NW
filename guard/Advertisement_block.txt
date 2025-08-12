@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 11 August 2025
+# Last modified: 12 August 2025
 #
 
 # [広告全般]
@@ -64,6 +64,7 @@
 0.0.0.0 abysshabidecor.jp
 0.0.0.0 ac-kobo.jp
 0.0.0.0 accel-japan.com
+0.0.0.0 access-online.net
 0.0.0.0 accretive-lp.jp
 0.0.0.0 ace-kitakyushu.com
 0.0.0.0 acecafe-k.tumblr.com
@@ -233,6 +234,7 @@
 0.0.0.0 animefesta.iowl.jp
 0.0.0.0 animo.promo
 0.0.0.0 ankanpou.com
+0.0.0.0 ankara.goturkiye.com
 0.0.0.0 anna-advisors.com
 0.0.0.0 anobus.jp
 0.0.0.0 another1000years-miyajima.jp
@@ -772,6 +774,7 @@
 0.0.0.0 dpt-e-school.w.waseda.jp
 0.0.0.0 dr-fish.net
 0.0.0.0 drcshop.com
+0.0.0.0 dreamhome.co.jp
 0.0.0.0 dreamorder.com
 0.0.0.0 dreamprojects.jp
 0.0.0.0 dressandstyles.com
@@ -1366,6 +1369,7 @@
 0.0.0.0 hyundaimobilitypassport.com
 0.0.0.0 i-fromdata.co.jp
 0.0.0.0 i-mission.jp
+0.0.0.0 i-three.co.jp
 0.0.0.0 i-voce.jp
 0.0.0.0 i.ansinkaigo.jp
 0.0.0.0 i.kirei.today
@@ -1634,6 +1638,7 @@
 0.0.0.0 kai-techweb.com
 0.0.0.0 kai-z.net
 0.0.0.0 kaifuu.co.jp
+0.0.0.0 kaigi.in
 0.0.0.0 kaigitable.shop
 0.0.0.0 kaigo-haigyo.com
 0.0.0.0 kaigo-ma.com
@@ -1817,6 +1822,7 @@
 0.0.0.0 kojinsoken.co.jp
 0.0.0.0 kojosoko-koniken.com
 0.0.0.0 kojyo-kuruma.com
+0.0.0.0 kokkakubodymake.com
 0.0.0.0 kokokara.tais.ac.jp
 0.0.0.0 kokorocare-with.jp
 0.0.0.0 kokyo111.owst.jp
@@ -1833,6 +1839,7 @@
 0.0.0.0 koshi-ct.co.jp
 0.0.0.0 koshien.hanshin.co.jp
 0.0.0.0 kosidasuisan.com
+0.0.0.0 kosodate-green.mlit.go.jp
 0.0.0.0 kotilabo.com
 0.0.0.0 kotobacamp.com
 0.0.0.0 kotobapark.889100.com
@@ -3153,6 +3160,7 @@
 0.0.0.0 shelter.owst.jp
 0.0.0.0 shiba.breeders.jp
 0.0.0.0 shibainu-shop.net
+0.0.0.0 shibanoka.com
 0.0.0.0 shibayama-truckers.co.jp
 0.0.0.0 shibo-zero.info
 0.0.0.0 shichusuimei.jp
@@ -3198,6 +3206,7 @@
 0.0.0.0 shizuoka-onpaku.jp
 0.0.0.0 sho.benesse.co.jp
 0.0.0.0 shoesiland.com
+0.0.0.0 shogischooljp.square.site
 0.0.0.0 shoka-stick.jp
 0.0.0.0 shokai-walker.jp
 0.0.0.0 shokouzan.com
@@ -3468,6 +3477,7 @@
 0.0.0.0 sushi-amato.owst.jp
 0.0.0.0 sushi-hasegawa.owst.jp
 0.0.0.0 sushidokoro-yuuki.owst.jp
+0.0.0.0 sushiizakayamatui.owst.jp
 0.0.0.0 sushimiyabi.owst.jp
 0.0.0.0 sushisyu.owst.jp
 0.0.0.0 sushitech-real.metro.tokyo.lg.jp
@@ -3628,6 +3638,7 @@
 0.0.0.0 threewood.jp
 0.0.0.0 thyself.jp
 0.0.0.0 tib.metro.tokyo.lg.jp
+0.0.0.0 ticket-u.gunma.jp
 0.0.0.0 ticket.skyperfectv.co.jp
 0.0.0.0 ticket.tsuku2.jp
 0.0.0.0 timee.co.jp
@@ -4059,6 +4070,7 @@
 0.0.0.0 www.aiwahospital.or.jp
 0.0.0.0 www.ajhh.jp
 0.0.0.0 www.ajinomoto.co.jp
+0.0.0.0 www.ak-cz.com
 0.0.0.0 www.alba.co.jp
 0.0.0.0 www.albase.skin
 0.0.0.0 www.alconix.com
@@ -5720,6 +5732,7 @@
 0.0.0.0 www.opera-official.net
 0.0.0.0 www.ophthalmologytimes.com
 0.0.0.0 www.opm7.com
+0.0.0.0 www.optsp.co.jp
 0.0.0.0 www.oragamo.com
 0.0.0.0 www.oralb.braun.co.jp
 0.0.0.0 www.orangeroom.jp
