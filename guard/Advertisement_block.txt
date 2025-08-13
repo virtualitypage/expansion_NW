@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 12 August 2025
+# Last modified: 13 August 2025
 #
 
 # [広告全般]
@@ -1429,6 +1429,7 @@
 0.0.0.0 info.renishaw.com
 0.0.0.0 info.slimstock.com
 0.0.0.0 info.uopochi.jp
+0.0.0.0 infocorpus.co.jp
 0.0.0.0 infocp.syngenta.co.jp
 0.0.0.0 infomotion.co.jp
 0.0.0.0 informatix.co.jp
@@ -1996,6 +1997,7 @@
 0.0.0.0 lp-ai.ccreb.jp
 0.0.0.0 lp-mk-2.makuake.com
 0.0.0.0 lp-yubien.com
+0.0.0.0 lp.022099.jp
 0.0.0.0 lp.alc-non.com
 0.0.0.0 lp.chocozap.jp
 0.0.0.0 lp.cloudydrive.net
@@ -3652,6 +3654,7 @@
 0.0.0.0 tkcp-premium-tire-sale-5ab30bb4478c.herokuapp.com
 0.0.0.0 tkingdomsjp.lnhy988.com
 0.0.0.0 tkm-maioka.com
+0.0.0.0 tmlease.com
 0.0.0.0 to-hand.com
 0.0.0.0 tofu.matsumasa.org
 0.0.0.0 tohei-ya.com
@@ -4510,6 +4513,7 @@
 0.0.0.0 www.dlsyoukai.com
 0.0.0.0 www.dnp.co.jp
 0.0.0.0 www.docomo.ne.jp
+0.0.0.0 www.dofine.co.jp
 0.0.0.0 www.doggysresort-amanohashidate.com
 0.0.0.0 www.dogyan.jp
 0.0.0.0 www.dominos.jp
@@ -5651,6 +5655,7 @@
 0.0.0.0 www.nondact89.com
 0.0.0.0 www.nonopiano.com
 0.0.0.0 www.nordsonmedical.com
+0.0.0.0 www.noritz.co.jp
 0.0.0.0 www.nostimia.com
 0.0.0.0 www.notalone-cao.go.jp
 0.0.0.0 www.notokaitai.com
@@ -5775,6 +5780,7 @@
 0.0.0.0 www.otsuka-shokai.co.jp
 0.0.0.0 www.otto-web.net
 0.0.0.0 www.otv.co.jp
+0.0.0.0 www.oubaitouri-1111.com
 0.0.0.0 www.ouchiku.com
 0.0.0.0 www.ougi.co.jp
 0.0.0.0 www.ouj.ac.jp
@@ -5913,6 +5919,7 @@
 0.0.0.0 www.racingmaster.game
 0.0.0.0 www.radishbo-ya.co.jp
 0.0.0.0 www.raffles.com
+0.0.0.0 www.raiden.co.jp
 0.0.0.0 www.rakudaya-furudougu.com
 0.0.0.0 www.rakugare.com
 0.0.0.0 www.rakurakuhanbai.jp
@@ -6751,6 +6758,7 @@
 0.0.0.0 yuskin.co.jp
 0.0.0.0 yutaka-bc.jp
 0.0.0.0 yutaka-tomonokai.jp
+0.0.0.0 yutoie.jp
 0.0.0.0 z.vejp.co.jp
 0.0.0.0 zaimani.com
 0.0.0.0 zamion.owst.jp
