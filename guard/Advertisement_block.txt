@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 13 August 2025
+# Last modified: 14 August 2025
 #
 
 # [広告全般]
@@ -2280,6 +2280,7 @@
 0.0.0.0 mokucolle.com
 0.0.0.0 mokutown.jp
 0.0.0.0 momoju-osaka.owst.jp
+0.0.0.0 momotaro-grandgreenosaka.owst.jp
 0.0.0.0 momuriplus.com
 0.0.0.0 mone-pla.co.jp
 0.0.0.0 money-college.org
@@ -3578,6 +3579,7 @@
 0.0.0.0 tatansweets.com
 0.0.0.0 tateyoko-kazuma.com
 0.0.0.0 tatsunomiya-shinsaibasiten.owst.jp
+0.0.0.0 tavishot.com
 0.0.0.0 tavopets.com
 0.0.0.0 tax.actvision.jp
 0.0.0.0 taxisaiyo.entetsu.co.jp
@@ -4202,6 +4204,7 @@
 0.0.0.0 www.b-conplaza.jp
 0.0.0.0 www.b-race.jp
 0.0.0.0 www.babaramen.com
+0.0.0.0 www.babyband.jp
 0.0.0.0 www.backyardhealers.com
 0.0.0.0 www.balbix.com
 0.0.0.0 www.balmuda.com
@@ -5215,6 +5218,7 @@
 0.0.0.0 www.kindai-toyooka.ed.jp
 0.0.0.0 www.kindai.ac.jp
 0.0.0.0 www.kindaikagaku.co.jp
+0.0.0.0 www.kingoftime.jp
 0.0.0.0 www.kinoshita-koumuten.co.jp
 0.0.0.0 www.kinoyuka.net
 0.0.0.0 www.kinsoku.ac.jp
@@ -5936,6 +5940,7 @@
 0.0.0.0 www.recruit.co.jp
 0.0.0.0 www.recx.jp
 0.0.0.0 www.recycle-izumi.net
+0.0.0.0 www.recyclemart.jp
 0.0.0.0 www.redbaron.co.jp
 0.0.0.0 www.redstoneonline.jp
 0.0.0.0 www.regina-web.jp
@@ -6260,6 +6265,7 @@
 0.0.0.0 www.takarashuzo.co.jp
 0.0.0.0 www.takashimaya-global.com
 0.0.0.0 www.takashimaya.co.jp
+0.0.0.0 www.takasugihosp.jp
 0.0.0.0 www.takayamaseihun.co.jp
 0.0.0.0 www.takeda.tv
 0.0.0.0 www.takeheiro.com
