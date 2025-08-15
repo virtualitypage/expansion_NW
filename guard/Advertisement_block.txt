@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 14 August 2025
+# Last modified: 15 August 2025
 #
 
 # [広告全般]
@@ -74,6 +74,7 @@
 0.0.0.0 acleda.bankaccount-support.com
 0.0.0.0 acrove.co.jp
 0.0.0.0 acs-1980.com
+0.0.0.0 act-kansho.support
 0.0.0.0 activate.games.dmm.com
 0.0.0.0 activesleep.jp
 0.0.0.0 aculabo-yamaguchi-sports.com
@@ -206,6 +207,7 @@
 0.0.0.0 amato-urananba.owst.jp
 0.0.0.0 amatoohatuttenzin.owst.jp
 0.0.0.0 ambercorp.co.jp
+0.0.0.0 amemoba.com
 0.0.0.0 american-accent-course.teachable.com
 0.0.0.0 ametelas.owst.jp
 0.0.0.0 amiami-as331.com
@@ -365,6 +367,7 @@
 0.0.0.0 beavers.co.jp
 0.0.0.0 bec-fin.jp
 0.0.0.0 beds24.com
+0.0.0.0 bee.cleanlife-center.com
 0.0.0.0 beeffrompoland.pl
 0.0.0.0 beerus.jp
 0.0.0.0 beira.shop
@@ -394,6 +397,7 @@
 0.0.0.0 bijoupiko.com
 0.0.0.0 bike-news.jp
 0.0.0.0 bikin-online-pt-lp.com
+0.0.0.0 biplobd.com
 0.0.0.0 bird-ship.com
 0.0.0.0 biryuhyakkaweb.jp
 0.0.0.0 bisha-ema.com
@@ -749,6 +753,7 @@
 0.0.0.0 dmdepart.jp
 0.0.0.0 do-recruit.info
 0.0.0.0 doax-venusvacation.jp
+0.0.0.0 doctor-seishinka.com
 0.0.0.0 doctorsfile.jp
 0.0.0.0 doda-x.jp
 0.0.0.0 doda.jp
@@ -891,6 +896,7 @@
 0.0.0.0 etc.kmg-cloud.com
 0.0.0.0 eubeeflamb.eu
 0.0.0.0 eurjmedres.biomedcentral.com
+0.0.0.0 euro-medical-university.org
 0.0.0.0 european-dairy.eu
 0.0.0.0 ev2.nissan.co.jp
 0.0.0.0 event.gvm.com.tw
@@ -912,6 +918,7 @@
 0.0.0.0 expo2025.nikkei.co.jp
 0.0.0.0 expotokushima.jp
 0.0.0.0 exterior-mie.jp
+0.0.0.0 extreme-spec.co
 0.0.0.0 exzeal.co.jp
 0.0.0.0 ezyremit.com
 0.0.0.0 f-cre.com
@@ -1141,6 +1148,7 @@
 0.0.0.0 grand-mercure-lakebiwa-resortandspa.jp
 0.0.0.0 grand-mercure-lakehamana-resortandspa.jp
 0.0.0.0 grand-mercure-wakayamaminabe-resortandspa.jp
+0.0.0.0 grandereverie.jp
 0.0.0.0 grandparkotaru.com
 0.0.0.0 graphitedesign.gd-inc.co.jp
 0.0.0.0 gravitypark.jp
@@ -1159,6 +1167,7 @@
 0.0.0.0 guidance-recruit.visioncon.co.jp
 0.0.0.0 gururi360.net
 0.0.0.0 guyrover.base.shop
+0.0.0.0 gx.s-daiwa-lp.com
 0.0.0.0 gxt-office.com
 0.0.0.0 gym.copin.co.jp
 0.0.0.0 gyoseishosi-yamaguchiyoichi.net
@@ -1813,6 +1822,7 @@
 0.0.0.0 kochi-be-farmer.jp
 0.0.0.0 kochi-fukushijobfestival.com
 0.0.0.0 kochi-kenkochallenge.jp
+0.0.0.0 kochi-shaken.com
 0.0.0.0 kochi02.kyoukaikenpo.or.jp
 0.0.0.0 kochike-shobo.net
 0.0.0.0 kochimonthly.com
@@ -2205,6 +2215,7 @@
 0.0.0.0 miki-industry.jp
 0.0.0.0 million-sales.com
 0.0.0.0 mimi-kyokai.jp
+0.0.0.0 mimi.fairydevices.jp
 0.0.0.0 mimibeaute.stores.jp
 0.0.0.0 mimitsubo-diet.or.jp
 0.0.0.0 mimizukueasybar.owst.jp
@@ -3440,6 +3451,7 @@
 0.0.0.0 suginoko-people.com
 0.0.0.0 sugo-japan.com
 0.0.0.0 suguredashicp.jp
+0.0.0.0 suidouya.net
 0.0.0.0 suke-dachi.jp
 0.0.0.0 sumaho-sousa.com
 0.0.0.0 sumai.es-conjapan.co.jp
@@ -4641,6 +4653,7 @@
 0.0.0.0 www.fairmont-empress.com
 0.0.0.0 www.falcom.co.jp
 0.0.0.0 www.fancrew.jp
+0.0.0.0 www.fankura.com
 0.0.0.0 www.fanstyle.co.jp
 0.0.0.0 www.fashion-tokyo.jp
 0.0.0.0 www.fav-lux.com
@@ -5019,6 +5032,7 @@
 0.0.0.0 www.irisohyama.co.jp
 0.0.0.0 www.irisplaza.co.jp
 0.0.0.0 www.iroha-koumuten.com
+0.0.0.0 www.isaribi.co.jp
 0.0.0.0 www.isekanbutsu.co.jp
 0.0.0.0 www.ishibashi-mfg.com
 0.0.0.0 www.ishichou.co.jp
@@ -5726,6 +5740,7 @@
 0.0.0.0 www.omron.com
 0.0.0.0 www.omu.ac.jp
 0.0.0.0 www.on.com
+0.0.0.0 www.one-s-top.co.jp
 0.0.0.0 www.onetop-japan.jp
 0.0.0.0 www.onitsukatiger.com
 0.0.0.0 www.onlinesec-kenkyukai.com
@@ -5758,6 +5773,7 @@
 0.0.0.0 www.orix.co.jp
 0.0.0.0 www.orixbank.co.jp
 0.0.0.0 www.orlandokanko.com
+0.0.0.0 www.osaka-daihyo.jp
 0.0.0.0 www.osaka-kyosai.or.jp
 0.0.0.0 www.osaka-kyosai.osaka.jp
 0.0.0.0 www.osaka-liposuction.com
