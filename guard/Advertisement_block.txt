@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 15 August 2025
+# Last modified: 16 August 2025
 #
 
 # [広告全般]
@@ -259,6 +259,7 @@
 0.0.0.0 apoyoyaku.com
 0.0.0.0 app.firmee.com
 0.0.0.0 app.kansai-maas.jp
+0.0.0.0 app.nearme.jp
 0.0.0.0 app.pixverse.ai
 0.0.0.0 applause-home.com
 0.0.0.0 appleone.shop
@@ -2574,6 +2575,7 @@
 0.0.0.0 on-pro.jp
 0.0.0.0 ondemand-trump.com
 0.0.0.0 ondemand.meluon.com
+0.0.0.0 one-star-parking.com
 0.0.0.0 one-up-life.com
 0.0.0.0 oneit.co.jp
 0.0.0.0 oneosaka.jp
@@ -2765,6 +2767,7 @@
 0.0.0.0 present-wine-shop.derisomu.com
 0.0.0.0 present.baby-calendar.com
 0.0.0.0 preservedflower.hanadaigaku.jp
+0.0.0.0 presidential-hackathon.tca.org.tw
 0.0.0.0 price-energy.com
 0.0.0.0 pricerevision2022.02.bijoupiko.com
 0.0.0.0 pride-fish.jp
@@ -2940,6 +2943,7 @@
 0.0.0.0 runway-webstore.com
 0.0.0.0 rx.esuto.co.jp
 0.0.0.0 rxr.happyelements.co.jp
+0.0.0.0 ryokufuso.jp
 0.0.0.0 ryorinin.ihcsa.or.jp
 0.0.0.0 rys-cafe.bar
 0.0.0.0 ryt200yoga.com
@@ -4093,6 +4097,7 @@
 0.0.0.0 www.alconix.com
 0.0.0.0 www.alfalaval.com
 0.0.0.0 www.allaroundmobilehomeservice.com
+0.0.0.0 www.alldatasheet.com
 0.0.0.0 www.allergy-i.jp
 0.0.0.0 www.allex.org
 0.0.0.0 www.allied-telesis.co.jp
@@ -4756,6 +4761,7 @@
 0.0.0.0 www.garmin.co.jp
 0.0.0.0 www.gassaferegister.co.uk
 0.0.0.0 www.gate02.ne.jp
+0.0.0.0 www.gatenjob-suitable.com
 0.0.0.0 www.gatsby.jp
 0.0.0.0 www.gdep.co.jp
 0.0.0.0 www.gdl-cubic.com
@@ -5617,6 +5623,7 @@
 0.0.0.0 www.netzchubu.co.jp
 0.0.0.0 www.newart.co.jp
 0.0.0.0 www.newotani.co.jp
+0.0.0.0 www.newsweekjapan.jp
 0.0.0.0 www.newzealandsouvenirs.com
 0.0.0.0 www.next-link.tokyo
 0.0.0.0 www.nexta.shop
@@ -6262,6 +6269,7 @@
 0.0.0.0 www.t-fal.co.jp
 0.0.0.0 www.t-rough.jp
 0.0.0.0 www.t-sharyou.co.jp
+0.0.0.0 www.tablecheck.com
 0.0.0.0 www.tabletale.biz
 0.0.0.0 www.tac-school.co.jp
 0.0.0.0 www.tachibana.co.jp
