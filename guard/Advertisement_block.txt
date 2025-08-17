@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 16 August 2025
+# Last modified: 17 August 2025
 #
 
 # [広告全般]
@@ -1043,6 +1043,7 @@
 0.0.0.0 futon-tsuyuki-ec.com
 0.0.0.0 futoukou-sien.com
 0.0.0.0 fuwarii.com
+0.0.0.0 fxg.easyerin.top
 0.0.0.0 fy.harvest-green.com
 0.0.0.0 g-house.osaka.jp
 0.0.0.0 g-prep.co.jp
@@ -4173,6 +4174,7 @@
 0.0.0.0 www.asahi-netshop.com
 0.0.0.0 www.asahi-shoes.co.jp
 0.0.0.0 www.asahi.com
+0.0.0.0 www.asahigodo.co.jp
 0.0.0.0 www.asakoclinic.com
 0.0.0.0 www.asakuma.farm
 0.0.0.0 www.asheet.co.jp
@@ -6414,6 +6416,7 @@
 0.0.0.0 www.town.okuma.fukushima.jp
 0.0.0.0 www.town.taketomi.lg.jp
 0.0.0.0 www.town.togitsu.nagasaki.jp
+0.0.0.0 www.toyal.co.jp
 0.0.0.0 www.toyama-clean.com
 0.0.0.0 www.toyo.ac.jp
 0.0.0.0 www.toyofuku.net
