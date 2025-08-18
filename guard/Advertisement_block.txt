@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 17 August 2025
+# Last modified: 18 August 2025
 #
 
 # [広告全般]
@@ -170,6 +170,7 @@
 0.0.0.0 akr7912549276.owst.jp
 0.0.0.0 akr7970043166.owst.jp
 0.0.0.0 akr8178987612.owst.jp
+0.0.0.0 akr8194880521.owst.jp
 0.0.0.0 akr8430289746.owst.jp
 0.0.0.0 akr8468139698.owst.jp
 0.0.0.0 akr8490227405.owst.jp
@@ -954,6 +955,7 @@
 0.0.0.0 fieldsuite-hakuba.com
 0.0.0.0 finance.logmi.jp
 0.0.0.0 finance.techbiz.com
+0.0.0.0 finbee.jp
 0.0.0.0 firmbond.co.jp
 0.0.0.0 firstairlines.jp
 0.0.0.0 firstgolf.world
@@ -2987,6 +2989,7 @@
 0.0.0.0 sakeikki.base.shop
 0.0.0.0 saketomeshi-tiger.owst.jp
 0.0.0.0 sakidori.co
+0.0.0.0 sakigake2261459379.owst.jp
 0.0.0.0 sakura-ju.co.jp
 0.0.0.0 sakura-kozo.jp
 0.0.0.0 sakurabito.jp
@@ -3776,6 +3779,7 @@
 0.0.0.0 tsuna-ag.com
 0.0.0.0 tsuna-ag.tsuna-ag.com
 0.0.0.0 tsunagaru-design.co.jp
+0.0.0.0 tsurutontan-honmachi.owst.jp
 0.0.0.0 tsuruyoshi-jinbocho.owst.jp
 0.0.0.0 tsutaya.tsite.jp
 0.0.0.0 tsuyama-lp.com
@@ -3923,6 +3927,7 @@
 0.0.0.0 watashinodeban.net
 0.0.0.0 watashiplus.shiseidogroup.cn
 0.0.0.0 watch-yoshida.co.jp
+0.0.0.0 watch.dmdepart.jp
 0.0.0.0 watchrepair.com.sg
 0.0.0.0 watchsalon-fukuoka.com
 0.0.0.0 waterone.jp
@@ -4548,6 +4553,7 @@
 0.0.0.0 www.dreammail.jp
 0.0.0.0 www.dreamwks.com
 0.0.0.0 www.drgc.jp
+0.0.0.0 www.drink-n-meter.com
 0.0.0.0 www.drinkkohodo.com
 0.0.0.0 www.driver-haken.com
 0.0.0.0 www.driverhaken.com
@@ -4678,6 +4684,7 @@
 0.0.0.0 www.finbourne.com
 0.0.0.0 www.fineseal.net
 0.0.0.0 www.finetrack.com
+0.0.0.0 www.firesidestove.com
 0.0.0.0 www.first-roof.com
 0.0.0.0 www.firsttechfed.com
 0.0.0.0 www.fismec.co.jp
@@ -5099,6 +5106,7 @@
 0.0.0.0 www.jcb.jp
 0.0.0.0 www.jcom.co.jp
 0.0.0.0 www.jeed.go.jp
+0.0.0.0 www.jetsgroup.com
 0.0.0.0 www.jetstar.com
 0.0.0.0 www.jex-inc.co.jp
 0.0.0.0 www.jf-pearl-ehime.com
@@ -6327,6 +6335,7 @@
 0.0.0.0 www.teksystems.com
 0.0.0.0 www.tel-tkl-midcareer.com
 0.0.0.0 www.tele.soumu.go.jp
+0.0.0.0 www.tempmate-asia.com
 0.0.0.0 www.tempstaff.co.jp
 0.0.0.0 www.tenant-kyoto.jp
 0.0.0.0 www.tendan.co.jp
