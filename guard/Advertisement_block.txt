@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 19 August 2025
+# Last modified: 20 August 2025
 #
 
 # [広告全般]
@@ -449,6 +449,7 @@
 0.0.0.0 bra.almado.jp
 0.0.0.0 brand.taisho.co.jp
 0.0.0.0 brandjewelry.net
+0.0.0.0 brandnew-akita-trip.jp
 0.0.0.0 brandsecurity.gmo
 0.0.0.0 bright-app.com
 0.0.0.0 brightage.jp
@@ -640,6 +641,7 @@
 0.0.0.0 corolla-iwate.jp
 0.0.0.0 corp.kurimoto.co.jp
 0.0.0.0 corp.w-nexco.co.jp
+0.0.0.0 corporate.edeyans.com
 0.0.0.0 corporate.epson
 0.0.0.0 corporate.ofsji.org
 0.0.0.0 correct-event.jp
@@ -1020,6 +1022,7 @@
 0.0.0.0 fukukara.com
 0.0.0.0 fukukougen-nisihinakajima.owst.jp
 0.0.0.0 fukuoka-heya.jp
+0.0.0.0 fukuoka.takagigakuen.ac.jp
 0.0.0.0 fukuokapaint.com
 0.0.0.0 fukushi-iryo.denpa.jp
 0.0.0.0 fukushima-hook.jp
@@ -1685,6 +1688,7 @@
 0.0.0.0 kameoka-organicschool.jp
 0.0.0.0 kamerico.owst.jp
 0.0.0.0 kameya-g.jp
+0.0.0.0 kamitono-kurashi.shop
 0.0.0.0 kamome.asia
 0.0.0.0 kamposhop.kracie.co.jp
 0.0.0.0 kamukura-recruit.jp
@@ -2233,6 +2237,7 @@
 0.0.0.0 mindwind.tokyo
 0.0.0.0 mineo-ambassador.com
 0.0.0.0 mineo.jp
+0.0.0.0 minietmaxi.shop-pro.jp
 0.0.0.0 mining.1resource.net
 0.0.0.0 minoh-indoorgolf.com
 0.0.0.0 minoh-spa.ooedoonsen.jp
@@ -3506,6 +3511,7 @@
 0.0.0.0 sushimiyabi.owst.jp
 0.0.0.0 sushisyu.owst.jp
 0.0.0.0 sushitech-real.metro.tokyo.lg.jp
+0.0.0.0 sushitonihonnsyu-ichi.owst.jp
 0.0.0.0 sustainable.goturkiye.com
 0.0.0.0 sustineri.co.jp
 0.0.0.0 sutekinajinsei.jp
@@ -6020,6 +6026,7 @@
 0.0.0.0 www.rosemont-swiss.com
 0.0.0.0 www.roudousaigai.jp
 0.0.0.0 www.roukyouhou.mhlw.go.jp
+0.0.0.0 www.rs-virus.jp
 0.0.0.0 www.rtyfghgroup.com
 0.0.0.0 www.ruby-dev.jp
 0.0.0.0 www.ruxur.net
@@ -6122,6 +6129,7 @@
 0.0.0.0 www.shimane-mirai.jp
 0.0.0.0 www.shimonjuku.com
 0.0.0.0 www.shin3k.jyukatsukyo.or.jp
+0.0.0.0 www.shinbashistamp.shop-site.jp
 0.0.0.0 www.shinbi-shika.net
 0.0.0.0 www.shinfuzen.com
 0.0.0.0 www.shinkyogaoka.jp
@@ -6567,6 +6575,7 @@
 0.0.0.0 www.web3festival.org
 0.0.0.0 www.weilin.url.tw
 0.0.0.0 www.wella.co.jp
+0.0.0.0 www.wellbeing-seed.com
 0.0.0.0 www.weltec.jp
 0.0.0.0 www.westernunion.com
 0.0.0.0 www.westin-osaka.co.jp
