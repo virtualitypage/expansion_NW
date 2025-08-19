@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 18 August 2025
+# Last modified: 19 August 2025
 #
 
 # [広告全般]
@@ -1938,6 +1938,7 @@
 0.0.0.0 lagblanc.com
 0.0.0.0 lagemayo.com
 0.0.0.0 lagged.com
+0.0.0.0 lagoon.owst.jp
 0.0.0.0 laki-pupu.jp
 0.0.0.0 lalacrush-snoopy.makers-pts.net
 0.0.0.0 land.owst.jp
@@ -3004,6 +3005,7 @@
 0.0.0.0 sananacafe.ecforce.superb-hd.com
 0.0.0.0 sananamama.com
 0.0.0.0 sandesica.jp
+0.0.0.0 sangoku-sakaba.owst.jp
 0.0.0.0 sankotsu-wataru.com
 0.0.0.0 sankotsu.jah.co.jp
 0.0.0.0 sankyutop.shop-pro.jp
@@ -3738,6 +3740,7 @@
 0.0.0.0 tottotto-namba.owst.jp
 0.0.0.0 toubyo.com
 0.0.0.0 touentei.com
+0.0.0.0 tougawakaita.owst.jp
 0.0.0.0 touki-a.com
 0.0.0.0 tounyuu.net
 0.0.0.0 tour.l-tike.com
@@ -4453,6 +4456,7 @@
 0.0.0.0 www.conoha.jp
 0.0.0.0 www.consaru.org
 0.0.0.0 www.contactlens.co.jp
+0.0.0.0 www.coop-takuhai.jp
 0.0.0.0 www.coopsumai.jp
 0.0.0.0 www.cordiale-group.com
 0.0.0.0 www.cordlesschime.com
