@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 20 August 2025
+# Last modified: 21 August 2025
 #
 
 # [広告全般]
@@ -1869,6 +1869,7 @@
 0.0.0.0 kouju.mabuchi.co.jp
 0.0.0.0 koukoukojitsu.com
 0.0.0.0 koumu-in.jp
+0.0.0.0 koumyakuten2025.jp
 0.0.0.0 koundou.com
 0.0.0.0 kounotoriosaka.owst.jp
 0.0.0.0 kousa.co.jp
@@ -3325,6 +3326,7 @@
 0.0.0.0 skystonegallery.com
 0.0.0.0 skyticket.jp
 0.0.0.0 slash-fishing.jp
+0.0.0.0 sleek-by-roy.com
 0.0.0.0 sleep.airweave.jp
 0.0.0.0 sleepytofu.co.jp
 0.0.0.0 smapano2.com
@@ -3486,6 +3488,7 @@
 0.0.0.0 sumiginjyo-tenjin.owst.jp
 0.0.0.0 sumika.link
 0.0.0.0 sumikalog.bess.jp
+0.0.0.0 sumiredentalc.com
 0.0.0.0 sumisho-tatemono-chuukai.net
 0.0.0.0 sumitoma.tokyo
 0.0.0.0 sumiyaginzo.owst.jp
@@ -4143,6 +4146,7 @@
 0.0.0.0 www.anabuki-style.com.lan
 0.0.0.0 www.anacrowneplaza-nagoya.jp
 0.0.0.0 www.analogtech.co.jp
+0.0.0.0 www.anatano-fudousan.com
 0.0.0.0 www.andkomachi.com
 0.0.0.0 www.andperse.com
 0.0.0.0 www.ankerjapan.com
@@ -5066,6 +5070,7 @@
 0.0.0.0 www.ishimi.jp
 0.0.0.0 www.ishizuka-seisakusho.com
 0.0.0.0 www.ishizukakagu.com
+0.0.0.0 www.ishome.ltd
 0.0.0.0 www.isobekomeya.com
 0.0.0.0 www.istockphoto.com
 0.0.0.0 www.isuzu.co.jp
