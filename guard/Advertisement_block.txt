@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 21 August 2025
+# Last modified: 22 August 2025
 #
 
 # [広告全般]
@@ -2165,6 +2165,7 @@
 0.0.0.0 matsui-express-job.jp
 0.0.0.0 matsumoto.city
 0.0.0.0 matsumototravel.com
+0.0.0.0 matsumura-legaloffice.jp
 0.0.0.0 matsuoka-juken-lp.com
 0.0.0.0 matsuriya.owst.jp
 0.0.0.0 matsusaka-kanpo.jp
@@ -2192,6 +2193,7 @@
 0.0.0.0 medicalarts-amt.com
 0.0.0.0 medicaldoc.jp
 0.0.0.0 medicalnote.jp
+0.0.0.0 medtronicinteract.com
 0.0.0.0 medusafragrance.com
 0.0.0.0 mee.ks-shared.jp
 0.0.0.0 megalos.co.jp
@@ -2657,6 +2659,7 @@
 0.0.0.0 otori-hearing.com
 0.0.0.0 otori-office.com
 0.0.0.0 otori.ario.jp
+0.0.0.0 ougiya-ikaruga.owst.jp
 0.0.0.0 ougiya-takaishi.owst.jp
 0.0.0.0 oumis-labo.jp
 0.0.0.0 ours.town
@@ -3123,6 +3126,7 @@
 0.0.0.0 screen-spe-introduction.com
 0.0.0.0 sdgs-kuchikomi-lodge.jp
 0.0.0.0 sdgs-print.site
+0.0.0.0 sdream.rs
 0.0.0.0 sdt.inc
 0.0.0.0 sealm.jp
 0.0.0.0 sealy-jp.com
@@ -3469,6 +3473,7 @@
 0.0.0.0 sugo-japan.com
 0.0.0.0 suguredashicp.jp
 0.0.0.0 suidouya.net
+0.0.0.0 suiseikai-ed-form.com
 0.0.0.0 suke-dachi.jp
 0.0.0.0 sumaho-sousa.com
 0.0.0.0 sumai.es-conjapan.co.jp
@@ -5094,6 +5099,7 @@
 0.0.0.0 www.iyotetsu-takashimaya.co.jp
 0.0.0.0 www.izumo-brand.jp
 0.0.0.0 www.j-flec.go.jp
+0.0.0.0 www.j-fsa.or.jp
 0.0.0.0 www.j-meets.com
 0.0.0.0 www.j-urban.jp
 0.0.0.0 www.j-walk.ne.jp
