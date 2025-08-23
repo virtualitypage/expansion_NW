@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 22 August 2025
+# Last modified: 23 August 2025
 #
 
 # [広告全般]
@@ -128,6 +128,7 @@
 0.0.0.0 ajibiru-kashin-umeda.owst.jp
 0.0.0.0 akabekoland.buyshop.jp
 0.0.0.0 akabou-oasashouten.jp
+0.0.0.0 akanala.jp
 0.0.0.0 akari-shinkoiwa.owst.jp
 0.0.0.0 akiya-oita.com
 0.0.0.0 akoakostudio.com
@@ -1276,6 +1277,7 @@
 0.0.0.0 hephall.jp
 0.0.0.0 her-onlinestore.com
 0.0.0.0 herbareyou.jp
+0.0.0.0 hesohonten.owst.jp
 0.0.0.0 hetre-g.jp
 0.0.0.0 hey-choshikun.com
 0.0.0.0 heyheyship.jp
@@ -2873,6 +2875,7 @@
 0.0.0.0 recruit.eph.pref.ehime.jp
 0.0.0.0 recruit.fordays.jp
 0.0.0.0 recruit.hakuhodo-technologies.co.jp
+0.0.0.0 recruit.jobcan.jp
 0.0.0.0 recruit.meccs.co.jp
 0.0.0.0 recruit.nds-g.co.jp
 0.0.0.0 recruit.oshare-zele.co.jp
@@ -2904,6 +2907,7 @@
 0.0.0.0 rental-coin.com
 0.0.0.0 rental-pallet.net
 0.0.0.0 rental2.abra-inc.com
+0.0.0.0 repair-aki.com
 0.0.0.0 rerenty.com
 0.0.0.0 rescue-suido.com
 0.0.0.0 research-panel.jp
@@ -3111,6 +3115,7 @@
 0.0.0.0 sb.nice-news.net
 0.0.0.0 sb.sukkiri-life.com
 0.0.0.0 sb.toaruhi-shop.com
+0.0.0.0 sb.tochirac.com
 0.0.0.0 sb.trend-news.info
 0.0.0.0 sb1.genpeiseiyaku.com
 0.0.0.0 sb2.juku.st
@@ -3126,6 +3131,7 @@
 0.0.0.0 screen-spe-introduction.com
 0.0.0.0 sdgs-kuchikomi-lodge.jp
 0.0.0.0 sdgs-print.site
+0.0.0.0 sdksys.com
 0.0.0.0 sdream.rs
 0.0.0.0 sdt.inc
 0.0.0.0 sealm.jp
@@ -3338,6 +3344,7 @@
 0.0.0.0 smart-supply.org
 0.0.0.0 smart.kusunoki-office.com
 0.0.0.0 smartcool-rinku.shop
+0.0.0.0 smartcool-shingu.shop
 0.0.0.0 smarthome-100.co.jp
 0.0.0.0 smarthr.jp
 0.0.0.0 smartmeal.co.jp
@@ -4119,6 +4126,7 @@
 0.0.0.0 www.albase.skin
 0.0.0.0 www.alconix.com
 0.0.0.0 www.alfalaval.com
+0.0.0.0 www.alfin.co.jp
 0.0.0.0 www.allaroundmobilehomeservice.com
 0.0.0.0 www.alldatasheet.com
 0.0.0.0 www.allergy-i.jp
@@ -4849,6 +4857,7 @@
 0.0.0.0 www.grandsoleil.co.jp
 0.0.0.0 www.green-management-japan.com
 0.0.0.0 www.greenelephantco.com
+0.0.0.0 www.greenmarketing-lab.com
 0.0.0.0 www.greenynbio.com
 0.0.0.0 www.gregory.jp
 0.0.0.0 www.gressive.jp
@@ -6330,6 +6339,7 @@
 0.0.0.0 www.takiishi.co.jp
 0.0.0.0 www.takinogawa.ed.jp
 0.0.0.0 www.takumipress.jp
+0.0.0.0 www.takusa.jp
 0.0.0.0 www.tamurohonmaru.com
 0.0.0.0 www.tanaka-denki.co.jp
 0.0.0.0 www.tanakadent.com
