@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 23 August 2025
+# Last modified: 24 August 2025
 #
 
 # [広告全般]
@@ -2757,6 +2757,7 @@
 0.0.0.0 polywink.com
 0.0.0.0 pomeranian.breeders.jp
 0.0.0.0 ponpokotei-kitaumedaten.owst.jp
+0.0.0.0 pontotyokushiemon.owst.jp
 0.0.0.0 poodle.breeders.jp
 0.0.0.0 portal.bizrisk.iij.jp
 0.0.0.0 portal.jamp.jiji.com
@@ -3666,6 +3667,7 @@
 0.0.0.0 tetra.jp
 0.0.0.0 tettirilaboshonai.owst.jp
 0.0.0.0 tgp-koumutenn.com
+0.0.0.0 thalihouse.owst.jp
 0.0.0.0 the-japanese-spirit.com
 0.0.0.0 the-knitbar.com
 0.0.0.0 the-law-office.jp
