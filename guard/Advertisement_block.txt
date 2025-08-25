@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 24 August 2025
+# Last modified: 25 August 2025
 #
 
 # [広告全般]
@@ -801,6 +801,7 @@
 0.0.0.0 dsp.logly.co.jp
 0.0.0.0 dstarcustoms.com
 0.0.0.0 ducca-sendai.com
+0.0.0.0 duckhook.jp
 0.0.0.0 duskin-cashlesscp.com
 0.0.0.0 duskin-sm-business.com
 0.0.0.0 dusttry-eigyou.studio.site
@@ -1936,6 +1937,7 @@
 0.0.0.0 kyotomk-recruit.jp
 0.0.0.0 kyotoseika-nara-shaken.com
 0.0.0.0 kyowa-jyutaku.com
+0.0.0.0 kyowajpn.co.jp
 0.0.0.0 kyudaigakken-realestate.com
 0.0.0.0 l-housing.net
 0.0.0.0 l-tike.com
@@ -2339,6 +2341,7 @@
 0.0.0.0 mugla.goturkiye.com
 0.0.0.0 multi-water.com
 0.0.0.0 multilingual.uttori-amemura.com
+0.0.0.0 multilingualcasting.com
 0.0.0.0 munimuni.owst.jp
 0.0.0.0 muqbel.jp
 0.0.0.0 musashi-kikaiyuso.com
@@ -2379,6 +2382,7 @@
 0.0.0.0 naia-astena.jp
 0.0.0.0 naisen.jp
 0.0.0.0 naiteikun-corp.com
+0.0.0.0 naka-adn.info
 0.0.0.0 naka4.com
 0.0.0.0 nakafuji.owst.jp
 0.0.0.0 nakagawa-mishin.com
@@ -2458,6 +2462,7 @@
 0.0.0.0 nijigennomori.com
 0.0.0.0 nijumaru-h.owst.jp
 0.0.0.0 nikko-nerima-recruit.com
+0.0.0.0 nikkocoffee.thebase.in
 0.0.0.0 nikubarmuu.com
 0.0.0.0 nikudokoro-mo-shabutantan.owst.jp
 0.0.0.0 nikudokorodebeso.owst.jp
@@ -2794,6 +2799,7 @@
 0.0.0.0 prive.co.jp
 0.0.0.0 pro.gnavi.co.jp
 0.0.0.0 proaceworks.com
+0.0.0.0 procomer.com
 0.0.0.0 product-glow.site
 0.0.0.0 product.kadokawa.co.jp
 0.0.0.0 product.minebeamitsumi.com
@@ -5041,6 +5047,7 @@
 0.0.0.0 www.ikea.com
 0.0.0.0 www.ikebukuro-higashi.com
 0.0.0.0 www.ikehikoshop.jp
+0.0.0.0 www.ikotu.org
 0.0.0.0 www.imamu.co.jp
 0.0.0.0 www.imokin.jp
 0.0.0.0 www.imported-piano.jp
@@ -5234,6 +5241,7 @@
 0.0.0.0 www.kankyo.metro.tokyo.lg.jp
 0.0.0.0 www.kano-kensetsu.com
 0.0.0.0 www.kansai-td.co.jp
+0.0.0.0 www.kansai.bluebox.co.jp
 0.0.0.0 www.kanzaipro.com
 0.0.0.0 www.kao.co.jp
 0.0.0.0 www.kaptax.jp
@@ -6445,6 +6453,7 @@
 0.0.0.0 www.tomei-riso.jp
 0.0.0.0 www.tomesode-myselect.com
 0.0.0.0 www.tomiya.co.jp
+0.0.0.0 www.tomohome.jp
 0.0.0.0 www.tomsawyer-club.jp
 0.0.0.0 www.tomshuppan.co.jp
 0.0.0.0 www.toolmarq.com
