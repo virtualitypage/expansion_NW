@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 25 August 2025
+# Last modified: 26 August 2025
 #
 
 # [広告全般]
@@ -687,6 +687,7 @@
 0.0.0.0 d-shinkou.com
 0.0.0.0 d-starjob.com
 0.0.0.0 dachs.breeders.jp
+0.0.0.0 dag.thebase.in
 0.0.0.0 daiei-corporation.com
 0.0.0.0 daiko-service.co.jp
 0.0.0.0 daikuma.owst.jp
@@ -694,6 +695,7 @@
 0.0.0.0 daishoren.org
 0.0.0.0 danball-hompo.com
 0.0.0.0 dancyu.jp
+0.0.0.0 dannmired.owst.jp
 0.0.0.0 danshin-smile.cardif.co.jp
 0.0.0.0 daran-eyebeauty.com
 0.0.0.0 darts-strix.owst.jp
@@ -1264,6 +1266,7 @@
 0.0.0.0 hc.kowa.co.jp
 0.0.0.0 hc.kyodoprinting.co.jp
 0.0.0.0 hc.mt-pharma.co.jp
+0.0.0.0 health-beauty.jp
 0.0.0.0 health-trends.net
 0.0.0.0 healthcarelife.info
 0.0.0.0 heart-gifting.com
@@ -1400,6 +1403,7 @@
 0.0.0.0 ichigen.shop
 0.0.0.0 ichikawa-wt.co.jp
 0.0.0.0 ichinomon.jp
+0.0.0.0 ichirino.jp
 0.0.0.0 ichirobe.kyoto.jp
 0.0.0.0 ichoice-coop.com
 0.0.0.0 ict-miraiz.com
@@ -1918,6 +1922,7 @@
 0.0.0.0 kutsurogiya.owst.jp
 0.0.0.0 kuwanagareed.theshop.jp
 0.0.0.0 kuzira-mizu.com
+0.0.0.0 kyo-kurozakura.owst.jp
 0.0.0.0 kyodonewsprwire.jp
 0.0.0.0 kyoei-lp.com
 0.0.0.0 kyokamaboko.co.jp
@@ -2455,6 +2460,7 @@
 0.0.0.0 nigiriyakenta.owst.jp
 0.0.0.0 nihonjyuutaku.co.jp
 0.0.0.0 nihonkeizaishindoi.com
+0.0.0.0 nihonnryouri-haze.owst.jp
 0.0.0.0 nihonsyu47todofuken.owst.jp
 0.0.0.0 niigata-akiyasoudan.com
 0.0.0.0 niihama-coating.com
@@ -2478,6 +2484,7 @@
 0.0.0.0 nikuzushi-sennichimae.owst.jp
 0.0.0.0 nilaina-holidays.com
 0.0.0.0 nill.jp
+0.0.0.0 ninguumeda.owst.jp
 0.0.0.0 ningyou-nishioka.com
 0.0.0.0 ninja-takayama.com
 0.0.0.0 ninjakitchen.co.uk
@@ -2585,6 +2592,7 @@
 0.0.0.0 om-seishin.com
 0.0.0.0 omah.hp.peraichi.com
 0.0.0.0 omedeto.hp.peraichi.com
+0.0.0.0 omigyu.jp
 0.0.0.0 omise-ningyo.com
 0.0.0.0 omotena.jp
 0.0.0.0 omotenashi13.owst.jp
@@ -2709,6 +2717,7 @@
 0.0.0.0 pcnext.shop
 0.0.0.0 pcrepair-chiba.com
 0.0.0.0 pct-law.jp
+0.0.0.0 peace-sekkotsu.com
 0.0.0.0 pengguin.thebase.in
 0.0.0.0 penguin-spice.store
 0.0.0.0 pengy-magic.penguin-colony.net
@@ -4009,6 +4018,7 @@
 0.0.0.0 wod.wowow.co.jp
 0.0.0.0 woman-lifecp.metro.tokyo.lg.jp
 0.0.0.0 woman.chintai
+0.0.0.0 wonderf.jp
 0.0.0.0 wood-u.co.jp
 0.0.0.0 wood-yan.com
 0.0.0.0 wood.co.jp
@@ -4615,6 +4625,7 @@
 0.0.0.0 www.e-mieux.co.jp
 0.0.0.0 www.e-ohada.jp
 0.0.0.0 www.e-sogi.com
+0.0.0.0 www.e-syodana.com
 0.0.0.0 www.e-tix.jp
 0.0.0.0 www.e-ty.co.jp
 0.0.0.0 www.e-use.net
@@ -6754,6 +6765,7 @@
 0.0.0.0 yakiniku-hidaka-syouten-tenma.owst.jp
 0.0.0.0 yakiniku-ichigyu.owst.jp
 0.0.0.0 yakiniku-ittogyu.owst.jp
+0.0.0.0 yakiniku-maruman-sannomiya.owst.jp
 0.0.0.0 yakiniku-ninjin-nishikawaguchi.owst.jp
 0.0.0.0 yakiniku-royal.com
 0.0.0.0 yakiniku-sanku.owst.jp
