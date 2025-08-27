@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 26 August 2025
+# Last modified: 27 August 2025
 #
 
 # [広告全般]
@@ -1761,6 +1761,7 @@
 0.0.0.0 keishuku-reha.com
 0.0.0.0 kemuriki-jyuso.owst.jp
 0.0.0.0 kenjin-recruit.info
+0.0.0.0 kenko.sawai.co.jp
 0.0.0.0 kenkoudo.darm.co.jp
 0.0.0.0 kenminforum-aomori.com
 0.0.0.0 kens-smile.com
@@ -2078,6 +2079,7 @@
 0.0.0.0 luzfragrance.com
 0.0.0.0 m-ihinseiri.jp
 0.0.0.0 m-ikimonogatari.com
+0.0.0.0 m-o-d-en.owst.jp
 0.0.0.0 m.blog.naver.com
 0.0.0.0 m.bullang.jp
 0.0.0.0 m.chitetsu.co.jp
@@ -2190,6 +2192,7 @@
 0.0.0.0 mcafeepromo.jp
 0.0.0.0 mcl.sbk.jp
 0.0.0.0 mcs-ainoie.com
+0.0.0.0 me-kikki.com
 0.0.0.0 mecha-tok.com
 0.0.0.0 mechacomic.jp
 0.0.0.0 med-english.net
@@ -2436,6 +2439,7 @@
 0.0.0.0 new-tips.net
 0.0.0.0 new-tsurumatsu.com
 0.0.0.0 new.osakastationcity.com
+0.0.0.0 newcommunicator.jp
 0.0.0.0 newhouse.591.com.tw
 0.0.0.0 newing.kintetsu-re.co.jp
 0.0.0.0 news.chu.edu.tw
@@ -2473,6 +2477,7 @@
 0.0.0.0 nikudokoro-mo-shabutantan.owst.jp
 0.0.0.0 nikudokorodebeso.owst.jp
 0.0.0.0 nikumarusannnomiya.owst.jp
+0.0.0.0 nikumon.owst.jp
 0.0.0.0 nikunoikezawa.shop-pro.jp
 0.0.0.0 nikunoirie.owst.jp
 0.0.0.0 nikunotajimatsuhan.com
@@ -4580,6 +4585,7 @@
 0.0.0.0 www.diningmaison.jp
 0.0.0.0 www.dinosaur.pref.fukui.jp
 0.0.0.0 www.discoverhongkong.com
+0.0.0.0 www.disctech.co.jp
 0.0.0.0 www.diynaisou.net
 0.0.0.0 www.dlsite.com
 0.0.0.0 www.dlsyoukai.com
@@ -5710,6 +5716,7 @@
 0.0.0.0 www.nipponkaigishitsu.com
 0.0.0.0 www.nipponmanpower.co.jp
 0.0.0.0 www.nipponpaint.com.hk
+0.0.0.0 www.nipron.co.jp
 0.0.0.0 www.nireco.jp
 0.0.0.0 www.nirvanastone.jp
 0.0.0.0 www.nishikawa1566.com
