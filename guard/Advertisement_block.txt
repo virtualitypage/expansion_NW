@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 27 August 2025
+# Last modified: 28 August 2025
 #
 
 # [広告全般]
@@ -1082,6 +1082,7 @@
 0.0.0.0 gendai.media
 0.0.0.0 genkian-store.com
 0.0.0.0 gentosha-go.com
+0.0.0.0 gentyan.owst.jp
 0.0.0.0 geo.8984.jp
 0.0.0.0 gero-present.com
 0.0.0.0 getnews.jp
@@ -3246,6 +3247,7 @@
 0.0.0.0 shimanomi.com
 0.0.0.0 shimotsuke-pr.jp
 0.0.0.0 shimotsumastyle.jp
+0.0.0.0 shin-seitai.jp
 0.0.0.0 shinagawa-skin.com
 0.0.0.0 shinchiku.homes.co.jp
 0.0.0.0 shingakunet.com
@@ -3901,6 +3903,7 @@
 0.0.0.0 urbanlife.co.jp
 0.0.0.0 ureru-it.co.jp
 0.0.0.0 uridoki.net
+0.0.0.0 urigoro-honpo.com
 0.0.0.0 urikko.com
 0.0.0.0 urutsuya.toabio.co.jp
 0.0.0.0 usa-hit.com
@@ -4059,6 +4062,7 @@
 0.0.0.0 www.29hirayama.com
 0.0.0.0 www.2ndstreet.jp
 0.0.0.0 www.303select.com
+0.0.0.0 www.308-al.co.jp
 0.0.0.0 www.34insatsu.com
 0.0.0.0 www.38-8931.com
 0.0.0.0 www.384.co.jp
@@ -5394,6 +5398,7 @@
 0.0.0.0 www.kyosai-cc.or.jp
 0.0.0.0 www.kyosyoku.com
 0.0.0.0 www.kyoto-aquarium.com
+0.0.0.0 www.kyotobank.co.jp
 0.0.0.0 www.kyousei-shika.net
 0.0.0.0 www.kyukaru.com
 0.0.0.0 www.kyusanko.co.jp
@@ -5541,6 +5546,7 @@
 0.0.0.0 www.metlife.co.jp
 0.0.0.0 www.metroopinion.com
 0.0.0.0 www.mewa.gov.sa
+0.0.0.0 www.mfis.pref.osaka.jp
 0.0.0.0 www.mghome.co.jp
 0.0.0.0 www.mhlw.go.jp
 0.0.0.0 www.mi-nagi.co.jp
