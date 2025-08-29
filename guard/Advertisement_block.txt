@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 28 August 2025
+# Last modified: 29 August 2025
 #
 
 # [広告全般]
@@ -2045,6 +2045,7 @@
 0.0.0.0 lp.kaitekikobo.jp
 0.0.0.0 lp.kaitori-daikichi.jp
 0.0.0.0 lp.kanna4u.com
+0.0.0.0 lp.kikisake-shi.jp
 0.0.0.0 lp.leadpad.io
 0.0.0.0 lp.litalico-works.jp
 0.0.0.0 lp.mediacloudtech.com
@@ -4857,6 +4858,7 @@
 0.0.0.0 www.gmobile.biz
 0.0.0.0 www.go-etc.jp
 0.0.0.0 www.goallpayx.com
+0.0.0.0 www.goboard-stone.co.jp
 0.0.0.0 www.goda-j.co.jp
 0.0.0.0 www.gofuku-kaitori.com
 0.0.0.0 www.gokuraku-agura.com
