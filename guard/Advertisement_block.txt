@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 29 August 2025
+# Last modified: 30 August 2025
 #
 
 # [広告全般]
@@ -2288,6 +2288,7 @@
 0.0.0.0 mishima-minase.com
 0.0.0.0 mishimakagu.com
 0.0.0.0 misignal.jp
+0.0.0.0 misoyanobabasan.shop-pro.jp
 0.0.0.0 mito-chuoh.com
 0.0.0.0 mitsuboshifarm.jp
 0.0.0.0 mitsui-art.com
@@ -4342,6 +4343,7 @@
 0.0.0.0 www.bmw-motorrad.co.uk
 0.0.0.0 www.boatrace-amagasaki.jp
 0.0.0.0 www.boatrace-sp.com
+0.0.0.0 www.boatrace-suminoe.jp
 0.0.0.0 www.bodyfit-mpn.com
 0.0.0.0 www.bond-street.jp
 0.0.0.0 www.bondjewelry.net
@@ -6774,6 +6776,7 @@
 0.0.0.0 yadorigilab.com
 0.0.0.0 yaeyama-rentacar.com
 0.0.0.0 yaichi.co
+0.0.0.0 yakiniku-arata-kyoto.owst.jp
 0.0.0.0 yakiniku-fc.com
 0.0.0.0 yakiniku-guts-hanare.jp
 0.0.0.0 yakiniku-gyusuien.owst.jp
