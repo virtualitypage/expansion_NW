@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Reject_domain.txt
 #
-# Last modified: 20 July 2025
+# Last modified: 31 August 2025
 #
 
 # [拒否リクエスト]
@@ -74,7 +74,6 @@
 0.0.0.0 am.moduleapps.com
 0.0.0.0 am.moduleapps.com.lan
 0.0.0.0 am.yahoo.co.jp
-0.0.0.0 analytics-h5.rayjump.com
 0.0.0.0 analytics-tcp.mtgglobals.com
 0.0.0.0 analytics.adjust.com
 0.0.0.0 analytics.adjust.net.in
@@ -82,7 +81,6 @@
 0.0.0.0 analytics.app-adforce.jp
 0.0.0.0 analytics.gamezen.org
 0.0.0.0 analytics.google.com
-0.0.0.0 analytics.rayjump.com
 0.0.0.0 ape-androids.isappcloud.com
 0.0.0.0 ape-androids.isappcloud.com.lan
 0.0.0.0 api-events.eventstracker.io
@@ -161,6 +159,7 @@
 0.0.0.0 bidcontext-us.bidmachine.io
 0.0.0.0 bm.moduleapps.com
 0.0.0.0 booster.reproio.com
+0.0.0.0 bs.karte.io
 0.0.0.0 bs.nakanohito.jp
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com.lan
@@ -182,6 +181,7 @@
 0.0.0.0 cdn-adn-https-new.mtgglobals.com.lan
 0.0.0.0 cdn-adn-https.mtgglobals.com
 0.0.0.0 cdn-adn-https.mtgglobals.com.lan
+0.0.0.0 cdn-blocks.karte.io
 0.0.0.0 cdn-creatives.adikteev.com
 0.0.0.0 cdn-f.adsmoloco.com
 0.0.0.0 cdn-logly-co-jp.cdn.ampproject.org
@@ -210,10 +210,8 @@
 0.0.0.0 cf-images.ap-northeast-1.prod.boltdns.net
 0.0.0.0 cf.im-apps.net
 0.0.0.0 check-tcp.mtgglobals.com
-0.0.0.0 check-tcp.rayjump.com
 0.0.0.0 check-tcp.rayjump.com.lan
 0.0.0.0 checkout-api.worldshopping.jp
-0.0.0.0 chet.rayjump.com
 0.0.0.0 cip.ust-adc.com
 0.0.0.0 cksync.yahoo.co.jp
 0.0.0.0 classify-app-sg.allawnos.com
@@ -233,11 +231,9 @@
 0.0.0.0 configure-tcp-android.mtgglobals.com.lan
 0.0.0.0 configure-tcp-ios.mtgglobals.com
 0.0.0.0 configure-tcp.mtgglobals.com
-0.0.0.0 configure-tcp.rayjump.com
 0.0.0.0 configure-tcp.rayjump.com.lan
 0.0.0.0 configure.mtgglobals.com
 0.0.0.0 configure.mtgglobals.com.lan
-0.0.0.0 configure.rayjump.com
 0.0.0.0 conn-service-us-04.allawnos.com
 0.0.0.0 conn-service-us-04.allawnos.com.lan
 0.0.0.0 conn-service-us-05.allawnos.com
@@ -246,6 +242,7 @@
 0.0.0.0 consent-api.service.consent.usercentrics.eu
 0.0.0.0 consent.adjust.com
 0.0.0.0 consent.adjust.io
+0.0.0.0 consent.adjust.net.in
 0.0.0.0 content.cdn.personaly.bid
 0.0.0.0 control.smbeat.jp
 0.0.0.0 control.smbeat.jp.lan
@@ -338,6 +335,7 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net.lan
 0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net.lan
 0.0.0.0 graphql.usercentrics.eu
 0.0.0.0 grp15-ias-rakuten-co-jp.rdcnw.net.akadns.net
 0.0.0.0 gsspat.jp.lan
@@ -365,6 +363,7 @@
 0.0.0.0 im.c.yimg.jp.lan
 0.0.0.0 images.microcms-assets.io
 0.0.0.0 imasdk.googleapis.com
+0.0.0.0 img-cf.karte.io
 0.0.0.0 img-proxy.ca-conv.jp
 0.0.0.0 img-vcdn.gjhyss.com
 0.0.0.0 img.alicdn.com
@@ -418,7 +417,6 @@
 0.0.0.0 l.logly.co.jp.lan
 0.0.0.0 lax1-ib.adnxs.com
 0.0.0.0 lazy-tcp.mtgglobals.com
-0.0.0.0 lazy-tcp.rayjump.com
 0.0.0.0 lazy-tcp.rayjump.com.lan
 0.0.0.0 lf-cdn.coze.cn
 0.0.0.0 log.mmstat.com
@@ -432,6 +430,7 @@
 0.0.0.0 ma2file.moduleapps.com
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 mads.amazon-adsystem.com.lan
+0.0.0.0 masspush-cdn.karte.io
 0.0.0.0 match.adsrvr.org
 0.0.0.0 match.adsrvr.org.lan
 0.0.0.0 materials.admaster.cc
@@ -455,13 +454,13 @@
 0.0.0.0 mtg-native.mtgglobals.com
 0.0.0.0 mtrack.mtgglobals.com
 0.0.0.0 nam.veta.naver.com
+0.0.0.0 nam.veta.naver.com.lan
 0.0.0.0 nelo2-col.navercorp.com
 0.0.0.0 nelo2-col.navercorp.com.lan
 0.0.0.0 net-sg-gcp-cdn.mtgglobals.com
 0.0.0.0 net-sg.mtgglobals.com
 0.0.0.0 net-vg-cdn.mtgglobals.com
 0.0.0.0 net-vg.mtgglobals.com
-0.0.0.0 net.rayjump.com
 0.0.0.0 netdna.bootstrapcdn.com
 0.0.0.0 newplayable.mintegral.com
 0.0.0.0 nl-gcp-ad-track-sdk-europe-west4-b.mtgglobals.com
@@ -489,13 +488,11 @@
 0.0.0.0 pixel.everesttech.net
 0.0.0.0 pl-point.mtgglobals.com
 0.0.0.0 play.mtgglobals.com
-0.0.0.0 play.rayjump.com
 0.0.0.0 playable-stats.mindworks-creative.com
 0.0.0.0 playable.mintegral.com.lan
 0.0.0.0 pm.yahoo.co.jp
 0.0.0.0 pm.yahoo.jp
 0.0.0.0 policy-tcp.mtgglobals.com
-0.0.0.0 policy-tcp.rayjump.com
 0.0.0.0 policy-tcp.rayjump.com.lan
 0.0.0.0 poplink-f.probo.biz
 0.0.0.0 pp3-sdkdata-v2-ut.profilepassport.jp
@@ -561,10 +558,6 @@
 0.0.0.0 sg-ali-ad-track-sdk.mtgglobals.com
 0.0.0.0 sg-allmusic-api-adv.allsaints.tv
 0.0.0.0 sg-event.personaly.bid
-0.0.0.0 sg-gcp-ad-track-adx-asia-southeast1-a.rayjump.com
-0.0.0.0 sg-gcp-ad-track-adx-asia-southeast1-b.rayjump.com
-0.0.0.0 sg-gcp-adx-asia-southeast1-a-ssp-tk.rayjump.com
-0.0.0.0 sg-gcp-adx-asia-southeast1-b-ssp-tk.rayjump.com
 0.0.0.0 sg-new-ssplib-hb.mtgglobals.com
 0.0.0.0 sg-new-ssplib-hb.mtgglobals.com.lan
 0.0.0.0 sg-setting-tcp.mtgglobals.com
@@ -612,6 +605,7 @@
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 static.doubleclick.net
+0.0.0.0 static.doubleclick.net.lan
 0.0.0.0 static.jampp.com
 0.0.0.0 static.karte.io
 0.0.0.0 stats.g.doubleclick.net
@@ -644,7 +638,6 @@
 0.0.0.0 timecheck.moduleapps.com.lan
 0.0.0.0 timedomaintech.datasink.sensorsdata.cn
 0.0.0.0 tivan.naver.com
-0.0.0.0 tknet.rayjump.com
 0.0.0.0 torimochi.line-apps.com
 0.0.0.0 tp.adx.opera.com
 0.0.0.0 tr.acobt.tech
@@ -679,10 +672,8 @@
 0.0.0.0 vc-brain.ndcpp-os.com
 0.0.0.0 vc-mirror.ndcpp-os.com
 0.0.0.0 vfw.amazon-adsystem.com
-0.0.0.0 vg-adx-bid-feedback.rayjump.com
-0.0.0.0 vg-adx-ssp-tk.rayjump.com
+0.0.0.0 vfw.amazon-adsystem.com.lan
 0.0.0.0 vg-ali-ad-track-sdk.mtgglobals.com
-0.0.0.0 vg-ali-mtgtracking-adx-k8s.rayjump.com
 0.0.0.0 vg-aws-ad-track-sdk-us-east-1a.mtgglobals.com
 0.0.0.0 vg-aws-ad-track-sdk-us-east-1b.mtgglobals.com
 0.0.0.0 vg-aws-cdn-ssplib-us-east-1a-hb.mtgglobals.com
@@ -1180,7 +1171,16 @@
 0.0.0.0 cdn-settings.appsflyersdk.com
 0.0.0.0 cdn-settings.appsflyersdk.com.lan
 0.0.0.0 cdn.appsflyer.com
+0.0.0.0 conversions.appsflyer.com
 0.0.0.0 conversions.appsflyersdk.com
+0.0.0.0 duqggm.attr.appsflyersdk.com
+0.0.0.0 duqggm.conversions.appsflyersdk.com
+0.0.0.0 duqggm.dlsdk.appsflyersdk.com
+0.0.0.0 duqggm.gcdsdk.appsflyersdk.com
+0.0.0.0 duqggm.inapps.appsflyersdk.com
+0.0.0.0 duqggm.launches.appsflyersdk.com
+0.0.0.0 duqggm.pia.appsflyersdk.com
+0.0.0.0 duqggm.register.appsflyersdk.com
 0.0.0.0 engagements.appsflyer.com
 0.0.0.0 engagements.appsflyer.com.lan
 0.0.0.0 evmapr-gcdsdk.appsflyersdk.com
@@ -1198,9 +1198,11 @@
 0.0.0.0 launches.appsflyersdk.com.lan
 0.0.0.0 luakl2-adrevenue.appsflyersdk.com
 0.0.0.0 luakl2-impression.appsflyersdk.com
+0.0.0.0 orspid-adrevenue.appsflyersdk.com
 0.0.0.0 privacy-sandbox.appsflyersdk.com
 0.0.0.0 qbhozv-gcdsdk.appsflyersdk.com
 0.0.0.0 qkjbfq-gcdsdk.appsflyersdk.com
+0.0.0.0 register.appsflyer.com
 0.0.0.0 statgw.devtodev.com.lan
 0.0.0.0 tys9m3-dlsdk.appsflyersdk.com
 0.0.0.0 upj2lp-pia.appsflyersdk.com
@@ -1250,6 +1252,8 @@
 /v[0-9]*-ad.byteoversea.com/
 /vas-alisg[0-9]*.byteoversea.com/
 0.0.0.0 api.service.kix1a.g.byteoversea.net
+0.0.0.0 api16-access-ttp.tiktokpangle-b.us.lan
+0.0.0.0 api16-access-wf-sg.pangle.io.lan
 0.0.0.0 api39-sg.gts.byteoversea.net
 0.0.0.0 api39-va.gts.byteoversea.net
 0.0.0.0 api39.gtm.byteoversea.net
@@ -1264,6 +1268,7 @@
 0.0.0.0 lf19-effectcdn.byteeffecttos-g.com
 0.0.0.0 log.byteoversea.com
 0.0.0.0 log.byteoversea.com.lan
+0.0.0.0 mediation-sg2-log.pangle.io
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon-va.byteoversea.com.ttdns2.com
 0.0.0.0 mssdk-sg.byteoversea.com
@@ -1303,6 +1308,7 @@
 0.0.0.0 grs.platform.dbankcloud.ru
 0.0.0.0 grs.platform.dbankcloud.ru.lan
 0.0.0.0 h5hosting.dbankcdn.com
+0.0.0.0 h5hosting.dbankcdn.com.lan
 0.0.0.0 map-dra.platform.dbankcloud.cn
 0.0.0.0 map-dra.platform.dbankcloud.com
 0.0.0.0 openlocation-dra.platform.dbankcloud.com
@@ -1316,6 +1322,7 @@
 0.0.0.0 tsms-dra.security.dbankcloud.cn.lan
 0.0.0.0 tsms-dra.security.dbankcloud.com
 0.0.0.0 videocontent-dra.himovie.dbankcloud.com
+0.0.0.0 videocontent-dra.himovie.dbankcloud.com.lan
 0.0.0.0 weather-dre.weather.dbankcloud.com
 0.0.0.0 weather-dre.weather.dbankcloud.com.lan
 
@@ -1386,6 +1393,7 @@
 
 # [inmobi (モバイル広告プラットフォーム)]
 0.0.0.0 ac.onedsp.inmobi.com
+0.0.0.0 ac.onedsp.inmobi.com.lan
 0.0.0.0 acj.onedsp.inmobi.com
 0.0.0.0 adq.w.inmobi.com
 0.0.0.0 api.cmp.inmobi.com
@@ -1420,6 +1428,7 @@
 0.0.0.0 i.l-dsp.inmobicdn.net
 0.0.0.0 i.l-new.inmobicdn.net
 0.0.0.0 i.l-uac.inmobicdn.net
+0.0.0.0 i.l-uac.inmobicdn.net.lan
 0.0.0.0 i.l.inmobicdn.net
 0.0.0.0 i.l.inmobicdn.net.lan
 0.0.0.0 ic.de.inmobi.com
@@ -1496,6 +1505,7 @@
 0.0.0.0 api16-log-sg2.pangle.io.lan
 0.0.0.0 ether-pack-sg.pangle.io
 0.0.0.0 lf-static.tiktokpangle-cdn-us.com
+0.0.0.0 mediation-sg.pangle.io.lan
 0.0.0.0 mediation.pangle.io
 0.0.0.0 ssdk-sg.pangle.io
 0.0.0.0 ssdk-sg.pangle.io.lan
@@ -1515,6 +1525,7 @@
 /path[1-9].xtracloud.net.lan/
 /path[1-9].xtracloud.net/
 0.0.0.0 qcc.qualcomm.com
+0.0.0.0 qcc.qualcomm.com.lan
 0.0.0.0 time.xtracloud.net
 
 # [tiktok (mobile analytics and spyware, other)]
@@ -1542,6 +1553,7 @@
 /oec[0-9]*-normal-alisg.tiktokv.com/
 /p[0-9]*-amd-va.tiktokcdn.com/
 /p[0-9]*-h1-sign-sg.ibyteimg.com/
+/p[0-9]*-heycan-img-sign-sg.ibyteimg.com/
 /p[0-9]*-sg.tiktokcdn.com.lan/
 /p[0-9]*-sg.tiktokcdn.com/
 /p[0-9]*-sign-va.tiktokcdn.com/
@@ -1578,6 +1590,7 @@
 /sf[0-9]*-ies-music-sg.tiktokcdn.com/
 /sf[0-9]*-ies-music-va.tiktokcdn.com/
 /sf[0-9]*-sg.tiktokcdn.com/
+/sf[0-9]*-teko.tiktokcdn.com.lan/
 /sf[0-9]*-va.tiktokcdn.com/
 /sf[0-9]*-webcast.tiktokcdn.com/
 /tnc[0-9]*-normal-useast1a.tiktokv.com.lan/
@@ -1685,6 +1698,7 @@
 0.0.0.0 sf-tk-sg.ibytedtos.com.lan
 0.0.0.0 sf16-muse-va.ibytedtos.com
 0.0.0.0 sf16-muse-va.ibytedtos.com.bytegeo.akadns.net
+0.0.0.0 sf16-muse-va.ibytedtos.com.lan
 0.0.0.0 sf16-passport-sg.ibytedtos.com
 0.0.0.0 sf16-passport-va.ibytedtos.com
 0.0.0.0 sf16-scmcdn-sg.ibytedtos.com
@@ -1780,12 +1794,14 @@
 0.0.0.0 app.chat.global.xiaomi.net.lan
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 browser.cdn.intl.miui.com
+0.0.0.0 cdn-exp-sg-recommend.pt.xiaomi.com
 0.0.0.0 cdn-file.hyperos.mi.com
 0.0.0.0 cdn-font.hyperos.mi.com
 0.0.0.0 cdn.awsusor1.fds.api.mi-img.com
 0.0.0.0 cdn.cnbj1.fds.api.mi-img.com
 0.0.0.0 cdn.exp.xiaomi.com
 0.0.0.0 connect.intl.rom.miui.com
+0.0.0.0 connect.intl.rom.miui.com.lan
 0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 find.api.micloud.xiaomi.net.lan
 0.0.0.0 findapi.micloud.xiaomi.net
@@ -1804,6 +1820,7 @@
 0.0.0.0 pi.ias.xiaomi.com
 0.0.0.0 privacy.api.intl.miui.com
 0.0.0.0 resolver.msg.global.xiaomi.net
+0.0.0.0 resolver.msg.global.xiaomi.net.lan
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com.lan
 0.0.0.0 sdkconfig.intl.xiaomi.com
@@ -1864,6 +1881,7 @@
 0.0.0.0 bid.dr.socdm.com
 0.0.0.0 bid.socdm.com
 0.0.0.0 bidder.criteo.com
+0.0.0.0 bidder.criteo.com.lan
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 cat.jp2.as.criteo.com
 0.0.0.0 cat.sg1.as.criteo.com

@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Accept_domain.txt
 #
-# Last modified: 20 July 2025
+# Last modified: 31 August 2025
 #
 
 # [許可リクエスト]
@@ -108,11 +108,9 @@
 @@||assistant.google.com
 @@||astat.nikkei.com
 @@||atmarkit.itmedia.co.jp
-@@||attachment.fbsbx.com
 @@||auth.cid.capcom.com
 @@||auth.ff.avast.com
 @@||azurefd-t-prod.trafficmanager.net
-@@||b-www.facebook.com
 @@||b.hatena.ne.jp
 @@||b.ranking.apis.sankei-digital.co.jp
 @@||bakmas.kairogame.jp
@@ -187,7 +185,6 @@
 @@||collector.github.com
 @@||config.mapbox.com
 @@||configserver.platform.hicloud.com
-@@||connect.facebook.net
 @@||connectivitycheck.gstatic.com
 @@||connectivitycheck.gstatic.com.lan
 @@||connectivitycheck.platform.hicloud.com
@@ -205,7 +202,6 @@
 @@||cp10.cloudflare.com
 @@||creative-hozon.com
 @@||creative.dsp.cartajp.com
-@@||creators.facebook.com
 @@||csi.gstatic.com
 @@||csi.gstatic.com.lan
 @@||csm.cxpublic.com
@@ -254,9 +250,6 @@
 @@||ext-api.paypay-card.co.jp
 @@||ext-miniapp.paypay-card.co.jp
 @@||ext-sap.paypay-card.co.jp
-@@||external.fitm2-2.fna.fbcdn.net
-@@||external.xx.fbcdn.net
-@@||facebook.com
 @@||fair-navi.com
 @@||fc.itmedia.co.jp
 @@||file.123chat.jp
@@ -334,10 +327,6 @@
 @@||imgsct.cookiebot.com
 @@||imgweb.with2.net
 @@||imp.pixiv.net
-@@||instagram.fdel1-4.fna.fbcdn.net
-@@||instagram.fdel11-2.fna.fbcdn.net
-@@||instagram.fitm2-2.fna.fbcdn.net
-@@||instagram.fsub15-1.fna.fbcdn.net
 @@||integration.virtusize.jp
 @@||ipinfo.io
 @@||ipmcdn.avast.com.lan
@@ -365,6 +354,7 @@
 @@||kochi-univ-med-hosp-api.devglow.net
 @@||kochiap.dmacs.jp
 @@||kochicdn.dmacs.jp
+@@||kumaxpower.kairogame.jp
 @@||kyujin.navitime.co.jp
 @@||l.threads.net
 @@||lb.wordpress.com
@@ -384,8 +374,6 @@
 @@||logging.devsisters.cloud
 @@||logging.prod.devsisters.cloud
 @@||login.wikimedia.org
-@@||lookaside.fbsbx.com
-@@||m.facebook.com
 @@||m.goodnovel.com
 @@||m1.nintendo.net
 @@||mail.google.com
@@ -415,7 +403,6 @@
 @@||mmp.getdropbox.com
 @@||mobile-webview.gmail.com
 @@||mobile.events.data.trafficmanager.net
-@@||mobile.facebook.com
 @@||mochimoji.jp
 @@||monorail-edge.shopifysvc.com
 @@||mp.smartnews.com
@@ -556,14 +543,6 @@
 @@||sb-ssl.google.com
 @@||sb.nordcdn.com
 @@||sc-static.net
-@@||scontent-bkk1-1.cdninstagram.com
-@@||scontent-cgk1-2.cdninstagram.com
-@@||scontent-itm1-1.cdninstagram.com.lan
-@@||scontent-itm1-1.scontent-ssn1-1.cdninstagram.com
-@@||scontent-itm1-1.xx.fbcdn.net
-@@||scontent-nrt1-1.cdninstagram.com
-@@||scontent-nrt1-2.cdninstagram.com
-@@||scontent-sin2-3.cdninstagram.com
 @@||screw.ttzgame.com
 @@||sdk.hellouniweb.com
 @@||sdk.rum.aliyuncs.com
@@ -619,7 +598,6 @@
 @@||static.media.cld.navitime.jp
 @@||static.newsapp.nhk.or.jp
 @@||static.paypay.ne.jp
-@@||static.xx.fbcdn.net
 @@||stats.wp.com
 @@||status.itmedia.co.jp
 @@||steampowered.com
@@ -676,14 +654,12 @@
 @@||vec-adm-rain.newsapp.nhk.or.jp
 @@||video-downloads.googleusercontent.com
 @@||video-ft.twimg.com
-@@||video-itm1-1.xx.fbcdn.net
 @@||video-s.twimg.com
 @@||video-t-1.twimg.com
 @@||video-t-2.twimg.com
 @@||video.kurashiru.com.lan
 @@||video.twimg.com
 @@||video.twimg.com.lan
-@@||video.xx.fbcdn.net
 @@||virtualcurrency.kairogame.jp
 @@||vod-tver-*.streaks.jp
 @@||voguecrew.net
@@ -694,8 +670,6 @@
 @@||wallet.yay.space
 @@||web-api.nordvpn.com
 @@||web-api.tapon.com
-@@||web.facebook.com
-@@||web.facebook.com.lan
 @@||websocket.paypay.ne.jp
 @@||widgets.twimg.com
 @@||widgets.twimg.com.lan
@@ -720,8 +694,6 @@
 @@||www.ekiten.jp
 @@||www.esupply.co.jp
 @@||www.expressvpn.com
-@@||www.facebook.com
-@@||www.facebook.com.lan
 @@||www.fujitv.co.jp
 @@||www.gl-inet.com
 @@||www.goodnovel.com
@@ -1192,6 +1164,7 @@
 @@||googleonebackup-pa.googleapis.com
 @@||growth-pa.googleapis.com
 @@||home-devices.googleapis.com
+@@||home.googleapis.com
 @@||homecloudcastsdk-pa.googleapis.com
 @@||homeplatformmesh-pa.googleapis.com
 @@||identitydevicegateway-pa.googleapis.com
@@ -1204,6 +1177,7 @@
 @@||instantmessaging-pa-jms-ap.googleapis.com
 @@||instantmessaging-pa-jms-us.googleapis.com
 @@||instantmessaging-pa.googleapis.com
+@@||iosantiabuse-pa.googleapis.com
 @@||jnn-pa.googleapis.com
 @@||kidsmanagement-pa.googleapis.com
 @@||kidsmanagement-pa.googleapis.com.lan
@@ -1236,6 +1210,7 @@
 @@||mt.googleapis.com
 @@||myphonenumbers-pa.googleapis.com
 @@||myphonenumbers-pa.googleapis.com.lan
+@@||nearbydevices-pa.googleapis.com
 @@||nearbysharing-pa.googleapis.com
 @@||notes-pa.googleapis.com
 @@||notifications-pa.googleapis.com
@@ -2042,3 +2017,32 @@
 @@||lb._dns-sd._udp.69.127.125.100.in-addr.arpa
 @@||lb._dns-sd._udp.79.169.230.10.in-addr.arpa
 @@||lb._dns-sd._udp.81.117.221.10.in-addr.arpa
+
+# [Meta Platforms, Inc.]
+@@/external.[a-z]*[0-9]-[0-9].fna.fbcdn.net/
+@@/instagram.[a-z]*[0-9]-[0-9].fna.fbcdn.net/
+@@/instagram.[a-z]*[0-9][0-9]-[0-9].fna.fbcdn.net/
+@@/scontent-[a-z]*[0-9]-[0-9].cdninstagram.com.lan/
+@@/scontent-[a-z]*[0-9]-[0-9].cdninstagram.com/
+@@/scontent-[a-z]*[0-9]-[0-9].scontent-[a-z]*[0-9]-[0-9].cdninstagram.com/
+@@/scontent-[a-z]*[0-9]-[0-9].xx.fbcdn.net/
+@@/sonar-[a-z]*[0-9]-[0-9].xx.fbcdn.net.lan/
+@@/sonar-[a-z]*[0-9]-[0-9].xx.fbcdn.net/
+@@/sonar6-[a-z]*[0-9]-[0-9].xx.fbcdn.net.lan/
+@@/sonar6-[a-z]*[0-9]-[0-9].xx.fbcdn.net/
+@@/video-[a-z]*[0-9]-[0-9].xx.fbcdn.net/
+@@||attachment.fbsbx.com
+@@||b-www.facebook.com
+@@||connect.facebook.net
+@@||creators.facebook.com
+@@||external.xx.fbcdn.net
+@@||facebook.com
+@@||lookaside.fbsbx.com
+@@||m.facebook.com
+@@||mobile.facebook.com
+@@||scontent.xx.fbcdn.net
+@@||static.xx.fbcdn.net
+@@||video.xx.fbcdn.net
+@@||web.facebook.com.lan
+@@||www.facebook.com
+@@||z-m-static.xx.fbcdn.net
