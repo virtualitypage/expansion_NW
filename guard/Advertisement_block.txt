@@ -4,7 +4,7 @@
 # References: none
 # definition: https://virtualitypage.github.io/expansion_NW/guard/Advertisement_block.txt
 #
-# Last modified: 30 August 2025
+# Last modified: 31 August 2025
 #
 
 # [広告全般]
@@ -1231,6 +1231,7 @@
 0.0.0.0 hanaiyoukei.com
 0.0.0.0 hanako-okonomiyaki.owst.jp
 0.0.0.0 hanawa-yoho.jp
+0.0.0.0 hanayuki-gori.com
 0.0.0.0 hanazakari-ekiminami.owst.jp
 0.0.0.0 hands.net
 0.0.0.0 haneda-shopping.jp
@@ -1601,6 +1602,7 @@
 0.0.0.0 jp.fujitsu.com
 0.0.0.0 jp.gauthmath.com
 0.0.0.0 jp.glocalme.com
+0.0.0.0 jp.golf.bridgestone
 0.0.0.0 jp.gorgonzola.com
 0.0.0.0 jp.indeed.com
 0.0.0.0 jp.jeinjena.com
@@ -1685,6 +1687,7 @@
 0.0.0.0 kaiyutei-gion.owst.jp
 0.0.0.0 kajima-kyoren.com
 0.0.0.0 kakidenhiroshima.owst.jp
+0.0.0.0 kakiku.owst.jp
 0.0.0.0 kakurega-izakaya-nomaie.owst.jp
 0.0.0.0 kakushelter.com
 0.0.0.0 kakuteishinkoku-zeirishi.jp
